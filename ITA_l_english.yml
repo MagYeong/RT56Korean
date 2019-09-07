@@ -37,26 +37,26 @@
 
  # Events
 
- r56_italy.1.t:0 "왕이 권좌에서 무솔리니를 몰아내다"
- r56_italy.1.d:0 "비토리오 에마누엘레 3세가 긴급회의를 열고, 무솔리니와 만나 사임을 요구했습니다. 왕은 막대한 부채와 15년간 집권함에도 불구하고 해결하지 못한 경제 문제, 그리고 에티오피아 정복운동으로 인한 금수조치등의 문제를 지적했습니다.\n\n왕권을 강화하려는 세력의 영향으로 무솔리니는 사임할수 밖에 없었습니다. 피에트로 바돌리오는 수상으로 임명되었고 그는 파시스트 정권과의 많은 연관점이 있음에도 불구하고 훨씬 온건한 인물로 비춰집니다.\n\n왕이 이탈리아의 체면을 살리려고 끊임없이 노력하는 것은 분명합니다."
+ r56_italy.1.t:0 "국왕이 권좌에서 무솔리니를 몰아내다"
+ r56_italy.1.d:0 "비토리오 에마누엘레 3세가 긴급회의를 열고, 무솔리니와 만나 사임을 요구했습니다. 국왕은 막대한 부채와 15년간 집권함에도 불구하고 해결하지 못한 경제 문제, 그리고 에티오피아 정복운동으로 인한 금수조치등의 문제를 지적했습니다.\n\n왕권을 강화하려는 세력의 영향으로 무솔리니는 사임할수 밖에 없었습니다. 피에트로 바돌리오는 수상으로 임명되었고 그는 파시스트 정권과의 많은 연관점이 있음에도 불구하고 훨씬 온건한 인물로 비춰집니다.\n\n국왕이 이탈리아의 체면을 살리려고 끊임없이 노력하는 것은 분명합니다."
  r56_italy.1.a:0 "이 상황이 나아지길 바라자"
 
  r56_italy.2.t:0 "에티오피아와의 휴전 협정"
- r56_italy.2.d:0 "바돌리오의 첫번째 목표중 하나는 에티오피아에서의 희생을 종식시키는 것이었습니다. 알프레도 코벨리 신임 외무장관은 양국간의 적대행위 중단을 위해 파견되었고, 평화협상을 진행할수 있었지만 많은 배상금을 지불하도록 강요받았습니다."
+ r56_italy.2.d:0 "바돌리오의 첫번째 목표중 하나는 에티오피아에서의 희생을 종식시키는 것이었습니다. 알프레도 코벨리 신임 외무장관은 양국간의 적대행위 중단을 위해 파견되었고, 평화협상을 진행할 수 있었지만 많은 배상금을 지불하도록 강요받았습니다."
  r56_italy.2.a:0 "영구적인 경제적 파탄보다 지금 회복해야 한다"
 
  r56_italy.3.t:0 "신내각"
- r56_italy.3.d:0 "수상 임명 며칠 뒤 피에트로 바돌리오는 여전히 파시스트들을 등용할 것을 주장했지만, 왕의 간섭으로 많은 인사들이 교체되었습니다. 그 결과 파시즘의 영향력은 줄어들었습니다."
+ r56_italy.3.d:0 "수상 임명 며칠 뒤 피에트로 바돌리오는 여전히 파시스트들을 등용할 것을 주장했지만, 국왕의 간섭으로 많은 인사들이 교체되었습니다. 그 결과 파시즘의 영향력은 줄어들었습니다."
  r56_italy.3.a:0 "새 술은 새 포대에"
 
  r56_italy.4.t:0 "조반니 메세의 제의"
- r56_italy.4.d:0 "피에트로 바돌리오 정부의 조반니 메세 소령, 제3기갑사단 사령관, 내무장관등은 다소 구체적인 제안을 하며 접근해 왔습니다. 바돌리오의 궁극적인 목표는 파시스트들을 권좌에서 몰아내는 것이었음이 메세에게는 분명했습니다.\n\n그리고 반대로 당의 주요 인사들을 제거하기 위하여 다른 단체들과 왕정주의자들을 기용할 것을 제안했습니다. 지도자들의 권한을 박탈하면 많은 피를 흘리지 않고도 파시즘을 제거할수 있을 것입니다."
+ r56_italy.4.d:0 "피에트로 바돌리오 정부의 조반니 메세 소령, 제3기갑사단 사령관, 내무장관등은 다소 구체적인 제안을 하며 접근해 왔습니다. 바돌리오의 궁극적인 목표는 파시스트들을 권좌에서 몰아내는 것이었음이 메세에게는 분명했습니다.\n\n그리고 반대로 당의 주요 인사들을 제거하기 위하여 다른 단체들과 군주주의자들을 기용할 것을 제안했습니다. 지도자들의 권한을 박탈하면 많은 피를 흘리지 않고도 파시즘을 제거할수 있을 것입니다."
  r56_italy.4.a:0 "By Destroying It Vital Points, The Movement Will Fall By Itself"
  r56_italy.4.b:0 "What If It Backfires ? We Do Not Need To Resort To Such Dangerous Methods"
 
- r56_italy.5.t:0 "Death Of Arturo Bocchini"
+ r56_italy.5.t:0 "아르투로 보키니의 죽음"
  r56_italy.5.d:0 "Arturo Bocchini, head of both the police but especially of the Organizzazione per la Vigilanza e la Repressione dell' Antifascismo, the secret police of the Partito Nazional Fascista, was found dead in his home, two bullets in the head.\n\nThe latter was chosen as the first target due to the fear that the OVRA would discover the government's plot. The position is now vacant, largely reducing any risk of being uncovered by the latter."
- r56_italy.5.a:0 "Excellent"
+ r56_italy.5.a:0 "훌륭해"
 
  r56_italy.6.t:0 "Fascists Blame The Communists For The Assassination"
  r56_italy.6.d:0 "The murder of Arturo Bocchini shocked many executives of the Partito Nazional Fascista. In "Il Popolo d'Italia", the party's official newspaper, one could see \"The resurgent communist threat\" written in large letters, indeed blaming potential members of the Partito Comunista Italiano for the assassination.\n\nLuigi Russo, leader of the Blackshirts, called for increased vigilance by the latter against any element deemed \"anti-fascist\"."
@@ -79,7 +79,7 @@
  r56_italy.10.d:0 "Faced with what they considered to be a "rising German threat", the Italian, French and British governments met again in the city of Stresa to announce the re-creation of the Front of the same name, which had been broken following the Italian invasion of the Abyssinia. In exchange, the French and British governments agreed to lift the embargoes on Italy.\n\nTheir aim is to maintain the territorial integrity of Austria against the German Reich, as well as to ensure that the latter respects the Treaty of Versailles. "
  r56_italy.10.a:0 "Radically Different Governments United In Maintaining Their Previous Victory"
 
- r56_italy.11.t:0 "The Pact Of Steel"
+ r56_italy.11.t:0 "강철 조약"
  r56_italy.11.d:0 "The various embargoes suffered by Italy following its invasion of Abyssinia led to its rapprochement with nations different from its regular allies, in particular Germany, with whom relations warmed up after Italy agreed to cease it guarantee of Austria, which Germany eventually wished to annex, despite the violation of the Treaty of Versailles\n\nFollowing the signature of the Pact of Friendship and Alliance between Germany and Italy, the latter have undertaken to support each other militarily in the coming years."
  r56_italy.11.a:0 "What Will This Mean For Europe ?"
 
@@ -102,12 +102,12 @@
  r56_italy.15.a:0 "It Would Be Prudent To Accept"
  r56_italy.15.b:0 "This Might End Up Causing An Even Bigger War, We Shall Refuse"
 
- r56_italy.16.t:0 "Italian Ultimatum"
+ r56_italy.16.t:0 "이탈리아의 최후통첩"
  r56_italy.16.d:0 "Declaring Romania a strategic region for the Rome Pact, particularly for Italy and Hungary, the Italian ambassador issued an ultimatum to the Romanian government.\n\They demand that the entirety of Transylvania be returned to Hungary, that Italian interests in the oil fields be guaranteed, and that the Italian government have a right of scrutiny over government decisions, including by giving the ambassador a veto.\n\nThe latter made it clear that any refusal could lead to military misconduct."
  r56_italy.16.a:0 "We Have No Choices But To Accept"
  r56_italy.16.b:0 "We Will Not Give Away Our Independence Such Easily!"
 
- r56_italy.17.t:0 "Romania Refuse The Ultimatum!"
+ r56_italy.17.t:0 "루마니아가 최후통첩을 거절하다!"
  r56_italy.17.d:0 "Describing the Italian demands as "absurd", the Romanian government refused the ultimatum sent a few days ago, and refuses any renegotiation of it. We threatened military reprisals if we refused.\n\nThe question is whether we should carry out these threats or postpone them."
  r56_italy.17.a:0 "They Chose Their Fate!"
  r56_italy.17.b:0 "We Cannot Afford A War At The Moment"
@@ -117,11 +117,11 @@
  r56_italy.18.a:0 "The Rome-Berlin Axis Shall Never Be Defeated!"
  r56_italy.18.b:0 "Where Would This Lead Except To Another Backstab ?"
 
- r56_italy.19.t:0 "Germany Accepts The Pact"
+ r56_italy.19.t:0 "독일이 조약을 수용하다"
  r56_italy.19.d:0 "The German government has responded positively to our proposal for a military alliance, officially sealing friendship and cooperation between our two nations, proving that we have no need to comply with the demands of the Entente democracies."
- r56_italy.19.a:0 "A New Axis Is Born!"
+ r56_italy.19.a:0 "새로운 추축의 탄생이다!"
 
- r56_italy.20.t:0 "Germany Refuses The Pact!"
+ r56_italy.20.t:0 "독일이 조약을 거절하다!"
  r56_italy.20.d:0 "Declaring that cooperation between our two nations would not be beneficial to Germany, the latter declined our proposal for a military alliance between our two nations."
  r56_italy.20.a:0 "Once Again, We Have Been Abandonned"
 
@@ -130,7 +130,7 @@
  r56_italy.21.a:0 "We Fear No Army, Let Them Come"
  r56_italy.21.b:0 "We Have No Choice But To Accept"
 
- r56_italy.22.t:0 "Albania Refuses The Ultimatum"
+ r56_italy.22.t:0 "알바니아가 최후통첩을 거절하다!"
  r56_italy.22.d:0 "Describing our demands as a "real insult to the Albanian nation and its people", the Albanian government refused our demands for stricter control over their policies. What should we do in retaliation?"
  r56_italy.22.a:0 "They Knew The Consequences, Invade Them"
  r56_italy.22.b:0 "We Do Not Have The Time For A War With Albania"
