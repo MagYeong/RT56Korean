@@ -40,12 +40,12 @@ l_english:
  tblra_charles_regent:0 "샤를 왕자의 섭정"
  tblra_charles_regent_desc:0 "국왕께서 직접 통치하실 수 없으니, 왕의 남동생이신 샤를 왕자가 섭정으로서 국사를 돌볼 것입니다."  
  
- BEL_Pierre_Daye:0 "Pierre Daye " #better choice than Theugels
- BEL_Pierre_Daye_desc:0 "Pierre Daye was the chief of the Rexist group in the Belgian parliament. He was also the only Rexist that was seen as acceptable by the royal palace, while Degrelle was considered a troublemaker. As he had a bad opinion of the other Rexist representatives, he left the movement before the start of the war."
- BEL_Charles_Someville:0 "Charles Somville"
- BEL_edgar_lalmand:0 "Edgar Lalmand"
- BEL_edgar_lalmand_desc:0 "Even if not in the ruling Troïka of Van Den Boom, Lahaut and Relecom, Edgar Lalmand is often active behind the scenes. As a grain dealer his capabilities to manage business could be useful to manage public works."
- BEL_henri_glineur:0 "Henri Glineur"
+ BEL_Pierre_Daye:0 "피에르 다예 " #better choice than Theugels
+ BEL_Pierre_Daye_desc:0 "피에르 다예는 벨기에 의회속 렉시스트 정당의 최고위자였습니다. 그는 왕궁에서 유일한 렉시즘 신봉자였고, 드그렐은 그저 문제아로 여겨졌습니다. 그는 렉시스트 정당과는 다른 의견을 가지고 있었기에 전쟁이 시작되기 전에 정당을 떠났습니다."
+ BEL_Charles_Someville:0 "찰스 솜빌"
+ BEL_edgar_lalmand:0 "에드가르드 랄망"
+ BEL_edgar_lalmand_desc:0 "반 덴붐, 라호트, 렐레콤의 삼두정에서가 아니라 에드가르드 랄망은 뒤에서 활동합니다. 곡물 거래상으로써의 그의 능력은 공공 사업에서도 뛰어난 능력을 발휘할 수 있습니다."
+ BEL_henri_glineur:0 "앙리 글라이너"
  BEL_robert_desmet:0 "Robert Desmet"
  BEL_robert_desmet_desc:0 "Robert Desmet was an aviator during the Great War. In the 1930's he was serving as an instructor for future Belgian military pilots."
  BEL_raoul_overstraeten:0 "Raoul Van Overstraeten"
@@ -153,9 +153,9 @@ l_english:
  WLL_fernand_rouleau:0 "Fernand Rouleau"
  WLL_Jules_Mahieu:0 "Jules Mahieu"
  
- COG_albert_decoster:0 "Albert Decoster"
+ COG_albert_decoster:0 "알버트 드 코스터"
  COG_albert_decoster_desc:0 "Albert Decoster was director of the "Journal du Katanga", a publication which repeated with extreme fidelity and regularity the content of Soviet war bulletins. While this was partially a posture set to please the syndicalists of Jadotville, he clearly had left-leaning sympathies." 
- COG_pierre_cattier:0 "Pierre Cattier"
+ COG_pierre_cattier:0 "피에르 "
  COG_pierre_cattier_desc:0 "Pierre Cattier was the manager of a ferry company operating between Antwerp and Leopoldville. In case of the construction of a Belgian-Congolese navy he would have been one of the few people with the necessary experience to help in its management."
  COG_joseph_kasa_vubu:0 "Joseph Kasa Vubu"
  COG_joseph_kasa_vubu_desc:0 "Joseph Kasa Vubu was already a advocate for the recognition of the cultural specificities of the Congolese just after the war. He later became the first president of the independent Congo-Léopoldville." 
