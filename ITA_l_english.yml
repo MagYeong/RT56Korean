@@ -38,40 +38,40 @@
  # Events
 
  r56_italy.1.t:0 "국왕이 무솔리니를 해임"
- r56_italy.1.d:0 "비토리오 에마누엘레 3세가 긴급회의를 열고, 무솔리니와 만나 사임을 요구했습니다. 국왕은 막대한 부채와 15년 간의 집권에도 불구하고 해결하지 못한 경제 문제, 그리고 에티오피아 전쟁으로 인한 금수조치 등의 문제를 지적했습니다.\n\n자신들의 지분을 확대하려 하는 왕당파 세력의 영향으로 무솔리니에 등을 돌린 파시즘 대평의회의 압력으로, 무솔리니는 투옥대신 사임을 선택할 수밖에 없었습니다. 파시스트 정권과의 깊은 관계에도 불구하고 훨씬 온건한 인물로 비춰진 피에트로 바돌리오가 수상으로 임명되었습니다.\n\n국왕이 무너지는 이탈리아의 체면을 살리려고 끊임없이 노력하는 것은 분명합니다."
- r56_italy.1.a:0 "이 상황이 나아지길 바라자."
+ r56_italy.1.d:0 "비토리오 에마누엘레 3세가 긴급회의를 열고, 무솔리니와 만나 사임을 요구했습니다. 국왕은 막대한 부채와 15년 간의 집권에도 불구하고 해결하지 못한 경제 문제, 그리고 에티오피아 전쟁으로 인한 금수조치 등의 문제를 지적했습니다.\n\n자신들의 지분을 확대하려 하는 왕당파 세력의 영향으로 무솔리니에 등을 돌린 파시즘 대평의회의 압력으로, 무솔리니는 투옥대신 사임을 선택할 수밖에 없었습니다. 파시스트 정권과의 깊은 관계에도 불구하고 훨씬 온건한 인물로 비춰진 피에트로 바돌리오가 총리로 임명되었습니다.\n\n국왕이 무너지는 이탈리아의 체면을 살리려고 끊임없이 노력하는 것은 분명합니다."
+ r56_italy.1.a:0 "이 상황이 나아지길 바라자"
 
  r56_italy.2.t:0 "에티오피아와의 휴전 협정"
- r56_italy.2.d:0 "바돌리오의 첫번째 목표중 하나는 에티오피아에서의 희생을 종식시키는 것이었습니다. 알프레도 코벨리 신임 외무장관은 양국간의 적대행위 중단을 위해 파견되었고, 평화협상을 진행할 수 있었지만 많은 배상금을 지불하도록 강요받았습니다."
- r56_italy.2.a:0 "영구적인 경제적 파탄보다 지금 회복해야 한다"
+ r56_italy.2.d:0 "바돌리오의 첫번째 목표중 하나는 에티오피아에서의 희생을 종식시키는 것이었습니다. 알프레도 코벨리 신임 외무장관은 양국간의 적대 행위 중단을 위해 파견되었고, 평화 협상을 체결할 수 있었지만, 전쟁 동안의 파괴에 대한 배상금을 내야했습니다."
+ r56_italy.2.a:0 "영구적인 경제 파탄보다는 지금의 문제 해결이 낫다"
 
- r56_italy.3.t:0 "신내각"
- r56_italy.3.d:0 "수상 임명 며칠 뒤 피에트로 바돌리오는 여전히 파시스트들을 등용할 것을 주장했지만, 국왕의 간섭으로 많은 인사들이 교체되었습니다. 그 결과 파시즘의 영향력은 줄어들었습니다."
- r56_italy.3.a:0 "새 술은 새 포대에"
+ r56_italy.3.t:0 "새로운 내각"
+ r56_italy.3.d:0 "총리 임명 며칠 후, 피에트로 바돌리오는 새로운 내각을 구성했습니다. 바돌리오는 여전히 국가 파시스트당을 중심으로 국정을 운영하려 하지만, 파시스트의 경제와 사회 정책으로 인한 문제에 대해 관심을 가지기 시작한 국왕의 의지로 상당한 왕당파 인사가 새로운 내각에 참여함에 따라 파시스트의 영향력이 약화되었습니다."
+ r56_italy.3.a:0 "새 술은 새 부대에"
 
- r56_italy.4.t:0 "조반니 메세의 제의"
- r56_italy.4.d:0 "피에트로 바돌리오 정부의 조반니 메세 소령, 제3기갑사단 사령관, 내무장관등은 다소 구체적인 제안을 하며 접근해 왔습니다. 바돌리오의 궁극적인 목표는 파시스트들을 권좌에서 몰아내는 것이었음이 메세에게는 분명했습니다.\n\n그리고 반대로 당의 주요 인사들을 제거하기 위하여 다른 단체들과 군주주의자들을 기용할 것을 제안했습니다. 지도자들의 권한을 박탈하면 많은 피를 흘리지 않고도 파시즘을 제거할수 있을 것입니다."
- r56_italy.4.a:0 "By Destroying It Vital Points, The Movement Will Fall By Itself"
- r56_italy.4.b:0 "What If It Backfires ? We Do Not Need To Resort To Such Dangerous Methods"
+ r56_italy.4.t:0 "조반니 메세의 제안"
+ r56_italy.4.d:0 "제3기병사단의 전 지휘관이자 피에트로 바돌리오 내각의 내무장관인 조반니 메세 소장이 다소 구체적인 제안을 하며 접근해 왔습니다. 바돌리오의 궁극적인 목표는 파시스트들을 권좌에서 몰아내는 것이었음이 메세에게는 분명했습니다.\n\n메세는 검은 셔츠단이나 국가 파시스트당의 지도자들과 밀접한 관련이 있는 조직들 내부에 있는 왕당파들을 이용하여 국가 파시스트당의 지도자들을 암살하는 방안을 제시했습니다. 수뇌부가 없어진다면, 남은 잔당은 비교적 간단히 제거할 수 있을 것입니다."
+ r56_italy.4.a:0 "핵심 인물을 제거한다면, 운동은 알아서 자멸할 것이다"
+ r56_italy.4.b:0 "실패하면 어쩌지? 그런 위험한 방법에 기댈 필요는 없다"
 
  r56_italy.5.t:0 "아르투로 보키니의 죽음"
- r56_italy.5.d:0 "Arturo Bocchini, head of both the police but especially of the Organizzazione per la Vigilanza e la Repressione dell' Antifascismo, the secret police of the Partito Nazional Fascista, was found dead in his home, two bullets in the head.\n\nThe latter was chosen as the first target due to the fear that the OVRA would discover the government's plot. The position is now vacant, largely reducing any risk of being uncovered by the latter."
+ r56_italy.5.d:0 "일반 경찰과 국가 파시스트당의 비밀 경찰인 반 파시스트 검속 비밀 경찰(OVRA)의 수장인 아르투로 보키니가, 자택에서 머리에 총탄 두 발을 맞아 사망한 채 발견되었습니다.\n\n그는 OVRA가 정부의 계획을 알아낼 수 있다는 이유로 첫 번째 목표물로 결정되었습니다. 자리는 공석이 되었으며, 이로 인해 계획이 들통날 가능성도 줄어들게 되었습니다."
  r56_italy.5.a:0 "훌륭해"
 
- r56_italy.6.t:0 "Fascists Blame The Communists For The Assassination"
- r56_italy.6.d:0 "The murder of Arturo Bocchini shocked many executives of the Partito Nazional Fascista. In "Il Popolo d'Italia", the party's official newspaper, one could see \"The resurgent communist threat\" written in large letters, indeed blaming potential members of the Partito Comunista Italiano for the assassination.\n\nLuigi Russo, leader of the Blackshirts, called for increased vigilance by the latter against any element deemed \"anti-fascist\"."
- r56_italy.6.a:0 "At Least They're Not Suspecting Us"
+ r56_italy.6.t:0 "파시스트들이 암살 배후로 공산주의자들을 지목"
+ r56_italy.6.d:0 "아르투로 보키니의 암살은 국가 파시스트당의 수뇌부에 충격을 주었습니다. 당의 기관지인 "이탈리아 인민"에는 \"공산주의 위협의 재림\"이라는 기사가 대문짝만하게 실렸으며, 이탈리아 공산당을 암살의 배후로 비난했습니다.\n\n검은셔츠단의 지도자인 루이지 루소는, \"반 파시스트적\"으로 의심되는 모든 요소에 대한 철저한 감시를 명령했습니다."
+ r56_italy.6.a:0 "최소한 우리를 의심하진 않는군"
 
- r56_italy.7.t:0 "Murder Of The Rosselli Brothers"
- r56_italy.7.d:0 "Carlo Rosselli and Sabatino Rosselli, two exiled anti-fascist activists, who notably participated in the Spanish war alongside the Republicans, were murdered by the French organisation "La Cagoule", while they were in Bagnoles-de-l'Orne, Normandy, to be treated for the phlebitis they had caught during their fight in Spain.\n\nThey had notably founded the "Giustizia e Libertà" movement alongside other anti-Mussolini exiles, in particular republicans with ideas ranging from liberalism to socialism."
- r56_italy.7.a:0 "Two Less Problems"
+ r56_italy.7.t:0 "로셀리 형제의 암살"
+ r56_italy.7.d:0 "공화파 측으로 스페인 내전에 참전한 두 반 파시스트 운동가인 카를로 로셀리와 사바티노 로셀리가, 스페인 내전에서 얻은 정맥염을 치료받기 위해 노르망디의 바뇰드로른에 머물던 중, 프랑스 조직 "라 카굴"에 의해 암살되었습니다.\n\n그들은 "정의와 자유" 운동을 다른 반 파시스트 망명객, 주로 자유주의에서 사회주의적 성향을 지닌 공화주의자들과 함께 창설했습니다."
+ r56_italy.7.a:0 "골칫덩이 두 개가 없어졌군"
 
- r56_italy.8.t:0 "Diplomatic Incident At The League Of Nations"
- r56_italy.8.d:0 "In a speech to the League of Nations by Haile Selassie I, Emperor of Ethiopia, taking offence at the Italian invasion and asking for diplomatic help to put an end to the conflict, the Italian journalists present began to make fun of the Emperor.\n\nIn reaction to what he considered to be \"foolishness\", Nicolae Titulescu, a Romanian diplomat present at the time, replied by asking for the departure of these same journalists, going so far as to declare \"To the door the savages!\""
- r56_italy.8.a:0 "Who Does He Think He Is?"
- ITA_diplomatic_incident_at_the_league_of_nations:0 "Diplomatic Incident At The League Of Nations"
+ r56_italy.8.t:0 "국제 연맹에서의 외교적 사건"
+ r56_italy.8.d:0 "이탈리아의 침략 전쟁을 비난하고 전쟁을 종식시키기 위한 외교적 지원을 요청한 에티오피아 황제 하일레 셀라시에 1세의 국제연맹 연설에서, 참석한 이탈리아 기자들은 황제를 조롱하기 시작했습니다.\n\n그 행동이 \"어리석다\"고 여긴 루마니아 대표 니콜라에 티툴레스쿠는, \"누가 저 미개인들에게 출구 좀 보여줘라!\"고 소리치며 그 기자들을 쫓아낼 것을 요구했습니다."
+ r56_italy.8.a:0 "그는 자신이 뭐라도 되는 줄 아는가?"
+ ITA_diplomatic_incident_at_the_league_of_nations:0 "국제 연맹에서의 외교적 사건"
 
- r56_italy.9.t:0 "Militarization Of The Rome Protocols"
+ r56_italy.9.t:0 "로마 의정서, 군사 조약으로 확대"
  r56_italy.9.d:0 "First signed in 1934 between the governments of Austria, Hungary and Italy, the Rome Protocols were agreements mainly dedicated to economic cooperation between the three nations and to opposing the territorial integrity of Yugoslavia. Under Italy's leadership, a second version of these protocols was signed, including a military alliance between the three nations.\n\nMany see this as Italy's attempt to find a place in Europe after leaving the League of Nations, and to prevent Germany from integrating Austria into the Reich."
  r56_italy.9.a:0 "Perhaps This Will Guarantee The Stability Of Central Europe"
 
