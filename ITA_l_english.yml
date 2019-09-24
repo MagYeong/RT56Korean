@@ -154,28 +154,28 @@
  r56_italy.26.d:0 ""지중해에서 이탈리아의 이권을 지키고 섬을 지키기 위해서"라고 밝히며, 이탈리아 정부는 발레아레스 제도를 장악하기로 결정했으며, 병력을 보내 그곳에 주둔하도록 했습니다."
  r56_italy.26.a:0 "그건 허락한 적이 없는데!"
 
- r56_italy.27.t:0 "Italy Occupies The Balearic Islands For Us"
- r56_italy.27.d:0 "The Italian government has decided to send a garrison to the whale islands in order to prevent the Republican government from gaining access to them. The latter have told us that they are only protecting our interests by avoiding a suppremacy in the Mediterranean for the Republicans."
- r56_italy.27.a:0 "Let's Hope They Will Give Them Back"
+ r56_italy.27.t:0 "이탈리아가 우리를 위해 발레아레스 제도를 점령"
+ r56_italy.27.d:0 "이탈리아 정부는 제도 전역에 주둔군을 보내 공화파 정부가 접근하는 것을 막기로 결정했습니다. 그들은 우리에게 공화파의 지중해 제해권을 방지함으로써 우리를 돕는 것이라고 밝혔습니다."
+ r56_italy.27.a:0 "그곳을 나중에 반환하길 바라는 수밖에"
 
 
- r56_italy.28.t:0 "The Stresa Front Refused"
- r56_italy.28.d:0 "The government of [From.GetNameDefCap] has decided to reject our proposal to reform the Stresa front. Thus, we will have to continue without their help."
- r56_italy.28.a:0 "Our Road Will Be Without Them"
+ r56_italy.28.t:0 "스트레사 전선 제의 거부"
+ r56_italy.28.d:0 "[From.GetNameDefCap] 정부는 스트레사 전선 재결성에 대한 우리의 제의를 거부하였습니다. 결국 우리는 그들의 지원없이 나아가야만 합니다."
+ r56_italy.28.a:0 "그들 없이도 우리는 계속 나아갈 것이다"
 
- r56_italy.29.t:0 "The Regia Marina's Budget Question"
- r56_italy.29.d:0 "Since the end of the Great War, the Italian government has set itself the objective of dominating the Mediterranean and, to achieve this, has launched major projects to modernise the navy. However, these projects have a cost, and thus part of the budget normally allocated to the army was redirected to the Regia Marina, creating an imbalance in the production of equipment.\n\nWe could try to adjust the budget to return to something equal for all three branches, but perhaps the key to victory lies in the domination of the seas?"
- r56_italy.29.a:0 "We Must Return To A Balanced Budget"
- r56_italy.29.b:0 "The Budget Is Fine As It Is"
- r56_italy.29.c:0 "Focus Even More On The Regia Marina"
+ r56_italy.29.t:0 "이탈리아 왕국 해군의 예산 문제"
+ r56_italy.29.d:0 "대전쟁 이후 이탈리아 정부는 지중해 장악을 목표로 삼았으며, 이를 달성하기 위해 해군 현대화 프로젝트를 개시했습니다. 그러나 이 프로젝트에는 상당한 비용이 소모되고 있으며, 육군에 할당된 예산 일부가 해군에 투자됨에 따라 장비 생산의 불균형이 발생했습니다.\n\n우리는 예산을 조정해 육해공군에 동등히 투입되도록 만들 수도 있지만, 전쟁의 승리는 제해권에 달려있지 않을까요?"
+ r56_italy.29.a:0 "균형잡힌 예산으로 돌아가야 한다"
+ r56_italy.29.b:0 "현 상태로도 괜찮을 것이다"
+ r56_italy.29.c:0 "해군에 더 집중한다"
 
- r56_italy.30.t:0 "Even To Decide If Italo Balbo Dies"
- r56_italy.30.d:0 "You're not supposed to see it"
- r56_italy.30.a:0 "Okay"
+ r56_italy.30.t:0 "이탈로 발보가 죽을지 결정하는 이벤트"
+ r56_italy.30.d:0 "당신은 보지 않을 것입니다."
+ r56_italy.30.a:0 "알겠다"
 
- r56_italy.31.t:0 "Italo Balbo Killed In An Accident"
- r56_italy.31.d:0 "While he was a passenger on a Savoia-Marchetti SM.79 scheduled to land in Tobruk, Libya, his plane was mistaken for an enemy fighter, and was shot down by anti-aircraft batteries supposed to defend the airstrip.\n\nA hero of Italian aviation and one of the main organizers of the Partito Nazional Fascista and the March on Rome, he was one of the main popularizers of aviation in Italy."
- r56_italy.31.a:0 "Today We Lost More Than An Aviator, We Lost A Legend"
+ r56_italy.31.t:0 "이탈로 발보가 사고로 사망"
+ r56_italy.31.d:0 "리비아의 토브룩에 착륙 예정이었던 사보이아-마르케티 SM.79에 타고 있던 이탈로 발보는, 비행기를 적 전투기로 오인한 비행장의 대공포에 의해 격추되었습니다.\n\n이탈리아 항공 역사의 영웅이자 국가 파시스트당의 로마 진군에서 중요한 역할을 맡았던 그는, 이탈리아 공군의 아버지였습니다."
+ r56_italy.31.a:0 "오늘 우리는 한 명의 비행가보다 더 많은, 한 명의 전설을 잃었다"
 
  # Ideas
  ITA_lack_of_powered_planes:0 "Lack Of Powered Motors"
