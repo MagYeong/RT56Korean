@@ -6,8 +6,8 @@ l_english:
 	
 	#### INDUSTRIAL SECTION ####
  free_france:0 "자유 프랑스"
- FRA_tools_modernisation:0 "연장 현대화"
- FRA_tools_modernisation_desc:0 "The french industrial park is outdated and especially old. We need to modernize our tools by acquire new modern machines."
+ FRA_tools_modernisation:0 "생산장비 현대화"
+ FRA_tools_modernisation_desc:0 "프랑스의 공업은 구식입니다. 우리는 새 현대적 생산장비를 도입해야만 합니다."
  FRA_decrease_unemployement:0 "실업률 감소"
  FRA_decrease_unemployement_desc:0 "With the last economic crisis, the unemployed rate is still high and the production low. We can start by encourage industrials to invest and create new jobs."
  FRA_overseas_factories:0 "해외 공장"
