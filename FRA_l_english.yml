@@ -10,21 +10,21 @@
 
  FRAEMPIRE_neutrality:0 "프랑스 제국"
  FRAEMPIRE_neutrality_DEF:0 "프랑스 제국"
- continental_system:0 "Continental System"
+ continental_system:0 "대륙 체제"
 
  france.150.d:0 "최근 몇달간 정부가 과감한 타협을 하도록 만들 정도로 영향력이 커진 프랑스노동총동맹의 파업 촉구에 따라, 수많은 노동자들이 파리에 집결해 부르봉궁을 향해 행진했습니다. 이는 많은 이들에게 1934년 2월 6일의 폭동을 상기시켰습니다. 시위대가 의회에 난입하는 동안, 도시의 나머지 구역에서는 군인들의 탈주와 시위대의 폭력을 경찰이 통제하는 데 실패했습니다.\n\n레옹 주오가 이끄는 시위대는 제3공화국의 끝과 반자본주의적인 노동조합 정권으로의 전환을 선언했습니다."
  france.150.a:0 "노동자들이 정권을 잡았군."
 
- france.151.t:0 "Death Of Franchet D'Espèrey"
- france.151.d:0 "Louis Félix Marie François Franchet d'Espèrey, Marshal and French Head of State, passed away in the night. He was buried and given military honours before being transferred to the Invalides.\n\nThe Marshal's death was sudden for many French people, but also for the government, since no succession procedure had been put in place for the time being. Thus, the various ministers were urgently convened to decide who to appoint as successor.\n\nFor many, the favourite choice is Henri Giraud, Minister of War and who was very close to Franchet d'Esperey throughout his military career.\n\nHowever, another candidate is able to stand up to Giraud. This is François Mitterand, Minister of the Interior, who, although still a simple journalist a few years ago, was able to rise through the ranks of the government at full speed, which allowed him to acquire a great reputation that could well work in his favour."
- france.151.a:0 "Giraud Is The Obvious Choice"
- france.151.b:0 "Mitterand Looks Promising"
+ france.151.t:0 "프랑셰 데스페레의 죽음"
+ france.151.d:0 "프랑스 원수이자 국가수반이었던 루이 펠릭스 프랑수아 프랑셰 데스페레가 어젯밤 사망했습니다. 그는 앵발리드로 옮겨지기 전에 안장된 후 군례를 받았습니다.\n\n원수의 죽음은 많은 프랑스 국민들에게 급작스러운 일이었지만, 후계자에 관해 아무런 계획이 없었던 정부에게 마찬가지였습니다. 따라서 여러 장관들이 누가 자리를 승계할지에 관해 논의하기 위해 긴급 회동을 가졌습니다.\n\n많은 이들에겐 전쟁장관이자 군사 경력 동안 데스페레와 매우 가까웠던 앙리 지로가 최선의 선택으로 여겨지고 있습니다.\n\n반면, 지로에 맞설 수 있는 또다른 후보도 존재합니다. 내무장관인 프랑수아 미테랑은 몇년 전만 해도 일개 기자였지만, 입각한 후 빠른 속도로 승진을 거듭해 그를 도울 수 있는 상당히 좋은 평판을 획득할 수 있었습니다."
+ france.151.a:0 "볼것도 없이 지로가 되어야 한다."
+ france.151.b:0 "미테랑이 유망해 보이는군."
 
- france.152.t:0 "Popular Front Victory In France"
- france.152.d:0 "The Front Populaire, a political alliance made up of a large part of the French left-wing movements, including the SFIO, the Radical Party and the Communist Party, won the French legislative elections with 57% of the votes. Many strikes have been organised in support of the front. Léon Blum, the leader of the SFIO, was appointed Prime Minister.\n\nTheir programme is built around the defence of democracy, in particular through their opposition to the far-right leagues, their pacifism, and the implementation of many social reforms such as paid holidays as well as a desire to revive the economy by developing consumption."
- france.152.a:0 "Everything Is Possible !"
- france.152.b:0 "Good Luck To Them"
- france.152.c:0 "They Are Nothing More Than Disgusting Bolsheviks"
+ france.152.t:0 "인민전선의 승리"
+ france.152.d:0 "노동자 인터내셔널 프랑스 지부, 급진당, 공산당 등의 프랑스 좌익 단체들의 정치 연합인 인민전선이, 57%의 득표를 해 총선에서 승리했습니다. 인민전선을 지지하기 위해 많은 파업들이 진행되었습니다. 노동자 인터내셔널 프랑스 지부의 당수인 레옹 블룸이 새 총리로 신임되었습니다.\n\n그들의 정책에는 극우 연맹들에 대한 반대를 중점으로 하는 민주주의 수호와 반전주의, 그리고 유급휴가와 같은 여러 사회 개혁들의 시행과 소비 촉진을 통한 경제 소생 등이 있습니다."
+ france.152.a:0 "그 어느 것도 가능하겠지!"
+ france.152.b:0 "건투를 빌지."
+ france.152.c:0 "역겨운 볼셰비키들이랑 다른게 뭐지?"
 
  FRA_economic_reforms:0 "경제 개혁"
  FRA_economic_reforms_desc:0 "프랑스 경제는 위태로운 상황에 처해 있습니다. 우리는 인플레이션을 억제하고 프랑 가치를 안정화하며 재정 적자를 줄이기 위한 경제 개혁에 착수해야 합니다."
@@ -38,7 +38,7 @@
  FRA_agriculture_national_office_desc:0 "곡물 시장을 안정화하기 위해, 우리는 곡물의 수출 및 수입을 통제하고 적정 가격의 유지를 도울 새로운 부서를 만들 것입니다."
  FRA_bank_france:0 "프랑스 은행 국유화"
  FRA_bank_france_desc:0 "우리는 이미 1936년에 프랑스 은행의 지위를 개혁했지만, 경제 상황에 대한 통제를 되찾기 위해서는 국유화가 필요합니다."
- FRA_national_department_state_market:0 "National Department of State Markets"
+ FRA_national_department_state_market:0 "국가시장부"
  FRA_national_department_state_market_desc:0 "이 새로운 부서는 공공 사업 지휘를 일원화하고 기업에 대한 융자를 더욱 쉽게 만들 것입니다."
  
 	#### NATIONALISATION ####
@@ -141,22 +141,22 @@
 			#### COSMETIC TAGS ####
 	############################
 
- FRA_GER_fascism_autonomy_puppet:0 "Vichy France"
- FRA_GER_fascism_autonomy_puppet_DEF:0 "Vichy France"
- GER_FRA_autonomy_dominion:0 "Germany Protectorate"
- GER_FRA_autonomy_colony:0 "Confederation of the Rhine"
- GER_FRA_autonomy_puppet:0 "Westphalia"
- GER_FRA_autonomy_integrated_puppet:0 "East Francia"
- ITA_FRA_autonomy_puppet:0 "Italian States"
- ENG_FRA_autonomy_puppet:0 "Brittany"
- USA_FRA_autonomy_puppet:0 "Louisiana"
- CAN_FRA_autonomy_puppet:0 "Quebec"
- JAP_FRA_autonomy_puppet:0 "Colony of Japan"
- VIN_FRA_neutrality:0 "Protectorate of Annam-Tonkin"
- LAO_FRA_neutrality:0 "Protectorate of Laos"
- CAM_FRA_neutrality:0 "Protectorate of Cambodia"
- FRA_EMPIRE_neutrality:0 "French Empire"
- FRA_KINGDOM_neutrality:0 "Kingdom of France"
+ FRA_GER_fascism_autonomy_puppet:0 "비시 프랑스"
+ FRA_GER_fascism_autonomy_puppet_DEF:0 "비시 프랑스"
+ GER_FRA_autonomy_dominion:0 "독일 보호령"
+ GER_FRA_autonomy_colony:0 "라인 동맹"
+ GER_FRA_autonomy_puppet:0 "베스트팔렌"
+ GER_FRA_autonomy_integrated_puppet:0 "동프랑크"
+ ITA_FRA_autonomy_puppet:0 "이탈리아 연방국"
+ ENG_FRA_autonomy_puppet:0 "브르타뉴"
+ USA_FRA_autonomy_puppet:0 "루이지애나"
+ CAN_FRA_autonomy_puppet:0 "퀘벡"
+ JAP_FRA_autonomy_puppet:0 "프랑스령 일본"
+ VIN_FRA_neutrality:0 "안남-통킹 보호령"
+ LAO_FRA_neutrality:0 "라오스 보호령"
+ CAM_FRA_neutrality:0 "캄보디아 보호령"
+ FRA_EMPIRE_neutrality:0 "프랑스 제국"
+ FRA_KINGDOM_neutrality:0 "프랑스 왕국"
 
 	############################
 			#### NATIONAL FOCUSES ####
