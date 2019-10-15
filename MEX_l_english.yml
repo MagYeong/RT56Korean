@@ -921,23 +921,11 @@
  para_tech:0 "Paratroopers"
  
  ###NAMES
- MEX_fascism:0 "시나키스트 멕시코"
- MEX_fascism_DEF:0 "시나키스트 멕시코"
- MEX_democratic:0 "멕시코 합중국"
- MEX_democratic_DEF:0 "멕시코 합중국"
- MEX_neutrality:0 "멕시코"
- MEX_neutrality_DEF:0 "멕시코"
- MEX_communism:0 "멕시코 생디칼리즘 공화국"
- MEX_communism_DEF:0 "멕시코 생디칼리즘 공화국"
- MEX_fascism_ADJ:0 "멕시코"
- MEX_democratic_ADJ:0 "멕시코"
- MEX_neutrality_ADJ:0 "멕시코"
- MEX_communism_ADJ:0 "멕시코"
  USA_MEX_autonomy_dominion:0 "북아메리카 자치령"
- USA_MEX_autonomy_colony:0 "41번 식민지"
+ USA_MEX_autonomy_colony:0 "41개 식민지"
  USA_MEX_autonomy_puppet:0 "멕시코 북아메리카 구역"
  USA_MEX_autonomy_dominion_DEF:0 "북아메리카 자치령"
- USA_MEX_autonomy_colony_DEF:0 "41번 식민지"
+ USA_MEX_autonomy_colony_DEF:0 "41개 식민지"
  USA_MEX_autonomy_puppet_DEF:0 "멕시코 북아메리카 구역"
  
  ###OPINIONS + MISC
