@@ -314,21 +314,21 @@
  FRA_abel_bonnard:0 "아벨 보나르"
  FRA_paul_marion:0 "폴 마리옹"
 
- FRA_xavier_vallat:0 "Xavier Vallat"
- FRA_philippe_henriot:0 "Philippe Henriot"
- FRA_joseph_darnaud:0 "Joseph Darnand"
- FRA_georges_loustaunau_lacau:0 "Georges Loustaunau-Lacau"
+ FRA_xavier_vallat:0 "그자비에 발라"
+ FRA_philippe_henriot:0 "필리프 앙리오"
+ FRA_joseph_darnaud:0 "조제프 다르낭"
+ FRA_georges_loustaunau_lacau:0 "조르주 루스토노-라코"
 
- FRA_eugene_deloncle:0 "Eugène Deloncle"
- FRA_henri_martin:0 "Henri Martin"
- FRA_jean_filiol:0 "Jean Filiol"
+ FRA_eugene_deloncle:0 "외젠 들롱클"
+ FRA_henri_martin:0 "앙리 마르탱"
+ FRA_jean_filiol:0 "장 필리올"
 
  connected_politician:0 "Connected Politician"
 
- FRA_maurice_pujo:0 "Maurice Pujo"
- FRA_charles_maurras:0 "Charles Maurras"
- FRA_leon_daudet:0 "Léon Daudet"
- FRA_robert_brasillach:0 "Robert Brasillach"
+ FRA_maurice_pujo:0 "모리스 퓌조"
+ FRA_charles_maurras:0 "샤를 모라스"
+ FRA_leon_daudet:0 "레옹 도데"
+ FRA_robert_brasillach:0 "로베르 브라지야크"
 
 
  monarchist_figure:0 "Monarchist Figure"
@@ -343,24 +343,24 @@
  competent_orator:0 "Competent Orator"
 	
 	#### INDUSTRIAL SECTION ####
- free_france:0 " Free France"
+ free_france:0 "자유 프랑스"
 
 
- FRA_tools_modernisation:0 "Tools Modernisation"
- FRA_tools_modernisation_desc:0 "The french industrial park is outdated and especially old. We need to modernize our tools by acquire new modern machines."
- FRA_decrease_unemployement:0 "Decrease Unemployement"
- FRA_decrease_unemployement_desc:0 "With the last economic crisis, the unemployed rate is still high and the production low. We can start by encourage industrials to invest and create new jobs."
- FRA_overseas_factories:0 "Overseas Factories"
- FRA_overseas_factories_desc:0 "French Algeria is considered as part of France, so we must reinforce the production infrastructures in these overseas department."
- FRA_cnrs:0 "National Center for Scientific Research"
- FRA_cnrs_desc:0 "To coordinate the activity of our current research laboratories, we must merge all of the organisms to a national center, to boost the research capacity."
- FRA_buy_heavy_water:0 "Buy Heavy Water"
- FRA_buy_heavy_water_desc:0 "Europe is unstable and the initial tests in nuclear science has shown promising results. We should by all the heavy water stock of Norway to go foward and secure our researchs."
- FRA_research_grants:0 "Research Grants"
- FRA_research_grants_desc:0 "To galvanize our national research production, we could give merite grants to our best scientist teams. Advances in technology can give us the edge where we most need it."
- FRA_sncf:0 "French National Railway Company"
- FRA_sncf_desc:0 "The nationalisation of France's main railway companies will insure the control of the means of transport. The new French National Railway Company will have the task to develop the current infrastructures."
- FRA_sncf_tooltip:0 "Add maximum §YInfrastructure§! in §YIle de France§!, §YPas de Calais§!, §YChampagne§! and §YAlsace§!"
+ FRA_tools_modernisation:0 "장비 현대화"
+ FRA_tools_modernisation_desc:0 "프랑스의 공업 단지는 심각하게 구식입니다. 우리는 새로운 기계를 확보해 장비를 현대화해야 합니다."
+ FRA_decrease_unemployement:0 "실업 대책"
+ FRA_decrease_unemployement_desc:0 "이전의 경제 위기로 인해 실업률은 여전히 높고 생산량은 적습니다. 우리는 기업이 투자를 해 새로운 일자리를 만들도록 장려하는 것에서부터 시작해야 합니다."
+ FRA_overseas_factories:0 "해외 공장"
+ FRA_overseas_factories_desc:0 "알제리는 프랑스의 일부이기에, 우리는 이 해외 데파르트망의 생산 설비를 개선해야 합니다."
+ FRA_cnrs:0 "국립과학연구센터"
+ FRA_cnrs_desc:0 "현 연구실들의 연구 활동을 조정하기 위해, 우리는 모든 조직을 국립기관으로 합쳐 연구 역량을 증강해야 합니다."
+ FRA_buy_heavy_water:0 "중수 구입"
+ FRA_buy_heavy_water_desc:0 "유럽은 불안정하며 원자력 분야에 대한 초기 실험은 유망한 결과를 보여주었습니다. 우리는 노르웨이가 보유하고 있는 중수를 전부 구입해 연구 재료를 확보해야 합니다."
+ FRA_research_grants:0 "연구 보조금"
+ FRA_research_grants_desc:0 "우리나라의 연구 활동을 촉진하기 위해, 우리는 최고의 연구팀에게 성과 보조금을 줘야 합니다. 기술의 발전은 필요한 때에 우리에게 우위를 줄 수 있습니다."
+ FRA_sncf:0 "프랑스 국유 철도"
+ FRA_sncf_desc:0 "프랑스의 주요 철도 회사들을 국유화하면 운송수단의 통제권을 확보할 수 있을 것입니다. 신설된 프랑스 국유 철도는 현 기반시설을 개선하는 임무를 가지게 될 것입니다."
+ FRA_sncf_tooltip:0 "§Y일드프랑스§!, §Y파드칼레§!, §Y샹파뉴§! 그리고 §Y알자스-로렌§!의 §Y기반시설§!이 최대로 증가합니다."
  
 	#### COLONIAL FOCUS ####
 	
