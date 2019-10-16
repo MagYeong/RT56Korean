@@ -4,7 +4,7 @@
  FRA_fascism_party2:0 "PPF"
  FRA_fascism_party2_long:0 "프랑스 인민당"
  FRA_fascism_party3:0 "CSAR"
- FRA_fascism_party3_long:0 "혁명행동 비밀위원회"
+ FRA_fascism_party3_long:0 "혁명행동비밀위원회"
 
  FRA_payment_for_bombers:0 "폭격기 대금"
 
@@ -210,8 +210,8 @@
  french_union:0 "프랑스 연방"
 
 	#### TECHNOLOGY SHARING ####
- french_research_name:0 "French Research"
- french_research_desc:0 "Reduced research time for technologies researched by those under French rule."
+ french_research_name:0 "프랑스 연구"
+ french_research_desc:0 "프랑스가 지배하는 국가들이 연구한 기술의 연구 시간을 줄입니다."
  
 	#### COMPAGNIES ####
  fcm:0 "FCM"
