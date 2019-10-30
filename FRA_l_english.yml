@@ -108,7 +108,7 @@
  levasseur_nat:0 "르바쇠르를 국유화함"
  fcm_nat:0 "FCM을 국유화함"
  famh_nat:0 "FAMH를 국유화함"
- bouton_nat:0 "드디옹-부통을 국유화함"
+ bouton_nat:0 "드 디옹-부통을 국유화함"
   
 	############################
 					#### IDEAS ####
@@ -242,7 +242,7 @@
  tunis_desc:0 "튀니스 조병창"
  normandie:0 "SMN"
  normandie_desc:0 "노르망디 제철소"
- bouton:0 "드디옹-부통"
+ bouton:0 "드 디옹-부통"
  puteaux:0 "APX"
  puteaux_desc:0 "퓌토 공장"
  bayonne:0 "MAB"
@@ -293,7 +293,7 @@
 
  FRA_georges_mandel:0 "조르주 망델"
  FRA_georges_bonnet:0 "조르주 보네"
- FRA_guy_la_chambre:0 "기 라샹브르"
+ FRA_guy_la_chambre:0 "기 라 샹브르"
 
  FRA_pierre_mendes_france:0 "피에르 망데스 프랑스"
  FRA_georges_monnet:0 "조르주 모네"
@@ -625,7 +625,7 @@
  FRA_commission_fortified_regions_desc:0 "우리는 과거 1927년의 요새화지역 조직위원회을 되살려 우리의 실제 국경 요새화 상황을 연구하고 방어 계획을 개선할 수 있습니다."
  FRA_extend_the_maginot_line:0 "마지노선 연장"
  FRA_extend_the_maginot_line_desc:0 "우리는 벨기에가 방어를 해낼 거라고 믿으면 안됩니다. 만약 그들이 적군이 지나도록 허용한다면 우리는 위험한 상황을 마주할 수 있습니다. 프랑스에 초대받지 않은 적군이 들어오지 못하게 막으려면 마지노선 연장이 필수적입니다!"
- FRA_de_gaulle_strategy:0 "드골 전략"
+ FRA_de_gaulle_strategy:0 "드 골 전략"
  FRA_de_gaulle_strategy_desc:0 "우리는 멍청히 적이 우리 영토 안으로 들어오는 것을 바라만 보고 있으면 안됩니다. 그리고 우리는 전시에 동맹국들이 알아서 스스로를 지키도록 내버려 둘 수도 없습니다. 군대를 소집합시다! 가믈랭이 적임자입니다."
  FRA_motorized_focus:0 "차량화 중점"
  FRA_motorized_focus_desc:0 "보병 차량 설계에 더 나은 방법을 찾는 것은 우리 전선을 지원하고 충원하는 능력을 향상시키는 데 도움을 줄 것입니다."
@@ -807,7 +807,7 @@
  france.130.d:0 "우리 군의 장비 필요분을 채우기 위해서는 군수물자 생산자를 지정해야 합니다. 어느 회사를 선택해야 할까요?"
  france.130.a:0 "MAB"
  france.130.b:0 "APX"
- france.130.c:0 "드디옹-부통"
+ france.130.c:0 "드 디옹-부통"
  france.130.e:0 "선택을 미룬다."
  france.131.t:0 "전차 설계사 지정"
  france.131.d:0 "우리 군의 장비 필요분을 채우기 위해서는 전차 설계사를 지정해야 합니다. 어느 회사를 선택해야 할까요?"
@@ -888,7 +888,7 @@
  worldnews.4.a:0 "TO DO"
  worldnews.5.t:0 "파리 만국박람회" 
  worldnews.5.d:0 "프랑스는 대대적인 선전과 함께 1937년 만국박람회를 자신있게 개최했습니다. 파리에서는, 101 헥타르 정도의 부지에 44개국이 참여한 134개의 관이 예술과 현대 기술을 주제로 펼쳐졌습니다. 삼천백만 명 정도의 관람객이 이곳을 방문했습니다. 파리 시는 사이요 궁전, 발견의 전당, 그리고 팔레 드 토쿄를 보존하기로 결정했습니다. 신세대 예술이 이곳저곳에서 호평받았습니다. 세계는 지금 이 순간 이 박람회가 인류의 단합을 나타내는 것이라고 믿고 싶어 합니다. 그러나 그 무엇보다도 강렬한 인상을 남기는 것은 소련관과 독일관이 서로를 위협하면서 서 있는 모습입니다. 한 쪽에는 각각 낫과 망치를 휘두르는 25m 높이의 노동자와 콜호스 여성의 동상이, 한 쪽에는 발톱에 하켄크로이츠를 쥐고 있는 웅대한 독수리의 조상이 서로를 노려보고 있습니다."
- worldnews.5.a:0 "대단한 성공이군"
+ worldnews.5.a:0 "대단한 성공이군."
 
  ############################
 				#### DECISIONS ####
@@ -902,28 +902,28 @@
 					#### EVENTS ####
 	############################
 	
- indochina.1.t:0 "[FRA.GetNameDef] gives in to Japan"
- indochina.1.d:0 "[FRA.GetNameDef] has ordered our government to cede to Japan the states of Tonkin and South Indochina. These states are the most important to us, containing the most resources, population, and industry in all of Indochina. Shall we give the order, or stand firm?"
- indochina.1.a:0 "We cannot give in!"
- indochina.1.b:0 "We must do as ordered."
+ indochina.1.t:0 "[FRA.GetNameDef]의 일본 요구 수락"
+ indochina.1.d:0 "[FRA.GetNameDef] 정부가 우리에게 통킹과 남부 인도차이나를 일본에 넘기라고 명령했습니다. 이 곳들은 인도차이나 안에서 가장 많은 자원과 인구, 그리고 산업을 가진 우리에게 가장 중요한 지역입니다. 이를 받아들여야 할까요, 아니면 항명해야 할까요?"
+ indochina.1.a:0 "이를 받아들일 수는 없다!"
+ indochina.1.b:0 "명령받은 대로 따라야 한다."
 	
 	############################
 						#### IDEAS ####
 	############################
  
- FRI_voong_huu_trieu:0 "Voong Huu Trieu"
- FRI_lai_de:0 "Lai De"
- FRI_hang_dinh_xuan:0 "Hang Dinh Xuan"
- FRI_voong_van_dao:0 "Voong Van Dao"
- FRI_tuan_ngoc_minh:0 "Tuan Ngoc Minh"
- FRI_lai_thao:0 "Lai Thao"
- FRI_ngo_dinh_nhu:0 "Ngo Dinh Nhu"
- FRI_ton_duc_thang:0 "Ton Duc Thang"
- FRI_cuong_de:0 "Cuong De"
- FRI_georges_catroux:0 "Georges Catroux"
- FRI_jean_tassigny:0 "Jean de Lattre de Tassigny"
- FRI_jean_decoux:0 "Jean Decoux"
- FRI_jules_brevie:0 "Jules Brévié"
+ FRI_voong_huu_trieu:0 "붕후찌에우"
+ FRI_lai_de:0 "라이대"
+ FRI_hang_dinh_xuan:0 "항딘쑤언"
+ FRI_voong_van_dao:0 "붕반다오"
+ FRI_tuan_ngoc_minh:0 "뚜언응옥민"
+ FRI_lai_thao:0 "라이타오"
+ FRI_ngo_dinh_nhu:0 "응오딘뉴"
+ FRI_ton_duc_thang:0 "똔득탕"
+ FRI_cuong_de:0 "끄엉더"
+ FRI_georges_catroux:0 "조르주 카트루"
+ FRI_jean_tassigny:0 "장 드 라트르 드 타시니"
+ FRI_jean_decoux:0 "장 드쿠"
+ FRI_jules_brevie:0 "쥘 브레비에"
  
  	############################
 						#### Revenge ####
