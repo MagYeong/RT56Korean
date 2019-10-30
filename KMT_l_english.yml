@@ -1832,7 +1832,7 @@
  kmt_no_incompetent_navy_tt:0 "§Y비경쟁 조선소§! 국민정신이 없을 경우"
  ## 14/1/2017 ##
  KMT_continuous_naval_production:0 "해군 생산"
- KMT_continuous_naval_production_desc:0 "우리 조선소에 자원을 집중 시키고, 숙련된 조선업자들에 병역을 면제함으로써 선박의 생산 시간을 획기적으로 단축할 수 있습니다다."
+ KMT_continuous_naval_production_desc:0 "우리 조선소에 자원을 집중 시키고, 숙련된 조선업자들에 병역을 면제함으로써 선박의 생산 시간을 획기적으로 단축할 수 있습니다."
  KMT_continuous_air_production:0 "공군 생산"
  KMT_continuous_air_production_desc:0 "우리는 항공산업을 재편하여 낭비를 없애고 생산을 간소화 할 수 있습니다"
  KMT_continuous_non_factory_construct:0 "건설 공학"
@@ -1865,340 +1865,340 @@
  KMT_north_plan_tt:0 "다음 상태 중 하나 :\n      §Y남차하얼§!\n      §Y차하얼§!\n      §Y동허베이§!\n      §YJ러헐§!\n      §Y랴오둥§!\n      §Y랴오닝§!\n      §Y기린§!\n      §Y쑹장§!\n      §Y헤이룽정§!      §Y북시안!      §Y동시안§!\n[Root.GetName]이(가) 소유하지 않고,  그 영토의 소유자는 [Root.GetName]와 평화로워야 합니다."
  KMT_north_plan_bypass_tt:0 "다음 모든 상태 :\n      §Y남치하얼§!\n      §Y치하얼§!\n      §Y동허베이§!\n      §Y러헐§!\n      §Y랴오닝§!\n      §Y랴오둥§!\n      §Y기린§!\n      §Y쑹장§!\n      §Y헤이룽정§!      §Y북시안§!      §YEast Xing'an§!\[Root.GetName]은(는) 그것들의 소유자와의 국경에 인접해야 합니다."
  ## 17/2/2017 ##
- KMT_29_available:0 "The 29th Arsenal available as industry concern\n"
+ KMT_29_available:0 "29번째 무기고 산업\n"
  ## 17/3/2017 ##
- KMT_lure_them_in_effect_tt:0 "§GWhen selected :§!\n"
- KMT_prep_2_tt:0 "Add 2 §YInfrastructure§! and 1 §YAir Base§! in all states neighbouring PRC"
- KMT_warlord_after_civil_war:0 "Unify China"
- KMT_warlord_after_civil_war_desc:0 "Now that the Communist Bandits have been destroyed, it is time for the warlords to meet the sword."
+ KMT_lure_them_in_effect_tt:0 "§G선택했을 때 :§!\n"
+ KMT_prep_2_tt:0 "§2개의 기반시설§!과 §Y1개의 공군기지§!를 중공과 인접한 주에 설치합니다."
+ KMT_warlord_after_civil_war:0 "하나의 중국"
+ KMT_warlord_after_civil_war_desc:0 "이제 빨갱이놈들이 몰락했으니, 다음은 군벌들 뿐입니다"
  ## 29/3/2017 ##
- KMT_deal_with_SIK:0 "Sinkiang Issue"
- KMT_deal_with_SIK_desc:0 "Sinkiang is an unalienable part of China, the local governor there has proven to be a seperatist. For that, their swift and immediate submission is requested, if this ultimatum doesn't work, our military should be enough for them to surrender."
+ KMT_deal_with_SIK:0 "신강 문제"
+ KMT_deal_with_SIK_desc:0 "신강은 중국에서 절대 넘길 수 없는 곳이며, 그곳의 지방관리는 분리주의자로 판명되었습니다. 그러기 위해서는 그들의 신속한 항복이 요구되는데, 이 최후통첩이 통하지 않으면 우리 군이 무력으로 항복을 얻어내야 할 것입니다."
  ## 10/4/2017 ##
- KMTwarlords_continuous_naval_production:0 "Naval Production"
- KMTwarlords_continuous_naval_production_desc:0 "By focusing resources on our shipyards and exempting skilled shipbuilders from military service, we can dramatically reduce production time for ships."
- KMTwarlords_continuous_air_production:0 "Air Production"
- KMTwarlords_continuous_air_production_desc:0 "We can reorganize our aviation industry to eliminate waste and streamline production."
- KMTwarlords_continuous_non_factory_construct:0 "Construction Engineering"
- KMTwarlords_continuous_non_factory_construct_desc:0 "There is still a lot of slack in our construction industry. By focusing our attention on it, we can achieve a significant improvent in construction speed. Unfortunately, the production of machine tools has proven a major bottleneck in the expansion of our heavy industry, so they won't benefit from efforts in this area. "
- KMTwarlords_continuous_reduce_training_time:0 "Army Training"
- KMTwarlords_continuous_reduce_training_time_desc:0 "By creating specialized advanced training units within each division, we can deploy even divisions that would previously have been held back to finish training to the front."
- KMTwarlords_continuous_suppression:0 "Resistance Suppression"
- KMTwarlords_continuous_suppression_desc:0 "By infiltrating the major resistance groups in occupied territory and turning their leaders, we can significantly reduce the amount of damage they can do."
- KMTwarlords_continuous_repair:0 "Construction Repair"
- KMTwarlords_continuous_repair_desc:0 "We will form specialized repair teams from factory and construction workers and centrally control their deployment to improve reconstruction of damaged infrastructure."
- KMTwarlords_continuous_tech_share:0 "Technology Sharing"
- KMTwarlords_continuous_tech_share_desc:0 "We will encourage our research institutes and universities to reach out to their counter parts in allied countries. This will gain us a tech sharing bonus."
- KMTwarlords_continuous_boost_freedom:0 "Increase Autonomy"
- KMTwarlords_continuous_boost_freedom_desc:0 "By reorganizing our colonial bureaucracy and recruiting native administrators, we will, in time, be able to take charge of our own affairs."
- KMTwarlords_continuous_restrict_freedom:0 "Suppress Subjects"
- KMTwarlords_continuous_restrict_freedom_desc:0 "Our colonial subjects have gotten rather silly ideas about things like "self-determination" or "national independence". It is time to disabuse them of these notions."
- KMTwarlords_claim_central_government_con_focus:0 "Claim the Position of Central Government"
- KMTwarlords_claim_central_government_con_focus_desc:0 "China shall come under our rule!"
- KMT_claim_central_government_con_focus:0 "Claim the Position of Central Government"
- KMT_claim_central_government_con_focus_desc:0 "China shall come under our rule!"
+ KMTwarlords_continuous_naval_production:0 "해군 생산"
+ KMTwarlords_continuous_naval_production_desc:0 "우리 조선소에 자원을 집중 시키고, 숙련된 조선업자들에 병역을 면제함으로써 선박의 생산 시간을 획기적으로 단축할 수 있습니다."
+ KMTwarlords_continuous_air_production:0 "공군 생산"
+ KMTwarlords_continuous_air_production_desc:0 "우리는 항공산업을 재편하여 낭비를 없애고 생산을 간소화 할 수 있습니다"
+ KMTwarlords_continuous_non_factory_construct:0 "건설 공학"
+ KMTwarlords_continuous_non_factory_construct_desc:0 "우리의 건설업은 아직도 허덕이고 있습니다. 거기에 우리의 관심을 집중시킴으로서, 우리는 건설 속도애서 상당한 즉흥성을 달성할 수 있다. 불행하게도 기계공구의 생산은 우리 중공업의 확장에 중요한 병목현상이 증목되었기 때문에, 그들은 이 분야에서 이익을 얻지 못할 것입니다."
+ KMTwarlords_continuous_reduce_training_time:0 "육군 훈련"
+ KMTwarlords_continuous_reduce_training_time_desc:0 "각 부서내에 전문화된 고급 훈련부대를 창설함으로서, 우리는 훈련을 마치기 위해 이전에 보류되었던 사단까지도 전선에 배치할 수 있다."
+ KMTwarlords_continuous_suppression:0 "저항군 진압"
+ KMTwarlords_continuous_suppression_desc:0 "점령지에 있는 주요 저항세력에 침투해 지도자들을 전향시킴으로서, 그들이 할 수 있는 피해의 양을 줄일 수 있다."
+ KMTwarlords_continuous_repair:0 "건축물 수리"
+ KMTwarlords_continuous_repair_desc:0 "공장과 건설 근로자 전문 수리팀을 배정하고 손상된 기반시설을 재건하기 위해 이들의 배치를 중앙에서 통제할 것입니다."
+ KMTwarlords_continuous_tech_share:0 "기술 공유"
+ KMTwarlords_continuous_tech_share_desc:0 "우리는 연구 기관과 대학들이 연합국과의 대응 부서에 손을 뻗치도록 장려할 것입니다. 이것은 우리에게 기술 보너스를 줄 것입니다."
+ KMTwarlords_continuous_boost_freedom:0 "자율성 증대"
+ KMTwarlords_continuous_boost_freedom_desc:0 "식민지 관료주의를 제정비하고 토착 행정관을 영입합으로써, 우리는 제때에 우리 자신의 일을 맡을 수 있을 것입니다. 
+ KMTwarlords_continuous_restrict_freedom:0 "독립 억압"
+ KMTwarlords_continuous_restrict_freedom_desc:0 "우리의 식민지 지배자들은 자주권이나 독립과 같은 것들에 대해 다소 어리석은 생각을 해왔다. 이제 그들을 이러한 관념에서 해방시킬 때가 됬다."
+ KMTwarlords_claim_central_government_con_focus:0 "중앙정부 주장"
+ KMTwarlords_claim_central_government_con_focus_desc:0 "중국은 우리의 지배하에 놓일 것입니다!"
+ KMT_claim_central_government_con_focus:0 "중앙정부 주장"
+ KMT_claim_central_government_con_focus_desc:0 "중국은 우리의 지배하에 놓일 것입니다!"
  KMT_own_central_gov_capital_tt:0 "Own the current capital of the Central Government : §Y[KMT_central_gov_tag.Capital.GetName]§!\n"
  ## 24/4/2017 ##
- KMT_enables_united_front_tt:0 "\n§GEnables United Front§!\n§RDisables Lianguang Incident and Xi'an Incident§!\n"
- KMT_no_united_front_unless_xian_incident_agreed_tt:0 "\n§RUnited Front will not be formed§!\n"
+ KMT_enables_united_front_tt:0 "\n§G연합 전선 활성화§!\n§R양광 사건과 시안 사건 비활성화§!\n"
+ KMT_no_united_front_unless_xian_incident_agreed_tt:0 "\n§R연합 전선이 형성되지 않음§!\n"
  ## 25/4/2017 ##
- KMT_will_take_scc_if_nk_falls_tt:0 "\n§YWill annex [SCC.GetName] unconditionally when Nanking falls.§!"
+ KMT_will_take_scc_if_nk_falls_tt:0 "\n§Y난징이 함락되면, 무조건 [SCC.GetName]을(를) 병합할 것입니다."
  ## 8/6/2017 ##
- KMT_take_SEA_tt:0 "§YCreate wargoals against owner of states in the Southeast Asia area.§!"
- KMT_take_pacific_tt:0 "§YCreate wargoals against owner of states in the Pacific area.§!"
- KMT_kill_mao:0 "Destroy The Revisionists"
- KMT_kill_mao_desc:0 "The bandits had been calling themselves as followers of the true path of Marxist-Leninism for too long. We must destroy these lying revisionist pigs to prevent more of our comrades and people falling for their hideous traps and lies!"
+ KMT_take_SEA_tt:0 "§Y동남아시아 주를 소유하는 국가에 대한 전쟁 목표를 얻습니다§!"
+ KMT_take_pacific_tt:0 "§Y태평양 지역을 소유하는 국가에 대한 전쟁 목표를 얻습니다§!"
+ KMT_kill_mao:0 "수정주의자 파괴"
+ KMT_kill_mao_desc:0 "빨갱이들은 오랫동안 마르크스-레닌주의 진정한 길을 따르는 자들을 자처해 왔다. 우리는 더 많은 동료들과 사람들이 끔찍한 함정과 거짓말에 빠지는 것을 막기 위해 수정주의자 돼지들을 파괴해야 한다!"
  
  
  ### ideas ###
- KMT_propaganda:0 "National Defense Propaganda"
- KMT_propaganda_desc:0 "With the Japanese threatening our very existence, all Chinese people must unite against them." 
- KMT_propaganda_busted:0 "National Defense Propaganda Discredited"
- KMT_propaganda_busted_desc:0 "Our people feel lied to. Some soldiers refuse to fight, saying that they joined the army to defend China, not to launch a war of aggression against fellow Chinese."
- taiwan_returned:0 "Taiwan Returned"
- taiwan_returned_desc:0 "By returning Taiwan to the Chinese, we have enraged many nationalistic politicians and officers. Our populace demands answers and sees us as traitors."
- KMT_national_institute_ns:0 "Asylum For Jews"
- neutrality_drift:0 "Daily Non-aligned Support:"
- KMT_government_reforming:0 "Rethinking The Republic"
- KMT_strengthening_the_republic:0 "Strengthening The Republic"
- KMT_into_democracy:0 "Into Democracy"
- KMT_into_fascism:0 "The New Life Movement"
- KMT_stay_non_aligned:0 "Governmental Status Quo"
- KMT_into_mao:0 "Communism Propaganda"
- KMT_into_mao_desc:0 "Our policy is still not better than Mao's, people will still uprise but it should happen less often."
- KMT_central_power:0 "Centralized Power"
- KMT_despotism:0 "Despotism"
- KMT_parliament:0 "Rural Reconstruction Movement"
- KMT_universal_sufferage_ns:0 "The Three Principles Of The People"
- KMT_people_knowledge:0 "Education Of Citizenship"
- KMT_westernization_ns:0 "Westernization"
- KMT_firm_belief:0 "Firm Belief"
- KMT_militarism: "National Military Indoctrination"
- KMT_communism_banned:0 "Communism Banned"
- KMT_empire_plan:0 "The Empire Plan"
- KMT_framed_mongolia:0 "Untrustworthy Outsider"
- KMT_framed_mongolia_desc:0 "Our former faction leader has trusted some documents of unknown origin and we are now on our own. The outrageous citizens have form an expulsive force towards outsiders."
- KMT_war_propaganda_idea:0 "War Propaganda"
- KMT_war_propaganda_idea_2:0 "War Propaganda"
- KMT_military_first_idea:0 "Military First"
- KMT_infiltrated_mongol:0 "Closed Forrign Policy"
- KMT_privilege_to_proletarians_idea:0 "Privilege To Proletarians"
- KMT_baihua_stage_1_idea:0 "Soft Comments"
- KMT_baihua_stage_1_finished:0 "Rightist Citizens Arrested"
- KMT_baihua_stage_2_idea:0 "Numerous Critiques"
- KMT_baihua_stage_2_finished:0 "Rightist Commentators Arrested"
- KMT_baihua_stage_2_finished_effect:0 "Weakened Subversive Activities"
- KMT_baihua_stage_3_idea:0 "Radical Comments"
- KMT_baihua_stage_3_finished:0 "Rightist Politicians Arrested"
- KMT_baihua_stage_3_finished_effect:0 "Underground Activities Busted"
- KMT_baihua_stage_4_idea:0 "Intolerable Comments"
- KMT_baihua_stage_4_finished:0 "Rightist Party Memebers Arrested"
- KMT_baihua_stage_4_finished_effect:0 "Secret Clique Busted"
- KMT_baihua_stage_5_idea:0 "Seperatism Rising"
- KMT_baihua_stage_5_finished:0 "Rightists Arrested"
- KMT_baihua_stage_5_finished_effect:0 "Rightist Activities Banned"
- KMT_great_leap_famine_idea:0 "Famine"
- KMT_recovering_from_famine:0 "Recovering From Famine"
- KMT_peoples_commune:0 "People's Commune"
- KMT_three_red_banner:0 "Three Red Banners"
- KMT_war_fanaticism_idea:0 "War Fanaticism"
- KMT_rear:0 "Big Rear Plan"
- KMT_rear_desc:0 "§RThis National Spirit will expire once the war with Japan is over.§!"
- KMT_lure_them_in:0 "Lure-Them-In Strategy"
- KMT_lure_them_in_desc:0 "§RThis National Spirit will expire once the war with Japan is over.§!"
+ KMT_propaganda:0 "국방 선전"
+ KMT_propaganda_desc:0 "일본인들이 우리 존재 자체를 위협하고 있는 상황에서, 모든 중국인들은 그들과 단결해야 한다"
+ KMT_propaganda_busted:0 "국방 선전 실패"
+ KMT_propaganda_busted_desc:0 "우리 국민들은 거짓말을 하고 있다고 생각한다. 일부 병사들이 중국인을 상대로 한 침략 전쟁이 아닌, 중국을 지키기 위해 입대했다면서 전투를 거부했다."
+ taiwan_returned:0 "타이완 반환"
+ taiwan_returned_desc:0 "중국에 타이완이 반환되자, 우리의 많은 정치인들과 장교들은 격분했다. 우리의 대중들은 우리를 반역자로 보고 있다."
+ KMT_national_institute_ns:0 "유대인 망명"
+ neutrality_drift:0 "일일 비동맹 지원:"
+ KMT_government_reforming:0 "공화국 재고"
+ KMT_strengthening_the_republic:0 "공화국 강화"
+ KMT_into_democracy:0 "민주주의로"
+ KMT_into_fascism:0 "신생활운동"
+ KMT_stay_non_aligned:0 "현상 정부"
+ KMT_into_mao:0 "공산주의 선전"
+ KMT_into_mao_desc:0 "우리는 현 정책은 마오 정부보다 좋지 않다. 사람들은 여전히 시위하고 있고, 우리는 그 빈도를 줄여야 할 것이다."
+ KMT_central_power:0 "중앙정부화"
+ KMT_despotism:0 "전제정치"
+ KMT_parliament:0 "농촌 재건 운동"
+ KMT_universal_sufferage_ns:0 "삼민주의"
+ KMT_people_knowledge:0 "시민의식 교육"
+ KMT_westernization_ns:0 "서구화"
+ KMT_firm_belief:0 "굳은 신념"
+ KMT_militarism: "국군 세뇌"
+ KMT_communism_banned:0 "공산주의 금지"
+ KMT_empire_plan:0 "제국 계획"
+ KMT_framed_mongolia:0 "믿을 수 없는 바깥"
+ KMT_framed_mongolia_desc:0 "우리의 전 지도자는 출처 불명의 문서들을 신뢰해 왔고, 우리는 이제 우리 자신이다. 그 터무니 없는 세력들은 외부인을 향해 충동적인 세력을 형성해왔다.
+ KMT_war_propaganda_idea:0 "전시 선전"
+ KMT_war_propaganda_idea_2:0 "전시 선전"
+ KMT_military_first_idea:0 "최초의 군대"
+ KMT_infiltrated_mongol:0 "닫힌 이민 정책"
+ KMT_privilege_to_proletarians_idea:0 "노동자의 권한"
+ KMT_baihua_stage_1_idea:0 "부드러운 비판"
+ KMT_baihua_stage_1_finished:0 "우파 시민 체포"
+ KMT_baihua_stage_2_idea:0 "많은 비판"
+ KMT_baihua_stage_2_finished:0 "우파 비평가 체포"
+ KMT_baihua_stage_2_finished_effect:0 "약화된 전복 활동"
+ KMT_baihua_stage_3_idea:0 "급진적인 비판"
+ KMT_baihua_stage_3_finished:0 "우파 정치인 체포"
+ KMT_baihua_stage_3_finished_effect:0 "지하 활동 체포"
+ KMT_baihua_stage_4_idea:0 "견딜 수 없는 비판"
+ KMT_baihua_stage_4_finished:0 "우파 회원 체포"
+ KMT_baihua_stage_4_finished_effect:0 "비밀 파벌 체포
+ KMT_baihua_stage_5_idea:0 "분리주의"
+ KMT_baihua_stage_5_finished:0 "우파 체포"
+ KMT_baihua_stage_5_finished_effect:0 "우파 활동 금지"
+ KMT_great_leap_famine_idea:0 "기근"
+ KMT_recovering_from_famine:0 "치유중인 기근"
+ KMT_peoples_commune:0 "인민 코뮌"
+ KMT_three_red_banner:0 "삼면홍기"
+ KMT_war_fanaticism_idea:0 "전쟁 광신주의"
+ KMT_rear:0 "후방 계획"
+ KMT_rear_desc:0 "§R일본과의 전쟁이 끝나면 국민정신은 없어질 것입니다.!"
+ KMT_lure_them_in:0 "유인전략"
+ KMT_lure_them_in_desc:0 "§R일본과의 전쟁이 끝나면 국민정신은 없어질 것입니다.§!"
  ### 9/7/2016 ###
- KMT_warlord_cliques_pre_war:0 "Warlord Cliques"
- KMT_warlord_cliques_pre_war_desc:0 "The warlord cliques scattered throughout China have weakened the central government."
- KMT_warlord_cliques_3:0 "Warlord Cliques"
- KMT_warlord_cliques_desc:0 "The warlord cliques scattered throughout China have weakened the central government."
+ KMT_warlord_cliques_pre_war:0 "군벌"
+ KMT_warlord_cliques_pre_war_desc:0 "중국 전역에 흩어져 있는 군벌들은 중국 정부를 약화 시켰습니다."
+ KMT_warlord_cliques_3:0 "군벌"
+ KMT_warlord_cliques_desc:0 "중국 전역에 흩어져 있는 군벌들은 중국 정부를 약화 시켰습니다."
  KMT_warlord_cliques_2:0 "Warlord Cliques"
- KMT_warlord_cliques_desc:0 "The warlord cliques scattered throughout China have weakened the central government."
- KMT_warlord_cliques_1:0 "Warlord Cliques"
- KMT_warlord_cliques_1_desc:0 "The warlord cliques scattered throughout China have weakened the central government."
- KMT_warlord_cliques_war:0 "Warlord Armies"
- KMT_warlord_cliques_war_desc:0 "Although the warlords' armies have integrated into ours, they are obviously only loyal to their master."
+ KMT_warlord_cliques_desc:0 "중국 전역에 흩어져 있는 군벌들은 중국 정부를 약화 시켰습니다."
+ KMT_warlord_cliques_1:0 "군벌"
+ KMT_warlord_cliques_1_desc:0 "중국 전역에 흩어져 있는 군벌들은 중국 정부를 약화 시켰습니다."
+ KMT_warlord_cliques_war:0 "군벌 군대"
+ KMT_warlord_cliques_war_desc:0 "비록 군벌의 군대가 우리와 통합되었지만, 그들은 여전히 그들의 주인에게만 충성하고 있습니다."
  ## 10/7/2016 ##
- sino_jap_war_fail_naisen:0 "Naisen"
- sino_jap_war_fail_naisen_desc:0 "The failure in conquering China has led to a fragmentation among the government and the publics, our nation is now on the verge of total collapse!"
- sino_jap_war_fail_naisen_overthrow:0 "Kakumei Seishin"
- sino_jap_war_fail_naisen_overthrow_desc:0 "The failure in conquering China has shown the current government's inability to lead Japan. We must rise against it and pull Japan out of the abyssal darkness!"
- ## 14/7/2016 ##
- KMT_chennault:0 "US Aviation Advisor"
- KMT_chennault_desc:0 "With the retired USAAC aviator Claire Lee Chennault as our aviation advisor, our air force will perform better in the field."
+ sino_jap_war_fail_naisen:0 "내전"
+ sino_jap_war_fail_naisen_desc:0 "중국을 정복하지 못한 것이 정부와 국민 사이의 분열로 치달았고, 우리나라는 완전히 붕괴될 위험에 처 했습니다."
+ sino_jap_war_fail_naisen_overthrow:0 "혁명 정신"
+ sino_jap_war_fail_naisen_overthrow_desc:0 "중국을 정복하지 못한 것은 현 정부가 일본을 이끌어갈 능력이 없음을 보여준 것입니다. 우리는 그것에 맞서서 일본을 비참한 어둠 속에서 끌어내야 합니다!"
+## 14/7/2016 ##
+ KMT_chennault:0 "미국 조종사 교관"
+ KMT_chennault_desc:0 "은퇴한 미 공군 비행사 클레어 셔놀트가 항공 고문으로 임명되면 우리 공군은 현장에서 더 좋은 성과를 낼 것입니다."
  ## 22/8/2016 ##
- kmt_western_volunteers:0 "Chinese Volunteers"
- kmt_chinese_support:0 "Chinese Support Groups"
- incompetent_government:0 "Incompetent Government"
- incompetent_industry_fake:0 "Incompetent Industry"
- incompetent_industry_real:0 "Incompetent Industry"
- incompetent_industry_real_2:0 "Incompetent Industry"
- incompetent_industry_real_3:0 "Incompetent Industry"
- incompetent_industry_real_4:0 "Incompetent Industry"
- incompetent_industry_real_5:0 "Incompetent Industry"
- incompetent_industry_fake_desc:0 "China’s young and inexperienced industry is unprepared for the coming storm.\n\n§YResearch Industry Technologies and build more factories to lower the penalty§!"
- incompetent_industry_real_desc:0 "China’s young and inexperienced industry is unprepared for the coming storm.\n\n§YResearch Industry Technologies and build more factories to lower the penalty§!"
- incompetent_industry_real_2_desc:0 "China’s young and inexperienced industry is unprepared for the coming storm.\n\n§YResearch Industry Technologies and build more factories to lower the penalty§!"
- incompetent_industry_real_3_desc:0 "China’s young and inexperienced industry is unprepared for the coming storm.\n\n§YResearch Industry Technologies and build more factories to lower the penalty§!"
- incompetent_industry_real_4_desc:0 "China’s young and inexperienced industry is unprepared for the coming storm.\n\n§YResearch Industry Technologies and build more factories to lower the penalty§!"
- incompetent_industry_real_5_desc:0 "China’s young and inexperienced industry is unprepared for the coming storm.\n\n§YResearch Industry Technologies and build more factories to lower the penalty§!"
- public_iliteracy:0 "Public Iliteracy"
- public_iliteracy_desc:0 "The Chinese education system lies in tatters after years of turmoil and civil war."
- public_iliteracy_2:0 "Public Iliteracy"
- public_iliteracy_2_desc:0 "The Chinese education system lies in tatters after years of turmoil and civil war."
- kmt_military_youth:0 "MIlitary Youth"
- kmt_dare_to_die_corps_idea:0 "Dare-To-Die Corps"
+ kmt_western_volunteers:0 "중국인 의용군"
+ kmt_chinese_support:0 "중국인 지원병"
+ incompetent_government:0 "무능한 정부"
+ incompetent_industry_fake:0 "비경쟁 산업"
+ incompetent_industry_real:0 "비경쟁 산업"
+ incompetent_industry_real_2:0 "비경쟁 산업"
+ incompetent_industry_real_3:0 "비경쟁 산업"
+ incompetent_industry_real_4:0 "비경쟁 산업"
+ incompetent_industry_real_5:0 "비경쟁 산업"
+ incompetent_industry_fake_desc:0 "중국의 젊고 부족한 산업은 다가올 폭풍에 대비하지 못하고 있습니다.\n\n§Y산업 연구 기술과 공장 건설 능력에 작은 패널티 부여§!"
+ incompetent_industry_real_desc:0 "중국의 젊고 부족한 산업은 다가올 폭풍에 대비하지 못하고 있습니다.\n\n§Y산업 연구 기술과 공장 건설 능력에 작은 패널티 부여§!"
+ incompetent_industry_real_2_desc:0 "중국의 젊고 부족한 산업은 다가올 폭풍에 대비하지 못하고 있습니다.\n\n§Y산업 연구 기술과 공장 건설 능력에 작은 패널티 부여§!"
+ incompetent_industry_real_3_desc:0 "중국의 젊고 부족한 산업은 다가올 폭풍에 대비하지 못하고 있습니다.\n\n§Y산업 연구 기술과 공장 건설 능력에 작은 패널티 부여§!"
+ incompetent_industry_real_4_desc:0 "중국의 젊고 부족한 산업은 다가올 폭풍에 대비하지 못하고 있습니다.\n\n§산업 연구 기술과 공장 건설 능력에 작은 패널티 부여§!"
+ incompetent_industry_real_5_desc:0 "중국의 젊고 부족한 산업은 다가올 폭풍에 대비하지 못하고 있습니다.\n\n§Y산업 연구 기술과 공장 건설 능력에 작은 패널티 부여§!"
+ public_iliteracy:0 "문맹 문제"
+ public_iliteracy_desc:0 "중국 교육 체계는 수년간의 혼란과 내전 이후 혼란 상태에 놓여 있다."
+ public_iliteracy_2:0 "문맹 문제"
+ public_iliteracy_2_desc:0 "중국 교육 체계는 수년간의 혼란과 내전 이후 혼란 상태에 놓여 있다."
+ kmt_military_youth:0 "청년 군대"
+ kmt_dare_to_die_corps_idea:0 "국민혁명군"
  ## 6/9/2016 ##
- communism_defeated_kmt:0 "Communism Defeated"
- kmt_planning_the_civil_war:0 "Planning The Civil War"
- kmt_planning_the_civil_war_desc:0 "Mao does not want anyone to gain benefit from the upcoming civil war between the Chinese. This is a Chinese matter."
+ communism_defeated_kmt:0 "공산주의 패배"
+ kmt_planning_the_civil_war:0 "내전 계획"
+ kmt_planning_the_civil_war_desc:0 "마오는 누군가가 중국인들의 내전에서 이익을 얻는 것을 원하지 않는다. 이것은 중국인들과의 문제이다."
  ## 8/9/2016 ##
- kmt_national_treasure_ransacked:0 "Loss Of National Treasures"
- kmt_defend_the_treasures:0 "Defend The National Treasures!"
+ kmt_national_treasure_ransacked:0 "국보 손실"
+ kmt_defend_the_treasures:0 "국보를 지켜라!"
  ## 3/10/2016 ##
- KMT_jinyuanquan_inflation:0 "Hyperinflation"
- KMT_jinyuanquan_inflation_desc:0 "Our method of printing more Gold Yuan to pay the communist without additional gold as backing has cause a severe inflation in our economy! And the discontent citizens and soldiers are now deserting to the communist!"
- KMT_corrupted_kmt:0 "Strengthened Will"
- KMT_corrupted_kmt_desc:0 "The corrupted officials of our enemy has strengthen our comrades' will to bring down their rotten structure!"
- KMT_aid_to_xsm:0 "Aid From China"
+ KMT_jinyuanquan_inflation:0 "초인플레이션"
+ KMT_jinyuanquan_inflation_desc:0 "공산주의자들에게 배상하기 위해 더 많은 돈을 인쇄하는 방법은 우리 경제에 심각한 초인플래이션을 야기 시켰습니다! 불만스러운 시민들과 군인들이 공산주의자에 가담하고 있습니다!"
+ KMT_corrupted_kmt:0 "강화된 의지"
+ KMT_corrupted_kmt_desc:0 "우리의 적과 부패한 공무원들이 그들의 썩은 구조물을 무너뜨리려는 동지들의 의지를 강화시켜 주었다!"
+ KMT_aid_to_xsm:0 "중국에서 온 원조"
  ## 16/10/2016 ##
- KMT_let_bygones_be_bygones:0 "Tolerant Government"
- KMT_harsh_takeover:0 "Harsh Takeover"
+ KMT_let_bygones_be_bygones:0 "관용 정부"
+ KMT_harsh_takeover:0 "냉혹한 국유화"
  ## 20/10/2016 ## Tomorrow I can play Civ VI !!!
- KMT_effective_integration:0 "Efficient Integration"
- KMT_effective_integration_desc:0 "The smooth and efficient integration of the warlord's forces give us more control over the military and swifter decision making."
- KMT_focus_on_own_army:0 "Focus On Central Army"
- KMT_focus_on_own_army_desc:0 "The warlord's forces are too under-equipped and undisciplined, we should rely more on our Central Army instead of theirs, lest wasting important fund."
- KMT_sino_german_joint_research:0 "Sino-German Joint Military Research"
+ KMT_effective_integration:0 "효율적 통합"
+ KMT_effective_integration_desc:0 "군벌들의 원활하고 효율적인 통합은 우리에게 군에 대한 더 많은 통제권과 더 신속한 의사결정을 가능하게 합니다."
+ KMT_focus_on_own_army:0 "중앙군"
+ KMT_focus_on_own_army_desc:0 "군벌의 군대는 너무 불충분하고 교양이 없습니다. 우리는 중요한 자금을 낭비하지 않도록, 그들의 군대 대신에 우리의 중앙 군대에 더 의존해야 합니다."
+ KMT_sino_german_joint_research:0 "중-독 군사 기술 협의 조약"
  ## 29/10/2016 ##
- incompetent_industry_fake_navy:0 "Incompetent Naval Industry"
- incompetent_industry_fake_navy_desc:0 "China has always been a land power. A Blue-Water navy remains but a pipe dream."
- incompetent_industry_real_navy:0 "Incompetent Naval Industry"
- incompetent_industry_real_navy_desc:0 "China has always been a land power. A Blue-Water navy remains but a pipe dream."
- incompetent_industry_real_2_navy:0 "Incompetent Naval Industry"
- incompetent_industry_real_2_navy_desc:0 "China has always been a land power. A Blue-Water navy remains but a pipe dream."
- incompetent_industry_real_3_navy:0 "Incompetent Naval Industry"
- incompetent_industry_real_3_navy_desc:0 "China has always been a land power. A Blue-Water navy remains but a pipe dream."
- incompetent_industry_real_4_navy:0 "Incompetent Naval Industry"
- incompetent_industry_real_4_navy_desc:0 "China has always been a land power. A Blue-Water navy remains but a pipe dream."
- incompetent_industry_real_5_navy:0 "Incompetent Naval Industry"
- incompetent_industry_real_5_navy_desc:0 "China has always been a land power. A Blue-Water navy remains but a pipe dream."
+ incompetent_industry_fake_navy:0 "무능한 조선 산업"
+ incompetent_industry_fake_navy_desc:0 "중국은 항상 육지에선 강국이였지만, 바다에서는 손가락만 빨고 있었다"
+ incompetent_industry_real_navy:0 "무능한 조선 산업"
+ incompetent_industry_real_navy_desc:0 "중국은 항상 육지에선 강국이였지만, 바다에서는 손가락만 빨고 있었다"
+ incompetent_industry_real_2_navy:0 "무능한 조선 산업"
+ incompetent_industry_real_2_navy_desc:0 "중국은 항상 육지에선 강국이였지만, 바다에서는 손가락만 빨고 있었다"
+ incompetent_industry_real_3_navy:0 "무능한 조선 산업"
+ incompetent_industry_real_3_navy_desc:0 "중국은 항상 육지에선 강국이였지만, 바다에서는 손가락만 빨고 있었다."
+ incompetent_industry_real_4_navy:0 "무능한 조선 산업"
+ incompetent_industry_real_4_navy_desc:0 "중국은 항상 육지에선 강국이였지만, 바다에서는 손가락만 빨고 있었다"
+ incompetent_industry_real_5_navy:0 "무능한 조선 산업"
+ incompetent_industry_real_5_navy_desc:0 "중국은 항상 육지에선 강국이였지만, 바다에서는 손가락만 빨고 있었다"
  ## 30/10/2016 ##
- KMT_jap_military_advisors:0 "Japanese Military Advisors"
- KMT_jap_military_advisors_desc:0 "§YAllow Banzai Charge§!"
+ KMT_jap_military_advisors:0 "일본인 군사 교관"
+ KMT_jap_military_advisors_desc:0 "§Y반자이 전술 허용§!"
  ## 6/11/2016 ##
- KMT_sov_military_advisors:0 "Soviet Military Advisors"
- strive_for_independence:0 "Strive For Independence"
- RAJ_commie_revolution:0 "Revolution!"
- KMT_resist_the_reds:0 "Resist Communism"
- KMT_resist_the_reds_desc:0 "§YWill gain buff when having war against communism government.§!"
- KMT_anti_communism_sentiment:0 "Anti-Communism Sentiment"
- KMT_anti_communism_sentiment_desc:0 "§RWill be removed when not at war with communists.§!"
- JAP_kodoha_idea:0 "Kodoha In Power"
- JAP_toseiha_idea:0 "Toseiha In Power"
+ KMT_sov_military_advisors:0 "소련 군사 교관
+ strive_for_independence:0 "독립투쟁"
+ RAJ_commie_revolution:0 "혁명!"
+ KMT_resist_the_reds:0 "공산주의에 저항"
+ KMT_resist_the_reds_desc:0 "§Y공산주의 정부와 전쟁을 할때, 그들은 열광할 것입니다.§!"
+ KMT_anti_communism_sentiment:0 "반공감정"
+ KMT_anti_communism_sentiment_desc:0 "§R공산주의자들과 전쟁을 하지 않을 때에 제거될 것입니다§!"
+ JAP_kodoha_idea:0 "황도파 세력"
+ JAP_toseiha_idea:0 "통제파 세력"
  ## 24/12/2016 ##
- incompetent_industry_bookmark:0 "Incompetent Industry"
- incompetent_industry_bookmark_desc:0 "China’s young and inexperienced industry is unprepared for the coming storm."
- KMT_chennault_air_chief:0 "Claire Lee Chennault"
+ incompetent_industry_bookmark:0 "비경쟁 산업"
+ incompetent_industry_bookmark_desc:0 "중국의 젊고 부족한 산업은 다가올 폭풍에 대비하지 못하고 있습니다."
+ KMT_chennault_air_chief:0 "클레어 셔놀트"
  ## 1/1/2017 ##
- KMT_chinese_matter:0 "Chinese Matter"
+ KMT_chinese_matter:0 "중국인 문제"
  ## 1/12/2017 ##
- KMT_corrupted_government:0 "Corrupted Economy"
- KMT_corrupted_government_lesser:0 "Corrupted Economy"
- KMT_corrupted_government_wartime:0 "Corrupted Economy"
+ KMT_corrupted_government:0 "손상된 경제"
+ KMT_corrupted_government_lesser:0 "손상된 경제"
+ KMT_corrupted_government_wartime:0 "손상된 경제"
  ## 22/1/2017 ##
- KMT_continue_the_national_revolution:0 "Continue The National Revolution"
+ KMT_continue_the_national_revolution:0 "멈추지 않는 혁명"
  ## 27/1/2017 ##
- KMT_corrupted_government_wartime_lesser:0 "Corrupted Economy"
+ KMT_corrupted_government_wartime_lesser:0 "손상된 경제"
  ## 29/1/2017 ##
- KMT_chongqing_steel:0 "The 29th Arsenal"
- KMT_central_wireless:0 "Central Wireless Equipment Corporation"
- Taiyuan_armory:0 "Taiyuan Arsenal"
- KMT_motorised_company:0 "China Automobile Manufacture Company"
- KMT_retreat_to_taiwan_idea:0 "Retreat To Taiwan!"
- KMT_science_funding:0 "Academia Sinica"
+ KMT_chongqing_steel:0 "29번째 무기고"
+ KMT_central_wireless:0 "중앙 무선 장비 기업"
+ Taiyuan_armory:0 "타이위안 무기고"
+ KMT_motorised_company:0 "중국 자동차 제조 회사"
+ KMT_retreat_to_taiwan_idea:0 "타이완으로 후퇴하라!"
+ KMT_science_funding:0 "중앙연구원"
  ## 3/2/2017 ##
- KMT_warlord_cliques_4:0 "Warlord Cliques"
- KMT_warlord_cliques_4_desc:0 "The warlord cliques scattered throughout China have weakened the central government."
+ KMT_warlord_cliques_4:0 군벌"
+ KMT_warlord_cliques_4_desc:0 "중국 전역에 흩어져 있는 군벌들은 중앙정부를 약화 시켰다."
  ## 4/2/2017 ##
- GXC_huang_xuchu:0 "Huang Xuchu"黃旭初
- GXC_huang_shaohong_pa:0 "Huang Shaohong"黃紹竑
- YUT_hu_hanwen:0 "Hu Hanmin"胡漢文
- YUT_li_jishen:0 "Li Jishen"李濟深
- YUT_yu_hanmou:0 "Yu Hanmou"余漢謀
- YUT_huang_zhenqiu:0 "Huang Zhenqiu"黃鎮球
- YUT_ye_zhao:0 "Ye Zhao"葉肇
- YUT_deng_shizeng:0 "Deng Shizeng"鄧世增
- YUT_lin_yizhong:0 "Lin Yizhong"林翼中
- YUT_feng_zhuwan:0 "Feng Zhuwan"馮祝萬
- YUT_zhang_fakui:0 "Zhang Fakui"張發奎
- YUT_cai_tingkai:0 "Cai Tingkai"蔡廷鍇
- YUT_chen_ce:0 "Chen Ce"陳策
- YUT_huang_guangrui:0 "Huang Guangrui"黃光銳
- YUT_feng_qicong:0 "Feng Qicong"馮啟聰
- YUT_liu_guangkai:0 "Liu Guangkai"劉廣凱
- YUT_xu_heng:0 "Xu Heng"徐亨
- YUT_zhou_baoheng:0 "Zhou Baoheng"周寶衡
- KMT_media_pressure:0 "Pressure From Mass Media"
- KMT_media_pressure_2:0 "Pressure From Mass Media"
+ GXC_huang_xuchu:0 "황욱초"黃旭初
+ GXC_huang_shaohong_pa:0 "황초횡"黃紹竑
+ YUT_hu_hanwen:0 "후한민"胡漢文
+ YUT_li_jishen:0 "이제심"李濟深
+ YUT_yu_hanmou:0 "유안무"余漢謀
+ YUT_huang_zhenqiu:0 "황전추"黃鎮球
+ YUT_ye_zhao:0 "엽조"葉肇
+ YUT_등세증:0 "등세층"鄧世增
+ YUT_lin_yizhong:0 "임익중"林翼中
+ YUT_feng_zhuwan:0 "풍주만"馮祝萬
+ YUT_zhang_fakui:0 "장빌규"張發奎
+ YUT_cai_tingkai:0 "채정개"蔡廷鍇
+ YUT_chen_ce:0 "진책"陳策
+ YUT_huang_guangrui:0 "황광예"黃光銳
+ YUT_feng_qicong:0 "마계총"馮啟聰
+ YUT_liu_guangkai:0 "유광개"劉廣凱
+ YUT_xu_heng:0 "서형"徐亨
+ YUT_zhou_baoheng:0 "주보형"周寶衡
+ KMT_media_pressure:0 "대중으로부터의 압력"
+ KMT_media_pressure_2:0 "대중으로부터의 압력"
  ## 5/2/2017 ##
- KMT_anti_chiang_idea:0 "Anti-Chiang"
- KMT_dai_li:0 "Dai Li"
+ KMT_anti_chiang_idea:0 "반 장개석"
+ KMT_dai_li:0 "다이 리"
  ## 19/2/2017 ##
- KMT_weak_army:0 "Incompetent Army"
- KMT_weak_army_desc:0 "The NRA is comprised of under-trained soldiers and incompetent commanders.\n\n§YHaving at least 350 army experience will trigger an event to lower the penalty§!"
- KMT_weak_army_lesser:0 "Incompetent Army"
- KMT_weak_army_lesser_desc:0 "The NRA is comprised of under-trained soldiers and incompetent commanders.\n\n§YHaving at least 350 army experience will trigger an event to lower the penalty§!"
- KMT_powerful_blueshirts:0 "Powerful Blueshirts"
- KMT_powerful_blueshirts_desc:0 "The BIS is an intellegence agency under the Blueshirts, which has played an important role in assisting the current regime's rise to power. Now that they have been granted more power by the current ruler, no one can escape from their grasp."
+ KMT_weak_army:0 "무능한 군대"
+ KMT_weak_army_desc:0 "국가혁명군은 훈련되지 않은 군인과 무능한 지휘관으로 구성되었다.\n\n§Y이 패널티를 낮추려면 적어도 350의 군사 경험치가 필요할 것입니다.§!"
+ KMT_weak_army_lesser:0 "무능한 군대"
+ KMT_weak_army_lesser_desc:0 "국가혁명군은 훈련되지 않은 군인과 무능한 지휘관으로 구성되었다.\n\n§Y이 패널티를 낮추려면 적어도 350의 군사 경험치가 필요할 것입니다.§!"
+ KMT_powerful_blueshirts:0 "남의사"
+ KMT_powerful_blueshirts_desc:0 "남의사는 현 정권의 권력 도약을 돕는 중요한 역할을 해왔습니다. 이제 그들은 현재의 통치자에서 더 많은 권력을 부여 받았으므로, 아무도 그들의 손아귀에서 벗어날 수 없다."
  ## 9/3/2017 ##
- KMT_sichuan_famine_no_aid:0 "Famine in Sichuan"
- KMT_sichuan_famine_aid:0 "Battling Famine"
- KMT_united_front:0 "United Front"
- KMT_doolittle_failed:0 "Defended Air Raid"
- KMT_doolittle_raid:0 "Doolittle Raid"
+ KMT_sichuan_famine_no_aid:0 "쓰촨의 기근"
+ KMT_sichuan_famine_aid:0 "기근과의 싸움"
+ KMT_united_front:0 "연합 전선"
+ KMT_doolittle_failed:0 "공습 방어"
+ KMT_doolittle_raid:0 "둘리틀 공습"
  ## 17/3/2017 ##
- KMT_lure_them_in_4:0 "Lure-Them-In Strategy"
- KMT_lure_them_in_2:0 "Lure-Them-In Strategy"
- KMT_lure_them_in_1:0 "Lure-Them-In Strategy"
- KMT_lure_them_in_3:0 "Lure-Them-In Strategy"
- KMT_united_front_desc:0 "§RIf you are one of the warlords, you will be automatically annexed by [CHI.GetName] when you capitulate.§!"
+ KMT_lure_them_in_4:0 "유인 전략"
+ KMT_lure_them_in_2:0 "유인 전략"
+ KMT_lure_them_in_1:0 "유인 전략"
+ KMT_lure_them_in_3:0 "유인 전략"
+ KMT_united_front_desc:0 "§R만약 당신이 군벌 중 하나라면, 당신이 항복할때 자동적으로 [CHI.GetName]에 합병될 것입니다§!"
  ## 10/4/2017 ##
- KMT_central_government_idea:0 "Central Government"
- KMT_central_government_idea_desc:0 "This nation is proclaimed to be the only legitimate government in China."
- KMT_central_government_lost:0 "Central Government Position Lost"
- KMT_central_government_lost_desc:0 "This nation has lost its position as the China Central Government and it has an adverse effect on her."
+ KMT_central_government_idea:0 "중앙정부"
+ KMT_central_government_idea_desc:0 "이 나라는 중국에서 유일한 정부라고 선포했다."
+ KMT_central_government_lost:0 "중앙정부의 자격을 잃다"
+ KMT_central_government_lost_desc:0 아 나라는 중앙 정부로서의 지위를 잃었고, 이 국가에 매우 불리한 영향을 끼쳤다."
  ## 13/4/2017 ##
- KMT_long_yun:0 "Long Yun"
- KMT_ma_bufang:0 "Ma Bufang"
- KMT_yan_xishan:0 "Yan Xishan"
- KMT_sun_lijen:0 "Sun Li-jen"孫立人
+ KMT_long_yun:0 "용운"
+ KMT_ma_bufang:0 "마부팡"
+ KMT_yan_xishan:0 "엔시샨"
+ KMT_sun_lijen:0 "쑨리런"孫立人
  ## 14/4/2017 ##
- YUT_chen_jitang:0 "Chen Jitang"
- XIA_zhao_hengti:0 "Zhao Hengti"趙恆惕
- XIA_he_jian:0 "He Jian"何鍵
- XIA_zhang_zhizhong:0 "Zhang Zhizhong"張治中
- XIA_chen_mingren:0 "Chen Mingren"陳明仁
- XIA_tang_shengzhi:0 "Tang Shengzhi"唐生智
- XIA_liu_jianxu:0 "Liu Jianxu"劉建緒
- XIA_cheng_qian:0 "Cheng Qian"程潛
- XIA_tao_guang:0 "Tao Guang"陶廣
- XIA_li_jue:0 "Li Jue"李覺
- XIA_zhou_lan:0 "Zhou Lan"周孄
- XIA_liu_xing:0 "Liu Xing"劉興
- XIA_liu_fei:0 "Liu Fei"劉斐
- SCC_generic_communist_revolutionary:0 "Pan Wenhua"潘文華
- SCC_deng_hanxiang:0 "Deng Hanxiang"鄧漢祥
- SCC_liu_hangshen:0 "Liu Hangshen"劉航深
- SCC_gan_jieyong:0 "Gan Jiyong"甘績鏞
- SCC_zhong_tiqian:0 "Zhong Tiqian"鐘體乾
- SCC_fu_chang:0 "Fu Chang"傅常
- SCC_li_jiayu:0 "Li Jiayu"李家鈺
- SCC_yang_sen:0 "Yang Sen"楊森
- SCC_liu_wenhui:0 "Liu Wenhui"劉文輝
- SCC_sun_zhen:0 "Sun Zhen"孫震
- SCC_tang_shizun:0 "Tang Shizun"唐式遵
- SCC_wang_zuanxu:0 "Wang Zuanxu"王纘緒
- SCC_deng_xihou:0 "Deng Xihou"鄧錫侯
- SCC_tian_song_yao:0 "Tian Songyao"田頌堯
- SCC_liu_xiang:0 "Liu Xiang"劉湘
+ YUT_chen_jitang:0 "천지탕"
+ XIA_zhao_hengti:0 "조긍척"趙恆惕
+ XIA_he_jian:0 "하건"何鍵
+ XIA_zhang_zhizhong:0 "장치중"張治中
+ XIA_chen_mingren:0 "진명인"陳明仁
+ XIA_tang_shengzhi:0 "당생지"唐生智
+ XIA_liu_jianxu:0 "유건서"劉建緒
+ XIA_cheng_qian:0 "정잠"程潛
+ XIA_tao_guang:0 "도광"陶廣
+ XIA_li_jue:0 "이교"李覺
+ XIA_zhou_lan:0 "주난"周孄
+ XIA_liu_xing:0 "유핑"劉興
+ XIA_liu_fei:0 "유비"劉斐
+ SCC_generic_communist_revolutionary:0 "반문화"潘文華
+ SCC_deng_hanxiang:0 "등한상"鄧漢祥
+ SCC_liu_hangshen:0 "유항심"劉航深
+ SCC_gan_jieyong:0 "감적용"甘績鏞
+ SCC_zhong_tiqian:0 "종제간"鐘體乾
+ SCC_fu_chang:0 "부상"傅常
+ SCC_li_jiayu:0 "이가목"李家鈺
+ SCC_yang_sen:0 "양상"楊森
+ SCC_liu_wenhui:0 "유문휘"劉文輝
+ SCC_sun_zhen:0 "손진"孫震
+ SCC_tang_shizun:0 "당식준"唐式遵
+ SCC_wang_zuanxu:0 "왕찬사"王纘緒
+ SCC_deng_xihou:0 "등체후"鄧錫侯
+ SCC_tian_song_yao:0 "전송요"田頌堯
+ SCC_liu_xiang:0 "유상"劉湘
  ## 20/4/2017 ##
- QIA_he_zhizhong:0 "He Zhizhong"何知重
- QIA_bo_huizhang:0 "Bo Huizhang"柏輝章
- QIA_hou_zhidan:0 "Hou Zhidan"候之擔
- QIA_you_guocai:0 "You Guocai"猶國才
- QIA_jiang_zaizhen:0 "Jiang Zaizhen"蔣在珍
- QIA_wang_jialie:0 "Wang Jialie"王家烈
+ QIA_he_zhizhong:0 "하지중"何知重
+ QIA_bo_huizhang:0 "백휘장"柏輝章
+ QIA_hou_zhidan:0 "후지담"候之擔
+ QIA_you_guocai:0 "유국재"猶國才
+ QIA_jiang_zaizhen:0 "장재진"蔣在珍
+ QIA_wang_jialie:0 "왕가열"王家烈
  ## 21/4/2017 ##
- SDC_liang_shuming:0 "Liang Shuming"梁漱溟
- ZXL_li_bo_hai:0 "Li Bohai"李渤海
- KMT_he_jian_proposal:0 "Frontline Forces"
- KMT_hejian_proposal_xia:0 "Forces on Standby"
+ SDC_liang_shuming:0 "양수명"梁漱溟
+ ZXL_li_bo_hai:0 "이발해"李渤海
+ KMT_he_jian_proposal:0 "최전방 군대"
+ KMT_hejian_proposal_xia:0 "예비대"
  ## 23/4/2017 ##
- KMT_warlord_cliques_5:0 "Warlord Cliques"
- KMT_warlord_cliques_5_desc:0 "The warlord cliques scattered throughout China have weakened the central government."
- KMT_warlord_cliques_6:0 "Warlord Cliques"
- KMT_warlord_cliques_6_desc:0 "The warlord cliques scattered throughout China have weakened the central government."
- KMT_warlord_cliques_7:0 "Warlord Cliques"
- KMT_warlord_cliques_7_desc:0 "The warlord cliques scattered throughout China have weakened the central government."
- KMT_warlord_cliques_8:0 "Warlord Cliques"
- KMT_warlord_cliques_8_desc:0 "The warlord cliques scattered throughout China have weakened the central government."
- KMT_tft:0 "The Flying Tigers"
- KMT_zhu_de:0 "Zhu De"
+ KMT_warlord_cliques_5:0 "군벌"
+ KMT_warlord_cliques_5_desc:0 "중국 전역에 흩어져 있는 군벌들은 중앙정부를 약화 시켰습니다."
+ KMT_warlord_cliques_6:0 "군벌"
+ KMT_warlord_cliques_6_desc:0 "중국 전역에 흩어져 있는 군벌들은 중앙정부를 약화 시켰습니다."
+ KMT_warlord_cliques_7:0 "군벌"
+ KMT_warlord_cliques_7_desc:0 "중국 전역에 흩어져 있는 군벌들은 중앙정부를 약화 시켰습니다."
+ KMT_warlord_cliques_8:0 "군벌"
+ KMT_warlord_cliques_8_desc:0 "중국 전역에 흩어져 있는 군벌들은 중앙정부를 약화 시켰습니다."
+ KMT_tft:0 "플라잉 타이거즈"
+ KMT_zhu_de:0 "주 더"
  ## 6/5/2017 ##
- KMT_fight_for_survival:0 "Fight For Survival"
- KMT_fight_for_survival_2:0 "Fight For Survival"
+ KMT_fight_for_survival:0 "생존을 위한 투쟁"
+ KMT_fight_for_survival_2:0 "생존을 위한 투쟁"
  ## 20/5/2017 ##
- KMT_sino_german_joint_research_ger_adv:0 "Sino-German Joint Military Research"
+ KMT_sino_german_joint_research_ger_adv:0 "중-독 합동 군사 연구"
  ## 7/6/2017 ##
- KMT_aggresion:0 "Aggression"
+ KMT_aggresion:0 "공격"
  ## 8/6/2017 ##
  camco_light:0 "CAMCO"
  camco_bomb:0 "CAMCO"
  camco_cas:0 "CAMCO"
- navy_air_est:0 "Naval Air Establishment"
- cg_warlords:0 "Is Warlord"
+ navy_air_est:0 "함재기 기관"
+ cg_warlords:0 "군벌이다"
  ## 9/6/2017 ##
- KMT_student_soldiers:0 "Force Conscription"
+ KMT_student_soldiers:0 "강제 징병"
  KMT_weak_army_lesserer:0 "Incompetent Army"
  KMT_weak_army_lesserer_desc:0 "The NRA is comprised of under-trained soldiers and incompetent commanders.\n\n§YHaving at least 350 army experience will trigger an event to remove this national spirit§!"
  ## 14/6/2017 ##
