@@ -1,68 +1,68 @@
 ﻿l_english:
  
  #POLITICS
- AUS_fascism_ideology_desc:0 "§YAustrofascism§! is the authoritarian system installed in Austria with the May Constitution of 1934. It is based on a ruling party, the §YFatherland Front§! (Vaterländische Front) and the §YHeimwehr§! (Home Guard) paramilitary militia, and espouses §HState Catholicism§!, §gCorporatism§! and §MAustrian Nationalism§!."
+ AUS_fascism_ideology_desc:0 "§Y오스트로파시즘§!은 1934년 5월 헌법이 도입되면서 오스트리아에서 실시된 권위주의 체제입니다. 이 사상은 집권당인 §Y조국전선§!(Vaterländische Front)과 준군사조직 §Y보국단§!(Heimwehr)에 의해 뒷받침되었으며, §H국교로서의 가톨릭!과 §g조합주의§!, 그리고 §M오스트리아 국민주의§!를 지지합니다."
 
  #FOCUS
- AUS_subsidize_STRABAG_construction:0 "Subsidize STRABAG Construction"
- AUS_subsidize_STRABAG_construction_desc:0 "No matter how many resources we apply, Austria can only produce new military installations so quickly. We must secure more industrial assets, such as those that STRABAG SE possess. Their assistance will be invaluable in keeping us ahead in industry."
- AUS_subsidize_STRABAG_construction_tt:0 "Unlocks STRABAG Construction Industrial Concern\n"
+ AUS_subsidize_STRABAG_construction:0 "슈트라바크 건설 보조금 지원"
+ AUS_subsidize_STRABAG_construction_desc:0 "얼마나 많은 자원을 투입하던 간에, 오스트리아의 군사 장비 생산 속도에는 한계가 있습니다. 우리는 슈트라바크 사가 보유한 것과 같은 더 많은 산업 자산을 확보해야 합니다. 그들의 협조는 우리가 산업에서 앞서나가는 데 큰 도움이 될 것입니다."
+ AUS_subsidize_STRABAG_construction_tt:0 "슈트라바크 건설 산업 업체를 해금합니다.\n"
 
- AUS_fortify_the_austrian_alps:0 "Fortify the Austrian Alps"
- AUS_fortify_the_austrian_alps_desc:0 "The Austrian Alps represent an indispensable natural barrier. We can render our territories practically impregnable if we put effort into ensuring that they are properly fortified."
- AUS_fortify_the_austrian_alps_tt:0 "Add §Y14 Land Forts§! along the Austrian Central Alps "
+ AUS_fortify_the_austrian_alps:0 "오스트리아 알프스 요새화"
+ AUS_fortify_the_austrian_alps_desc:0 "오스트리아 알프스는 필수적인 자연 방어선의 전형입니다. 이 지역이 확실히 요새화되도록 노력을 기울이면, 우리는 우리 영토를 사실상 난공불락으로 만들 수 있습니다."
+ AUS_fortify_the_austrian_alps_tt:0 "오스트리아 중앙알프스에 §Y14개의 지상 요새§!를 추가합니다."
 
- AUS_fortify_the_danube_and_drava_rivers:0 "Fortify the Danube and Drava Rivers"
- AUS_fortify_the_danube_and_drava_rivers_desc:0 "The Danube and the Drava have long been economic boons to Austria, but our interest in them is not economic. They are incredibly hard to cross - more so if we were to fortify  them against enemy incursion."
- AUS_fortify_the_danube_and_drava_rivers_tt:0 "Add §Y18 Land Forts§! along the Austrian Danube and Drava rivers"
+ AUS_fortify_the_danube_and_drava_rivers:0 "도나우강과 드라우강 요새화"
+ AUS_fortify_the_danube_and_drava_rivers_desc:0 "도나우와 드라우는 오랫동안 오스트리아 경제에 도움이 되었지만, 지금 우리가 관심을 가지는 부분은 경제가 아닙니다. 그 강의 도하는 매우 어려우며, 우리가 적의 급습에 대비해 요새화한다면 더더욱 그럴 것입니다."
+ AUS_fortify_the_danube_and_drava_rivers_tt:0 "오스트리아 도나우강과 드라우강에 §Y18개의 지상 요새§!를 추가합니다."
 
- AUS_defend_our_new_borders:0 "Defend Our New Borders"
- AUS_defend_our_new_borders_desc:0 "Now that we have occupied the mountainous Swiss terrain, their borders are our borders. We should take steps to ensure that none of the larger nations will come through here."
- AUS_defend_our_new_borders_tt:0 "Add §Y28 Land Forts§! along the French, German and Italian border with Switzerland"
+ AUS_defend_our_new_borders:0 "새로운 국경 방어"
+ AUS_defend_our_new_borders_desc:0 "우리가 이제 산이 많은 스위스를 차지하면서, 그들의 국경은 우리의 국경이 되었습니다. 우리는 다른 강대국들이 이곳을 돌파하지 못하도록 조치를 취할 것입니다."
+ AUS_defend_our_new_borders_tt:0 "스위스의 프랑스, 독일, 이탈리아 국경에 §Y28개의 지상 요새§!를 추가합니다."
 
- AUS_open_the_mittersill_mine:0 "Open the Mittersill Tungsten Mine"
- AUS_open_the_mittersill_mine_desc:0 "There is precious little tungsten to be had in the world - and we are sitting directly atop a massive reserve of it. Our industrial consultants have surveyed samples from Mittersill and advise us to begin excavations there."
+ AUS_open_the_mittersill_mine:0 "미테르질 텅스텐 광산 개장"
+ AUS_open_the_mittersill_mine_desc:0 "세계 시장에 공급되는 텅스텐은 매우 부족하지만, 마침 우리는 막대한 텅스텐 매장 지대에 자리잡고 있습니다. 우리의 산업 고문들은 미테르질에서 온 샘플을 조사했으며, 그곳에서 채굴을 시작해야 한다고 조언했습니다."
 
- AUS_expand_erzberg_mine:0 "Expand Erzberg Iron Mine"
- AUS_expand_erzberg_mine_desc:0 "The Erzberg Mine is the largest reserve of iron that Austria possesses, and as of yet we don't exploit it as thoroughly as we could. Extending our open-pit operations should increase our ready supply of steel."
+ AUS_expand_erzberg_mine:0 "에르츠베르크 철광 확장"
+ AUS_expand_erzberg_mine_desc:0 "에르츠베르크 철광은 오스트리아에서 가장 큰 철 매장량을 가지고 있지만, 우리는 지금까지 최대한 효율적으로 채굴하지 않았습니다. 노천광의 작업을 확장하면 우리의 철 공급량을 늘릴 수 있을 것입니다."
 
- AUS_expand_the_vienna_basin_oilfield:0 "Expand the Vienna Basin Oilfield"
- AUS_expand_the_vienna_basin_oilfield_desc:0 "We have a possibility in the Vienna oil basin, but our current rate of oil processing is lacking. Expanding our industry here will be a strong step towards a diverse and powerful war machine."
+ AUS_expand_the_vienna_basin_oilfield:0 "빈 분지 유전 확장"
+ AUS_expand_the_vienna_basin_oilfield_desc:0 "빈 분지의 석유는 잠재력을 가지고 있지만, 우리의 현재 정유 설비는 부족합니다. 이곳의 산업을 확장하는 것은 다양하고 강력한 군수 장비를 만드는 데 크게 다가가는 것입니다."
 
- AUS_extend_the_grossglockner_highway:0 "Extend the Grossglockner Highway"
- AUS_extend_the_grossglockner_highway_desc:0 "The Grossglockner Highway is a scenic route through the Austrian mountains, from Salzburg in the north to Carinthia in the south. It is a great feat of engineering, but we can improve on it by extending its route throughout Austria."
- AUS_extend_the_grossglockner_highway_tt:0 "Add §YMaximum Infrastructure§! in §YTyrol§!, §YUpper Austria§! and §YLower Austria§!"
+ AUS_extend_the_grossglockner_highway:0 "그로스글로크너 산악도로 연장"
+ AUS_extend_the_grossglockner_highway_desc:0 "그로스글로크너 산악도로는 오스트리아 산악을 통과하는 경치 좋은 도로로, 북쪽의 잘츠부르크부터 남쪽의 케른텐까지 이어집니다. 이 도로는 공학의 위대한 업적이지만, 우리는 오스트리아 도처로 도로를 연장해 더욱 개선시킬 수 있습니다."
+ AUS_extend_the_grossglockner_highway_tt:0 "§Y티롤§!, §Y상오스트리아§! 그리고 §Y하오스트리아§!의 §Y기반시설§!이 최대로 증가합니다."
 
- AUS_hungarian_railways_and_roads_project:0 "Hungarian Railways and Roads Project"
- AUS_hungarian_railways_and_roads_project_desc:0 "The Hungarian transport system used to be the responsibility of the Austrian government before the separation of our states. Now that we are rejoined, it is up to us to bring their infrastructure up to snuff."
- AUS_hungarian_railways_and_roads_project_tt:0 "Add §YMaximum Infrastructure§! in §YTransdanubia§!, §YNorthern Hungary§! and §YAlföld§!"
+ AUS_hungarian_railways_and_roads_project:0 "헝가리 철도 및 도로 계획"
+ AUS_hungarian_railways_and_roads_project_desc:0 "헝가리의 수송 체계는 두 나라가 분리되기 전까지는 오스트리아 정부의 소관이었습니다. 이제 두 나라가 다시 통합된 이상, 헝가리의 기반시설을 우리 수준까지 끌어올리는 것은 우리에게 달렸습니다."
+ AUS_hungarian_railways_and_roads_project_tt:0 "§Y트란스다뉴비아§!, §Y북헝가리§! 그리고 §Y알폴드§!의 §Y기반 시설§!이 최대로 증가합니다."
 
- AUS_construct_papa_air_base:0 "Construct Pápa Air Base"
- AUS_construct_papa_air_base_desc:0 "The Papa Air Base has been under production since 1936, and with Austrian intervention it can be at last completed. More air capacity would be invaluable for our war efforts."
+ AUS_construct_papa_air_base:0 "파퍼 공군 기지 건설"
+ AUS_construct_papa_air_base_desc:0 "파퍼 공군 기지는 1936년부터 건설 중이었지만, 우리가 개입하면 드디어 완공할 수 있을 것입니다. 공군 수용량의 증가는 우리의 전쟁 수행에 큰 도움이 될 것입니다."
 
-AUS_industrialise_the_great_hungarian_plains:0 "Industrialise the Great Hungarian Plains"
-AUS_industrialise_the_great_hungarian_plains_desc:0 "Hungary has great swathes of land that is entirely usable for industrial purposes, and is unneeded for any other purpose. The fact that this has not been exploited yet is a travesty in itself. We will develop this land to contribute to our efforts."
-AUS_industrialise_the_great_hungarian_plains_tt:0 "Controlling §YVojvodina§!, §YBanat§!, §YCrisana§! or §YNorth Transylvania§! will extend the bonus to those states"
+AUS_industrialise_the_great_hungarian_plains:0 "헝가리 대평원 공업화"
+AUS_industrialise_the_great_hungarian_plains_desc:0 "헝가리는 공업 용지 말고 다른 용도로 활용할 필요가 없는 넓은 땅을 가지고 있습니다. 그곳이 활용되지 않았다는 것은 커다란 낭비입니다. 우리의 역량을 지원하기 위해 우리는 이 땅을 개발할 것입니다."
+AUS_industrialise_the_great_hungarian_plains_tt:0 "§Y보이보디나§!, §Y바나트§!, §Y크리샤나§!나 §Y북트란실바니아§!를 소유하면 그 주에도 효과가 적용됩니다."
 
-AUS_fortify_the_hungarian_danube:0 "Fortify the Hungarian Danube"
-AUS_fortify_the_hungarian_danube_desc:0 "As in Austria, the Danube is a vital part of Hungary's defensive potential. We will continue our fortification efforts here."
-AUS_fortify_the_hungarian_danube_tt:0 "Add §Y20 Land Forts§! along the Transdanubian Border"
+AUS_fortify_the_hungarian_danube:0 "헝가리 도나우강 요새화"
+AUS_fortify_the_hungarian_danube_desc:0 "오스트리아에서처럼, 도나우는 헝가리 방어의 핵입니다. 우리는 요새화 계획을 이곳에서도 진행할 것입니다."
+AUS_fortify_the_hungarian_danube_tt:0 "트란스다뉴비아 국경에 §Y20개의 지상 요새§!를 추가합니다."
 
-AUS_secure_the_two_cities:0 "Secure the Two Cities"
-AUS_secure_the_two_cities_desc:0 "The twin imperial cities of Budapest and Vienna have a shared history that predates many of the great cities of the modernday. Now that we have secured both of them, it is intended that neither of them fall out of Austro-Hungarian hands again."
-AUS_secure_the_two_cities_tt:0 "Add §Y3 Land Forts§! in Vienna and Budapest"
+AUS_secure_the_two_cities:0 "두 도시 보호"
+AUS_secure_the_two_cities_desc:0 "제국의 양대 도시였던 부다페스트와 빈은 현재 세계의 여러 대도시들보다 오래된 공통의 역사를 가지고 있습니다. 이제 두 도시가 우리의 수중에 있으니, 그 어느 쪽도 우리의 손에서 다시 벗어나는 일이 없도록 만들어야 합니다."
+AUS_secure_the_two_cities_tt:0 "빈과 부다페스트에 §Y3개의 지상 요새§!를 추가합니다."
 
-AUS_transylvanian_highways_project:0 "Transylvanian Highways Project"
-AUS_transylvanian_highways_project_desc:0 "Transylvania has always been Austro-Hungarian, and the rule of Romania in recent years has left it sadly underdeveloped, to the point of being underserving of our association. Nonetheless, it is our land, and we will take care of it."
-AUS_transylvanian_highways_project_tt:0 "Add §Y3 Infrastructure§! in the Transylvanian Region"
+AUS_transylvanian_highways_project:0 "트란실바니아 고속도로 계획"
+AUS_transylvanian_highways_project_desc:0 "트란실바니아는 언제나 오스트리아-헝가리의 영토였지만, 최근 루마니아의 지배는 슬프게도 이곳의 기반시설이 우리 수준보다 훨씬 낙후된 상태로 남아있도록 만들었습니다. 그럼에도 이곳은 우리 영토니, 우리가 이 문제에 대한 책임을 질 것입니다."
+AUS_transylvanian_highways_project_tt:0 "트란실바니아 지방에 §Y3개의 기반시설§!을 추가합니다."
 
-AUS_road_the_the_black_sea:0 "Road to the Black Sea"
-AUS_road_the_the_black_sea_desc:0 "The black sea has always been a historically significant body of water, not least because it represents Soviet access to the Mediterranean. We must secure our own place in its waters - but first we must ensure that we can reach those waters quickly."
-AUS_road_the_the_black_sea_tt:0 "Add §Y3 Infrastructure§! in the Romanian Region"
+AUS_road_the_the_black_sea:0 "흑해로의 도로"
+AUS_road_the_the_black_sea_desc:0 "흑해는 언제나 매우 역사적으로 중요한 바다였으며, 특히 소련이 지중해로 진출할 수 있는 통로기에 중요성은 배가 됩니다. 우리는 흑해에서 우리의 지위를 확보해야 하지만, 이를 위해서는 먼저 흑해로 빠르게 이동할 수 있도록 만들어야 합니다."
+AUS_road_the_the_black_sea_tt:0 "루마니아 지방에 §Y3개의 기반시설§!을 추가합니다."
 
-AUS_the_carpathian_line:0 "The Carpathian Line"
-AUS_the_carpathian_line_desc:0 "Carpathian Ruthenia is a land integral to Hungarian history, and our brothers in imperial union hold it as dear to their hearts as we do. We will defend it to the last drop of Austrian blood - but it doesn't need to come to that if we fortify it."
-AUS_the_carpathian_line_tt:0 "Add §Y2 Land Forts§! per owned province of the Carpathian Mountains"
+AUS_the_carpathian_line:0 "카르파티아 방어선"
+AUS_the_carpathian_line_desc:0 "카르파티아 루테니아는 헝가리 역사에서 매우 중요한 영토였으며, 동군연합의 우리 형제들도 우리처럼 이곳을 중요시합니다. 우리는 이곳을 최후의 오스트리아인이 쓰러질 때까지 지킬 것이지만, 요새화를 한다면 그렇게까지 하지 않아도 될 것입니다."
+AUS_the_carpathian_line_tt:0 "우리가 카르파티아 산맥에 소유하고 있는 지역마다 §Y2개의 지상 요새§!를 추가합니다."
 
 AUS_expand_the_constanta_shipyards:0 "Expand the Constanta Shipyards"
 AUS_expand_the_constanta_shipyards_desc:0 "The Constanta Shipyard is the largest shipyard in Romania. Her industrial capacity is unrivalled throughout our territory; the opportunity that she presents now that we control her is too useful to pass up. We can develop her even further if we wish."
