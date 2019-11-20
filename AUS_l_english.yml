@@ -216,48 +216,48 @@ AUS_found_the_austrian_marines_desc:0 "해안 지대를 상실한 후, 우리 �
 
 ### MILITARY SECTION ###
 
-AUS_subsidize_steyr_werke_arms:0 "Subsidize Steyr-Werke Arms"
-AUS_subsidize_steyr_werke_arms_desc:0 "Steyre-Werke arms is the shell of the Steyr Mannlicher firearms company. They have recovered well from the Treaty of Saint-Germain, but government assistance could help even further, and secure state access to their production lines."
+AUS_subsidize_steyr_werke_arms:0 "슈타이어 공업 보조금 지원"
+AUS_subsidize_steyr_werke_arms_desc:0 "슈타이어 공업은 슈타이어 만리허 총기 회사의 핵심입니다. 그들은 생제르맹 조약으로부터 잘 회복했지만, 정부의 지원은 그들을 더 도울 수 있을 뿐더러, 그들의 생산 라인에 정부가 개입할 수 있도록 만들 것입니다."
 
-AUS_endorse_the_foreign_volunteer_programme:0 "Endorse the Foreign Volunteer Programme"
-AUS_endorse_the_foreign_volunteer_programme_desc:0 "While we cannot reach the whole world ourselves, we can endorse and support forces that might be sympathetic to our cause with the help of some of our best and bravest volunteer troops."
+AUS_endorse_the_foreign_volunteer_programme:0 "해외 의용군 프로그램 지원"
+AUS_endorse_the_foreign_volunteer_programme_desc:0 "우리가 전세계로 뻗어나갈 수는 없지만, 우리는 우리의 잠재적 아군이 될 세력을 유능하고 용감한 의용군을 파병해 지원할 수는 있습니다."
 
-AUS_rearm_the_bundesheer:0 "Rearm the Bundesheer"
-AUS_rearm_the_bundesheer_desc:0 "The Austrian armed forces were hit hard by the treaty of Saint-Germain-en-Leye. But with Hitler preparing his forces, there has never been a better time to rearm whether we stand with or against him."
+AUS_rearm_the_bundesheer:0 "연방군 재무장"
+AUS_rearm_the_bundesheer_desc:0 "오스트리아 연방군은 생제르맹 조약으로 큰 타격을 입었습니다. 허나 히틀러가 독일군 재무장을 시작하면서, 그와 함께하든 맞서든 간에 재무장을 시작할 좋은 기회가 왔습니다."
 
-AUS_fund_the_gebirgsjaeger_programme:0 "Fund the Gebirgsjäger Programme"
-AUS_fund_the_gebirgsjaeger_programme_desc:0 "Our land is mountainous and we must adapt to what we have been naturally given. Anyone attacking into our land will find our forces very well-equipped to handle them on the terrain."
+AUS_fund_the_gebirgsjaeger_programme:0 "산악엽병 훈련 프로그램 지원"
+AUS_fund_the_gebirgsjaeger_programme_desc:0 "우리의 영토는 산악 지대이며 우리는 주어진 환경에 적응해야 합니다. 우리 영토를 공격하는 적들은 우리 병력이 산악 지형에서 적을 상대하는 데 능숙하다는 것을 깨달을 것입니다."
 
-AUS_prepare_for_war:0 "Prepare for War"
-AUS_prepare_for_war_desc:0 "The likelihood is that another war is just around the corner - we cannot allow ourselves to be unprepared. If we are to supply our armies, we must be ready to convert our civilian factories much more efficiently than we currently do."
+AUS_prepare_for_war:0 "전쟁 대비"
+AUS_prepare_for_war_desc:0 "전쟁이 우리 코앞까지 들이닥친 이상, 더 이상 무방비한 상태로 있어서는 안됩니다. 우리 군에 보급을 하기 위해서는, 우리 민간 공장을 현재보다 더 효율적으로 전환할 수 있어야 할 것입니다."
 
-AUS_expand_csepel_muvek:0 "Expand Csepel Muvek"
-AUS_expand_csepel_muvek_desc:0 "Csepel Muvek is one of the foremost machine production facilities in the Austro-Hungarian empire, and has lain at the core of the old empire since the nineteenth century. It is privately owned, but we doubt the owners will object to financial support."
+AUS_expand_csepel_muvek:0 "체펠 공업 확장"
+AUS_expand_csepel_muvek_desc:0 "체펠 공업은 19세기부터 오스트리아-헝가리 제국의 중추에 자리잡으면서, 제국의 기계장비 생산을 선도했습니다. 이 회사는 사기업이지만, 기업 총수는 분명 우리의 재정적 지원을 거부하지 않을 것입니다."
 
-AUS_steyr_mannlicher_arms:0 "Steyr Mannlicher Arms"
-AUS_steyr_mannlicher_arms_desc:0 "Steyr Mannlicher as a company has remained patriotic and true to the Austrian way of life. Their unwavering support has made our rearmament possible. There is no reason why we should not make them our regular military contractor."
-AUS_steyr_mannlicher_arms_tt:0 "Unlocks the material designer: "
+AUS_steyr_mannlicher_arms:0 "슈타이어 만리허"
+AUS_steyr_mannlicher_arms_desc:0 "슈타이어 만리허는 기업으로서 오스트리아에 언제나 충성을 다했습니다. 그들의 조력으로 우리는 재무장을 실행할 수 있었습니다. 그들과 정식으로 무기 생산 계약을 체결하지 않을 이유는 없을 것입니다."
+AUS_steyr_mannlicher_arms_tt:0 "슈타이어 만리허 군수품 설계사를 해금합니다."
 
-AUS_german_armour_cooperation:0 "German Armour Cooperation"
-AUS_german_armour_cooperation_desc:0 "The Germans have created their own designs to rival the armored forces of the other nations, and their expansion into the field has been single-minded. Perhaps we have something to learn from them, if they are amenable."
-AUS_german_armour_cooperation_tt:0 "Allows for special variants of German tank designs\n"
+AUS_german_armour_cooperation:0 "독일과의 전차 협력"
+AUS_german_armour_cooperation_desc:0 "독일은 다른 나라들의 전차 부대와 맞설 수 있는 독자적인 설계를 만들어 냈으며, 그들은 외곬수로 이 분야에서 나아갔습니다. 그들이 받아들인다면, 그들로부터 무언가를 배울 수 있을지도 모릅니다."
+AUS_german_armour_cooperation_tt:0 "독일 전차 설계의 특수 파생형 생산이 가능해집니다.\n"
 
-AUS_british_armour_cooperation:0 "British Armour Cooperation"
-AUS_british_armour_cooperation_desc:0 "The British empire is one of the most varied and widespread forces in the world. They have access to an unprecedented number of the finest minds in the world. We would have much to learn from studying their armor designs."
-AUS_british_armour_cooperation_tt:0 "Allows for special variants of British tank designs\n"
+AUS_british_armour_cooperation:0 "영국과의 전차 협력"
+AUS_british_armour_cooperation_desc:0 "대영제국은 전세계 다양한 곳에 퍼져 있습니다. 그들은 세계의 수많은 지성들을 가지고 있습니다. 그들의 전차 설계를 연구하면 많은 것을 얻을 수 있을 것입니다."
+AUS_british_armour_cooperation_tt:0 "영국 전차 설계의 특수 파생형 생산이 가능해집니다.\n"
 
-AUS_soviet_armour_cooperation:0 "Soviet Armour Cooperation"
-AUS_soviet_armour_cooperation_desc:0 "The soviets have the most powerful industrial base in the Eurasian area, rivalled by only very few great European powers. It's said that they can churn out a hundred tanks a day - would this efficiency serve us in our own efforts?"
-AUS_soviet_armour_cooperation_tt:0 "Allows for special variants of Soviet tank designs\n"
+AUS_soviet_armour_cooperation:0 "소련과의 전차 협력"
+AUS_soviet_armour_cooperation_desc:0 "소련은 유라시아 최강의 공업 강국이며, 그들과 맞설 수 있는 것은 몇몇 유럽의 열강들 뿐입니다. 그들은 하루에 백 대의 전차를 생산할 수 있다고도 합니다. 이 효율성이 우리 전쟁에 도움이 될 수 있지 않을까요?"
+AUS_soviet_armour_cooperation_tt:0 "소련 전차 설계의 특수 파생형 생산이 가능해집니다.\n"
 
-AUS_motorisation_effort:0 "Motorisation Effort"
-AUS_motorisation_effort_desc:0 "The internal combustion engine was once a novelty meant for the civilian sector, too inefficient to be used for warfare, but now it is both reliable and powerful. The military applications cannot be ignored."
+AUS_motorisation_effort:0 "차량화 주력"
+AUS_motorisation_effort_desc:0 "내연기관은 한때 전장에서 쓰이기에는 너무 비효율적이어서 민간 분야에서나 쓸 수 있는 발명이었지만, 이제는 신뢰성과 힘을 모두 갖췄습니다. 내연기관의 군사 분야 적용은 반드시 고려되어야만 합니다."
 
-AUS_great_guns_of_yore:0 "Great Guns of Yore"
-AUS_great_guns_of_yore_desc:0 "Artillery won the last war, and there is no reason to believe that it shouldn't be instrumental in winning the next one. Improvements on old technology are still improvements."
+AUS_great_guns_of_yore:0 "대전쟁의 거포"
+AUS_great_guns_of_yore_desc:0 "포병은 저번 전쟁의 승리를 결정했으며, 이번 전쟁에서도 마찬가지의 역할을 수행할 것입니다. 옛 기술을 개선시키는 것도 분명 발전입니다."
 
-AUS_found_the_jagdkommando_school:0 "Found the Jagdkommando School"
-AUS_found_the_jagdkommando_school_desc:0 "Plans have been drafted to form a special forces unit of our best and brightest soldiers, capable of operating behind enemy lines and in unlikely odds. All they require is funding to be put in motion."
+AUS_found_the_jagdkommando_school:0 "야크트코만도 훈련소 설립"
+AUS_found_the_jagdkommando_school_desc:0 "우리 군의 가장 우수한 병사들로 특수부대를 창설하려는 계획이 세워졌으며, 이들은 적 전선 후방이나 극한 상황에서 작전을 수행할 것입니다. 이를 현실로 만들기 위해서는 예산이 필요할 뿐입니다."
 
 ### POLITICAL SECITON ###
 
