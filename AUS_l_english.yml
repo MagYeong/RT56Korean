@@ -261,18 +261,18 @@ AUS_found_the_jagdkommando_school_desc:0 "우리 군의 가장 우수한 병사�
 
 ### POLITICAL SECITON ###
 
-AUS_establish_the_foreign_ministry:0 "Establish the Foreign Ministry"
-AUS_establish_the_foreign_ministry_desc:0 "Since the Great War, we have avoided interacting with other nations in favour of maintaining our own rate of national recovery. Now that our position in the world is established more firmly, we can begin to look outwards."
+AUS_establish_the_foreign_ministry:0 "외무부 설립"
+AUS_establish_the_foreign_ministry_desc:0 "대전쟁 이래, 우리는 우리나라의 재건을 우선시해 다른 나라와의 관계 수립을 꺼렸습니다. 이제 세계 무대에서 우리의 지위가 확고해지면서, 우리는 바깥을 향해 바라볼 수 있게 되었습니다."
 
-AUS_pro_austrian_propoganda:0 "Pro-Austrian Propoganda"
-AUS_pro_austrian_propoganda_desc:0 "Austria was one of the greatest nations in the world at one time, and will be again. Our war effort starts at home, with the support of our people."
+AUS_pro_austrian_propoganda:0 "국가 선전"
+AUS_pro_austrian_propoganda_desc:0 "오스트리아는 한때 세계의 열강들과 어깨를 나란히 했으며, 이제 다시 그렇게 될 것입니다. 우리의 전쟁 수행은 우리나라 국민들의 지지에서부터 시작됩니다."
 
-AUS_defence_of_the_homeland:0 "Defence of the Vaterland"
-AUS_defence_of_the_homeland_desc:0 "As a nation, we have no interest in allowing our enemies to access our borders ever again. It's of vital importance that we fortify ourselves as thoroughly as possible, and ensure that we will never be on the defensive again."
+AUS_defence_of_the_homeland:0 "조국 방어"
+AUS_defence_of_the_homeland_desc:0 "우리나라는 다시는 적들이 우리 국경을 넘는 것을 허용하지 않을 것입니다. 따라서 최대한 꼼꼼히 우리나라를 요새화하는 것이 필수이며, 다시는 수세에 몰릴 일이 없도록 만들어야 합니다."
 
-AUS_the_austrian_compromise:0 "The Austrian Compromise"
-AUS_the_austrian_compromise_desc:0 "Hitler has been making his own efforts for his people, and has been espousing the concept of an 'anschluss' between Austria and Germany. We have no interest in loss of autonomy - but perhaps a promise of support in the next war will suffice."
-AUS_the_austrian_compromise_tt:0 "If Germany accepts, the §YAnschluss of Austria§! will be bypassed, but Austria will enter the §YAxis§!.\n"
+AUS_the_austrian_compromise:0 "오스트리아 타협"
+AUS_the_austrian_compromise_desc:0 "히틀러는 독일 국민들에게 오스트리아와 독일의 '안슐루스'에 대해 설파하고 있습니다. 우리는 주권을 넘겨줄 생각이 없지만, 다음 전쟁에서 독일을 지원하겠다고 약속한다면 그것으로 충분할지도 모릅니다."
+AUS_the_austrian_compromise_tt:0 "독일이 이를 받아들이면, §Y안슐루스§! 중점이 건너뛰어지지만 오스트리아는 §Y추축국§!에 가입할 것입니다.\n"
 
 AUS_past_glories:0 "Past Glories"
 AUS_past_glories_desc:0 "The Austro-Hungarian union was once one of the greatest forces in the European sphere of influence. However, we were in our prime cruelly cut down by the Treaty of Saint-Germain. We must find the strength as a nation to reclaim what has been taken."
