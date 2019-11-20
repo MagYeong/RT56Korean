@@ -183,36 +183,36 @@ AUS_establish_the_austrian_airforce_academy_desc:0 "우리의 신생 공군은 �
 
 ### NAVAL SECTION ###
 
-AUS_repair_pola_naval_base:0 "Repair Pola Naval Base"
-AUS_repair_pola_naval_base_desc:0 "Pola naval base was once one of the key installations of the Austrian Kriegsmarine. It has fallen into disrepair since we have been driven from the sea, but we can and must put effort into ensuring that it is once against useable."
+AUS_repair_pola_naval_base:0 "폴라 해군 기지 재건"
+AUS_repair_pola_naval_base_desc:0 "폴라 해군 기지는 한때 오스트리아 해군의 핵심 시설이었습니다. 우리가 해안 지역을 상실한 후 이곳은 황폐해졌지만, 우리는 가능한 한 이곳을 다시 활용할 수 있도록 만들어야 합니다."
 
-AUS_recreate_the_kuk_kriegsmarine:0 "Recreate the K.u.K Kriegsmarine"
-AUS_recreate_the_kuk_kriegsmarine_desc:0 "The Royal and Imperial War Navy was Austria's navy, until we lost access to the sea after losing the Great War. We can reclaim its former glory, with no small amount of effort."
+AUS_recreate_the_kuk_kriegsmarine:0 "오스트리아 전쟁해군 재건"
+AUS_recreate_the_kuk_kriegsmarine_desc:0 "K.u.K. 크릭스마리네는 우리가 대전쟁에서 해안 지역을 상실하기 전까지 오스트리아의 해군이었습니다. 우리는 과거의 영광을 되찾을 수 있지만, 이를 위해서는 상당한 노력을 해야 할 것입니다."
 
-AUS_rijeka_naval_academy:0 "Rijeka Naval Academy"
-AUS_rijeka_naval_academy_desc:0 "Rijeka is one of the largest port cities in the Croatian area, and one of the principle naval assets to the Austro-Hungarian cause. They are no stranger to seafaring and naval warfare, and we can take this expertise onboard."
+AUS_rijeka_naval_academy:0 "리예카 해군사관학교 설립"
+AUS_rijeka_naval_academy_desc:0 "리예카는 크로아티아에서 가장 큰 항구 도시 중 하나이자, 오스트리아-헝가리 제국의 핵심 해군 기지였습니다. 그곳의 사람들은 항해와 해전에 능숙하며, 우리는 이들의 전문 지식을 활용할 수 있습니다."
 
-AUS_trieste_shipyards:0 "Trieste Shipyards"
-AUS_trieste_shipyards_desc:0 "Trieste is a town with an existing shipyard industry which we should take steps to subsidise and exploit. This will ensure our dominance in the Mediterranean."
-AUS_trieste_shipyards_tt:0 "Allows for the hiring of Trieste Shipyards Ship Designer\n"
+AUS_trieste_shipyards:0 "트리에스테 조선소"
+AUS_trieste_shipyards_desc:0 "트리에스테에는 이미 조선 산업이 있으며 우리는 이를 지원하고 활용해야 합니다. 이를 통해 우리가 지중해의 제해권을 잡을 수 있을 것입니다."
+AUS_trieste_shipyards_tt:0 "트리에스테 조선소 함정 설계사를 해금합니다.\n"
 
-AUS_expand_cattaro_harbour:0 "Expand Cattaro Harbour"
-AUS_expand_cattaro_harbour_desc:0 "Cattaro is an inland bay, a sheltered place where a naval group might be safely housed. It's a natural security asset, and we should treat it as such. Our next expansion will be here."
+AUS_expand_cattaro_harbour:0 "카타로 항만 확장"
+AUS_expand_cattaro_harbour_desc:0 "카타로는 내륙으로 깊숙히 들어간 만에 위치하고 있으며, 따라서 우리 함선들을 안전히 정박할 수 있습니다. 이곳은 천혜의 피난처이며, 우리는 이에 맞는 조치를 취해야 합니다. 우리의 다음 확장은 이곳이 될 것입니다."
 
-AUS_a_stealthier_approach:0 "A Stealthier Approach"
-AUS_a_stealthier_approach_desc:0 "The Austrian navy is not what it was - in fact, it is nonexistent. We cannot afford to sink massive amounts of resources into ships that will simply be destroyed by larger forces. Stealthier submarine warfare is the future for us."
+AUS_a_stealthier_approach:0 "은밀한 방안"
+AUS_a_stealthier_approach_desc:0 "오스트리아 해군은 과거에서 물려받은 것이 없으며, 사실상 존재하지 않는 것이나 마찬가지입니다. 우리는 막대한 재원을 더 강력한 해군 상대로 격파될 뿐인 함선들에 투자할 수 없습니다. 은밀한 잠수함전이 우리의 미래입니다."
 
-AUS_sieze_the_adriatic:0 "Sieze the Adriatic"
-AUS_sieze_the_adriatic_desc:0 "The Adriatic is one of our principle accesses to the Italian boot, and one of the key stretches of coastline for our own territory. Securing it with specialised inland sea vessels like cruisers would be prudent."
+AUS_sieze_the_adriatic:0 "아드리아해 장악"
+AUS_sieze_the_adriatic_desc:0 "아드리아해는 이탈리아 반도의 뒷굽으로 가는 주요 경로이자, 우리 영토의 해안 지대 대부분과 접해 있는 바다이기도 합니다. 내해 운용에 특화된 순양함 같은 함선을 통해 아드리아해를 장악하는 것이야말로 중요할 것입니다."
 
-AUS_push_for_the_mediterranean:0 "Push for the Mediterranean"
-AUS_push_for_the_mediterranean_desc:0 "The Mediterranean is a famous sea, supporter and cradle for many African and European empires. It will once again become the cradle for our own nation - if we can secure it."
+AUS_push_for_the_mediterranean:0 "지중해로의 확장"
+AUS_push_for_the_mediterranean_desc:0 "지중해를 모르는 이는 없을 것이며, 이 바다는 여러 아프리카와 유럽 제국들의 발상지이기도 합니다. 만약 지중해를 장악할 수 있다면, 이곳은 다시 한 번 우리나라의 바다가 될 수 있을 것입니다."
 
-AUS_reform_the_kuk_seefliegerkorps:0 "Reform the Seefliegerkorps"
-AUS_reform_the_kuk_seefliegerkorps_desc:0 "The Austrian naval airforce was separate and distinct from the main naval force, with its own specialisations and functions. Its utility will be useful in the future - we should put resources into reforming it."
+AUS_reform_the_kuk_seefliegerkorps:0 "해군 항공대 재결성"
+AUS_reform_the_kuk_seefliegerkorps_desc:0 "오스트리아 해군 항공대는 해군과 독립되어 있었으며, 그들만의 특성과 임무가 있었습니다. 그들의 역할은 추후 도움이 될 것이기에, 우리는 재원을 투입해 이를 재결성해야 합니다."
 
-AUS_found_the_austrian_marines:0 "Found the Austrian Marines"
-AUS_found_the_austrian_marines_desc:0 "Since we became landlocked, a branch of our military which has fallen into unacceptable neglect is our marines. With a little funding and a little time, we can repair the damage done by time."
+AUS_found_the_austrian_marines:0 "오스트리아 해병대 창설"
+AUS_found_the_austrian_marines_desc:0 "해안 지대를 상실한 후, 우리 군의 조직 중 해병대는 사실상 방치되었습니다. 약간의 예산과 시간만 있다면, 우리는 해병대를 다시 원상복구할 수 있을 것입니다."
 
 ### MILITARY SECTION ###
 
