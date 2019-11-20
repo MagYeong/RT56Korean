@@ -142,44 +142,44 @@ AUS_bilhorod_dnistrovskyi_nuclear_plant_desc:0 "우리는 원자로를 건설하
 
 ### AIRFORCE SECTION ###
 
-AUS_construct_the_tullnerfeld_airbase:0 "Construct the Tullnerfeld Airbase"
-AUS_construct_the_tullnerfeld_airbase_desc:0 "For a long time, plans to build an airbase at Tullnerfield have been gathering dust. War is stirring to the north, and there is no better time to act on those plans."
+AUS_construct_the_tullnerfeld_airbase:0 "툴네르펠트 공군 기지 건설"
+AUS_construct_the_tullnerfeld_airbase_desc:0 "오랫동안, 툴네르펠트에 공군 기지를 건설하려는 계획은 무시되어 왔습니다. 북쪽에 전쟁의 암운이 드리운 이상, 지금이야말로 이 계획을 실행해야 합니다."
 
-AUS_announce_the_new_austrian_air_force:0 "Announce the New Luftstreitkräfte"
-AUS_announce_the_new_austrian_air_force_desc:0 "Since the Great War, heavier-than-air flight has been the fascinating new potential weapon of the future. We cannot be left behind by other nations; we have been building our own airforce in secret for years, and now we are ready to announce it."
+AUS_announce_the_new_austrian_air_force:0 "새로운 공군 창설 선포"
+AUS_announce_the_new_austrian_air_force_desc:0 "대전쟁부터 항공기는 미래의 새로운 무기가 되었습니다. 우리는 다른 나라들보다 뒤처질 수 없습니다. 우리는 비밀리에 공군을 재건하고 있었고, 이제 공식적으로 공군 창설을 선포할 때가 왔습니다."
 
-AUS_german_aeronautic_cooperation:0 "German Aeronautic Cooperation"
-AUS_german_aeronautic_cooperation_desc:0 "German engineering has revolutionised nearly every field of warfare, including air-warfare. We have much in common, and every reason to cooperate in our technological pursuits. The access we give them will, however, allow them to affect our politics."
-AUS_german_aeronautic_cooperation_tt:0 "Allows for special variants of German aircraft designs\n"
+AUS_german_aeronautic_cooperation:0 "독일과의 항공 협력"
+AUS_german_aeronautic_cooperation_desc:0 "독일 공학은 전장의 모든 부분을 혁명적으로 뒤바꿨으며, 항공전 분야도 예외는 아닙니다. 독일과 우리는 많은 공통점을 가지고 있으며, 기술 발전에서 협력해야 할 이유도 충분합니다. 그러나 이로 인해 그들이 우리 정치에 영향을 미칠 것입니다."
+AUS_german_aeronautic_cooperation_tt:0 "독일 항공기 설계의 특수 파생형 생산이 가능해집니다.\n"
 
-AUS_british_aeronautic_cooperation:0 "British Aeronautic Cooperation"
-AUS_british_aeronautic_cooperation_desc:0 "Britain is a country desperate to secure friends in central Europe, and we are in need of their technological expertise. Their airforce is one of the strongest currently in the world, and we can share in this with a little loss of internal influence."
-AUS_british_aeronautic_cooperation_tt:0 "Allows for special variants of British aircraft designs\n"
+AUS_british_aeronautic_cooperation:0 "영국과의 항공 협력"
+AUS_british_aeronautic_cooperation_desc:0 "영국은 중부 유럽에서 우군을 찾기 위해 필사적이며, 우리는 그들의 기술 전문 지식이 필요합니다. 그들의 공군은 세계에서 가장 강력한 공군 중 하나이며, 국내 영향력을 약간 잃는 대신 그들의 기술을 공유받을 수 있습니다."
+AUS_british_aeronautic_cooperation_tt:0 "영국 항공기 설계의 특수 파생형 생산이 가능해집니다.\n"
 
-AUS_soviet_aeronautic_cooperation:0 "Soviet Aeronautic Cooperation"
-AUS_soviet_aeronautic_cooperation_desc:0 "The Soviet Union is always looking to spread their influence throughout the European sphere, and we are in the market to modernise our airforce. With some political give and take, we can secure access to their industrial expertise."
-AUS_soviet_aeronautic_cooperation_tt:0 "Allows for special variants of Soviet aircraft designs\n"
+AUS_soviet_aeronautic_cooperation:0 "소련과의 항공 협력"
+AUS_soviet_aeronautic_cooperation_desc:0 "소련은 언제나 유럽에 그들의 영향력을 확대하기 위해 노력하고 있으며, 우리는 지금 공군의 현대화가 필요합니다. 정치 쪽에서 줄 것을 주면, 우리는 그들의 공업 전문 지식에 접근할 수 있을 것입니다."
+AUS_soviet_aeronautic_cooperation_tt:0 "소련 항공기 설계의 특수 파생형 생산이 가능해집니다.\n"
 
-AUS_innsbruck_airbase_project:0 "Innsbruck Airbase Project"
-AUS_innsbruck_airbase_project_desc:0 "Innsbruck Airport is placed in a large valley, ideal for launching warplanes as well as civilian. Converting it to a military aerodrome will make it much more suitable for our needs."
-AUS_innsbruck_airbase_project_tt:0 "Add §Y2 Land Forts§! on Innsbruck"
+AUS_innsbruck_airbase_project:0 "인스브루크 공군 기지 계획"
+AUS_innsbruck_airbase_project_desc:0 "인스브루크 공항은 넓은 골짜기에 위치해, 민간기뿐만 아니라 군용기를 이륙시키는 데도 이상적입니다. 그곳을 군용 비행장으로 전환하면 우리의 필요를 충족할 수 있을 것입니다."
+AUS_innsbruck_airbase_project_tt:0 "인스브루크에 §Y2개의 지상 요새§!를 추가합니다."
 
-AUS_protect_our_skies:0 "Protect Our Skies"
-AUS_protect_our_skies_desc:0 "Flight in itself used to be a novelty, but planes have changed, and so too has aeronautical warfare. We cannot ignore threats from the skies - and we must make preparations accordingly."
-AUS_protect_our_skies_tt:0 "Add §Y2 Anti-Air§! to our extended territories"
+AUS_protect_our_skies:0 "영공 보호"
+AUS_protect_our_skies_desc:0 "비행 자체가 참신했던 때도 있었지만, 항공기가 바뀌면서 항공전의 양상도 바뀌었습니다. 우리는 공중으로부터의 위협을 무시할 수 없고, 따라서 대책을 마련해야 합니다."
+AUS_protect_our_skies_tt:0 "우리의 확장된 영토에 §Y2개의 대공포§!를 추가합니다."
 
-AUS_fortify_our_airfields:0 "Fortify Our Airfields"
-AUS_fortify_our_airfields_desc:0 "None of our airbases lie very far inside our borders, and we cannot rule out the possibility of a targeted strike capturing one or the other. Fortifying them both will lessen the risk of this."
-AUS_fortify_our_airfields_tt:0 "Add §Y2 Land Forts§! on Austrian airfields"
+AUS_fortify_our_airfields:0 "공군 기지 요새화"
+AUS_fortify_our_airfields_desc:0 "우리의 공군 기지 중 국경에서 멀리 떨어져 있는 것은 없으며, 우리는 공군 기지 점령을 목표로 하는 공격의 가능성을 배제할 수 없습니다. 공군 기지를 요새화하면 위험을 줄일 수 있을 것입니다."
+AUS_fortify_our_airfields_tt:0 "오스트리아 공군 기지에 §Y2개의 지상 요새§!를 추가합니다."
 
-AUS_investigate_jet_technology:0 "Investigate Jet Technology"
-AUS_investigate_jet_technology_desc:0 "There has been word from our engineering department of a new, theoretical jet-turbine engine that can produce planes flying faster, higher and further than ever before. If anything that we can look into can produce a tactical edge, we will take it."
+AUS_investigate_jet_technology:0 "제트 기술 연구"
+AUS_investigate_jet_technology_desc:0 "우리의 공학 부서로부터 항공기를 더 빠르게, 더 높게, 더 멀리 날 수 있게 하는 새로운 이론상의 제트 터빈 엔진에 대한 소식이 들어왔습니다. 그 어느 것이라도 전술적 우위를 우리에게 줄 수 있다면, 우리는 이를 연구할 것입니다."
 
-AUS_experimental_bomber_programme:0 "Experimental Bomber Programme"
-AUS_experimental_bomber_programme_desc:0 "Theoretical designs have already been drafted for the next generation of bomber craft, which will give us an edge in the wars we foresee coming our way. We only need to allocate funding for prototyping to kick this programme into gear."
+AUS_experimental_bomber_programme:0 "실험적 폭격기 프로그램"
+AUS_experimental_bomber_programme_desc:0 "차세대 폭격기에 대한 이론상의 설계가 완성되었으며, 이는 다가오는 전쟁에서 우리에게 큰 이점이 될 것입니다. 우리는 이 프로그램을 실행하기 위해 시제기를 위한 예산만 편성하면 됩니다."
 
-AUS_establish_the_austrian_airforce_academy:0 "Establish the Austrian Airforce Academy"
-AUS_establish_the_austrian_airforce_academy_desc:0 "Our fledgling airforce is developing well, but while our technology may not be lacking, our training is. We can devote resources to fixing this issue, and have no excuse not to."
+AUS_establish_the_austrian_airforce_academy:0 "오스트리아 공군사관학교 설립"
+AUS_establish_the_austrian_airforce_academy_desc:0 "우리의 신생 공군은 잘 발전하고 있지만, 기술에서 부족하지 않을 지는 몰라도, 훈련에서는 그렇습니다. 우리는 이 문제를 해결하기 위해 투자를 해야만 합니다."
 
 ### NAVAL SECTION ###
 
