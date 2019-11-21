@@ -274,26 +274,26 @@ AUS_the_austrian_compromise:0 "오스트리아 타협"
 AUS_the_austrian_compromise_desc:0 "히틀러는 독일 국민들에게 오스트리아와 독일의 '안슐루스'에 대해 설파하고 있습니다. 우리는 주권을 넘겨줄 생각이 없지만, 다음 전쟁에서 독일을 지원하겠다고 약속한다면 그것으로 충분할지도 모릅니다."
 AUS_the_austrian_compromise_tt:0 "독일이 이를 받아들이면, §Y안슐루스§! 중점이 건너뛰어지지만 오스트리아는 §Y추축국§!에 가입할 것입니다.\n"
 
-AUS_past_glories:0 "Past Glories"
-AUS_past_glories_desc:0 "The Austro-Hungarian union was once one of the greatest forces in the European sphere of influence. However, we were in our prime cruelly cut down by the Treaty of Saint-Germain. We must find the strength as a nation to reclaim what has been taken."
+AUS_past_glories:0 "과거의 영광"
+AUS_past_glories_desc:0 "오스트리아-헝가리 제국은 한때 유럽 최강국 중 하나였습니다. 그러나 최절정에서 우리는 가혹한 생제르맹 조약으로 무너졌습니다. 우리는 과거의 영광을 되찾기 위한 국력을 길러야 합니다."
 
-AUS_establish_the_frontmilliz:0 "Establish the Frontmilliz"
-AUS_establish_the_frontmilliz_desc:0 "After the Great War, the Heimwehr was a useful way for demobilised soldiers to remain useful to Austria's efforts at national security. Now, however, we need a more controlled and coherent body of men. The idea of a new start must be explored."
+AUS_establish_the_frontmilliz:0 "전선의용대 설립"
+AUS_establish_the_frontmilliz_desc:0 "대전쟁 후, 보국단은 소집 해제된 군인들이 오스트리아 안보에 기여할 수 있도록 만들었습니다. 하지만 지금 오스트리아는 더 통제가 수월한 단일 조직을 필요로 합니다. 우리는 새로운 단체를 만드는 것을 고려해봐야 합니다."
 
-AUS_imperial_ambitions:0 "Imperial Ambitions"
-AUS_imperial_ambitions_desc:0 "Many other nations are entirely willing to breast-beat and declare martial might before finally getting down to the business of war. We learned long ago that being coy about firing the first shot is a sure path to defeat."
+AUS_imperial_ambitions:0 "제국의 야망"
+AUS_imperial_ambitions_desc:0 "많은 다른 나라들은 전쟁에 대해 걱정하고 그들의 군사력을 뽐낸 후에나 전쟁을 시작하려고 합니다. 우리는 전쟁을 일으키기 주저하는 것은 패배로 가는 지름길이라는 사실을 과거에 배웠습니다."
 
-AUS_the_old_empire:0 "The Old Empire"
-AUS_the_old_empire_desc:0 "The Austro-Hungarian Union was the greatest political and military force in southern Europe at the time it existed. We will reunite with the other half of our empire, and in this way gain once again what was once ours."
+AUS_the_old_empire:0 "옛 제국"
+AUS_the_old_empire_desc:0 "오스트리아-헝가리 제국은 존재했을 때 유럽 남쪽에서 가장 강력한 제국이었습니다. 우리는 우리 제국의 나머지 반쪽과 다시 통일해, 우리의 옛 영토를 수복할 것입니다."
 
-AUS_pressure_for_transylvania:0 "Pressure for Transylvania"
-AUS_pressure_for_transylvania_desc:0 "Romania has been long in possession of states that simply do not belong to them. The Transylvanian region has been part of Austria-Hungary for longer than remembrance, and we will take it from Romania if we must, no matter the price."
-AUS_pressure_for_transylvania_tt:0 "§RMay lead to war with Romania.§!\n"
+AUS_pressure_for_transylvania:0 "트란실바니아 요구"
+AUS_pressure_for_transylvania_desc:0 "루마니아는 가질 자격이 없는 땅을 오랫동안 소유하고 있습니다. 트란실바니아 지역은 까마득한 과거부터 오스트리아-헝가리 제국의 일부였으며, 우리는 필요하다면 어떤 대가를 치르고서라도 이를 되찾을 것입니다."
+AUS_pressure_for_transylvania_tt:0 "§R루마니아와의 전쟁으로 이어질 수 있습니다.§!\n"
 
-AUS_the_romanian_obstacle:0 "The Romanian Obstacle"
-AUS_the_romanian_obstacle_desc:0 "We have lands that once were ours, but the continued existence of Romania is an insult to our people. We will annex them by force, and forge a path to the Black Sea."
+AUS_the_romanian_obstacle:0 "루마니아라는 장애물"
+AUS_the_romanian_obstacle_desc:0 "우리는 우리의 옛 영토를 수복했지만, 루마니아라는 나라의 존속 자체가 우리나라에 대한 모욕입니다. 우리는 그들을 무력으로 합병하고, 흑해로 가는 길을 확보할 것입니다."
 
-AUS_pressure_for_slovenia:0 "Pressure for Slovenia"
+AUS_pressure_for_slovenia:0 "슬로베니아 요구"
 AUS_pressure_for_slovenia_desc:0 "Slovenia has been ours since the dissolving of Venice as a state, and the Slovenes have always wanted to be part of the Germanic people. They are separated from us by time, but we shall prove to the world that any difference can be reconciled."
 AUS_pressure_for_slovenia_tt:0 "§RMay lead to war with Yugoslavia.§!\n"
 
