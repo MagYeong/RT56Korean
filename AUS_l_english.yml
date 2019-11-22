@@ -363,72 +363,72 @@ AUS_strengthen_ties_with_ukraine:0 "우크라이나 관계 강화"
 AUS_strengthen_ties_with_ukraine_desc:0 "우리가 새로운 동맹국 우크라이나와 가까워지지 않을 이유는 없습니다. 우리 자원 일부를 그들에게 제공하면, 우리도 언젠가 득을 볼 수 있을 것입니다."
 
 AUS_the_kiev_annex:0 "키예프 합병"
-AUS_the_kiev_annex_desc:0 "우크라이나는 귀중한 동맹국이었으며, 이제 오스트리아-헝가리 제국의 완전한 보호 아래 들어올 자격이 있습니다. 합병은 그들의 선택지 중에서 최선의 선택일 것입니다."
+AUS_the_kiev_annex_desc:0 "우크라이나는 귀중한 동맹국이었으며, 이제 오스트리아-헝가리의 완전한 보호 아래 들어올 자격이 있습니다. 합병은 그들의 선택지 중에서 최선의 선택일 것입니다."
 
-AUS_no_more_tyrants:0 "No More Tyrants"
-AUS_no_more_tyrants_desc:0 "Imperial greed and monarchistic control on both sides of the war produced the broken Europe we see today. We have alreadys suffered enough as a nation, and Hitler's Germany would be so soon rearmed. We say no more war, and no more tyrants."
+AUS_no_more_tyrants:0 "폭군은 이제 그만"
+AUS_no_more_tyrants_desc:0 "대전쟁 양 진영의 제국주의적 야망과 군주들의 지배가 오늘날의 망가진 유럽을 만들어냈습니다. 우리나라는 이미 많은 고난을 겪어야 했으며, 히틀러의 독일은 곧 재무장을 완료할 것입니다. 우리는 전쟁은 이제 그만, 그리고 폭군은 이제 그만이라고 말할 것입니다."
 
-AUS_freedom_liberty_and_strength:0 "Freedom, Liberty and Strength"
-AUS_freedom_liberty_and_strength_desc:0 "Austria may have changed much in attempting to reform our government so drastically, but that does not mean that our military is weak, or our people. The old pride in Austrian will is still there, and the people will still fight to save their country."
+AUS_freedom_liberty_and_strength:0 "자유, 해방과 힘"
+AUS_freedom_liberty_and_strength_desc:0 "오스트리아는 정부를 급격하게 개혁하는 과정에서 바뀌었을지 모르지만, 그것은 우리 군대나 국민이 약하다는 뜻은 아닙니다. 오스트리아인의 의지에 대한 오랜된 자부심은 여전히 남아있으며, 국민들은 그들의 나라를 지키기 위해 기꺼이 싸울 것입니다."
 
-AUS_seek_british_support:0 "Seek British Support"
-AUS_seek_british_support_desc:0 "Britain is not an old friend of our nation, but now it is not a battle between nations that is to be fought, but ideologies. The age of petty squabbles between nations is over. Cooperation is the way forward, not individual nationalism."
+AUS_seek_british_support:0 "영국의 지원 모색"
+AUS_seek_british_support_desc:0 "영국은 우리나라의 오랜 친구가 아니지만, 지금 전쟁은 국가 간의 전쟁이 아닌 이념 간의 전쟁입니다. 국가 간 사소한 말다툼의 시대는 이제 지났습니다. 개별 국가의 국민주의가 아닌, 협력만이 승리로 가는 길입니다."
 
-AUS_break_the_compromise:0 "Break the Compromise"
-AUS_break_the_compromise_desc:0 "We bowed and scraped to the Germans because they were on top of us, with a far superior military. Now that we have reformed and affirmed our new government, we may stand a chance of facing the Nazis."
-AUS_break_the_compromise_tt:0 "May lead to war with Germany\n"
+AUS_break_the_compromise:0 "타협 파기"
+AUS_break_the_compromise_desc:0 "우리가 독일에 굴복한 것은 그들이 우리나라의 위에 있으면서 훨씬 강력한 군사력을 가지고 있었기 때문입니다. 이제 우리가 새로운 정부를 개혁하고 확립한 이상, 나치를 상대로 버틸 수도 있을지 모릅니다."
+AUS_break_the_compromise_tt:0 "독일과의 전쟁으로 이어질 수 있습니다.\n"
 
-AUS_free_the_balkans:0 "Free the Balkans"
-AUS_free_the_balkans_desc:0 "Certain states in the Balkans have fallen under fascist leadership since Hitler began to exert influence over Europe. We must act to undo this damage, even if it means making war to free the people."
-AUS_free_the_balkans_tt:0 "Gives puppet wargoal on all non-democratic Balkan nations\n"
+AUS_free_the_balkans:0 "발칸 반도 해방"
+AUS_free_the_balkans_desc:0 "발칸 반도의 몇몇 국가들은 히틀러가 유럽에 영향력을 행사하면서 파시즘의 굴레에 빠졌습니다. 사람들을 해방하기 위해 전쟁을 해야 하더라도, 우리는 이 문제를 없애기 위해 행동에 나서야 합니다."
+AUS_free_the_balkans_tt:0 "발칸 반도의 민주주의가 아닌 국가에 대한 전쟁 목표 §Y괴뢰화§!를 얻습니다.\n"
 
-AUS_free_the_ukrainians:0 "Free the Ukrainians"
-AUS_free_the_ukrainians_desc:0 "The Ukrainians have been trapped under the Soviet boot for too long. we have set our sights on their release, and there is no better time than now to do so."
+AUS_free_the_ukrainians:0 "우크라이나 해방"
+AUS_free_the_ukrainians_desc:0 "우크라이나인들은 소련의 억압에 너무 오랫동안 신음했습니다. 우리는 우크라이나를 해방하기로 결의했으며, 지금이야말로 이를 실행에 옮기기에 적절한 때입니다."
 
-AUS_remove_the_horthy_government:0 "Remove the Horthy Government"
-AUS_remove_the_horthy_government_desc:0 "Our historical brethren in Hungary are suffering under the yolk of a fascist regime which is making dangerous overtures towards uniting with Germany in military cooperation. It makes sense to attack as quickly as possible and liberate their people."
+AUS_remove_the_horthy_government:0 "호르티 정부 제거"
+AUS_remove_the_horthy_government_desc:0 "우리의 역사적 친구인 헝가리는, 독일과의 군사적 협력이라는 위험한 시도를 하는 파시스트 정권 밑에서 고통받고 있습니다. 그들을 최대한 빨리 공격해서 헝가리 국민들을 해방시키는 것이 최선의 수일 것입니다."
 
-AUS_dethrone_mussolini:0 "Dethrone Mussolini"
-AUS_dethrone_mussolini_desc:0 "Mussolini is a tyrant who has closed down almost every last vestige of the democratic process in Italy. If he will not give his people the choice of who will lead them, then we will."
+AUS_dethrone_mussolini:0 "무솔리니 축출"
+AUS_dethrone_mussolini_desc:0 "무솔리니는 이탈리아 민주제의 자취를 완전히 없애버린 독재자입니다. 만약 그가 이탈리아 국민들에게 지도자를 선택할 권리를 주지 않는다면, 우리가 직접 그 권리를 되돌려 줄 것입니다."
 
-AUS_request_balkan_support:0 "Request Balkan Support"
-AUS_request_balkan_support_desc:0 "There are many states in the Balkans especially who have reason to fear Nazi incursion. We are the shield between Germany and many of them, and we will need their help to turn back the tide. We must appeal for aid."
+AUS_request_balkan_support:0 "발칸 지원 요청"
+AUS_request_balkan_support_desc:0 "발칸 반도에는 나치의 확장주의를 두려워해야 하는 이유를 가진 국가가 많이 있습니다. 우리는 독일로부터 많은 그들 국가를 보호하는 방패이며, 흐름을 바꾸기 위해서는 그들의 도움이 필요합니다. 우리는 지원을 요청해야 합니다."
 
-AUS_a_red_future:0 "A Red Future"
-AUS_a_red_future_desc:0 "Austria has suffered under all kinds of traditional government, both imperial and democratic. The Soviet Union, however, is calling out to workers across the world to take up the path to another way."
+AUS_a_red_future:0 "붉은 미래"
+AUS_a_red_future_desc:0 "오스트리아는 군주제와 민주주의, 두 전통주의 정부 아래 고통받았습니다. 하지만 지금 소련은 만국의 노동자들에게 또다른 길을 선택하라고 외치고 있습니다."
 
-AUS_rise_up_fight:0 "Rise Up, Fight!"
-AUS_rise_up_fight_desc:0 "We have taken steps towards liberating our own workers, but there are still oppressed proletariat masses in almost every country on earth who are enslaved to the capitalist process. Everyone must volunteer in service of the Austrian socialist state!"
+AUS_rise_up_fight:0 "일어나라, 맞서 싸워라!"
+AUS_rise_up_fight_desc:0 "우리는 우리 노동자들을 해방하기 위해 나아가고 있지만, 여전히 세상의 거의 모든 국가에는 자본주의 체계에 억압된 무산 계급 대중이 존재합니다. 모든 인민들은 오스트리아 소비에트 공화국을 위해 헌신해야 합니다!"
 
-AUS_seek_soviet_support:0 "Seek Soviet Support"
-AUS_seek_soviet_support_desc:0 "Russia ground our nation into the dirt, but the Russian nation has fallen and in its place has risen the Soviet Socialist State. This worker's paradise is an example for our nation, and their support will be invaluable in securing our future."
+AUS_seek_soviet_support:0 "소련의 지원 모색"
+AUS_seek_soviet_support_desc:0 "러시아는 우리나라에 큰 피해를 입혔지만, 러시아 제국은 무너졌고 그 자리에 소비에트 사회주의 공화국이 들어섰습니다. 이 노동자들의 천국은 우리나라에게도 좋은 본보기이며, 그들의 지원은 우리 미래를 확보하는 데 큰 도움이 될 것입니다."
 
-AUS_break_the_fascist_shackles:0 "Break the Fascist Shackles"
-AUS_break_the_fascist_shackles_desc:0 "We compromised with the totalitarian Germans because they had the power to crush us. Now, however, with the global revolution on our side, we can rise up! Down with the fascists!"
+AUS_break_the_fascist_shackles:0 "파시스트 족쇄를 깨라"
+AUS_break_the_fascist_shackles_desc:0 "우리가 전체주의 독일과 타협한 것은 그들이 우리를 뭉개버릴 힘을 가지고 있었기 때문입니다. 하지만 이제 세계 혁명이 우리편에 있는 이상, 우리는 들고 일어날 수 있습니다! 파쇼들을 무찌르자!"
 
-AUS_request_balkan_support_sov:0 "Request Balkan Support"
-AUS_request_balkan_support_sov_desc:0 "There must be communist sympathisers in the Balkans who will step forward when called to arms. The fascist threat must be dealt with - Balkan communists, unite!"
+AUS_request_balkan_support_sov:0 "발칸 지원 요청"
+AUS_request_balkan_support_sov_desc:0 "발칸 반도에는 분명 참전을 요청했을 때 우리를 도울 공산주의 동조자들이 있을 것입니다. 파쇼의 위협은 반드시 없어져야 합니다. 발칸 반도의 노동자여, 단결하라!"
 
-AUS_destroy_the_horthy_fascists:0 "Destroy the Horthy Fascists"
-AUS_destroy_the_horthy_fascists_desc:0 "Miklos Horthy has ruled Hungary without compromise for sixteen years. This will not be brooked any longer. We will take him to task for what he has done, if we must use arms or not!"
+AUS_destroy_the_horthy_fascists:0 "호르티 파시즘 제거"
+AUS_destroy_the_horthy_fascists_desc:0 "미클로시 호르티는 16년간 헝가리를 철권 통치했습니다. 우리는 이를 더 이상 좌시하지 않을 것입니다. 우리는 무력을 통해, 그가 한 일에 대한 대가를 치루도록 만들 것입니다!"
 
-AUS_free_the_italian_workers:0 "Free the Italian Workers"
-AUS_free_the_italian_workers_desc:0 "Mussolini has ground all Italians beneath his heel, and has used them as mere tools to construct a war machine to spread his rule. We will undo the mistake of his coming to power."
+AUS_free_the_italian_workers:0 "이탈리아 노동자 해방"
+AUS_free_the_italian_workers_desc:0 "무솔리니는 모든 이탈리아인들을 복종시키고, 그들을 자신의 영향력을 확대하기 위한 전쟁 기계를 만들 도구로 사용했습니다. 우리는 무솔리니의 집권이라는 실수를 고칠 것입니다."
 
-AUS_the_balkan_revolution:0 "The Balkan Revolution"
-AUS_the_balkan_revolution_desc:0 "Our brother workers in the Balkan states have not yet taken up arms in service of their own brothers. Quite simply, we have the power to liberate them - a power we must make use of if we are to proudly call ourselves communist."
+AUS_the_balkan_revolution:0 "발칸 혁명"
+AUS_the_balkan_revolution_desc:0 "발칸 반도 국가들의 우리 노동자 동지들은 무산 계급의 해방을 위한 혁명을 아직 시작하지 않았습니다. 간단하게도, 우리는 그들을 해방시킬 힘이 있습니다. 우리가 진정 공산주의자라면, 그 힘을 사용해야만 합니다."
 
-AUS_war_against_the_stalinists:0 "War Against the Stalinists"
-AUS_war_against_the_stalinists_desc:0 "The Stalinist state is rotting at its core, with a powerful industrial base but no food or amenities for the people. We have heard how they suffer - Soviet communism has failed. It is time to end the hell of the Soviet worker."
+AUS_war_against_the_stalinists:0 "스탈린주의에 대한 전쟁"
+AUS_war_against_the_stalinists_desc:0 "스탈린주의는 그 안부터 썩어가고 있으며, 그들은 강력한 공업 기반을 가졌을지언정 인민들을 위한 식량과 생필품은 주지 못합니다. 우리는 그들의 고통을 알고 있으며, 따라서 소련의 공산주의는 실패했다고 단언할 수 있습니다. 소련 노동자들의 고통을 끝낼 때가 왔습니다."
 
-AUS_fund_the_french_revolution:0 "Fund the French Revolution"
-AUS_fund_the_french_revolution_desc:0 "France imposed awful penalties on our nation and all of the central powers at the end of the Great War, but they have suffered themselves since it ended. Communist sentiment in France is at an all-time high; we must support this."
+AUS_fund_the_french_revolution:0 "프랑스 혁명 지원"
+AUS_fund_the_french_revolution_desc:0 "프랑스는 대전쟁 후 우리나라와 동맹국 전체에 끔찍한 제약을 가했지만, 그들 자신도 대전쟁 후 고통받았습니다. 프랑스의 공산주의 지지율은 역대 최고를 찍고 있으며, 우리는 이를 지원해야 합니다."
 
-AUS_start_the_french_revolution:0 "Start the French Revolution"
-AUS_start_the_french_revolution_desc:0 "We have taken steps towards securing France's future as a worker-friendly state, but it seems the powers that be will not listen to what the people want. So much for democracy. We must aid the French people in their revolution as soon as possible!"
+AUS_start_the_french_revolution:0 "프랑스 혁명 개시"
+AUS_start_the_french_revolution_desc:0 "우리는 프랑스의 미래를 노동자 친화 국가로 만들기 위해 노력하고 있지만, 기득권은 여전히 인민들의 요구를 무시하는 것 같습니다. 그것이 민주주의의 민낯입니다. 우리는 당장 프랑스 인민들의 혁명을 지원해야 합니다!"
 
-AUS_the_polish_revolution:0 "The Polish Revolution"
-AUS_the_polish_revolution_desc:0 "Poland has proven itself unable to take care of its own land. Sandwiched between the fascists to the west and the communists to the east, it is clear what way is best for their future - and we can take action to guide them there."
+AUS_the_polish_revolution:0 "폴란드 혁명"
+AUS_the_polish_revolution_desc:0 "폴란드는 그들의 영토조차도 제대로 관리할 수 없는 듯합니다. 서쪽의 파쇼들과 동쪽의 공산주의자들 사이에 낀 그들에게 최선의 미래가 무엇일지는 자명합니다. 우리는 그들이 그 미래로 나아가도록 이끌 것입니다."
 
 ### ROYALIST SECTION ###
 
