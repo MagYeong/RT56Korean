@@ -432,27 +432,27 @@ AUS_the_polish_revolution_desc:0 "폴란드는 그들의 영토조차도 제대�
 
 ### ROYALIST SECTION ###
 
-AUS_repeal_the_abolition_of_nobility:0 "Repeal the Abolition of Nobility"
-AUS_repeal_the_abolition_of_nobility_desc:0 "In the aftermath of the Great War, the core of our heritage was ripped from us with the abolition of nobility. However, undoing this law will be simpler than previously thought."
+AUS_repeal_the_abolition_of_nobility:0 "귀족 작위 폐지 철회"
+AUS_repeal_the_abolition_of_nobility_desc:0 "대전쟁 후, 귀족 작위의 폐지와 함께 우리 유산의 핵심이 사라졌습니다. 하지만 이 법을 철회하는 것은 생각보다 휠씬 쉬울 수 있습니다."
 
-AUS_propose_the_alps_defence_pact:0 "Propose the Alps Defence Pact"
-AUS_propose_the_alps_defence_pact_desc:0 "The Italians have taken some of our most key strategic locations from us and displaced thousands of our citizens by absorbing Istria and South Tyrol in the wake of the Great War. Now, however, Europe simmers again with tension, and their position relative to us cannot be ignored - or their potential use as an ally."
-AUS_propose_the_alps_defence_pact_tt:0 "If Italy accepts, will bypass the Anschluss.\nWe will also recieve §Y300 Light Tanks§!.\n"
+AUS_propose_the_alps_defence_pact:0 "알프스 방위 조약 제의"
+AUS_propose_the_alps_defence_pact_desc:0 "이탈리아는 대전쟁 후, 우리의 핵심 전략적 요충지와 수많은 우리 국민들을 이스트리엔과 쥐트티롤을 합병하면서 뺏어갔습니다. 하지만 유럽의 긴장이 격화함에 따라, 우리 옆에 있는 이탈리아의 위치나, 그들을 동맹으로서 활용할 수 있는 가능성은 무시되어서는 안됩니다."
+AUS_propose_the_alps_defence_pact_tt:0 "이탈리아가 이를 받아들이면, §Y안슐루스§! 중점이 건너뛰어집니다.\n우리는 또한 §Y300개의 경전차§!를 받을 것입니다.\n"
 
-AUS_repeal_ban_on_political_parties:0 "Repeal Ban on Political Parties"
-AUS_repeal_ban_on_political_parties_desc:0 "The fascists who presently control our country have shortsightedly banned all political parties and the assembly thereof. This ban is not so widely-supported, however, that it cannot be overturned with a little shrewd political maneuvering."
+AUS_repeal_ban_on_political_parties:0 "정당금지법 폐지"
+AUS_repeal_ban_on_political_parties_desc:0 "우리나라를 현재 장악한 파시스트들은 근시안적으로 모든 정당과 그들의 집회를 금지했습니다. 이 법은 대중의 지지를 받지 못하고 있지만, 이를 없애려면 소규모의 기민한 정치 공작으로는 부족할 것입니다."
 
-AUS_reinstate_the_habsburg_family:0 "Reinstate the Habsburg Family"
-AUS_reinstate_the_habsburg_family_desc:0 "After the end of the Great War, the Habsburgs, the rightful rulers of Austria-Hungary, were stripped of all lands and titles and exiled. These steps were taken under duress; however, the only thing the Habsburgs ever did wrong to us was to lose the war in the first place. They have ever been loyal to us, and so we shall be loyal to them."
+AUS_reinstate_the_habsburg_family:0 "합스부르크 가문 복위"
+AUS_reinstate_the_habsburg_family_desc:0 "대전쟁이 끝난 후, 오스트리아-헝가리 제국의 정당한 주인이었던 합스부르크 가문은 모든 영토와 작위를 잃고 망명해야만 했습니다. 이 조치는 강압적으로 이루어졌지만, 합스부르크 가문이 잘못한 것은 전쟁에서 진 것 밖에 없습니다. 그들은 언제나 오스트리아를 위했고, 따라서 우리도 그들에게 충성할 것입니다."
 
-AUS_liechtenstein_treaty:0 "Liechtenstein Treaty"
-AUS_liechtenstein_treaty_desc:0 "Germany has ceased to be a responsible world power ruled by a steadying and powerful kaiser. Instead, the madman Hitler threatens all of Europe with his expansionist policies. Austria must look to all possible allies if we are to survive - Switzerland included."
+AUS_liechtenstein_treaty:0 "리히텐슈타인 협정"
+AUS_liechtenstein_treaty_desc:0 "독일은 더 이상 안정적이고 강력한 카이저에 의해 다스려지는 책임감 있는 열강이 아닙니다. 그 대신, 미치광이 히틀러가 전유럽을 그의 확장주의적 정책으로 위협하고 있습니다. 오스트리아가 살아남기 위해서는 모든 가능한 동맹국을 모색해야 합니다. 여기에는 스위스도 포함됩니다."
 
-AUS_ban_the_national_socialist_party:0 "Arrest the National Socialist Party"
-AUS_ban_the_national_socialist_party_desc:0 "The Nazis are a political powerhouse here in Austria as well as in Germany. However, their message to Austria is not one that aligns with our interests. In fact, one might argue that it is treason. Shall we act accordingly?"
+AUS_ban_the_national_socialist_party:0 "국가사회주의 오스트리아 노동자당 해산"
+AUS_ban_the_national_socialist_party_desc:0 "나치는 독일뿐만 아니라 오스트리아에서도 강대한 정치 세력입니다. 하지만 그들이 주장하는 바는 오스트리아의 국익과 일치하지 않습니다. 심지어 몇몇은 그들이 반역을 주장한다고 하기도 합니다. 이들의 주장을 따라야 할까요?"
 
-AUS_undermine_mussolini:0 "Undermine Mussolini"
-AUS_undermine_mussolini_desc:0 "Not all of Italy is united under Mussolini's ideals, as much as he would like for that to be the case. A little political support from our own royalists may increase royalist support in Italy and oust the fascist regime."
+AUS_undermine_mussolini:0 "무솔리니 기반 약화"
+AUS_undermine_mussolini_desc:0 "모든 이탈리아인들이 무솔리니의 바람대로 그의 사상을 따르는 것은 아닙니다. 우리 군주주의자의 약간의 지원만 있으면 이탈리아 내의 국왕 친정에 대한 지지를 늘리고 파시즘 정권을 붕괴시킬 수 있습니다."
 
 AUS_issue_emergency_powers:0 "Issue Emergency Powers"
 AUS_issue_emergency_powers_desc:0 "The situation in Europe becomes more tense and volatile with every passing day. In times such as this, the only solution to the threat of our proactive and expansionist neighbors is to do away with bureaucracy and grant similarly proactive powers to our own leaders."
