@@ -490,28 +490,28 @@ AUS_path_of_war_desc:0 "독일은 우리로부터 북쪽의 체코슬로바키�
 AUS_path_of_peace:0 "평화의 길"
 AUS_path_of_peace_desc:0 "독일은 우리의 옛 영토인 체코슬로바키아를 합병했지만, 그것이 오스트리아-헝가리의 신민들과 우리를 완전히 갈라놓은 것은 아닙니다. 우리 신민들을 우리나라로 끌어들일 계획을 우리는 세울 수 있습니다."
 
-AUS_arm_czech_resistance:0 "Arm the Czech Resistance"
-AUS_arm_czech_resistance_desc:0 "Germany may control Czechoslovakia, but we can still put more than one spanner in their works; one concept is a proxy war, fought by funding the Czech resistance."
+AUS_arm_czech_resistance:0 "체코 저항군 무기 공급"
+AUS_arm_czech_resistance_desc:0 "독일은 체코슬로바키아를 점령하고 있지만, 우리는 여러가지 방법으로 그들을 방해할 수 있습니다. 한 가지 방법은 대리전으로서, 체코 저항군을 지원해 실행할 수 있습니다."
 
-AUS_czech_immigration:0 "Czech Immigration"
-AUS_czech_immigration_desc:0 "The Germans are pressing every able-bodied man into service somewhere in their emerging empire. However, Czech citizens clamour every day to escape this indentured servitude and find their place in the Austro-Hungarian empire. We, of course, welcome them."
+AUS_czech_immigration:0 "체코 이민"
+AUS_czech_immigration_desc:0 "독일은 모든 남성이 그들의 제국을 위해 봉사하도록 강요하고 있습니다. 하지만 체코인들은 매일 이 압제에서 벗어나 오스트리아-헝가리 제국으로 도망치기 위해 노력하고 있습니다. 물론 우리는, 그들을 환영합니다."
 
-AUS_demand_czech_autonomy:0 "Demand Czech Autonomy"
-AUS_demand_czech_autonomy_desc:0 "Gaining direct control of Czechoslovakia might be a forlorn hope, but we can still petition for their autonomy under German rule. From there, our hope might not be so forlorn..."
+AUS_demand_czech_autonomy:0 "체코 자치 요구"
+AUS_demand_czech_autonomy_desc:0 "체코슬로바키아를 되찾는 것은 가망이 없어 보이지만, 우리는 여전히 독일이 그들에게 자치권을 주라고 요구할 수 있습니다. 거기부터는, 우리의 꿈이 그렇게 가망 없지는 않을지도 모릅니다..."
 
-AUS_allow_czech_volunteers:0 "Allow Czech Volunteers"
-AUS_allow_czech_volunteers_desc:0 "The Czechoslovakian military is all but nonexistent, and the German occupation allows the people no way to fight for a country they see to be theirs. Czechoslovakian volunteers petition us every day to serve by the thousands - and it is time we let them."
+AUS_allow_czech_volunteers:0 "체코 자원병 허용"
+AUS_allow_czech_volunteers_desc:0 "체코슬로바키아군은 사라졌으며, 독일의 지배는 체코인들이 그들의 나라를 위해 싸우는 것을 막고 있습니다. 수천 명의 체코슬로바키아인들이 자원 입대를 하게 해달라고 청원하고 있으며, 이제는 이를 허용해야 합니다."
 
-AUS_operation_skoda:0 "Operation: Skoda"
-AUS_operation_skoda_desc:0 "The Skoda engineering company is staffed with some of the brightest minds of the modernday - and based firmly in Nazi-controlled Czechoslovakia. Those minds would be best-placed serving our interests."
+AUS_operation_skoda:0 "스코다 작전"
+AUS_operation_skoda_desc:0 "스코다에는 현 시대 최고의 인재들이 있지만, 그들은 나치가 장악한 체코슬로바키아에 갇혀 있습니다. 그 인재들이 우리를 위해 일한다면 더욱 좋을 것입니다."
 
-AUS_request_southern_slovakia:0 "Request Southern Slovakia"
-AUS_request_southern_slovakia_desc:0 "Slovakia was always Austro-Hungarian land. It is only fair, now that our old ally controls it, that it be returned to us - and the case would be easy to make, if we cared to make it."
+AUS_request_southern_slovakia:0 "남슬로바키아 요청"
+AUS_request_southern_slovakia_desc:0 "슬로바키아는 언제나 오스트리아-헝가리 제국의 영토였습니다. 한때 우리의 동맹국이었던 나라가 이곳을 점령한 이상, 당연히도 이곳은 우리에게 반환되어야 합니다."
 
-AUS_continue_secret_armament:0 "Continue Secret Armament"
-AUS_continue_secret_armament_desc:0 "We have been supplying the resistance in Czechoslovakia with arms for an appreciable time now, at an appreciable cost. A case might be made to step that up into a full covert rearmament."
+AUS_continue_secret_armament:0 "비밀 무기 공급 지속"
+AUS_continue_secret_armament_desc:0 "우리는 체코슬로바키아 저항군에게 꽤 오랜 시간 동안 상당한 양의 무기를 지원했습니다. 이 비밀스러운 지원의 규모를 이제 크게 늘릴 수 있을 것 같습니다."
 
-AUS_initiate_the_bohmen_plan:0 "Initiate the Böhmen Plan"
+AUS_initiate_the_bohmen_plan:0 "뵈멘 계획 실행"
 AUS_initiate_the_bohmen_plan_desc:0 "Czechoslovakia has been all but freed from German rule, and the time has come to directly challenge their control and restore our people to our union. War, if unpleasant, is at times necessary."
 AUS_initiate_the_bohmen_plan_tt:0 "§YCzechoslovakia§! will become our puppet, but we will declare war on §RGermany.§!\n"
 
@@ -562,8 +562,8 @@ AUS_reclaim_historical_lands_desc:0 "With the declaration of the reformation of 
  
  #IDEAS
  
- AUS_eduard_freiherr:0 "Eduard Freiherr"
- AUS_alexander_lohr:0 "Alexander Löhr"
+ AUS_eduard_freiherr:0 "에두아르트 폰 뵘에르몰리"
+ AUS_alexander_lohr:0 "알렉산더 뢰어"
  AUS_lothar_rendulic:0 "Dr. Lothar Rendulic"
  AUS_franz_bohme:0 "Franz Böhme"
  AUS_franz_bohme_chief:0 "Franz Böhme"
@@ -1288,8 +1288,8 @@ AUS_reclaim_historical_lands_desc:0 "With the declaration of the reformation of 
  austrian_research_desc:0 ""
  
  #UNITS
- AUS_paratrooper:0 "Jagdkommando"
- AUS_paratrooper_desc:0 "By incorporating airborne forces into our army, we can make forced entries and position key troops in previously inaccessible areas, allowing for new tactical opportunities."
- AUS_mountaineers:0 "Gebirgsjäger"
- AUS_mountaineers_desc:0 "Combat in mountain ranges exposes troops to many perils, but sometimes cannot be avoided. Providing our soldiers with specialized training for this environment, we can minimize these risks."
+ AUS_paratrooper:0 "야크트코만도"
+ AUS_paratrooper_desc:0 "공수부대를 우리 군에 편입함으로써, 우리는 하늘로부터 침공해 과거에는 접근할 수 없었던 곳에 핵심 병력을 배치해, 새로운 전술적 기회를 열 수 있습니다."
+ AUS_mountaineers:0 "산악엽병"
+ AUS_mountaineers_desc:0 "산악전은 병력을 많은 위협에 내몰지만, 때로는 피할 수 없을 때가 있습니다. 우리 병사들에게 이 환경에 대한 특수 훈련을 제공해, 우리는 이 위험을 최소화할 수 있습니다."
  
