@@ -310,8 +310,8 @@ AUS_our_oldest_enemy_desc:0 "프랑스의 욕망으로 우리는 대전쟁 후 �
 AUS_request_slovakia:0 "슬로바키아 요청"
 AUS_request_slovakia_desc:0 "우리는 지금까지 독일과 좋은 관계를 유지했지만, 그들의 체코슬로바키아 합병은 우리가 제국의 세번째 도시였던 프라하를 되찾는 것을 막고 있습니다. 우리는 외교적 노력을 할 수 있지만, 독일이 이를 묵인할지는 불확실합니다."
 
-AUS_request_krakow:0 "크라카우 요청"
-AUS_request_krakow_desc:0 "슬로바키아 지역에 대한 우리의 지배는 우리를 독일로부터 더 많은 점령지를 넘겨받을 수 있는 위치에 놓았습니다. 크라카우는 한때 오스트리아 지배 아래에 있던 공국이었으며, 지금 다시 그렇게 되지 말라는 법은 없습니다."
+AUS_request_krakow:0 "크라쿠프 요청"
+AUS_request_krakow_desc:0 "슬로바키아 지역에 대한 우리의 지배는 우리를 독일로부터 더 많은 점령지를 넘겨받을 수 있는 위치에 놓았습니다. 크라쿠프는 한때 오스트리아 지배 아래에 있던 공국이었으며, 지금 다시 그렇게 되지 말라는 법은 없습니다."
 
 AUS_second_serbian_campaign:0 "제2차 세르비아 전역"
 AUS_second_serbian_campaign_desc:0 "세르비아와의 첫번째 전쟁은 오스트리아 제국을 무너뜨렸습니다. 이번에는 그렇게 되지 않을 것입니다. 우리는 그들을 철저히 파괴하고 그들의 영토를 모조리 합병할 것입니다. 드디어 우리는 페르디난트 대공의 불행한 죽음에 대한 복수를 할 수 있을 것입니다."
@@ -319,8 +319,8 @@ AUS_second_serbian_campaign_desc:0 "세르비아와의 첫번째 전쟁은 오�
 AUS_dalmatia_for_south_tyrol:0 "쥐트티롤을 위한 달마티아"
 AUS_dalmatia_for_south_tyrol_desc:0 "이탈리아는 오랫동안 유고슬라비아가 가진 이탈리아어를 사용하는 달마티아 지역을 얻기를 원했습니다. 반대로 우리는, 다시 티롤 전체를 오스트리아의 영토로 만들기를 원합니다. 어쩌면 거래를 할 수 있을지도 모릅니다."
 
-AUS_demand_the_istrian_peninsula:0 "이스트리엔 반도 요구"
-AUS_demand_the_istrian_peninsula_desc:0 "조그만한 이스트리엔 반도는 이탈리아만큼의 가치가 없을지 모르지만, 그래도 오랫동안 우리가 지중해로 나갈 수 있는 통로였습니다. 우리는 여전히 그 땅을 필요로 하며, 필요하다면 이를 강탈해간 이탈리아로부터 다시 되찾을 것입니다."
+AUS_demand_the_istrian_peninsula:0 "이스트리아 반도 요구"
+AUS_demand_the_istrian_peninsula_desc:0 "조그만한 이스트리아 반도는 이탈리아만큼의 가치가 없을지 모르지만, 그래도 오랫동안 우리가 지중해로 나갈 수 있는 통로였습니다. 우리는 여전히 그 땅을 필요로 하며, 필요하다면 이를 강탈해간 이탈리아로부터 다시 되찾을 것입니다."
 
 AUS_traitors_of_the_great_war:0 "대전쟁의 배신자"
 AUS_traitors_of_the_great_war_desc:0 "이탈리아는 영토의 수복을 주장하지만, 정작 그들은 대전쟁 후에 더 많은 것을 잃고 고통받은 나라가 있다는 사실을 망각한 듯합니다. 우리는 그들에게 국가적 재건을 어떻게 해야 하는지 보여줄 것입니다. 바로 이웃나라로부터 빼앗는 방법을 말이죠."
@@ -466,10 +466,10 @@ AUS_issue_the_venetia_treaty_desc:0 ""
 AUS_italian_civil_war:0 "이탈리아 내전"
 AUS_italian_civil_war_desc:0 "이탈리아의 상황은 불안정합니다. 파시스트들은 다른 정치 세력이 존재하지 않는다고 주장하지만, 이탈리아인들의 국왕에 대한 지지는 높으며 왕당파는 강력한 세력을 구축하고 있습니다. 약간의 공작만으로도 우리는 이탈리아를 내전에 빠뜨릴 수 있을 것입니다."
 
-AUS_demand_sudtyrol:0 "쥐트티롤과 이스트리엔 요구"
-AUS_demand_sudtyrol_desc:0 "이탈리아의 내전이 격화하면서, 우리는 쥐트티롤과 이스트리엔을 탈환할 적기를 맞이했습니다. 약간의 정치적 영향력 행사를 통해, 막대한 군사적 영향력을 행사하지 않고도 목표를 달성할 수 있을 것입니다."
+AUS_demand_sudtyrol:0 "쥐트티롤과 이스트리아 요구"
+AUS_demand_sudtyrol_desc:0 "이탈리아의 내전이 격화하면서, 우리는 쥐트티롤과 이스트리아를 탈환할 적기를 맞이했습니다. 약간의 정치적 영향력 행사를 통해, 막대한 군사적 영향력을 행사하지 않고도 목표를 달성할 수 있을 것입니다."
 
-AUS_interfere_in_italian_civil_war:0 "쥐트티롤, 이스트리엔과 군사 지원 교환"
+AUS_interfere_in_italian_civil_war:0 "쥐트티롤, 이스트리아와 군사 지원 교환"
 AUS_interfere_in_italian_civil_war_desc:0 "왕당파들은 국왕에게 권력을 되돌려주기 위해 정당한 전쟁을 치루고 있습니다. 우리의 합스부르크 황족은 그들의 대의에 공감하며, 동시에 기회를 엿보고 있습니다. 거래를 통해 우리는 고토와 동맹을 모두 얻을 수 있을지도 모릅니다."
 
 AUS_old_ties:0 "오랜 유대 관계"
@@ -519,7 +519,7 @@ AUS_full_czech_citizenship:0 "체코인에게 시민권 부여"
 AUS_full_czech_citizenship_desc:0 "체코슬로바키아는 한때 오스트리아-헝가리 제국의 강역이었으며, 그곳의 주민들도 오스트리아-헝가리 제국의 국민으로 간주되었습니다. 이들에게 시민권을 다시 부여해 이들이 우리 통치 아래 자유롭게 살 수 있도록 하는 것이 옳을 것입니다."
 
 AUS_annex_bohemia_and_moravia:0 "보헤미아과 모라비아 합병"
-AUS_annex_bohemia_and_moravia_desc:0 "뵈멘과 메렌은 한때 우리가 지배하던 곳이었으며 다시 그렇게 될 것입니다. 우리는 그들의 합병을 선포하고, 우리에게 도전하는 이들을 꺾을 것입니다."
+AUS_annex_bohemia_and_moravia_desc:0 "보헤미아와 모라비아는 한때 우리가 지배하던 곳이었으며 다시 그렇게 될 것입니다. 우리는 그들의 합병을 선포하고, 우리에게 도전하는 이들을 꺾을 것입니다."
 
 AUS_seek_closer_ties_to_yugoslavia:0 "유고슬라비아와의 관계 강화"
 AUS_seek_closer_ties_to_yugoslavia_desc:0 "유고슬라비아는 위험한 적이 아니며, 오히려 위치로 볼 때 그들은 잠재적으로 귀중한 동맹국입니다. 우리의 방위 조약에 그들을 초대하면 양국의 위치를 강화할 수 있을 것입니다."
@@ -612,78 +612,78 @@ AUS_reclaim_historical_lands_desc:0 "신성 로마 제국 재결성 선포와 �
  AUS_wilhelm_miklas:0 "빌헬름 미클라스"
  AUS_alfred_jansa:0 "알프레트 얀자"
  
- AUS_german_aero_tech:0 "German Aircraft Designs"
- AUS_german_aero_tech_desc:0 "Our German allies have given us access to their newest aircraft designs."
+ AUS_german_aero_tech:0 "독일 항공기 설계"
+ AUS_german_aero_tech_desc:0 "우리의 동맹국 독일이 그들의 최신 항공기 설계를 우리에게 제공했습니다."
  
- AUS_british_aero_tech:0 "British Aircraft Designs"
- AUS_british_aero_tech_desc:0 "Our British allies have given us access to their newest aircraft designs."
+ AUS_british_aero_tech:0 "영국 항공기 설계"
+ AUS_british_aero_tech_desc:0 "우리의 동맹국 영국이 그들의 최신 항공기 설계를 우리에게 제공했습니다."
  
- AUS_soviet_aero_tech:0 "Soviet Aircraft Designs"
- AUS_soviet_aero_tech_desc:0 "Our Soviet allies have given us access to their newest aircraft designs."
+ AUS_soviet_aero_tech:0 "소련 항공기 설계"
+ AUS_soviet_aero_tech_desc:0 "우리의 동맹국 소련이 그들의 최신 항공기 설계를 우리에게 제공했습니다."
  
- AUS_imperial_naval_academy:0 "Imperial Naval Academy"
- AUS_imperial_naval_academy_desc:0 "The Rijeka naval Academy will allow us to field the brightest and finest of naval officers."
+ AUS_imperial_naval_academy:0 "제국 해군사관학교"
+ AUS_imperial_naval_academy_desc:0 "리예카 해군사관학교는 가장 유능한 해군 장교들을 배치할 수 있도록 만들 것입니다."
  
- AUS_triesteshipyards:0 "Trieste Shipyards"
- AUS_triesteshipyards_desc:0 "The grand shipyards at the coastal town of Trieste were once the main producer of the Dual Monarchies' navies. Now they shall serve us once more."
+ AUS_triesteshipyards:0 "트리에스테 조선소"
+ AUS_triesteshipyards_desc:0 "해안 도시 트리에스테의 광대한 조선소는 한때 이중 제국 해군 함선의 주요 생산자였습니다. 이제 그들은 다시 우리를 위해 일할 것입니다."
  
- AUS_csepel_muvek:0 "Csepel Muvek"
- AUS_csepel_muvek_desc:0 "Located on an island in the area of Budapest, this massive industrial complex shall serve our needs for the mass production of armoured vehicles."
+ AUS_csepel_muvek:0 "체펠 공업"
+ AUS_csepel_muvek_desc:0 "부다페스트에 있는 섬에 위치한 이 대규모 산업 단지는 기갑 차량의 대량 생산에 대한 우리의 필요를 충족시킬 것입니다."
  
- AUS_erdol_bohr_und_verwertungs_gesellschaft:0 "Erdol-Bohr und Verwertungs Gesellschaft"
+ AUS_erdol_bohr_und_verwertungs_gesellschaft:0 "에르될-보어 & 페르베르퉁스"
 
- AUS_steyr_mannlicher:0 "Steyr Mannlicher Arms"
+ AUS_steyr_mannlicher:0 "슈타이어 만리허"
  
- AUS_steyr_daimler_puch_ag:0 "Steyr-Daimler-Puch AG"
+ AUS_steyr_daimler_puch_ag:0 "슈타이어-다임러-푸흐"
  
- AUS_german_armour_tech:0 "German Armour Designs"
- AUS_german_armour_tech_desc:0 "Our German allies have given us access to their newest armour designs."
+ AUS_german_armour_tech:0 "독일 전차 설계"
+ AUS_german_armour_tech_desc:0 "우리의 동맹국 독일이 그들의 최신 전차 설계를 우리에게 제공했습니다."
  
- AUS_british_armour_tech:0 "British Armour Designs"
- AUS_british_armour_tech_desc:0 "Our British allies have given us access to their newest armour designs."
+ AUS_british_armour_tech:0 "영국 전차 설계"
+ AUS_british_armour_tech_desc:0 "우리의 동맹국 영국이 그들의 최신 전차 설계를 우리에게 제공했습니다."
  
- AUS_soviet_armour_tech:0 "Soviet Armour Designs"
- AUS_soviet_armour_tech_desc:0 "Our Soviet allies have given us access to their newest armour designs."
+ AUS_soviet_armour_tech:0 "소련 전차 설계"
+ AUS_soviet_armour_tech_desc:0 "우리의 동맹국 소련이 그들의 최신 전차 설계를 우리에게 제공했습니다."
  
- AUS_german_overseers:0 "German Overseers"
- AUS_german_overseers_desc:0 "Hitler's Germany may have accepted our proposal, but they still hold massive sway over our politics."
+ AUS_german_overseers:0 "독일의 영향력"
+ AUS_german_overseers_desc:0 "히틀러의 독일은 우리 제안을 받아들였지만 여전히 우리 정치에 막강한 영향력을 행사하고 있습니다."
  
- AUS_austrian_resistance:0 "Austrian Resistance"
- AUS_austrian_resistance_desc:0 "Hitler has decided that Austria must be a part of Germany, we will prove him wrong!"
+ AUS_austrian_resistance:0 "오스트리아의 저항"
+ AUS_austrian_resistance_desc:0 "히틀러는 오스트리아가 독일의 일부가 되어야 한다고 결정했습니다. 우리가 그가 틀렸다는 것을 증명할 것입니다!"
  
- AUS_front_milliz:0 "Front Milliz"
+ AUS_front_milliz:0 "전선의용대"
  
- AUS_austro_hungarian_union:0 "Austro-Hungarian Union"
+ AUS_austro_hungarian_union:0 "오스트리아-헝가리 결합"
  
- AUS_war_for_transylvania:0 "War for Transylvania"
- AUS_war_for_transylvania_desc:0 "Controlling all of Transylvania may force Romania to surrender."
+ AUS_war_for_transylvania:0 "트란실바니아를 위한 전쟁"
+ AUS_war_for_transylvania_desc:0 "트란실바니아 전역을 장악하면 루마니아의 항복을 이끌어낼 수 있을지도 모릅니다."
  
- AUS_the_austrian_plot:0 "The Austrian Plot"
- AUS_the_austrian_plot_desc:0 "The Austrians are planning something along our border..."
+ AUS_the_austrian_plot:0 "오스트리아의 음모"
+ AUS_the_austrian_plot_desc:0 "오스트리아가 우리 국경에 무언가를 계획하고 있습니다..."
  
- AUS_germanic_brotherhood:0 "Germanic Brotherhood"
+ AUS_germanic_brotherhood:0 "게르만 형제애"
  
- AUS_ukrainian_uprising:0 "The Ukrainian Uprising"
- AUS_ukrainian_uprising_desc:0 "The War for Ukraine's independance has begun, if we push the Soviets far enough away form Ukraine, perhaps we can force them to surrender."
+ AUS_ukrainian_uprising:0 "우크라이나 봉기"
+ AUS_ukrainian_uprising_desc:0 "우크라이나의 독립을 위한 전쟁이 시작되었으며, 우리가 소련을 우크라이나에서 멀리 밀어낸다면 그들의 항복을 이끌어낼 수 있을지도 모릅니다."
  
- AUS_grand_imperial_bureaucracy:0 "Grand Imperial Bureaucracy"
+ AUS_grand_imperial_bureaucracy:0 "대제국 관료 체계"
  
- AUS_austrian_military_assistance:0 "Austrian Military Assistance"
+ AUS_austrian_military_assistance:0 "오스트리아의 군사 지원"
  
- AUS_great_steppe_testing_grounds:0 "Great Steppe Testing Grounds"
+ AUS_great_steppe_testing_grounds:0 "대초원 시험장"
  
- AUS_inspired_population:0 "Inspired Population"
+ AUS_inspired_population:0 "고무된 민중"
  
- AUS_british_support:0 "British Support"
- AUS_british_support_desc:0 "With the British on our side, we may stand a chance against the Germans."
+ AUS_british_support:0 "영국의 지원"
+ AUS_british_support_desc:0 "영국이 우리 편인 이상, 독일을 상대로도 가능성이 있을지도 모릅니다."
  
- AUS_soviet_support:0 "Soviet Support"
- AUS_soviet_support_desc:0 "With the Soviets on our side, we may stand a chance against the Germans."
+ AUS_soviet_support:0 "소련의 지원"
+ AUS_soviet_support_desc:0 "소련이 우리 편인 이상, 독일을 상대로도 가능성이 있을지도 모릅니다."
  
- AUS_austrian_neutrality:0 "Austrian Neutrality"
+ AUS_austrian_neutrality:0 "오스트리아의 중립"
  
  #Diplomacy
- alps_defence_member:0 "Alps Defence Pact Member"
+ alps_defence_member:0 "알프스 방위 조약 가입국"
  
  #Events
  news.10001.t:0 "Welcome to Greater Possibilities: Austria"
