@@ -512,53 +512,53 @@ AUS_continue_secret_armament:0 "비밀 무기 공급 지속"
 AUS_continue_secret_armament_desc:0 "우리는 체코슬로바키아 저항군에게 꽤 오랜 시간 동안 상당한 양의 무기를 지원했습니다. 이 비밀스러운 지원의 규모를 이제 크게 늘릴 수 있을 것 같습니다."
 
 AUS_initiate_the_bohmen_plan:0 "뵈멘 계획 실행"
-AUS_initiate_the_bohmen_plan_desc:0 "Czechoslovakia has been all but freed from German rule, and the time has come to directly challenge their control and restore our people to our union. War, if unpleasant, is at times necessary."
-AUS_initiate_the_bohmen_plan_tt:0 "§YCzechoslovakia§! will become our puppet, but we will declare war on §RGermany.§!\n"
+AUS_initiate_the_bohmen_plan_desc:0 "체코슬로바키아는 독일의 손아귀에서 거의 벗어났으며, 이제 독일에 맞서 우리 신민들을 다시 편입할 때가 왔습니다. 전쟁은 좋지 않지만, 때로는 필요합니다."
+AUS_initiate_the_bohmen_plan_tt:0 "§Y체코슬로바키아§!가 우리의 괴뢰국이 되지만, 우리는 §R독일§!에 선전포고할 것입니다.\n"
 
-AUS_full_czech_citizenship:0 "Full Czech Citizenship"
-AUS_full_czech_citizenship_desc:0 "Czechoslovakia was once Austro-Hungarian, and the people within it considered Austro-Hungarian. It is only fair and right that we restore this status so that our people may live free under our rule."
+AUS_full_czech_citizenship:0 "체코인에게 시민권 부여"
+AUS_full_czech_citizenship_desc:0 "체코슬로바키아는 한때 오스트리아-헝가리 제국의 강역이었으며, 그곳의 주민들도 오스트리아-헝가리 제국의 국민으로 간주되었습니다. 이들에게 시민권을 다시 부여해 이들이 우리 통치 아래 자유롭게 살 수 있도록 하는 것이 옳을 것입니다."
 
-AUS_annex_bohemia_and_moravia:0 "Annex Bohemia and Moravia"
-AUS_annex_bohemia_and_moravia_desc:0 "Bohemia and Moravia were once under our control and shall be again. We shall announce their annexation, and woe to any who challenge us."
+AUS_annex_bohemia_and_moravia:0 "보헤미아과 모라비아 합병"
+AUS_annex_bohemia_and_moravia_desc:0 "뵈멘과 메렌은 한때 우리가 지배하던 곳이었으며 다시 그렇게 될 것입니다. 우리는 그들의 합병을 선포하고, 우리에게 도전하는 이들을 꺾을 것입니다."
 
-AUS_seek_closer_ties_to_yugoslavia:0 "Seek Closer Ties to Yugoslavia"
-AUS_seek_closer_ties_to_yugoslavia_desc:0 "Yugoslavia is not a dangerous foe, but their position makes them a potentially valuable ally. An invitation to the defensive pact we are forming will strengthen both of our positions."
+AUS_seek_closer_ties_to_yugoslavia:0 "유고슬라비아와의 관계 강화"
+AUS_seek_closer_ties_to_yugoslavia_desc:0 "유고슬라비아는 위험한 적이 아니며, 오히려 위치로 볼 때 그들은 잠재적으로 귀중한 동맹국입니다. 우리의 방위 조약에 그들을 초대하면 양국의 위치를 강화할 수 있을 것입니다."
 
-AUS_demand_slovenia:0 "Demand Slovenia"
-AUS_demand_slovenia_desc:0 "Yugoslavia has always been a weak country, and now it is under greater threat than ever before. It would be a simple thing to take from an already-intimidated people land that is rightfully ours."
+AUS_demand_slovenia:0 "슬로베니아 요구"
+AUS_demand_slovenia_desc:0 "유고슬라비아는 언제나 불안정한 국가였으며, 이제 그들은 그 어느 때보다도 큰 위협에 직면하고 있습니다. 이미 겁에 질린 사람들로부터 우리의 적법한 영토를 가져가는 것은 간단한 일일 것입니다."
 
-AUS_invite_yugoslavia_to_faction:0 "Invite Yugoslavia to Faction"
-AUS_invite_yugoslavia_to_faction_desc:0 "Our defensive pact with Yugoslavia has so far been mutually profitable, and the time has come to pursue a closer union - a more formal and concrete alliance."
+AUS_invite_yugoslavia_to_faction:0 "유고슬라비아 초대"
+AUS_invite_yugoslavia_to_faction_desc:0 "유고슬라비아와 우리의 방위 조약은 지금까지 상호 이득이었으며, 이제는 견고한 정식 동맹을 맺을 때입니다."
 
-AUS_war_for_the_balkans:0 "War for the Balkans"
-AUS_war_for_the_balkans_desc:0 "Yugoslavia is in a weak position, and our territory in the Balkans is ripe for retaking. If we must go to war, then to war we will go to return Austro-Hungarian citizens to Austro-Hungarian civilization."
+AUS_war_for_the_balkans:0 "발칸 반도를 위한 전쟁"
+AUS_war_for_the_balkans_desc:0 "유고슬라비아는 나약한 위치에 있으며, 우리의 발칸 영토를 되찾을 때가 점점 다가오고 있습니다. 전쟁을 해야만 한다면, 우리는 오스트리아-헝가리 제국의 신민들을 다시 편입하기 위해 기꺼이 나설 것입니다."
 
-AUS_establish_research_partnership:0 "Establish Research Partnership"
-AUS_establish_research_partnership_desc:0 "Another union of Austria-Hungary and Yugoslavia has been proposed; this time, between the greatest of our minds and the greatest of theirs. A research pact will benefit us both."
+AUS_establish_research_partnership:0 "연구 협정 체결"
+AUS_establish_research_partnership_desc:0 "오스트리아-헝가리 제국과 유고슬라비아 간의 또다른 결속 방안이 제시되었습니다. 이번에는 양국 최고 지성들의 협력입니다. 연구 협정은 우리 모두에게 이익이 될 것입니다."
 
-AUS_allow_croat_semi_autonomy:0 "Allow Croatian Semi-Autonomy"
-AUS_allow_croat_semi_autonomy_desc:0 "The Croatians have always resented higher rule, ours no more or less than any others. Allowing them some autonomy will make things simpler for us in all respects."
+AUS_allow_croat_semi_autonomy:0 "크로아티아에 제한적인 자치권 부여"
+AUS_allow_croat_semi_autonomy_desc:0 "크로아티아인들은 언제나 타국의 지배에 반항했으며, 우리의 지배 역시 마찬가지입니다. 그들에게 약간의 자치권을 허용하면 모든 부분에서 일이 더 수월해질 것입니다."
 
-AUS_supress_serbian_nationalists:0 "Suppress Serbian Nationalists"
-AUS_supress_serbian_nationalists_desc:0 "The Serbians are a fiercely independent people, and their nationalist factions command much power in their own regions. It is time we put a stop to this - by force, if necessary."
+AUS_supress_serbian_nationalists:0 "세르비아 민족주의 탄압"
+AUS_supress_serbian_nationalists_desc:0 "세르비아인들은 맹렬하게 독립을 추구하는 민족이며, 그들의 지역에서 민족주의 세력은 상당한 힘을 지니고 있습니다. 이제 이를, 필요하다면 무력도 쓰면서, 막을 때가 왔습니다."
 
-AUS_establish_autonomous_serbian_puppet:0 "Establish Autonomous Serbian Puppet"
-AUS_establish_autonomous_serbian_puppet_desc:0 "The Serbian nationalists have been a thorn in the side of Austro-Hungarian rule ever since Serbia fell once again under our jurisdiction. Allowing them autonomy under our rule is a simple and cost-minimal solution to the issue."
+AUS_establish_autonomous_serbian_puppet:0 "세르비아 자치 괴뢰국 수립"
+AUS_establish_autonomous_serbian_puppet_desc:0 "세르비아가 우리 영역이 된 이래, 세르비아 민족주의자들은 언제나 오스트리아-헝가리 제국에 있어 눈엣가시였습니다. 이 문제에 대한 가장 간단하고 값싼 해결책은 그들에게 자치권을 부여하는 것입니다."
 
-AUS_transylvania_or_war:0 "Transylvania or War"
-AUS_transylvania_or_war_desc:0 "Romania swooped in like a vulture onto the region of Transylvania after the Great War. We must demand this land back, and the return of our people to our rule."
+AUS_transylvania_or_war:0 "트란실바니아냐 전쟁이냐"
+AUS_transylvania_or_war_desc:0 "루마니아는 대전쟁 후 우리 손에서 트란실바니아를 채갔습니다. 우리는 이 영토의 반환을 요구하고, 우리 국민들을 다시 우리 통치 아래 두어야 합니다."
 
-AUS_suppress_transylvanian_romanians:0 "Suppress Transylvanian Romanians"
-AUS_suppress_transylvanian_romanians_desc:0 "Despite the rightful Austro-Hungarian rule of Transylvania, there remains a nationalist Romanian element that remains an irritating thorn in the empire's side. Steps must be taken to suppress this."
+AUS_suppress_transylvanian_romanians:0 "트란실바니아 루마니아인 탄압"
+AUS_suppress_transylvanian_romanians_desc:0 "오스트리아-헝가리 제국이 트란실바니아에 대한 정당한 통치를 시작했음에도 불구하고, 루마니아 민족주의의 잔재가 우리를 계속해서 괴롭히고 있습니다. 이를 탄압하기 위한 조치가 취해져야 합니다."
 
-AUS_deport_romanians:0 "Deport Transylvanian Romanians"
-AUS_deport_romanians_desc:0 "The Romanian nationalists present in Transylvania present a constant and irritating challenge to our rule. Getting rid of them, however, will be less of a challenge, should we choose to."
+AUS_deport_romanians:0 "트란실바니아 루마니아인 추방"
+AUS_deport_romanians_desc:0 "트란실바니아의 루마니아 민족주의자들은 우리의 지배에 계속해서 도전하고 있습니다. 그들을 쫓아내는 것은, 만약 선택한다면, 더 간편한 일이 될 것입니다."
 
-AUS_form_holy_roman_empire:0 "Form the Holy Roman Empire"
-AUS_form_holy_roman_empire_desc:0 "Austria-Hungary is not the oldest empire of central Europe. Once upon a time, the Holy Roman Empire was one of the strongest military and political powers of the day - and we control all the same land, the same people, the same military and political might. Do we dare reform the power that once ruled central Europe?"
+AUS_form_holy_roman_empire:0 "신성 로마 제국 형성"
+AUS_form_holy_roman_empire_desc:0 "오스트리아-헝가리 제국은 중부 유럽에서 가장 오래된 제국이 아닙니다. 옛날 옛적에, 신성 로마 제국은 정치·군사적으로 가장 강력한 나라였으며, 지금 우리는 똑같은 영토, 민족, 그리고 정치·군사적 힘을 보유하고 있습니다. 한때 중부 유럽을 호령했던 나라를 되살려도 되지 않을까요?"
 
-AUS_reclaim_historical_lands:0 "Reclaim Historical Lands"
-AUS_reclaim_historical_lands_desc:0 "With the declaration of the reformation of the Holy Roman Empire, we have tacitly laid claim to all territories the Empire once controlled. But we are the very same imperial power! We need not tacitly do anything. We shall announce our claim to the lands to the world."
+AUS_reclaim_historical_lands:0 "역사적 영유권 주장"
+AUS_reclaim_historical_lands_desc:0 "신성 로마 제국 재결성 선포와 함께, 우리는 사실상 제국이 한때 점령했던 모든 영토에 대한 영유권을 주장한 셈이 되었습니다. 하지만 우리는 과거와 똑같이 막강한 제국입니다! 다른 나라의 눈치를 보지 않고, 우리는 전세계에 우리 옛 영토에 대한 영유권을 공표할 것입니다."
  
  #IDEAS
  
