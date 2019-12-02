@@ -686,26 +686,26 @@ AUS_reclaim_historical_lands_desc:0 "신성 로마 제국 재결성 선포와 �
  alps_defence_member:0 "알프스 방위 조약 가입국"
  
  #Events
- news.10001.t:0 "Welcome to Greater Possibilities: Austria"
- news.10001.d:0 "This mod will allow you to deny the Anschluss of Austria event by Germany, forging your own path through the Second World War. Be sure to carefully read the political section of focuses, specifically The Austrian Compromise, as this is your only chance to deny the Anschluss."
- news.10001.a:0 "Have fun!"
+ news.10001.t:0 "Greater Possibilities: Austria에 오신 것을 환영합니다"
+ news.10001.d:0 "이 모드는 당신이 독일의 안슐루스 이벤트를 회피하고 제2차 세계 대전에서 스스로의 길을 개척할 수 있게 만들어줍니다. 국가 중점에서 정치 부문, 특히 '오스트리아 타협'과 '알프스 방위 조약 제의' 중점을 주의 깊게 읽어주세요. 이 중점이 안슐루스를 회피할 수 있는 유일한 기회니까요."
+ news.10001.a:0 "즐거운 게임되세요!"
  
- news.1114.t:0 "Austria-Hungary has reformed"
- news.1114.d:0 "Despite being apart for over 19 years, Austria and Hungary have decided to rejoin the union they once shared, both countries are now one, both politically and militarily."
- news.1114.a:0 "Will we see the old empire anew?"
+ news.1114.t:0 "오스트리아-헝가리의 재결성"
+ news.1114.d:0 "19년간 떨어져 있었음에도, 오스트리아와 헝가리는 과거처럼 다시 합방하기로 결정했습니다. 양국은 이제 정치적으로도 군사적으로도 하나가 되었습니다."
+ news.1114.a:0 "과거의 제국이 다시 일어날 수 있을까?"
  
- austria.1111.t:0 "The Austrian Compromise"
- austria.1111.d:0 "The Austrian government has, obviously, heard word of our campaign for Anschluss of our two great nations, and has offered a compromise - support in any forthcoming war, for autonomy in the meantime."
- austria.1111.a:0 "They will be valuable as an autonomous ally."
- austria.1111.b:0 "Must we remind them of the importance of true unity?"
+ austria.1111.t:0 "오스트리아 타협"
+ austria.1111.d:0 "오스트리아 정부가 우리 두 위대한 나라의 안슐루스를 위한 선전을 들은 것 같습니다. 그들은 다가오는 전쟁에서 그들이 우리에게 무조건적인 지지를 해주는 대신에, 주권을 보장해달라는 타협안을 제시했습니다."
+ austria.1111.a:0 "독자적인 동맹국으로서도 그들은 가치가 있을 것이다."
+ austria.1111.b:0 "진정한 통일의 중요성을 다시 그들에게 가르쳐줘야 하는가?"
  
- austria.1112.t:0 "Germany has accepted our proposal"
- austria.1112.d:0 "Germany's government has accepted our alternate offer, granting us our freedom as a nation. Hail to our alliance!"
- austria.1112.a:0 "To the future of the Central Powers!"
+ austria.1112.t:0 "독일의 타협안 수용"
+ austria.1112.d:0 "독일 정부는 우리 대안을 받아들여, 우리의 주권을 보장할 것을 약속했습니다. 새로운 동맹 만세!"
+ austria.1112.a:0 "동맹국의 미래를 향해 나아가자!"
  
- austria.1113.t:0 "Germany has denied our proposal"
- austria.1113.d:0 "The Nazis have decided that the unification of the Central Powers is the only way forward, and it seems that we are not part of that plan. Anschluss will go forward."
- austria.1113.a:0 "This is a forboding possibility."
+ austria.1113.t:0 "독일의 타협안 거부"
+ austria.1113.d:0 "나치들은 옛 동맹국의 통일이야말로 유일한 해답이라고 결정했으며, 우리의 주권은 고려 대상이 아니라고 밝혔습니다. 안슐루스의 가능성은 여전히 열려 있습니다."
+ austria.1113.a:0 "불길한 가정이군."
  
  austria.1114.t:0 "Reunification of Austria-Hungary"
  austria.1114.d:0 "For a long time, the countries of Austria and Hungary were united under a common emperor. Austria's government has approached us, and requests that we assist in reinstating this arrangement."
