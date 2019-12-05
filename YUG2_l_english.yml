@@ -1,8 +1,8 @@
 l_english:
 
  YUG_construct_rupnik_line:0 "루프니크선 건설"
- YUG_construct_rupnik_line_desc:0 "계속되는 나치의 확장과 이탈리아의 공격적인 행동으로 인해 우리는 어려운 처지에 놓여 있습니다. 안전을 확보하기 위해 국경을 따라 방어 요새를 건설해야 합니다."
+ YUG_construct_rupnik_line_desc:0 "계속되는 나치의 확장과 이탈리아의 공격적인 행동으로 우리는 어려운 처지에 놓여 있습니다. 안전을 확보하기 위해 우리는 국경을 따라 방어선을 건설해야 합니다."
  YUG_dismantle_rupnik_line:0 "루프니크선 해체"
  
- YUG_construct_rupnik_line_tt:0 "§Y슬로베니아§!에 §Y지상 요새§!를 설치."
- YUG_construct_rupnik_line_warning_tt:0 "§독일 국경과 접한 모든 프로빈스에 설치되지는 않습니다§!"
+ YUG_construct_rupnik_line_tt:0 "§Y슬로베니아§!에 §Y지상 요새§!를 추가합니다."
+ YUG_construct_rupnik_line_warning_tt:0 "§독일 국경과 접한 모든 프로빈스에 설치되지는 않습니다.§!"
