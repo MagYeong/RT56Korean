@@ -14,8 +14,8 @@
 ##Base game
 # JAP_nav_bomber_equipment_2:1 "미쓰비시 G4M"
 # JAP_nav_bomber_equipment_2_short:1 "G4M"
-# JAP_nav_bomber_equipment_3:1 "요코스카 P1Y 긴가"
-# JAP_nav_bomber_equipment_3_short:1 "P1Y 긴가"
+# JAP_nav_bomber_equipment_3:1 "요코스카 P1Y 깅가"
+# JAP_nav_bomber_equipment_3_short:1 "P1Y 깅가"
 # JAP_cv_nav_bomber_equipment_1:0 "나카지마 B5N"
 # JAP_cv_nav_bomber_equipment_1_short:0 "B5N"
 # JAP_tac_bomber_equipment_2:1 "가와사키 Ki-48"
@@ -43,5 +43,5 @@
  JAP_flying_boat_equipment_1_short:0 "G3M1" 
  JAP_flying_boat_equipment_2:1 " 미쓰비시 G4M"
  JAP_flying_boat_equipment_2_short:1 "G4M"
- JAP_flying_boat_equipment_3:1 " 요코스카 P1Y 긴가"
- JAP_flying_boat_equipment_3_short:1 "P1Y 긴가"
+ JAP_flying_boat_equipment_3:1 " 요코스카 P1Y 깅가"
+ JAP_flying_boat_equipment_3_short:1 "P1Y 깅가"
