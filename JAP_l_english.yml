@@ -2,46 +2,46 @@
  
  JAP_SOV_sakhalin_oil_agreement:0 "사할린 석유 협정"
  JAP_kawanishi:0 "가와니시"
- JAP_japan_international_aviation_industries:0 "Japan Int. Aviation Industries"
- JAP_japan_steel_works:0 "Japan Steel Works"
+ JAP_japan_international_aviation_industries:0 "일본국제항공공업"
+ JAP_japan_steel_works:0 "일본제강소"
 
- JAP_fascism_ideology_desc:0 "The §YImperial Rule Assistance Association§! (Taisei Yokusankai) was created by Prime Minister Fumimaro Konoe, to promote the goals of his §MShintaisei§! ("New Order") movement. It evolved into a §YStatist§! ruling political party which aimed at removing the sectionalism in the politics and economics in the Empire of Japan to create a §HTotalitarian One-Party State§! in order to maximize the efficiency of Japan's §RTotal War§! effort."
+ JAP_fascism_ideology_desc:0 "§Y대정익찬회§!는 고노에 후미마로 내각총리대신이 그의 §M신체제운동§!의 목표를 달성하기 위해 만들었습니다. 이것은 곧 일본 제국 정재계 내의 파벌주의를 없애, 일본의 §R총력전§! 수행 효율을 극대화하기 위한 §H전체주의적 일국일당§! 체제를 목표로 하는 §Y국가주의§! 집권 정당으로 바뀌었습니다."
 
- JAP_germano_japanese_technological_exchange:0 "Germano-Japanese Technological Exchange"
- JAP_army_expansion_idea:0 "Army Expansion"
+ JAP_germano_japanese_technological_exchange:0 "일독 기술교환"
+ JAP_army_expansion_idea:0 "육군 확충"
 
  #Switch nav bombers to maritime patrol, CV nav bombers to nav bombers
 ##Base game
-# JAP_nav_bomber_equipment_2:1 "Mitsubishi G4M"
+# JAP_nav_bomber_equipment_2:1 "미쓰비시 G4M"
 # JAP_nav_bomber_equipment_2_short:1 "G4M"
-# JAP_nav_bomber_equipment_3:1 "Yokosuka P1Y Ginga"
-# JAP_nav_bomber_equipment_3_short:1 "P1Y Ginga"
-# JAP_cv_nav_bomber_equipment_1:0 "Nakajima B5N"
+# JAP_nav_bomber_equipment_3:1 "요코스카 P1Y 긴가"
+# JAP_nav_bomber_equipment_3_short:1 "P1Y 긴가"
+# JAP_cv_nav_bomber_equipment_1:0 "나카지마 B5N"
 # JAP_cv_nav_bomber_equipment_1_short:0 "B5N"
-# JAP_tac_bomber_equipment_2:1 "Kawasaki Ki-48"
+# JAP_tac_bomber_equipment_2:1 "가와사키 Ki-48"
 # JAP_tac_bomber_equipment_2_short:1 "Ki-48"
-# JAP_cv_nav_bomber_equipment_3:0 "Aichi B7A"
-# JAP_cv_nav_bomber_equipment_3_short:0 "B7A" 
-# JAP_nav_bomber_equipment_1:0 "G3M1 Model 11"
+# JAP_cv_nav_bomber_equipment_3:0 "아이치 B7A"
+# JAP_cv_nav_bomber_equipment_3_short:0 "B7A"
+# JAP_nav_bomber_equipment_1:0 "G3M1 11형"
 # JAP_nav_bomber_equipment_1_short:0 "G3M1"
-# JAP_cv_nav_bomber_equipment_2:0 "Nakajima B6N"
+# JAP_cv_nav_bomber_equipment_2:0 "나카지마 B6N"
 # JAP_cv_nav_bomber_equipment_2_short:0 "B6N"
  
  
  ##Fixed
 
- JAP_nav_bomber_equipment_1:0 " Nakajima B5N"
+ JAP_nav_bomber_equipment_1:0 " 나카지마 B5N"
  JAP_nav_bomber_equipment_1_short:0 "B5N"
- JAP_nav_bomber_equipment_2:0 " Nakajima B6N"
+ JAP_nav_bomber_equipment_2:0 " 나카지마 B6N"
  JAP_nav_bomber_equipment_2_short:0 "B6N" 
- JAP_nav_bomber_equipment_3:0 " Aichi B7A"
+ JAP_nav_bomber_equipment_3:0 " 아이치 B7A"
  JAP_nav_bomber_equipment_3_short:0 "B7A"
 
  
 #Maritme bombers
- JAP_flying_boat_equipment_equipment_1:0 " G3M1 Model 11"
+ JAP_flying_boat_equipment_equipment_1:0 " G3M1 11형"
  JAP_flying_boat_equipment_1_short:0 "G3M1" 
- JAP_flying_boat_equipment_2:1 " Mitsubishi G4M"
+ JAP_flying_boat_equipment_2:1 " 미쓰비시 G4M"
  JAP_flying_boat_equipment_2_short:1 "G4M"
- JAP_flying_boat_equipment_3:1 " Yokosuka P1Y Ginga"
- JAP_flying_boat_equipment_3_short:1 "P1Y Ginga"
+ JAP_flying_boat_equipment_3:1 " 요코스카 P1Y 긴가"
+ JAP_flying_boat_equipment_3_short:1 "P1Y 긴가"
