@@ -1,15 +1,16 @@
 ﻿l_english:
+ USA_bethlehem_steel:0 "베들레헴스틸"
  USA_william_c_lee:0 "윌리엄 C. 리"
  USA_elwood_richard_quesada:0 "엘우드 R. 퀘사다"
 
  USA_curtiss_wright:0 "커티스 라이트"
  USA_claude_shannon:0 "클로드 섀넌"
- USA_waco:0 "웨이코"
+ USA_waco:0 "워코"
  
- r56_USA_decision_the_jumping_general:0 "낙하 장군"
+ r56_USA_decision_the_jumping_general:0 "낙하하는 장군"
 
- r56_USA_decision_rural_electrification_act:0 "농촌 전기법"
- r56_USA_decision_flood_control_act:0 "홍수 방지법"
- r56_USA_decision_anti_price_discrimination_act:0 "차별 금지법"
- r56_USA_decision_foreign_agents_registration_act:0 "외국인 등록법"
- r56_USA_decision_second_vinson_act:0 "두 번째 빈슨 법"
+ r56_USA_decision_rural_electrification_act:0 "농사전화법"
+ r56_USA_decision_flood_control_act:0 "홍수방지법"
+ r56_USA_decision_anti_price_discrimination_act:0 "가격차별금지법"
+ r56_USA_decision_foreign_agents_registration_act:0 "외국대리인등록법"
+ r56_USA_decision_second_vinson_act:0 "제2차 빈슨법"
