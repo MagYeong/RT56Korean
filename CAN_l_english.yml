@@ -1,13 +1,26 @@
 l_english:
+
+ CAN_support_a_synarchist_baja:0 "시나키스트 공동체 지원"
+ CAN_reopen_the_toronto_shipyards:0 "토론토 조선소 재가동"
+
+ #Scarborough’s General Engineering Company: mines, ammunition factory event airports
  
  CAN_canadian_pacific_railway:0 "캐나다 태평양 철도"
- CAN_montreal_locomotive_works:0 "몬트리올 증기기관차 기업"
+ CAN_montreal_locomotive_works:0 "몬트리올 기관차 공장"
+ CAN_dominion_foundries:0 "자치령 주물 공장"
  CAN_northern_electric:0 "노던 일렉트릭"
  CAN_stelco:0 "스텔코"
  CAN_chevrolet_canada:0 "쉐보레 캐나다"
- CAN_ford:0 "포드 자동차 회사"
- CAN_sorel_industries:0 "소렐 산업"
- CAN_canadian_power_boat_company:0 "캐나다 모터보트 기업"
- CAN_marine_industries:0 "해양 산업"
+ CAN_ford:0 "포드 모터 컴퍼니"
+ CAN_sorel_industries:0 "소렐 인더스트리스"
+ CAN_canadian_power_boat_company:0 "캐나다 모터보트 회사"
+ CAN_marine_industries:0 "마린 인더스트리스"
  CAN_davie_shipbuilding:0 "데이비 조선"
- pratt_and_whitney:0 "프랫앤휘트니"
+ pratt_and_whitney:0 "프랫 & 휘트니"
+ CAN_boeing_of_canada:0 "보잉 캐나다"
+ CAN_victory_aircraft:0 "빅토리 항공"
+ CAN_canadair:0 "캐나데어"
+ CAN_imperial_oil_idea:0 "임페리얼 오일"
+ 
+ CAN_ernest_james_renaud:0 "어니스트 제임스 르노"
+
