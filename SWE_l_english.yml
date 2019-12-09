@@ -1,22 +1,22 @@
 ﻿l_english:
 
-SWE_carl_gustafs_gevarsfaktori:0 "Carl Gustafs Gevärsfaktori"
+SWE_carl_gustafs_gevarsfaktori:0 "카를 구스타프 소총 공장"
 
 SWE_conceive_swedish_9_tactic:0 "Conceive the Swedish 9 tactic"
-SWE_conceive_swedish_9_tactic_desc:0 "By grouping dive bombers in 3 groups of 3 and focusing on a single ship while attacking from multiple direction we can increase our chances to sink enemy convoys while limiting losses"
+SWE_conceive_swedish_9_tactic_desc:0 "각각 급강하폭격기 세 기로 구성된 세 그룹이 다방면에서 한 척의 함선을 공격하게 함으로써, 우리는 적 수송선을 격침시킬 확률을 높임과 동시에 손실을 최소화할 수 있습니다."
 SWE_swedish_9_tactic:0 "Swedish 9 tactic"
-SWE_swedish_9_tactic_desc:0 "By grouping dive bombers in 3 groups of 3 and focusing on a single ship while attacking from multiple direction we can increase our chances to sink enemy convoys while limiting losses"
+SWE_swedish_9_tactic_desc:0 "각각 급강하폭격기 세 기로 구성된 세 그룹이 다방면에서 한 척의 함선을 공격하게 함으로써, 우리는 적 수송선을 격침시킬 확률을 높임과 동시에 손실을 최소화할 수 있습니다."
 
 ####tooltips
 scandinavian_king:0"King in Council"
-mathematician:0"Mathematician"
-sweden.62.t:0"Scandinavian Socialist Union"
-computing_tech_research:0"Computing Research Time"
-SWE_coastal_defence_tt:0"Fortify the Homeland with §Ycoastal forts§! guarding likely landing sites and ports."
-SWE_stellapolaris_tooltip:0"Can get event Operation Stella Polaris"
-SWE_king_takes_office_tt:0"The King Gustaf V takes Office"
+mathematician:0"수학자"
+sweden.62.t:0"스칸디나비아 사회주의 연방"
+computing_tech_research:0"컴퓨터 기술 연구 시간"
+SWE_coastal_defence_tt:0"본토를 상륙 예상 지점과 항구를 지키는 §Y해안 요새§!로 요새화합니다."
+SWE_stellapolaris_tooltip:0"북극성 작전 이벤트가 발생할 수 있습니다."
+SWE_king_takes_office_tt:0"구스타프 5세가 친정을 시작합니다."
 
-SWE_motti_warfare_focus_tt:0"Enables §HMotti Tactics§!\n§HInfantry\n    Forest§!\n      Defence: §G+10%§!\n      Movement: §G+5%§!\n"
+SWE_motti_warfare_focus_tt:0"§H모티 전술§!이 가능해집니다.\n§H보병\n    삼림§!\n      방어: §G+10%§!\n      이동: §G+5%§!\n"
 
 
 northern_lights_research_name:0"Northern Lights Research"
