@@ -4,4 +4,5 @@
  AST_government_aircraft_factories:0 "국영 항공기 공장"
  AST_cockatoo_island_naval_dockyard:0 "코카투 섬 조선소"
  AST_generic_artillery_manufacturer:0 "찰스 루월트"
+ AST_austral_oil_drilling_syndicate:0 "남반구 석유 채굴 기업 조합" 
  #Maribyrnong Factory if another artillery manufacturer is needed (probably for cost or unique jungle bonus due to 25 pounder short)
