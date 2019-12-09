@@ -8,24 +8,25 @@ l_english:
 
 
 #variables
-BUL_support_yugoslavian_seperatists:0 "유고슬라비아 분리주의자들을 지원하다"
-BUL_support_yugoslavian_seperatists_desc:0 "유고슬라비아는 베르사유 조약의 역겨운 사생아에 불과한 놈들입니다. 우리 이웃들 중 많은 자들은 그들 자신의 고토를 마련하고 싶어하고, 그것은 우리 나라의 실리와 직결됩니다. 우리는 그들 자신을 스스로 '해방' 시킬 수 있도록 무기를 지원할 것입니다."
-BUL_support_yugoslavian_seperatists_category:0 "분리주의자들을 지원하자"
-BUL_support_yugoslavian_seperatists_category_desc:0 "바르다르 마케도니아인들을 포함한 많은 유고슬라비아 소수민족들은 자주 독립을 위해 투쟁하고 있습니다. 만일 우리가 그들을 지원한다면, 나중에 그들의 국가는 발칸 반도의 든든한 지원군이 되어 줄 것입니다.\n마케도니아 분리주의자 지원: §Y[?BUL.macedonian_support]%§!\n\nSeperatist Support in Croatia: §Y[?BUL.croatian_support]%§!\n\nSeperatist Support In Slovenia: §Y[?BUL.slovenian_support]%§!\n\nSeperatist Support in Bosnia: §Y[?BUL.bosnian_support]%§!"
-BUL_support_imro:0 "Support IMRO:\n§R+100% Support in Macedonia§!"
-BUL_support_slovene_seperatists:0 "슬로베니아 분리주의 운동 지원:\n§R+100% Support in Slovenia§!"
-BUL_support_croatian_seperatists:0 "크로아티아 분리주의 운동 지원:\n§R+100% Support in Croatian§!"
-BUL_support_bosnian_seperatists:0 "보스니아 분리주의 운동 지원:\n§R+100% Support in Bosnian§!"
-BUL_start_the_invasion:0 "§RStart The Invasion§!"
-BUL_supported_macedonia:0 "마케도니아 지원 완료"
-BUL_supported_slovenia:0 "슬로베니아 지원 완료"
-BUL_supported_croatia:0 "크로아티아 지원 완료"
-BUL_supported_bosnia:0 "보스니아 지원 완료"
+BUL_support_yugoslavian_seperatists:0 "유고슬라비아 분리주의자 지원"
+BUL_support_yugoslavian_seperatists_desc:0 "유고슬라비아는 베르사유 조약의 역겨운 사생아에 불과한 놈들입니다. 우리 이웃들 중 많은 자들은 그들만의 조국을 마련하고 싶어하고, 그것은 우리나라의 실리와 직결됩니다. 우리는 그들이 스스로를 '해방'시킬 수 있도록 무기를 지원할 것입니다."
+BUL_support_yugoslavian_seperatists_category:0 "분리주의자 지원"
+BUL_support_yugoslavian_seperatists_category_desc:0 "우리의 이웃 바르다르 마케도니아인들을 포함한 많은 유고슬라비아 소수민족들은 자주 독립을 위해 투쟁하고 있습니다. 만일 우리가 그들을 지원한다면, 나중에 그들은 발칸 반도의 든든한 지원국이 되어 줄 것입니다.\n마케도니아 분리주의자 지원: §Y[?BUL.macedonian_support]%§!\n\n크로아티아 분리주의자 지원: §Y[?BUL.croatian_support]%§!\n\n슬로베니아 분리주의자 지원: §Y[?BUL.slovenian_support]%§!\n\n보스니아 분리주의자 지원: §Y[?BUL.bosnian_support]%§!"
+BUL_support_imro:0 "내부 마케도니아 혁명 기구 지원:\n§R마케도니아 지원 +100% 증가§!"
+BUL_support_slovene_seperatists:0 "슬로베니아 분리주의자 지원:\n§RR슬로베니아 지원 +100% 증가§!"
+BUL_support_croatian_seperatists:0 "크로아티아 분리주의자 지원:\n§RR크로아티아 지원 +100% 증가§!"
+BUL_support_bosnian_seperatists:0 "보스니아 분리주의자 지원:\n§RR보스니아 지원 +100% 증가§!"
+BUL_start_the_invasion:0 "§R침공 개시§!"
+BUL_supported_macedonia:0 "마케도니아를 지원함"
+BUL_supported_slovenia:0 "슬로베니아를 지원함"
+BUL_supported_croatia:0 "크로아티아를 지원함"
+BUL_supported_bosnia:0 "보스니아를 지원함"
 
 
-BUL_GATHERING_STORM_DESC:0 "After Tsar Boris brought down Kimon Georgiev's military regime, Bulgaria found itself increasingly under absolutist authority, far from what its constitution adopted at independence guaranteed.Surrounded by former enemies and greatly reduced in size following successive defeats during the Second Balkan War and the Second World War, revanchist ideologies have continued to gain in popularity, and may well bring Bulgaria back on the road to war."
+BUL_GATHERING_STORM_DESC:0 "차르 보리스가 키몬 게오르기에프의 군사 정권을 무너뜨린 후, 불가리아는 그들의 독립 당시 채택한 헌법과는 다르게 절대적 군주권 아래 놓이게 되었습니다. 과거의 적들에게 포위되어 있고 제2차 발칸 전쟁과 대전쟁에서의 연속적인 패배로 크게 영토가 줄어들은 불가리아에서는 보복주의 이념이 꾸준히 인기를 얻고 있으며, 이는 불가리아를 다시 전쟁의 길로 이끌지도 모릅니다."
 
  #ideas
+ BUL_tsar_boris_iii:0 "차르 보리스 3세"
  BUL_fledgeling_military_industry:0 "군수 산업육성"
  BUL_fledgeling_military_industry_desc:0 "We Need To Expand Our Military Production To Five Factories To Improve Our Military Production"
  BUL_developing_military_industry:0 "발전하는 군수 산업"
@@ -37,16 +38,16 @@ BUL_GATHERING_STORM_DESC:0 "After Tsar Boris brought down Kimon Georgiev's milit
  BUL_reformed_military:0 "Reformed Military"
  BUL_rehabilitated_military:0 "Rehabilitated Military"
  BUL_renewed_military:0 "Renewed Military"
- BUL_tsar's_authority:0 "차르의 권한"
- idea_state_security_ministry:0 "국가보안부"
- idea_communist_central_management:0 "Economic Plannification Bureau"
- BUL_volunteers:0 "불가리아인 국제 의용군"
- BUL_youth_league:0 "Communist Youth League"
+ BUL_tsar's_authority:0 "차르의 권위"
+ idea_state_security_ministry:0 "국가보안위원회"
+ idea_communist_central_management:0 "경제계획국"
+ BUL_volunteers:0 "불가리아 국제의용군"
+ BUL_youth_league:0 "공산주의 청년단"
  BUL_free_opposition:0 "Free Political Opposition"
  BUL_tax_reforms:0 "Reformed Taxation"
  BUL_peasant_welfare:0 "소작농 복지"
  BUL_mechanized_agriculture:0 "Improved Farming"
- BUL_orthodox_support:0 "Orthodox Support"
+ BUL_orthodox_support:0 "정교회 지원"
  BUL_chelopech_gold:0 "Chelopech Gold"
  BUL_railway_plan:0 "Railway Expansion Plan"
  BUL_mobilized_resources:0 "Moblized Resources"
@@ -55,12 +56,12 @@ BUL_GATHERING_STORM_DESC:0 "After Tsar Boris brought down Kimon Georgiev's milit
  BUL_post_rearmament_military_plans_idea:0 "Post Rearmament Industrial Plans"
  BUL_prosper_plan:0 "The Prosperity Plan"
  BUL_fascists_in_government:0 "Fascists In Government"
- BUL_tsar_of_bulgaria:0 "Čarya na Balgarite"
+ BUL_tsar_of_bulgaria:0 "불가리아의 황제"
  BUL_planning_effort:0 "Planning Effort"
  BUL_torpedo_navy:0 "Torpedo Based Navy"
- BUL_renewed_term:0 "Renewed Term"
- BUL_unifier:0 "Unifier Of The Bulgarians"
- BUL_patriot_boom:0 "Patriot Boom"
+ BUL_renewed_term:0 "임기 갱신"
+ BUL_unifier:0 "불가리아인들의 통합자"
+ BUL_patriot_boom:0 "애국주의 광풍"
  BUL_expiremental_communist_theorist:0 "Expiremental Communist Theorist"
  BUL_independant_agrarianist:0 "Independant Agrarianist"
  BUL_economic_stabilizer:0 "Economic Stabilizer"
@@ -72,8 +73,9 @@ BUL_GATHERING_STORM_DESC:0 "After Tsar Boris brought down Kimon Georgiev's milit
  BUL_fascist_volunteers:0 "Expeditional Legionnaires"
  BUL_fascist_militarism:0 "파시스트 군국주의"
  BUL_trade_agreement:0 "무역 협정"
- BUL_politicized_trade_union:0 "Politicized Trade Unions"
- BUL_organized_womens_organizations:0 "조직화된 여성 조직"
+ BUL_politicized_trade_union:0 "정치화된 노동조합"
+ BUL_organized_womens_organizations:0 "여성 단체 조직화"
+ BUL_republicanism:0 "공화주의 정신"
 
  #tooltips
  vladimir_zaimov_killed:0 "Vladimir Zaimov Executed"
@@ -145,7 +147,7 @@ BUL_GATHERING_STORM_DESC:0 "After Tsar Boris brought down Kimon Georgiev's milit
 
  BUL_shared_manufacturing_experience:0 "Shared Manufacturing Experiences"
  BUL_shared_manufacturers_experience_tooltip:0 "Manufacturers cooperation will reduce the cost of the equipments produced by the members of your faction depending on the manufacturers selected by the various countries. Those bonuses will be cumulated only if the traits of the manufacturers are different (two infantry manufacturers will still reduce the cost of rifles by 3% but mobile and heavytank designers will grant a greater reduction to the cost of tanks.)"
- BUL_conscripted_peasantry:0 "Conscripted Peasantry"
+ BUL_conscripted_peasantry:0 "농민 징집"
  BUL_mechanized_agriculture:0 "Mechanized Agriculture"
 
 #decisions
@@ -437,6 +439,8 @@ BUL_GATHERING_STORM_DESC:0 "After Tsar Boris brought down Kimon Georgiev's milit
  BUL_intergrate_womens_rights_organizations_desc:0 "Previously women were denied many of the rights their other European counterparts possessed. However, now we have removed much of that backwards regime, we can use powerful women’s rights activists like the Blagolev’s. Dimitar Blagolev was a member of our party and his wife founded one of the first women’s rights groups in our great nation. If we were to promote people like her in government and to grant women rights, we would enforce greater equality throughout Bulgaria."
  BUL_request_macedonian_autonomy:0 "Request Macedonian Autonomy"
  BUL_request_macedonian_autonomy_desc:0 "Macedonia is a problem that has proven difficult to solve. With Macedonians being divided into two nations there has been large militant and independence movements. It would make running the country easier-and reduce economic losses. If we were to grant  (or at least advocate) Macedonian independence, the problems with the Macedonian minority will begin to die down."
+ BUL_promote_republicanism:0 "Abolish The Tsardom"
+ BUL_strength_of_the_tsar:0 "Strength Of The Tsar"
 
 #parties
 BUL_democrat_party:0 "DP"
@@ -496,7 +500,7 @@ BUL_socdem_party_long:0 "Balgarska rabotnicheska sotsialdemokraticheska partia"
  BUL_tac_bomber_equipment_1:0 "KB 3 Papagal"
  BUL_tac_bomber_equipment_1_short:0 "KB 3 Papagal"
 
- BUL_mobilized_proletariat:0 "Mobilized Proletariat"
+ BUL_mobilized_proletariat:0 "프롤레타리아 동원"
 
  #Events
   axis_minors_bulgaria.1.t:0 "The Bulgarian Government Announce their Support to Communism with Balkanic Characteristics"
