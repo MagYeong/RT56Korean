@@ -559,7 +559,13 @@ AUS_form_holy_roman_empire_desc:0 "오스트리아-헝가리 제국은 중부 �
 
 AUS_reclaim_historical_lands:0 "역사적 영유권 주장"
 AUS_reclaim_historical_lands_desc:0 "신성 로마 제국 재결성 선포와 함께, 우리는 사실상 제국이 한때 점령했던 모든 영토에 대한 영유권을 주장한 셈이 되었습니다. 하지만 우리는 과거와 똑같이 막강한 제국입니다! 다른 나라의 눈치를 보지 않고, 우리는 전세계에 우리 옛 영토에 대한 영유권을 공표할 것입니다."
- 
+
+AUS_invade_czechoslovakia:0 "체코슬로바키아 침공"
+AUS_invade_czechoslovakia_desc:0 ""
+
+AUS_prepare_czechoslovak_invasion:0 "체코슬로바키아 침공 준비"
+AUS_prepare_czechoslovak_invasion_desc:0 ""
+
  #IDEAS
  
  AUS_eduard_freiherr:0 "에두아르트 폰 뵘에르몰리"
