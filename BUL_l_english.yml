@@ -503,54 +503,54 @@ BUL_socdem_party_long:0 "불가리아 노동자 사회민주당"
  BUL_mobilized_proletariat:0 "프롤레타리아 동원"
 
  #Events
-  axis_minors_bulgaria.1.t:0 "The Bulgarian Government Announce their Support to Communism with Balkanic Characteristics"
-  axis_minors_bulgaria.1.d:0 "With the success of the proletarian revolutions in both countries, we have established very good relation with the Bulgarian communist government. It turns that they support our choice to seek our own path away from the influence of Moscow and want conclude an alliance uniting our two countries."
-  axis_minors_bulgaria.1.a:0 "This will accelerate our long term projects."
-  axis_minors_bulgaria.1.b:0 "We don't need their help."
+  axis_minors_bulgaria.1.t:0 "불가리아 정부가 발칸식 공산주의에 대한 지지를 표명"
+  axis_minors_bulgaria.1.d:0 "양국에서 프롤레타리아 혁명이 성공함에 따라, 우리는 불가리아 공산주의 정부와 좋은 관계를 유지하고 있습니다. 그들은 모스크바의 영향에서 벗어나 독자 노선을 찾는 우리의 선택을 지지하는 것 같으며 양국을 결속시킬 동맹을 맺고자 합니다."
+  axis_minors_bulgaria.1.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
+  axis_minors_bulgaria.1.b:0 "그들의 도움은 필요 없다."
 
-  axis_minors_bulgaria.4.t:0 "Technicians Improve Truck Manufacturing"
-  axis_minors_bulgaria.4.d:0 "The cooperation with truck manufacturers have helped to improve our production efficency."
-  axis_minors_bulgaria.4.a:0 "This will accelerate our long term projects."
+  axis_minors_bulgaria.4.t:0 "기술자들이 트럭 생산 과정을 개선"
+  axis_minors_bulgaria.4.d:0 "트럭 제조업체와의 협력이 우리의 생산 효율성을 개선하는 데 도움을 주었습니다."
+  axis_minors_bulgaria.4.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
 
   axis_minors_bulgaria.5.t:0 "Loss of Technical Expertise"
   axis_minors_bulgaria.5.d:0 "As nobody favour truck manufacturing among the members of our alliance, we can no longer profit from their expertise."
   axis_minors_bulgaria.5.a:0 "We should increase our cooperation."
 
-  axis_minors_bulgaria.6.t:0 "Technicians Improve Firearms Manufacturing"
-  axis_minors_bulgaria.6.d:0 "The cooperation with firearms manufacturers have helped to improve our production efficency."
-  axis_minors_bulgaria.6.a:0 "This will accelerate our long term projects."
+  axis_minors_bulgaria.6.t:0 "기술자들이 총기 생산 과정을 개선"
+  axis_minors_bulgaria.6.d:0 "총기 제조업체와의 협력이 우리의 생산 효율성을 개선하는 데 도움을 주었습니다."
+  axis_minors_bulgaria.6.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
 
   axis_minors_bulgaria.7.t:0 "Loss of Technical Expertise"
   axis_minors_bulgaria.7.d:0 "As nobody favour firearms manufacturing among the members of alliance, we can no longer profit from their expertise."
   axis_minors_bulgaria.7.a:0 "We should increase our cooperation."
 
-  axis_minors_bulgaria.8.t:0 "Technicians Improve Artillery Manufacturing"
-  axis_minors_bulgaria.8.d:0 "The cooperation with artillery manufacturers have helped to improve our production efficency."
-  axis_minors_bulgaria.8.a:0 "This will accelerate our long term projects."
+  axis_minors_bulgaria.8.t:0 "기술자들이 포 생산 과정을 개선"
+  axis_minors_bulgaria.8.d:0 "포 제조업체와의 협력이 우리의 생산 효율성을 개선하는 데 도움을 주었습니다."
+  axis_minors_bulgaria.8.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
 
   axis_minors_bulgaria.9.t:0 "Loss of Technical Expertise"
   axis_minors_bulgaria.9.d:0 "As nobody favour artillery manufacturing among the members of alliance, we can no longer profit from their expertise."
   axis_minors_bulgaria.9.a:0 "We should increase our cooperation."
 
-  axis_minors_bulgaria.10.t:0 "Technicians Improve Tank Manufacturing"
-  axis_minors_bulgaria.10.d:0 "The cooperation with medium tank manufacturers have helped to improve our production efficency."
-  axis_minors_bulgaria.10.a:0 "This will accelerate our long term projects."
+  axis_minors_bulgaria.10.t:0 "기술자들이 전차 생산 과정을 개선"
+  axis_minors_bulgaria.10.d:0 "중형전차 제조업체와의 협력이 우리의 생산 효율성을 개선하는 데 도움을 주었습니다."
+  axis_minors_bulgaria.10.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
 
   axis_minors_bulgaria.11.t:0 "Loss of Technical Expertise"
   axis_minors_bulgaria.11.d:0 "As nobody favour medium tank manufacturing among the members of alliance, we can no longer profit from their expertise."
   axis_minors_bulgaria.11.a:0 "We should increase our cooperation."
 
-  axis_minors_bulgaria.12.t:0 "Technicians improve Tank Manufacturing"
-  axis_minors_bulgaria.12.d:0 "The cooperation with light tank manufacturers have helped to improve our production efficency."
-  axis_minors_bulgaria.12.a:0 "This will accelerate our long term projects".
+  axis_minors_bulgaria.12.t:0 "기술자들이 전차 생산 과정을 개선"
+  axis_minors_bulgaria.12.d:0 "경전차 제조업체와의 협력이 우리의 생산 효율성을 개선하는 데 도움을 주었습니다."
+  axis_minors_bulgaria.12.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
 
   axis_minors_bulgaria.13.t:0 "Loss of Technical Expertise"
   axis_minors_bulgaria.13.d:0 "As nobody favour light tank manufacturing among the members of alliance, we can no longer profit from their expertise."
   axis_minors_bulgaria.13.a:0 "We should increase our cooperation."
 
-  axis_minors_bulgaria.14.t:0 "Technicians improve Tank Manufacturing"
-  axis_minors_bulgaria.14.d:0 "The cooperation with heavy tank manufacturers have helped to improve our production efficency."
-  axis_minors_bulgaria.14.a:0 "This will accelerate our long term projects."
+  axis_minors_bulgaria.14.t:0 "기술자들이 전차 생산 과정을 개선"
+  axis_minors_bulgaria.14.d:0 "중전차 제조업체와의 협력이 우리의 생산 효율성을 개선하는 데 도움을 주었습니다."
+  axis_minors_bulgaria.14.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
 
   axis_minors_bulgaria.15.t:0 "Loss of Technical Expertise"
   axis_minors_bulgaria.15.d:0 "As nobody favour heavy tank manufacturing among the members of alliance, we can no longer profit from their expertise."
