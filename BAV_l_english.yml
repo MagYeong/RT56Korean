@@ -5,7 +5,7 @@
  BAV_democratic_party_long:0 "바이에른 인민당"
  BAV_neutrality_party:0 "바이에른당"
  BAV_fascism_party:0 "BNSP"
- BAV_fascism_party_long:0 "바이에른 국가사회주의자당"
+ BAV_fascism_party_long:0 "바이에른 국가사회당"
  
  #Bayerische Räterepublik
  BAV_communism:0 "바이에른 평의회 공화국"
@@ -14,9 +14,9 @@
  BAV_fascism:0 "바이에른" 
 
  #made panzerschrecks
- BAV_generic_infantry_equipment_manufacturer:0 "쉬리커 상회"
- BAV_rapp_motorenwerke:0 "라프 모르텐베르케"
+ BAV_generic_infantry_equipment_manufacturer:0 "슈리커"
+ BAV_rapp_motorenwerke:0 "라프 원동기공업"
  BAV_generic_motorized_equipment_manufacturer:0 "BMW"
- BAV_generic_industrial_concern:0 "마우어 AG"
+ BAV_generic_industrial_concern:0 "마우러 AG"
  bmw_aircraft:0 "BMW"
- BAV_generic_electronics_concern:0 "로데 & 슈바르츠" 
+ BAV_generic_electronics_concern:0 "로데 슈바르츠" 
