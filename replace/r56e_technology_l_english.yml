@@ -4,15 +4,15 @@
 
 l_english: 
 ## trying to fix base game decimetric radar tech
-  decimetric_radar:0 "Decimetric Radar"
+  decimetric_radar:0 "데시미터파 레이다"
  
  
 ### Extra tech categories
-  torpedo_equipment:0 "Torpedo Technologies"  
-  refining_tech:0 "Refining Technologies"
-  refining_tech_research:0 "Fuel Refining Research Speed"
-  naval_armor_tech:0 "Naval Armor Technologies"
-  naval_gunnery_tech:0 "Naval Gunnery Technologies"
+  torpedo_equipment:0 "어뢰 기술"  
+  refining_tech:0 "정유 기술"
+  refining_tech_research:0 "연료 정제 연구 속도"
+  naval_armor_tech:0 "해군 장갑 기술"
+  naval_gunnery_tech:0 "함포 기술"
   
   
 ### Extra Special Forced Tech Categories
@@ -22,7 +22,7 @@ l_english:
  r56_marines_infantry_tech:0 "해병대"
  r56_mountain_infantry_tech:0 "산악병"
  r56_paratroops_infantry_tech:0 "공수부대"
- r56_shock_infantry_tech:0 "충격군"
+ r56_shock_infantry_tech:0 "충격보병"
 
 ### tech categories for focus tree interface
  summer_clothing_tech:0 "하계 군복 기술"
