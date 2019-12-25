@@ -233,21 +233,21 @@ l_english:
  
  
 ###------> Resource Production  <><> <><> <><> <><> <><>
- aluminum_production_1:0 "Aluminum Production"
- aluminum_production_1_desc:0 "Recent advances in milling techniques now allow us to ramp up our Aluminum production."
- aluminum_production_2:0 "Aluminum Production II"
- aluminum_production_2_desc:0 "Advances in milling techniques enable us to moderately boost our Aluminum production."
- aluminum_production_3:0 "Aluminum Production III"
- aluminum_production_3_desc:0 "With our new milling techniques we can increase our Aluminum production considerably."
+ aluminum_production_1:0 "알루미늄 생산 I"
+ aluminum_production_1_desc:0 "최근 제련 기술의 발전으로 우리의 알루미늄 생산량을 늘릴 수 있게 되었습니다."
+ aluminum_production_2:0 "알루미늄 생산 II"
+ aluminum_production_2_desc:0 "제련 기술의 발전으로 알루미늄 생산량이 제법 증가하게 되었습니다."
+ aluminum_production_3:0 "알루미늄 생산 III"
+ aluminum_production_3_desc:0 "새로운 제련 기술로 우리는 알루미늄 생산량을 상당히 증가시킬 수 있게 되었습니다."
  #-<><><>
- steel_production_1:0 "Steel Production"
- steel_production_1_desc:0 "Recent advances in milling techniques now allow us to ramp up our Steel production."
- steel_production_2:0 "Steel Production II"
- steel_production_2_desc:0 "Advances in milling techniques enable us to moderately boost our Steel production."
- steel_production_3:0 "Steel Production III"
- steel_production_3_desc:0 "Our milling techniques are now considerable, and we can regularly produce a fairly large amount of the metal if we so choose."
- steel_production_4:0 "Steel Production IV"
- steel_production_4_desc:0 "Our steel production is now so advanced that we can practically flood the market, much to the relief and frustration of other nations."
+ steel_production_1:0 "강철 생산 I"
+ steel_production_1_desc:0 "최근 제철 기술의 발전으로 우리의 강철 생산량을 늘릴 수 있게 되었습니다."
+ steel_production_2:0 "강철 생산 II"
+ steel_production_2_desc:0 "제철 기술의 발전으로 강철 생산량이 제법 증가하게 되었습니다."
+ steel_production_3:0 "강철 생산 III"
+ steel_production_3_desc:0 "우리의 제철 기술은 상당한 수준에 도달했으며, 필요하다면 지속적으로 많은 양의 강철을 만들 수 있게 되었습니다."
+ steel_production_4:0 "강철 생산 IV"
+ steel_production_4_desc:0 "우리의 강철 생산은 시장에 강철이 넘쳐흐르게 할 수 있을 정도로 발전되었습니다. 어느 나라에는 희소식이고 어느 나라에게는 짜증나는 일이겠죠."
  
  
 ###------> Nuclear  <><> <><> <><> <><> <><>
