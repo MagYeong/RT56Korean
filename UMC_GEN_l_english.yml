@@ -1,7 +1,7 @@
 l_english:
  ########################## Basics ##########################       \n      §H§!
 
- GEN_Industrial_Start:0 "산업 증강 개시
+ GEN_Industrial_Start:0 "산업 증강 개시"
  GEN_Industrial_Start_desc:0 ""
  GEN_Expand_Infra:0 "주 기반시설 개선"
  GEN_Expand_Infra_desc:0 ""
