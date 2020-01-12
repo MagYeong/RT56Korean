@@ -1,6 +1,11 @@
 ﻿l_english:
   # Ministers
  balbo_dead:0 "이탈로 발보는 사망했습니다"
+ 
+ #flags
+
+ ITA_coming_march_2020:0 "§GComing March Patch 2020§!"
+ 
  ITA_carlo_favagrossa:0 "카를로 파바그로사"
  ITA_dino_alfieri:0 "디노 알피에리"
  ITA_giuseppe_bottai:0 "주세페 보타이"
@@ -11,7 +16,11 @@
  # Traits
  soldier_king:0 "군인왕"
 
+ #Tooltips
 
+ ITA_royal_intervention_tt:0 "Monarchist Loyalist And Persons Within The Military Loyal To The King Will Start A §YCivil War§! Against The Fascist."
+ 
+ 
  # Decisions
  ITA_foreign_policy_fascism:0 "파시스트 외교 정책"
  ITA_foreign_policy_fascism_desc:0 "보다 적극적인 외교 정책은 우리의 이익을 보호하고 영향력이 확장될 수 있도록 해줄 것입니다."
@@ -176,6 +185,11 @@
  r56_italy.31.t:0 "이탈로 발보가 사고로 사망"
  r56_italy.31.d:0 "리비아의 토브룩에 착륙 예정이었던 사보이아-마르케티 SM.79에 타고 있던 이탈로 발보는, 비행기를 적 전투기로 오인한 비행장의 대공포에 의해 격추되었습니다.\n\n이탈리아 항공 역사의 영웅이자 국가 파시스트당의 로마 진군에서 중요한 역할을 맡았던 그는, 이탈리아 공군의 아버지였습니다."
  r56_italy.31.a:0 "오늘 우리는 한 명의 비행가보다 더 많은, 한 명의 전설을 잃었다"
+ 
+ r56_italy.32.t:0 "Greece Protects Albania"
+ r56_italy.32.d:0 "Greece has occupied Albania, our future landing point in the balkans, how should we respond"
+ r56_italy.32.a:0 "Early War!"
+ r56_italy.32.b:0 "Don't Strike Yet."
 
  # Ideas
  ITA_lack_of_powered_planes:0 "고출력 엔진의 부재"
@@ -238,7 +252,7 @@
  ITA_the_lega_latina:0 "The Lega Latina"
  ITA_the_lega_latina_desc:0 "To ensure that we are no longer betrayed by anyone, we will form our own military alliance. We will show the world that Italy is a power to be respected, capable of imposing its will on anyone who wishes to challenge it."
  ITA_cooperation_with_germany:0 "Cooperation With Germany"
- ITA_cooperation_with_germany_desc:0 "Like us, the Germans are seeking revenge against the powers of the cartel. It would be in our interest to align ourselves with them in order to create a common front."
+ ITA_cooperation_with_germany_desc:0 "Like us, the Germans are seeking revenge against the powers of the Entente. It would be in our interest to align ourselves with them in order to create a common front."
  ITA_joint_austrian_gaurantee:0 "Joint Austrian Guarantee"
  ITA_joint_austrian_gaurantee_desc:0 "For years now, Germany has had views on Austria in their "Anschluss" project, despite the clear violation of both the Treaty of Versailles and the Treaty of Saint-Germain-en-Laye. A common guarantee from us and our allies will deter it."
  protected_by_the_stresa_front_flag:0 "Protected by the Stresa Front"
@@ -400,7 +414,7 @@
  ITA_a_guiding_hand:0 "A Guiding Hand"
  ITA_a_guiding_hand_desc:0 "WIP"
  ITA_expand_the_iri_role_desc:0 "Founded with the aim of saving, restructuring and financing the banks and companies that went bankrupt during the Great Depression, the latter found itself in the possession of many Italian banks. Extending control of the latter to a larger part of the economy would make it a central element of our economic restructuring in the aftermath of the crisis."
- ITA_po_valley_mettalurgy:0 "Po Valley's Mettalurgy"
+ ITA_po_valley_mettalurgy:0 "Po Valley's Metallurgy"
  ITA_po_valley_mettalurgy_desc:0 "The Po plain is home to a large part of Italian industry, and in particular metalworking, particularly in Turin and Genoa. This industry is vital and should be supported as a priority."
  ITA_expand_hydroelectricity_production:0 "Expand Hydroelectricity Production"
  ITA_expand_hydroelectricity_production_desc:0 "To solve our electricity problems, particularly because of our lack of coal, we have had dam construction programs in place for several years to build dams used for hydroelectric power generation."
@@ -521,118 +535,10 @@
  ITA_naval_guerilla_desc:0 "Faced with navies much larger than ours, we must resort to more vicious tactics, using much smaller maritime fomations to harass enemy ships with light and rapid engagements."
  ITA_shift_toward_an_offensive_force:0 "Shift Toward An Offensive Force"
  ITA_shift_toward_an_offensive_force_desc:0 "We must be able to strike first so that our inferiority in numbers is not felt."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ ITA_royal_intervention:0 "Royal Intervention"
+ ITA_royal_intervention_desc:0 "The Fascist regime cannot be trusted to lead Italy toward glory. The setbacks experienced in the early stages of our war in Ethiopia was a clear sign of the Fascist party’s inability to lead. We need to oust the Fascists and place the country under the control of our great King! "
+ ITA_defenders_of_southern_europe:0 "Defenders of Southern Europe"
+ ITA_defenders_of_southern_europe_desc:0 "§GComing March Patch 2020§! 'Due to SpicyAlfredo's trip to Ireland, the release of this branch has been delayed.' - Road to 56 Team"
 
 #Leaders
 POLITICS_ITALO_BALBO:0 "이탈로 발보"
@@ -689,4 +595,4 @@ pirelli:0 "피렐리"
 ansaldo_tank_manufacturer:0 "전차 설계사"
 ansaldo_navy_manufacturer:0 "함선 설계사"
 
- 
+ITA_RSI_fascism:0 "Italian Social Republic"
