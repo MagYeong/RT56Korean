@@ -681,6 +681,8 @@
  FRA_pacific_protection_desc:0 "해군 이론가들이 구식 항공모함으로 관심을 돌렸습니다. 그들은 올바른 방향으로 발전을 계속한다면 항공모함을 어떻게 활용할 수 있을지에 관한 제안을 가지고 있습니다. 진정한 진전은 우리의 전폭적인 지원이 없다면 어려울 것입니다. 이는 우리가 태평양을 지배하고 일본에 맞서 식민지들을 지키는 데 도움을 줄 것입니다."
  FRA_darlan_doctrine:0 "다를랑의 교리"
  FRA_darlan_doctrine_desc:0 "최근 함선 설계에서의 진전은 전술·전략적 기동에 대한 새로운 선택지를 열었습니다. 다를랑 제독이 제안한 새로운 이론을 우리는 전쟁이 닥치기 전에 확실히 시험해보고 계획을 확립해 놓아야 합니다."
+ FRA_naval_gunnery:0 "Naval Gunnery"
+ FRA_naval_gunnery_desc:0 "Improve the efficiency of our naval equipment to hit harder and rule the seas."
  FRA_mediterranean_special_measures:0 "지중해 특별 조치"
  FRA_mediterranean_special_measures_desc:0 "이탈리아인들은 그들의 해군을 강화하고 지중해에 대한 제해권을 넓히려고 하고 있습니다. 바다에서의 방어선을 잃는다면 우리는 국토에 대한 직접적인 침공의 위협을 마주하게 됩니다. 우리의 함선들에 최신 기술이 적용되도록 해야 합니다."
  FRA_standardisation_engine:0 "엔진 표준화"
