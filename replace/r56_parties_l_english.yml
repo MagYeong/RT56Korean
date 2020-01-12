@@ -4,16 +4,47 @@ l_english:
  corporatism:0 "조합주의"
  corporatism_desc:0 "조합주의의 이념에 따르면, 노동자와 직원은 모두 자신들의 요구 사항을 국가에 요구할 수 있는 산업적이고 전문적인 조합을 조직해야 합니다. 조합주의에는 기본적인 민주주의 체제가 있지만, 일반 사람들은 여러 계급 분리를 통해 국가의 지도층과 엄격히 분리되어 있습니다."
  centrism_democratic:0 "민주집중주의"
- centrism_democratic_desc:0 "집중주의는 위험 정도와 능력을 고려하여 공공선을 실천하고 자선을 지지하는 현재 및 미래의 요구에 대해 상식적인 해결책을 제시하고자 하는 정부의 한 형태입니다."
+ centrism_democratic_desc:0 "§Y집중주의§!는 위험 정도와 능력을 고려하여 §H공익§!을 실천하고 §MPublic Trust§!을 지지하는 현재 및 미래의 요구에 대해 §Y상식적인 해결책을 제시§!하고자 하는 정부의 한 형태입니다."
+absolute_monarchism:0 "Absolute Monarchism"
+ absolute_monarchism_desc:0 "An §YAbsolute Monarchy§! is a form of monarchy in which the monarch §YHolds Supreme Autocratic Authority§!, principally not being restricted by written laws, legislature, or customs. These are often hereditary monarchies."
+
 
  #FIXES
  neutrality:0 "권위주의"
  neutrality_noun:0 "권위주의"
  neutrality_desc:0 "권위주의 정권"
  despotism:0 "전제정치"
- despotism_desc:0 "전제정치는 한 사람이 절대 권력을 휘두르는 정부 형태입니다."
+ despotism_desc:0 "§Y전제정치§!는 §M한 사람§!이 §R절대 권력§!을 휘두르는 정부 형태입니다."
  oligarchism:0 "과두정"
- oligarchism_desc:0 "올리가르히즘은 소수의 사람이 절대 권력을 휘두르는 정부 형태입니다."
+ oligarchism_desc:0 "§Y과두정§!은 §M소수의 사람§!이 §R절대 권력§!을 휘두르는 정부 형태입니다."
+ conservatism:0 "Conservatism"
+ conservatism_desc:0 "Considering rapid changes to society to be potentially harmful, §YConservatism§! espouses §MTradition and Moderate Reforms§!, sometimes advocating a return to §GOld Moral Values§!."
+ liberalism:0 "Liberalism"
+ liberalism_desc:0 "With a long philosophical tradition of valuing §MPersonal Liberty§!, §YLiberalism§! views safeguarding these rights as the primary function of the state."
+ socialism:0 "Socialism"
+ socialism_desc:0 "Striving for §REquality and a Socialist State§! by reformist means, §YDemocratic Socialism§! aims to abolish or mitigate the effects of capitalism with public mandate."
+ marxism:0 "Marxism"
+ marxism_desc:0 "Encompassing a broad spectrum of economic and historical views, §YMarxist Politics§! seek to apply the §RTheories of Karl Marx§! to political practice. §HClass Struggle§! and the need for transition to a society based on §MCommon Ownership§! of the means of production characterize these ideologies."
+ leninism:0 "Leninism"
+ leninism_desc:0 "A political ideology based in Marxist thought, §YLeninism§! seeks to establish a socialist state by a §RVanguard Party§! leading a revolution overthrowing capitalist society. Once in power, the party rules through a system whereby policies are open for internal debate until a decision has been made."
+ stalinism:0 "Stalinism"
+ stalinism_desc:0 "Identifying as a form of government applying and developing Marxist-Leninist policies, §YStalinism§! emphasizes §MRapid Industrialization§! and §RCollectivization§! as well as the need for a §YStrong, Authorative Socialist State§! to purge any counter-revolutionary elements."
+ anti_revisionism:0 "Anti-Revisionism"
+ anti_revisionism_desc:0 "A reaction to the many ideologies claiming to be successors to Marxism, §YAnti-Revisionism§! advocates retaining key elements of original revolutionary theory. Mainly opposing incorporation of capitalist economic elements into socialist states, the ideology is defined as much by what it isn't as what it is."
+ anarchist_communism:0 "Anarchist Communism"
+ anarchist_communism_desc:0 "An ideology embracing the idea of communism as a §RStateless Society§!, §YAnarchist Communism§! eschews the idea of a transitionary socialist state and favors a society based on §MVoluntary Associations§! and §RMutual Aid§!."
+ nazism:0 "Nazism"
+ nazism_desc:0 "Rooted in §GExtreme Nationalism§!, §YNational Socialism§! is driven by ideas of §GGermanic Supremacy§!. It promotes §YAggressive Expansionism§! and a §RTotalitarian State§! where the people are united under a leader with absolute power, the §WFührer§!."
+ fascism_ideology:0 "Fascism"
+ fascism_ideology_desc:0 "Encompassing a variety of §GUltra-Nationalist Movements§!, §YFascism§! typically venerates §MDevotion to the State§! and uniting the people under a §YStrong Leader§!."
+ falangism:0 "Falangism"
+ falangism_desc:0 "An authoritarian ideology with traits of fascism and conservatism, §YFalangism§! values national and §RCatholic Identity§!."
+ rexism:0 "Rexism"
+ rexism_desc:0 "Strongly opposed to both liberal and communist ideals, §YRexism§! is a staunchly §MConservative Nationalist§! movement who advocate a §GCorporatist§! economic policy. Employing increasingly populist and authoritarian rhetoric, their ideals are shifting closer to other fascist movements."
+ moderatism:1 "Moderatism"
+ moderatism_desc:1 "§YModeratism§! is a form of government which §MAvoids the Extremes of Left and Right§! by taking a §YModerate Position§! or course of action."
+ centrism:1 "Centrism"
+ centrism_desc:1 "§YCentrism§! is a form of government which wants to §YAchieve common sense solutions§! that appropriately address current and future needs, that support the §MPublic Trust§! and serve the §HCommon Good§! with consideration of risk and capacity in context of these needs."
 
  #ALB
  ALB_neutrality_party:0 "입헌주의자"
@@ -71,9 +102,14 @@ l_english:
  #CHL
  CHL_fascism_party:0 "VPS"
  CHL_fascism_party_long:0 "Vanguardia Popular Socialista"
- CHL_democratic_party:0 "Partido Liberal"
+ CHL_democratic_party:0 "Partido Radical"
+ CHL_democratic_party_long:0 "Partido Radical"
  CHL_communism_party:0 "PCCh"
  CHL_communism_party_long:0 "Partido Comunista de Chile"
+ 
+ # CHI
+ CHI_democratic_party:0 "Kuomintang (C)"
+ CHI_democratic_party_long:0 "Kuomintang (Civilian)"
 
  #COG
  COG_neutrality_party:0 "GGC"
@@ -98,8 +134,8 @@ l_english:
  CZE_national_unity_party_long:0 "Party of National Unity"
 
  #ECU
- ECU_democratic_party:0 "Ecuador"
- ECU_democratic_party_long:0 "República del Ecuador"
+ ECU_democratic_party:0 "Páez's Regime"
+ ECU_democratic_party_long:0 "Páez's Regime"
  ECU_communism_party:0 "PCE"
  ECU_communism_party_long:0 "Partido Comunista del Ecuador"
 
@@ -128,6 +164,42 @@ l_english:
  FRI_neutrality_party:0 "Gouvernorat Général"
  FRI_fascism_party:0 "Cuong De's Faction"
  FRI_democratic_party:0 "VNQDD"
+ 
+ #GRE
+ GRE_democratic_party:0 "Demertzi"
+ GRE_democratic_party_long:0 "Kyvernisi Demertzi"
+ GRE_democratic_metaxas:0 "Metaxá"
+ GRE_neutrality_party:0 "House Of Glücksburg"
+ GRE_neutrality_party_long:0 "House Of Glücksburg"
+ GRE_democratic_metaxas_long:0 "Kyvernisi Metaxá"
+ GRE_neutrality_party_metaxa:0 "Metaxá"
+ GRE_neutrality_party_metaxa_long:0 "Kathestós Metaxá"
+ GRE_neutrality_party_metaxa:0 "Metaxá"
+ GRE_neutrality_party_metaxa_long:0 "Kathestós Metaxá"
+ GRE_communism_party:0 "KKE"
+ GRE_communism_party_long:0 "Kommounistikó Kómma Elládas"
+ GRE_laikon_komma:0 "Laïkòn Kómma"
+ GRE_laikon_komma_long:0 "Laïkòn Kómma"
+ GRE_fascism_party:0 "EESKE"
+ GRE_fascism_party_long:0 "Ethniko-Socialistiko Komma Elládos"
+ GRE_neutrality_party_koryzi:0 "Koryzi"
+ GRE_neutrality_party_koryzi_long:0 "Kathestós Koryzi"
+ GRE_democratic_party_liberal:0 "Kómma Fileleftheron"
+ GRE_democratic_party_liberal_long:0 "Kómma Fileleftheron"
+
+ #GUA
+ GUA_ubico_fascist_long:0 "Régimen de Jorge Ubico"
+ GUA_ubico_fascist:0 "Régimen de Jorge Ubico"
+ GUA_neutrality_party:0 "PLP"
+ GUA_neutrality_party_long:0 "Partido Liberal Progresista"
+
+ #DOM
+ DOM_neutrality_party:0 "Partido Dominicano"
+ DOM_neutrality_party_long:0 "Partido Dominicano"
+
+ #ELS
+ ELS_neutrality_party:0 "Pro-Patria"
+ ELS_neutrality_party_long:0 "Pro-Patria"
 
  #GXC
  GXC_neutrality_party:0 "New Guangxi Clique"
@@ -165,6 +237,10 @@ l_english:
  MAN_neutrality_party:0 "Restorationists"
  MAN_RFP_rebelled_party:0 "RFP"
  MAN_RFP_rebelled_party_long:0 "Rossiyskaya Fashistskaya Partiya"
+ 
+ #IRQ
+ IRQ_neutrality_party:0 "House of Hashim"
+ IRQ_neutrality_party_long:0 "House of Hashim"
 
  #MOR
  MOR_neutrality_party:0 "Alaouite Dynasty"
@@ -174,10 +250,23 @@ l_english:
 
  #NFC
  FengClique_party:0 "New Fengtian Clique"
+ 
+  #NIC
+  NIC_democratic_party:0 "PL"
+  NIC_democratic_party_long:0 "Partido Liberal"
+  NIC_democratic_party_1936:0 "PLN"
+  NIC_democratic_party_long_1936:0 "Partido Liberal Nacionalista"
+  NIC_neutrality_party_1937:0 "PLN/PCN (Somoza Regime)"
+  NIC_neutrality_party_1937_long:0 "Somoza Regime"
+  NIC_communism_party:0 "PSN"
+  NIC_communism_party_long:0 "Partido Socialista Nicaragüense"
+  NIC_fascism_party:0 "Nationalists"
 
  #PAR
  PAR_communism_party:0 "PRF"
  PAR_communism_party_long:0 "Partido Revolucionario Febrerista"
+ PAR_democratic_party:0 "Partido Liberal"
+ PAR_democratic_party_long:0 "Partido Liberal"
 
  #PER
  PER_democratic_party:1 "Jebhei"
@@ -187,6 +276,39 @@ l_english:
  PER_communism_party:0 "Tudeh Party"
  PER_communism_party_long:0 "Hezb-e Tudeh Iran"
  PER_neutrality_party:0 "Pahlavi Dynasty"
+ 
+ #POL
+ POL_Castle_party:0 "Zamek"
+ POL_Castle_party_long:0 "Zamek"
+ POL_OZN_party:0 "OZN"
+ POL_OZN_party_long:0 "Camp of National Unity"
+ POL_POS_party:0 "POS"
+ POL_POS_party_long:0 "Common Organization of the Society"
+ POL_neutrality_party_long:0 "Nonpartisan Bloc for Cooperation with the Government"
+ POL_ND_party:0 "SN"
+ POL_ND_party_long:0 "Stronnictwo Narodowe"
+ POL_PPS_party:0 "PPS"
+ POL_PPS_party_long:0 "Polska Partia Socjalistyczna"
+ POL_PPSradicals_party:0 "PPS & KPP"
+ POL_PPSradicals_party_long:0 "Zjednoczony Front PPS i KPP"
+ POL_communism_party:0 "KPP"
+ POL_communism_party_long:0 "Komunistyczna Partia Polski"
+ POL_democratic_party:0 "SL"
+ POL_democratic_party_long:0 "Stronnictwo Ludowe"
+ POL_PSL_party:0 "PSL"
+ POL_PSL_long:0 "Polskie Stronnictwo Ludowe"
+ POL_NOW_party:0 "NOW"
+ POL_NOW_long:0 "Narodowa Organizacja Wojskowa"
+ POLWRN_democratic_party:0 "PPS-WRN"
+ POLWRN_democratic_party_long:0 "Polska Partia Socjalistyczna – Wolność, Równość, Niepodległość"
+ POL_KN_party:0 "KN"
+ POL_KN_party_long:0 "Konfederacja Narodu"
+ POL_ZPP_party:0 "ZPP"
+ POL_ZPP_party_long:0 "Związek Patriotów Polskich"
+ POL_ZWZ_party:0 "ZWZ"
+ POL_ZWZ_party_long:0 "Związek Walki Zbrojnej"
+ POL_GL_party:0 "GL"
+ POL_GL_party_long:0 "Gwardia Ludowa"
 
  #PGR
  PGR_neutrality_party:0 "Xin Beiyang"
