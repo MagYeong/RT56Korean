@@ -33,10 +33,8 @@ l_english:
  SLV_minister_Leon_Rupnik_A:0 "레온 루프니크"
  SLV_minister_Marko_Natlacen:0 "마르코 나틀라첸"
  SLV_minister_Vuk_Rupnik:0 "부크 루프니크"
- SLV_minister_Vuk_Rupnik_A:0 "부크 루프니크"
  SLV_minister_Franc_Krenner:0 "프란츠 크렌네르"
  SLV_minister_Niko_Silih:0 "니코 실리흐"
- SLV_minister_Niko_Silih_A:0 "니코 실리흐"
  
  SLV_franc_krener:0 "프란츠 크레네르"
  SLV_milko_vizjak:0 "밀코 비자크"
@@ -44,3 +42,13 @@ l_english:
  SLV_peter_rozman:0 "페테르 로즈만"
  SLV_ivan_crnkovic:0 "이반 츠른코비츠"
  SLV_mihajlo_tomasic:0 "미하일로 토마시츠"
+ SLV_ivan_prezelj:0 "Ivan Prezelj"
+ SLV_karl_novak:0 "Karl Novak"
+ 
+ ###by Darkneon312
+ SLV_boris_kidric:0 "Boris Kidrič"
+ SLV_edvard_kardelj:0 "Edvard Kardelj"
+ SLV_zdenko_uzelic:0 "Zdenko Uzelić"
+ SLV_ivan_kern:0 "Ivan Kern"
+ SLV_dusan_kveder:0 "Dušan Kveder"
+ SLV_josip_cerni:0 "Josip Černi"
