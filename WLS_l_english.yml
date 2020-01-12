@@ -1,5 +1,5 @@
 ﻿l_english:
-#or Steel Company of Wales
+ WLS_steel_company_of_wales:0 "Steel Company of Wales"
  WLS_generic_industrial_concern:0 "리차드 토마스 주식회사"
  WLS_generic_electronics_concern:0 "스미스 제조 업체" 
  WLS_generic_artillery_manufacturer:0 "ROF 뉴포트"
@@ -9,3 +9,7 @@
  WLS_generic_light_aircraft_manufacturer:0 "액슬 앤 플록"
  WLS_generic_medium_aircraft_manufacturer:0 "ROF 글라스코드"
  WLS_generic_naval_manufacturer:0 "케어방 해군 추진체 공장" 
+
+#Parties
+ WLS_democratic_party:0 "Plaid"
+ WLS_democratic_party_long:0 "Plaid Cymru"
