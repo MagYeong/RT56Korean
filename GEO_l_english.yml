@@ -14,3 +14,6 @@ l_english:
  GEO_event.1.desc:0 "[SOV.GetName]와(과) 싸우고 조지아를 해방시키기 위해 의용군이 설립되었습니다. [SOV.GetAdjective]이(가) 패배함에 따라, 이 의용군은 자신들의 임무를 완수해 집으로 돌아가고 싶어합니다."
  GEO_event.1.a:0 "조금 더 있어달라고 설득합시다." 
  GEO_event.1.b:0 "전역시키세요."
+
+
+GEO_generic_light_aircraft_manufacturer:0 "Tbilisi Aircraft State Association"
