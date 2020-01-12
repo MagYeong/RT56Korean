@@ -4,6 +4,8 @@ ENG_establish_the_colony_of_aden:0 "아덴 식민지 설립"
 ENG_establish_the_colony_of_aden_desc:0 "아덴 항은 인도, 유럽과 극동 사이의 무역에서 가장 중요한 곳 중 하나입니다. 1935의 신인도통치법은 지금까지 수석행정관에 의해 통치되던 이 항구를 영국 정부 직할로 이전하는 조항을 포함하고 있습니다. 아덴을 독자적인 식민지로 설립하기 위한 최종 준비가 끝났습니다."
 #Focus
 ENG_war_with_ussr:0 "언싱커블 작전"
+uk_naval_gunnery:0 "Naval Gunnery"
+uk_naval_gunnery_desc:0 "Improve the efficiency of our naval equipment to hit harder and rule the seas."
 #Custom Tooltips
 
 #Flags
@@ -17,7 +19,8 @@ englandmod.99.a:0 "알겠습니다."
 
 
 #Decisions
-
+ENG_speech_against_war:0 "Speech Against War"
+ENG_speech_against_war_desc:0 "The blood of our finest youth will not be spilled in vain due to foreign rabbles. Britain must remain at peace if Britain must endure. Our voice must be heard in every street. We demand peace! But we will be ready to defend our soil, to be armed against the foreign invaders. To those who claim that we want to cause trouble, to cause wars, we respond with one unanimous voice: Britain lives and marches on, in peace!"
 #Advisors
 ENG_john_dill:0 "존 딜"
 ENG_alan_turing:0"앨런 튜링"
@@ -40,10 +43,13 @@ ENG_ROF_nottingham:0 "ROF 노팅엄"
 british_alternate_focus:0 "대영제국 중점 트리"
 british_alternate_focus_tt:0 "§R이 중점이 완료되면 모든 The Road to 56 파시즘 중점을 포함하는 또다른 중점 트리가 로딩될 것입니다. 이 선택은 되돌릴 수 없습니다! 잘 선택하세요.§!"
 
-#extra canada
-CAN_rowell_sirois_commission_idea:0 "로웰-시로이스 위원회"
-CAN_canada_pacific_railway_idea:0 "캐나다 태평양 철도"
-CAN_maritime_colonial_railway_idea:0 "식민지 해안 철도"
-CAN_national_housing_act_idea:0 "전국적 주택 공급"
-CAN_dollar_a_year_men_idea:0 "상류층"
-CAN_henry_angus:0 "헨리 앵거스"
+
+
+
+r56_eng.1.t:0 "Fascism alone can preserve the Peace!"
+r56_eng.1.desc:0 "Fascism means peace because fascism alone fights the true cause of war. A strong autarkic policy would enable to escape the unwinnable competition for markets that have caused so many wars. This is why peace and Empire are compatible. They go hand in hand as a way to ensure economic independence!"
+r56_eng.1.a:0 "We will prevent war!"
+
+r56_eng.2.t:0 "On Foreign Wars"
+r56_eng.2.desc:0 "Britons must fight for Britain only! The sight of the sons of Britain leaving our shores in order to die for foreign quarrels must become an entry if your history books. Britons must only fight for Britain and the defense of the Empire."
+r56_eng.2.a:0 "We will not die on foreign shores!"
