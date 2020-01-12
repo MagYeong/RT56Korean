@@ -13,6 +13,7 @@ l_english:
   refining_tech_research:0 "연료 정제 연구 속도"
   naval_armor_tech:0 "해군 장갑 기술"
   naval_gunnery_tech:0 "함포 기술"
+  naval_shell_tech:0 "Naval Shell Technologies"
   
   
 ### Extra Special Forced Tech Categories
