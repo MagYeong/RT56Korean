@@ -303,3 +303,11 @@ l_english:
  albania.13.d:0 "알바니아 노동당의 우리 동무들이 좋은 성과를 냈습니다. 알바니아는 코민테른 가입을 위한 준비가 끝났습니다."
  albania.13.a:0 "들어오라우 동무들!"
  albania.13.b:0 "저들은 아직 준비가 되지 않았습니다."
+ albania.14.t:0 "Albania Asks For Guarantee"
+ albania.14.d:0 "The Albanian government, anxious to maintain its independence in these troubled times, wished to deepen relations between our two nations by putting in place a defensive treaty that would ensure that Albania's borders are maintained."
+ albania.14.a:0 "Albania has our protection"
+ albania.14.b:0 "We have no interests in defending Albania"
+ 
+ #Decisions
+ ALB_reintegrate_gjirokaster:0 "Reintegrate Gjirokastër"
+ ALB_reintegrate_gjirokaster_desc:0 "We have finally liberated our homeland from the vile claws our former overlords! Before we liberated our brethren, Gjirokastër was under the occupation of Greece and has been extremely repressed and artificially integrated into their nation. It will take some time to reverse the effects of their occupation, but it's for the greater good."
