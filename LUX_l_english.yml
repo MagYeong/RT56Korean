@@ -136,6 +136,9 @@ l_english:
  luxembourg.13.t:0 "독일이 거부했습니다."
  luxembourg.13.d:0 "보낸 편지는 답장이 없고, 사절들은 쫓겨났습니다. 나치들은 우리나라의 운명보다 더 중요한 문제가 있나 보죠."
  luxembourg.13.a:0 "엿 먹으라지."
+ luxembourg.14.t:0 "The 1937 Election."
+ luxembourg.14.d:0 "Despite the stormclouds gathering on the horizon, the politics of Luxembourg move ever onwards. The 1937 Election saw large turnouts for the Rietspartei and the social democrats. However, the conservative party's proposed Maulkuerfgesetz, designed to quench the growing popularity and voice of the KPL, has not proved as popular with the people. After an incredibly close referendum rejecting the law, Prime Minister Joseph Bech has had no choice but offer his resignation, fellow Ritespartei founder Pierre Dupong will now lead the country."
+ luxembourg.14.a:0 "That's politics for you."
 
 #Ideas
  LUX_generic_fascist_demagogue:0 "데미안 크레첸베르크"
@@ -198,6 +201,16 @@ l_english:
  LUX_armed_deterrence_desc:0 "룩셈부르크의 장벽에서 군대를 시험해 보세요. 항복은 없습니다."
  tblra_defense_of_the_benelux:0 "베네룩스 방어"
  ARBED:0 "ARBED"
+ LUX_sola:0 "Société Luxembourgeoise d'Armes"
+ LUX_atelier_de_petange:0 "Les Ateliers de Pétange"
+ LUX_hadir:0 "HADIR"
+ LUX_esch_archette_aerodrome:0 "S.A. pour l'Aménagement et l'Exploitation de l'Aérodrome d'Esch/Alzette"
+ LUX_luxair:0 "Luxair"
+ LUX_radio_luxembourg:0 "Radio Luxembourg"
+ LUX_lou_hemmer:0 "Lou Hemmer"
+ LUX_lou_hemmer2:0 "Lou Hemmer"
+ LUX_henri_stein:0 "Henri Stein"
+ LUX_edouard_kremmer:0 "Edouard Kremmer"
  tblra_LUX_BEL_customs_union:0 "벨기에-룩셈부르크 문화 연합"
  tblra_BEL_LUX_customs_union:0 "벨기에-룩셈부르크 문화 연합"
  
