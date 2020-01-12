@@ -32,6 +32,17 @@
  SOV_liberty_ethos_desc:0 ""
  SOV_strike_the_riech:0 "독일을 끝장내라!"
  SOV_strike_the_riech_desc:0 ""
+ 
+ SOV_reclaim_polish_overlordship:0 "Reclaim Polish Overlordship"
+ SOV_solve_the_karelian_question:0 "Solve the Karelian Question"
+ SOV_reclaim_bessarabia:0 "Reclaim Bessarabia"
+ SOV_rule_over_the_mongols:0 "Rule over the Mongols"
+ SOV_crush_our_eastern_rival:0 "Crush our Eastern Rival" 
+ SOV_our_american_holding:0 "Our American Holding" 
+ SOV_interventionism_focus:0 "Foreign Interventions"
+ SOV_neutrality_focus:0 "Turn Inward"
+ SOV_Brigades:0 "Volunteer Brigades"
+ SOV_why_we_fight:0 "Why we Fight"
 
  #Trotsky Tree (Focuses & Desc)
  SOV_trotskyite_victory:0 "트로츠키파의 승리"
@@ -240,11 +251,11 @@
  r56.soviet.16.d:0 "국가 계획 위원회는 현재의 5개년 계획이 예정보다 늦어졌다고 알려왔습니다. 당초 예정보다 앞당겨진 산업 계획이었지만, 우리는 뒤쳐졌고 당이 정한 계획을 끝내는데 필요한 마감일을 놓쳤습니다. 이것은 우리의 산업에 영향을 미쳤고 당혹스러운 일중 하나입니다."
  r56.soviet.16.a:0 "책임자를 불러와라"
  r56.soviet.16.b:0 "모든 사람은 실수를 저지르는 법이지"
- r56.soviet.18.t:0 "예조프가 스탈린 정권의 전복세력을 형성하다" 
- r56.soviet.18.d:0 "니콜라이 예조프는 NKVD에서의 자신의 지위가 위태로워질지도 모르고, 스탈린이 그를 제거할지도 모른다고 두려워하기 시작했습니다. 그는 현재 국가의 적인 사람들을 찾는 것을 목표로 하고 있는 활동들을 진행하고 있습니다. 스탈린을 권좌에서 몰아내기 위해서 말이죠."
+ r56.soviet.18.t:0 "예조프가 [ROOT.GetLeader] 정권의 전복세력을 형성하다" 
+ r56.soviet.18.d:0 "니콜라이 예조프는 NKVD에서의 자신의 지위가 위태로워질지도 모르고, [ROOT.GetLeader]이(가) 그를 제거할지도 모른다고 두려워하기 시작했습니다. 그는 현재 국가의 적인 사람들을 찾는 것을 목표로 하고 있는 활동들을 진행하고 있습니다. 스탈린을 권좌에서 몰아내기 위해서 말이죠."
  r56.soviet.18.a:0 "우리는 서둘러 움직여야 한다"
  r56.soviet.19.t:0 "NKVD 요원들과 트로츠키의 접촉"
- r56.soviet.19.d:0 "NKVD 요원들이 트로츠키와 접촉해 비밀리에 러시아로 돌아오는 중입니다. 이 일은 시간이 걸리겠지만, 도중에 외국 요원이나 스탈린 충성파에게 들키지 않도록 조심해야 합니다. 트로츠키가 다시 이끌게 된다면 쿠데타에 필요한 정통성과 경험있는 리더쉽을 얻게 될 것입니다."
+ r56.soviet.19.d:0 "NKVD 요원들이 트로츠키와 접촉해 비밀리에 러시아로 돌아오는 중입니다. 이 일은 시간이 걸리겠지만, 도중에 외국 요원이나 [ROOT.GetLeader] 충성파에게 들키지 않도록 조심해야 합니다. 트로츠키가 다시 이끌게 된다면 쿠데타에 필요한 정통성과 경험있는 리더쉽을 얻게 될 것입니다."
  r56.soviet.19.a:0 "완벽해"
  r56.soviet.20.t:0 "안드레이 블라소프는 도움을 주고 싶어합니다"
  r56.soviet.20.d:0 "블라소프가 NKVD에 있을때, 그는 우리의 계획에 관심을 가지는 것으로 보였고, 도움을 주고 싶어했습니다. 우리 요원들의 세부사항에 관심이 너무 많은 것 같기는 했습니다만."
@@ -299,7 +310,7 @@
  yes_politcal_people_open:0 "정치적 망명자들의 쿠데타 참여"
  SOV_five_year_punishment_fired:0 "5개년 계획의 실패"
  yes_generals_open:0 "쿠데타에 참여한 퇴역 장군들"
- SOV_counter_coup_tt:0 "[SOV.GetNameDefCap]의 공산주의 정권은 §Y전복§!되고 §G공산주의 체제§!는 해체될 것입니다. 쿠데타를 일으키고 나면 §R다시는 되돌릴수 없을 것입니다.§! "
+ SOV_counter_coup_tt:0 "[SOV.GetNameDefCap]의 공산주의 정권은 §Y전복§!되고 §G공산주의 체제§!는 해체될 것입니다."
  SOV_mass_immunizations_happened_1:0 "대규모 예방접종"
 
  #tags
