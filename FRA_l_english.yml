@@ -14,6 +14,9 @@
  FRAEMPIRE_neutrality:0 "프랑스 제국"
  FRAEMPIRE_neutrality_DEF:0 "프랑스 제국"
  continental_system:0 "대륙 체제"
+ FRA_the_american_napoleon:0 "The American Napoleon"
+ FRA_repatriate_the_remains_of_napoleon_ii:0 "Repatriate the Remains of the Eaglet"
+ FRA_repatriate_the_remains_of_napoleon_ii_desc:0 "Napoleon II, prince of Rome, commonly known as 'the Eaglet' was the only son of Napoleon the Great and Maria-Louisa of Austria. He died in 1832 and was buried in Vienna. It is now time to reunite father and son and give him the imperial burial he deserves at the Dôme des Invalides."
 
  france.150.d:0 "최근 몇달간 정부가 과감한 타협을 하도록 만들 정도로 영향력이 커진 프랑스노동총동맹의 파업 촉구에 따라, 수많은 노동자들이 파리에 집결해 부르봉궁을 향해 행진했습니다. 이는 많은 이들에게 1934년 2월 6일의 폭동을 상기시켰습니다. 시위대가 의회에 난입하는 동안, 도시의 나머지 구역에서는 군인들의 탈주와 시위대의 폭력을 경찰이 통제하는 데 실패했습니다.\n\n레옹 주오가 이끄는 시위대는 제3공화국의 끝과 반자본주의적인 노동조합 정권으로의 전환을 선언했습니다."
  france.150.a:0 "노동자들이 정권을 잡았군."
