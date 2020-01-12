@@ -329,8 +329,13 @@ l_english:
  VEN_BRA_autonomy_satellite_DEF:0 "카리브 연방 지역"
  VEN_BRA_autonomy_dominion_DEF:0 "베네수엘라 연방 공화국"
  
- #CAN
- CAN_FRA_autonomy_puppet:0 "퀘벡"
+ BUL_neutrality:0 "불가리아 차르국"
+ BUL_democratic:0 "불가리아 차르국"
+ BUL_fascism:0 "불가리아 차르국"
+ BUL_republican_democratic:0 "불가리아 공화국"
+
+  #CAN
+ CAN_FRA_autonomy_puppet:0 "캐나다"
  
  #CAR
  CAR_fascism:0 "아프리카 왕국"
@@ -363,6 +368,8 @@ l_english:
  #CHI
  CHI_JAP_fascism:0 "난징 국민정부"
  CHI_JAP_fascism_DEF:0 "난징 국민정부"
+ CHI_JAP_neutrality:0 "난징 국민정부"
+ CHI_JAP_neutrality_DEF:0 "난징 국민정부"
  
  #CHD
  CHD_neutrality:0 "차드"
@@ -713,6 +720,20 @@ l_english:
  GHA_neutrality_ADJ:0 "가나"
  GHA_communism_ADJ:0 "가나"
  
+ #GRE
+ GRE_fascism:0 "그리스 왕국"
+ GRE_fascism_DEF:0 "그리스 왕국"
+ GRE_democratic:0 "그리스 왕국"
+ GRE_democratic_DEF:0 "그리스 왕국"
+ GRE_neutrality:0 "그리스 왕국"
+ GRE_neutrality_DEF:0 "그리스 왕국"
+ GRE_communism:0 "그리스 사회주의 공화국"
+ GRE_communism_DEF:0 "그리스 사회주의 공화국"
+ GRE_fascism_ADJ:0 "그리스"
+ GRE_democratic_ADJ:0 "그리스"
+ GRE_neutrality_ADJ:0 "그리스"
+ GRE_communism_ADJ:0 "그리스"
+ 
  #GRL
  GRL_fascism:0 "칼랄릿 누나트"
  GRL_fascism_DEF:0 "칼랄릿 누나트"
@@ -956,6 +977,20 @@ l_english:
  MLI_neutrality_ADJ:0 "말리"
  MLI_communism_ADJ:0 "말리"
  
+ MLT_fascism:0 "몰타국"
+ MLT_fascism_DEF:2 "몰타국"
+ MLT_democratic:0 "몰타"
+ MLT_democratic_DEF:0 "몰타"
+ MLT_neutrality:2 "몰타 기사단국"
+ MLT_neutrality_DEF:2 "몰타 기사단국"
+ MLT_communism:1 "몰타 코뮌"
+ MLT_communism_DEF:1 "몰타 코뮌"
+ MLT_fascism_ADJ:1 "몰타"
+ MLT_democratic_ADJ:0 "몰타"
+ MLT_neutrality_ADJ:1 "기사단"
+ MLT_communism_ADJ:0 "몰타"
+ 
+ 
  #MMG
  MMGmen_fascism:0 "몽강연합자치정부"
  MMGmen_fascism_DEF:0 "몽강연합자치정부"
@@ -1020,6 +1055,11 @@ l_english:
  NIG_neutrality_ADJ:0 "나이지리아"
  NIG_communism_ADJ:0 "나이지리아"
  
+#NIC
+ NIC_democratic:0 "니카라과"
+ NIC_democratic_DEF:0 "니카라과"
+ 
+ 
  #NMB
  NMB_neutrality:0 "나미비아 공화국"
  NMB_neutrality_DEF:0 "나미비아 공화국"
@@ -1059,6 +1099,10 @@ l_english:
  PAR_BRA_autonomy_colony:0 "마투그로수 서부"
  PAR_BRA_autonomy_integrated_puppet:0 "마투그로수 서부"
  PAR_BRA_autonomy_dominion: "브라질령 파라과이"
+ 
+ #PER
+ PER_democratic:0 "이란"
+ PER_democratic_DEF:0 "이란"
  
  #PGR
  PGR_fascism:0 "중화민국 임시 정부"
@@ -1141,6 +1185,23 @@ l_english:
  RGR_communism:0 "중화 사회주의국"
  RGR_communism_ADJ:0 "중국"
  RGR_communism_DEF:0 "중화 사회주의국"
+ 
+ #SAU -missing line base game
+ SAU_neutrality_ADJ:0 "사우디"
+
+ #SAM
+ SAM_fascism:0 "사미국"
+ SAM_fascism_DEF:0 "사미국"
+ SAM_democratic:0 "사미 공화국"
+ SAM_democratic_DEF:0 "사미 공화국"
+ SAM_neutrality:0 "사미 연방"
+ SAM_neutrality_DEF:0 "사미 연방"
+ SAM_communism:0 "사미 공동체 연방"
+ SAM_communism_DEF:0 "사미 공동체 연방"
+ SAM_fascism_ADJ:0 "사미"
+ SAM_democratic_ADJ:0 "사미"
+ SAM_neutrality_ADJ:0 "사미"
+ SAM_communism_ADJ:0 "사미"
  
  #SCA
  SCA_fascism:0 "노르딕 제국"
@@ -1420,6 +1481,20 @@ l_english:
  YHM_democratic_DEF:0 "광둥 공화국"
  YHM_democratic_ADJ:0 "광둥"
  
+ #YUG
+ YUG_fascism:0 "급진파 유고슬라비아"
+ YUG_fascism_DEF:0 "급진파 유고슬라비아"
+ YUG_democratic:0 "유고슬라비아 연방"
+ YUG_democratic_DEF:0 "유고슬라비아 연방"
+ YUG_neutrality:0 "유고슬라비아 왕국"
+ YUG_neutrality_DEF:0 "유고슬라비아 왕국"
+ YUG_communism:0 "유고슬라비아 사회주의 연방 공화국"
+ YUG_communism_DEF:0 "유고슬라비아 사회주의 연방 공화국"
+ YUG_fascism_ADJ:0 "유고슬라비아"
+ YUG_democratic_ADJ:0 "유고슬라비아"
+ YUG_neutrality_ADJ:0 "유고슬라비아"
+ YUG_communism_ADJ:0 "유고슬라비아"
+ 
  #YUT
  YUT_neutrality:0 "광둥 군벌"
  YUT_neutrality_DEF:0 "광둥 군벌"
@@ -1449,21 +1524,47 @@ l_english:
  ZAM_communism_ADJ:0 "잠비아"
  
  #ZIB
- ZIB_neutrality:0 "짐바브웨"
- ZIB_neutrality_DEF:0 "짐바브웨"
- ZIB_democratic:0 "짐바브웨 공화국"
- ZIB_democratic_DEF:0 "짐바브웨 공화국"
- ZIB_fascism:0 "로디지아 독립국"
- ZIB_fascism_DEF:0 "로디지아 독립국"
- ZIB_communism:0 "로디지아 사회주의 공화국"
- ZIB_communism_DEF:0 "로디지아 사회주의 공화국"
- ZIB_communism_ADJ:0 "로디지아"
- ZIB_fascism_ADJ:0 "로디지아"
- ZIB_democratic_ADJ:0 "짐바브웨"
- ZIB_neutrality_ADJ:0 "짐바브웨"
+ #it's ZIM not ZIB
+ #ZIB_neutrality:0 "짐바브웨"
+ #ZIB_neutrality_DEF:0 "짐바브웨"
+ #ZIB_democratic:0 "짐바브웨 공화국"
+ #ZIB_democratic_DEF:0 "짐바브웨 공화국"
+ #ZIB_fascism:0 "로디지아 독립국"
+ #ZIB_fascism_DEF:0 "로디지아 독립국"
+ #ZIB_communism:0 "로디지아 사회주의 공화국"
+ #ZIB_communism_DEF:0 "로디지아 사회주의 공화국"
+ #ZIB_communism_ADJ:0 "로디지아"
+ #ZIB_fascism_ADJ:0 "로디지아"
+ #ZIB_democratic_ADJ:0 "짐바브웨"
+ #ZIB_neutrality_ADJ:0 "짐바브웨"
+ ZIM_ENG_autonomy_dominion:0 "남로디지아"
+ ZIM_ENG_autonomy_colony:0 "남로디지아"
+ ZIM_ENG_autonomy_puppet:0 "남로디지아"
+ ZIM_ENG_autonomy_integrated_puppet:0 "남로디지아"
+ ZIM_ENG_autonomy_dominion_DEF:0 "남로디지아 식민지"
+ ZIM_ENG_autonomy_colony_DEF:0 "남로디지아 식민지"
+ ZIM_ENG_autonomy_puppet_DEF:0 "남로디지아 식민지"
+ ZIM_ENG_autonomy_integrated_puppet_DEF:0 "남로디지아 식민지"
  
  SPQR_UNIFIED_communism:0 "로마 프롤레타리아 공화국"
  SPQR_UNIFIED_communism_DEF:0 "로마 프롤레타리아 공화국"
 
  SAF_neutrality:0 "남아프리카"
  SAF_neutrality_DEF:0 "남아프리카"
+
+ #NKR
+ NKR_communism:0 "조선민주주의인민공화국"
+ NKR_communism_DEF:0 "조선민주주의인민공화국"
+ NKR_communism_ADJ:0 "북한"
+
+ #ELS
+ ELS_neutrality:0 "엘살바도르"
+ ELS_neutrality_DEF:0 "엘살바도르"
+
+ #DOM
+ DOM_neutrality:0 "도미니카 공화국"
+ DOM_neutrality_DEF:0 "도미니카 공화국"
+
+ # SPR
+ SPR_neutrality:0 "스페인 왕국"
+ SPR_neutrality_DEF:0 "스페인 왕국"
