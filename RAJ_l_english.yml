@@ -1,6 +1,6 @@
 ﻿l_english:
 
- RAJ_premier_construction:0 "Premier Construction"
+ RAJ_premier_construction:0 "프리미어 컨스트럭션"
  RAJ_indian_school_of_mines:0 "인도 광산 학교"
  RAJ_tata_steel:0 "타타스틸"
 
@@ -12,12 +12,12 @@
  r56_raj.1.d:0 "인도 부왕 겸 총독으로 1931년부터 지금까지 5년간 재직한 윌링던 후작 프리먼 프리먼토머스가 린리스고 후작 빅터 알렉산더 존 호프로 교체될 것입니다."
  r56_raj.1.a:0 "알겠습니다."
 
- RAJ_generic_tank_manufacturer:0 "Jamalpur Locomotive Workshop"
- RAJ_generic_motorized_equipment_manufacturer:0 "Premier Automobiles"
+ RAJ_generic_tank_manufacturer:0 "자말푸르 기관차 제작소"
+ RAJ_generic_motorized_equipment_manufacturer:0 "프리미어 오토모빌"
  #Did not really made planes
- RAJ_generic_medium_aircraft_manufacturer:0 "Hindustan Motors" 
- RAJ_munger_gun_factory:0 "Munger Gun Factory"
- RAJ_assam_oil_company:0 "Assam Oil Company"
+ RAJ_generic_medium_aircraft_manufacturer:0 "힌두스탄 모터스" 
+ RAJ_munger_gun_factory:0 "문게 총기 공장"
+ RAJ_assam_oil_company:0 "아삼 오일 컴퍼니"
  
 
  #Hinduja 
