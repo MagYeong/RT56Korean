@@ -4,8 +4,8 @@ ENG_establish_the_colony_of_aden:0 "아덴 식민지 설립"
 ENG_establish_the_colony_of_aden_desc:0 "아덴 항은 인도, 유럽과 극동 사이의 무역에서 가장 중요한 곳 중 하나입니다. 1935의 신인도통치법은 지금까지 수석행정관에 의해 통치되던 이 항구를 영국 정부 직할로 이전하는 조항을 포함하고 있습니다. 아덴을 독자적인 식민지로 설립하기 위한 최종 준비가 끝났습니다."
 #Focus
 ENG_war_with_ussr:0 "언싱커블 작전"
-uk_naval_gunnery:0 "Naval Gunnery"
-uk_naval_gunnery_desc:0 "Improve the efficiency of our naval equipment to hit harder and rule the seas."
+uk_naval_gunnery:0 "함포"
+uk_naval_gunnery_desc:0 "적에게 더 큰 피해를 주고 바다를 지배하기 위해 우리 해군 장비의 성능을 개선해야 합니다."
 #Custom Tooltips
 
 #Flags
@@ -19,8 +19,8 @@ englandmod.99.a:0 "알겠습니다."
 
 
 #Decisions
-ENG_speech_against_war:0 "Speech Against War"
-ENG_speech_against_war_desc:0 "The blood of our finest youth will not be spilled in vain due to foreign rabbles. Britain must remain at peace if Britain must endure. Our voice must be heard in every street. We demand peace! But we will be ready to defend our soil, to be armed against the foreign invaders. To those who claim that we want to cause trouble, to cause wars, we respond with one unanimous voice: Britain lives and marches on, in peace!"
+ENG_speech_against_war:0 "반전 연설"
+ENG_speech_against_war_desc:0 "우리 훌륭한 젊은이들의 피가 외국의 일 때문에 무의미하게 흘려지지는 않을 것입니다. 영국이 나아가기 위해서는 평화 속에 남아야 합니다. 우리의 목소리는 모든 거리에서 들려야 합니다. 우리는 평화를 요구합니다! 하지만 우리는 우리 땅을 지키고 외국 침략자들에 맞설 준비가 되었습니다. 우리가 문제를, 그리고 전쟁을 일으키기를 원한다고 주장하는 자들에게 우리는 하나의 통일된 목소리로 대답합니다. 영국 평화 속에서 존속할 것이라고!"
 #Advisors
 ENG_john_dill:0 "존 딜"
 ENG_alan_turing:0"앨런 튜링"
