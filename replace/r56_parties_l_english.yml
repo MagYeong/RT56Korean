@@ -97,47 +97,47 @@ absolute_monarchism:0 "절대군주제"
  BOL_communism_party_long:0 "혁명노동자당"
 
  #BUL
- BUL_neutrality_party:0 "The Regime Of Authorities"
+ BUL_neutrality_party:0 "권위 정부"
 
  #CHL
  CHL_fascism_party:0 "VPS"
- CHL_fascism_party_long:0 "Vanguardia Popular Socialista"
- CHL_democratic_party:0 "Partido Radical"
- CHL_democratic_party_long:0 "Partido Radical"
+ CHL_fascism_party_long:0 "인민 사회주의 전위당"
+ CHL_democratic_party:0 "급진당"
+ CHL_democratic_party_long:0 "급진당"
  CHL_communism_party:0 "PCCh"
- CHL_communism_party_long:0 "Partido Comunista de Chile"
+ CHL_communism_party_long:0 "칠레 공산당"
  
  # CHI
- CHI_democratic_party:0 "Kuomintang (C)"
- CHI_democratic_party_long:0 "Kuomintang (Civilian)"
+ CHI_democratic_party:0 "국민당(민간)"
+ CHI_democratic_party_long:0 "국민당(민간)"
 
  #COG
  COG_neutrality_party:0 "GGC"
- COG_neutrality_party_long:0 "Gouvernorat Général du Congo"
+ COG_neutrality_party_long:0 "콩고 총독부"
 
  #COL
  COL_communism_party:0 "PCC"
- COL_communism_party_long:0 "Partido Comunista Colombiano"
+ COL_communism_party_long:0 "콜롬비아 공산당"
  COL_democratic_party:0 "PLC"
- COL_democratic_party_long:0 "Partido Liberal Colombiano"
- COL_neutrality_party:0 "Conservador"
- COL_neutrality_party_long:0 "Partido Conservador Colombiano"
+ COL_democratic_party_long:0 "콜롬비아 자유당"
+ COL_neutrality_party:0 "보수당"
+ COL_neutrality_party_long:0 "콜롬비아 보수당"
 
  #CZE
  CZE_communism_party:0 "KSČ"
- CZE_communism_party_long:0 "Komunistická strana Československa"
+ CZE_communism_party_long:0 "체코슬로바키아 공산당"
  CZE_democratic_party:0 "RSZML"
- CZE_democratic_party_long:0 "Republikánská strana zemědělského a malorolnického lidu"
+ CZE_democratic_party_long:0 "농업당"
  CZE_fascism_party:0 "NOF"
- CZE_fascism_party_long:0 "Národní obec fašistická"
+ CZE_fascism_party_long:0 "국가 파시스트 공동체"
  CZE_national_unity_party:0 "PNU"
- CZE_national_unity_party_long:0 "Party of National Unity"
+ CZE_national_unity_party_long:0 "국민통일당"
 
  #ECU
- ECU_democratic_party:0 "Páez's Regime"
- ECU_democratic_party_long:0 "Páez's Regime"
+ ECU_democratic_party:0 "파에스 정권"
+ ECU_democratic_party_long:0 "파에스 정권"
  ECU_communism_party:0 "PCE"
- ECU_communism_party_long:0 "Partido Comunista del Ecuador"
+ ECU_communism_party_long:0 "에콰도르 공산당"
 
  #FIN
  FIN_neutrality_party:0 "ML"
