@@ -1,10 +1,10 @@
 ﻿l_english:
 
-  CZE_recall_lev_prchala:0 "Recall Lev Prchala"
-  RUT_lev_prchala:0 "Lev Prchala"
+  CZE_recall_lev_prchala:0 "레프 프르할라 소환"
+  RUT_lev_prchala:0 "레프 프르할라"
 
   political_power_cost:0 "\n§Y정치력§!의 변화:\n"
-  new_national_unity:0 "\n§Y국가 안정도 보너스§!:\n"
+  new_national_unity:0 "\n§Y국가 단결도 보너스§!:\n"
   new_army_experience:0 "\n§Y경험치 보너스§!:\n"
   new_diplomacy:0 "\n§Y외교 관계§! 변화:\n"
   new_diplomatic_event:0 "\n새 §Y외교 사건§!:\n"
