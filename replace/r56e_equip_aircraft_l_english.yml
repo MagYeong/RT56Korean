@@ -3,12 +3,12 @@
 
 l_english:
 #-> Transport planes <><>
- transport_plane:0 "Transport"
- transport_plane_equipment:0 "Transport Plane"
- transport_plane_equipment_desc:0 "Delivers paratroopers to their destination."
- transport_plane_equipment_1:0 "Transport Plane"
- transport_plane_equipment_1_short:0 "Transport"
- transport_plane_equipment_1_desc:0 "§LPlanes used to transport troops on paradrop missions.§!"
+ transport_plane:0 "수송기"
+ transport_plane_equ1pment:0 "수송기"
+ transport_plane_equ1pment_desc:0 "공수부대를 그들의 목적지까지 수송하는 항공기입니다."
+ transport_plane_equ1pment_1:0 "수송기"
+ transport_plane_equ1pment_1_short:0 "수송기"
+ transport_plane_equ1pment_1_desc:0 "§L수송기는 병력을 공수투하 하는데 사용되는 항공기 입니다..§!"
  
 #-> Dive bombers <><>
  cas:1 "Dive Bomber"
@@ -2285,1309 +2285,1304 @@ l_english:
  SAF_rocket_interceptor_equipment_2_short:0 "Hawker P.1072"
 
 ###--->  ENG  <><> <><> <><>
-#-> Dive bombers <><>
- ENG_CAS_equipment_1:0 "Hawker Hector"
- ENG_CAS_equipment_1_short:0 "Hector"
- ENG_CAS_equipment_2:0 "Hawker Typhoon"
- ENG_CAS_equipment_2_short:0 "Typhoon"
- ENG_CAS_equipment_3:0 "Hawker Tempest"
- ENG_CAS_equipment_3_short:0 "Tempest"
+#-> D1ve bombers <><>
+ ENG_CAS_equ1pment_1:0 "호커 헥터"
+ ENG_CAS_equ1pment_1_short:0 "헥터"
+ ENG_CAS_equ1pment_2:0 "호커 타이푼"
+ ENG_CAS_equ1pment_2_short:0 "타이푼"
+ ENG_CAS_equ1pment_3:0 "호커 템페스트"
+ ENG_CAS_equ1pment_3_short:0 "템페스트"
 
-#-> Carrier-based dive bombers <><>
- ENG_cv_CAS_equipment_1:0 "Hawker Osprey"
- ENG_cv_CAS_equipment_1_short:0 "Osprey"
- ENG_cv_CAS_equipment_2:0 "Blackburn Skua"
- ENG_cv_CAS_equipment_2_short:0 "Skua"
- ENG_cv_CAS_equipment_3:0 "Hawker Sea Fury"
- ENG_cv_CAS_equipment_3_short:0 "Sea Fury"
+#-> Carr1er-based d1ve bombers <><>
+ ENG_cv_CAS_equ1pment_1:0 "호커 오스프리"
+ ENG_cv_CAS_equ1pment_1_short:0 "오스프리"
+ ENG_cv_CAS_equ1pment_2:0 "블랙번 스쿠아"
+ ENG_cv_CAS_equ1pment_2_short:0 "스쿠아"
+ ENG_cv_CAS_equ1pment_3:0 "호커 시 퓨리"
+ ENG_cv_CAS_equ1pment_3_short:0 "시 퓨리"
 
-#-> Light fighters <><> 
- ENG_fighter_equipment_0:0 "Gloster Gladiator"
- ENG_fighter_equipment_0_short:0 "Gladiator"
- ENG_fighter_equipment_1:0 "Hawker Hurricane"
- ENG_fighter_equipment_1_short:0 "Hurricane"
- ENG_fighter_equipment_2:0 "Supermarine Spitfire"
- ENG_fighter_equipment_2_short:0 "Spitfire"
- ENG_fighter_equipment_3:0 "Supermarine Spiteful"
- ENG_fighter_equipment_3_short:0 "Spiteful"
+#-> L1ght f1ghters <><> 
+ ENG_f1ghter_equ1pment_0:0 "글로스터 글래디에이터"
+ ENG_f1ghter_equ1pment_0_short:0 "글래디에이터"
+ ENG_f1ghter_equ1pment_1:0 "호커 허리케인"
+ ENG_f1ghter_equ1pment_1_short:0 "허리케인"
+ ENG_f1ghter_equ1pment_2:0 "슈퍼마린 스핏파이어"
+ ENG_f1ghter_equ1pment_2_short:0 "스핏파이어"
+ ENG_f1ghter_equ1pment_3:0 "슈퍼마린 스파잇풀"
+ ENG_f1ghter_equ1pment_3_short:0 "스파잇풀""
 
-#-> Light fighter-bombers <><>
- ENG_fighter_bomber_equipment_2:0 "Supermarine Spitfire Mk. VB"
- ENG_fighter_bomber_equipment_2_short:0 "Spitfire Mk. VB"
- ENG_fighter_bomber_equipment_3:0 "Supermarine Spitefang"
- ENG_fighter_bomber_equipment_3_short:0 "Spitefang"
+#-> L1ght f1ghter-bombers <><>
+ ENG_f1ghter_bomber_equ1pment_2:0 "슈퍼마린 스핏파이어 Mk. VB"
+ ENG_f1ghter_bomber_equ1pment_2_short:0 "스핏파이어 Mk. VB"
+ ENG_f1ghter_bomber_equ1pment_3:0 "슈퍼마린 스파잇풀"
+ ENG_f1ghter_bomber_equ1pment_3_short:0 "스파잇풀"
 
-#-> Carrier-based light fighters <><>
- ENG_cv_fighter_equipment_0:0 "Hawker Nimrod"
- ENG_cv_fighter_equipment_0_short:0 "Nimrod"
- ENG_cv_fighter_equipment_1:0 "Gloster Sea Gladiator"
- ENG_cv_fighter_equipment_1_short:0 "Sea Gladiator"
- ENG_cv_fighter_equipment_2:0 "Fairey Fulmar"
- ENG_cv_fighter_equipment_2_short:0 "Fulmar"
- ENG_cv_fighter_equipment_3:0 "Fairey Firefly"
- ENG_cv_fighter_equipment_3_short:0 "Firefly"
-
-#-> Torpedo bombers <><>
- ENG_nav_bomber_equipment_1:0 "Fairey Swordfish"
- ENG_nav_bomber_equipment_1_short:0 "Swordfish"
- ENG_nav_bomber_equipment_2:0 "Fairey Albacore"
- ENG_nav_bomber_equipment_2_short:0 "Albacore"
- ENG_nav_bomber_equipment_3:0 "Fairey Barracuda"
- ENG_nav_bomber_equipment_3_short:0 "Barracuda"
-
-#-> Carrier-based torpedo bombers <><>
- #ENG_cv_nav_bomber_equipment_1:0 "Blackburn Shark"
- #ENG_cv_nav_bomber_equipment_1_short:0 "Shark"
- #ENG_cv_nav_bomber_equipment_2:0 "Blackburn Roc"
- #ENG_cv_nav_bomber_equipment_2_short:0 "Roc"
- #ENG_cv_nav_bomber_equipment_3:0 "Blackburn Firebrand"
- #ENG_cv_nav_bomber_equipment_3_short:0 "Firebrand"
-
-#-> Heavy fighters <><>
- ENG_heavy_fighter_equipment_1:0 "Bristol Blenheim"
- ENG_heavy_fighter_equipment_1_short:0 "Blenheim"
- ENG_heavy_fighter_equipment_2:0 "Bristol Beaufighter"
- ENG_heavy_fighter_equipment_2_short:0 "Beaufighter"
- ENG_heavy_fighter_equipment_3:0 "de Havilland Mosquito FB"
- ENG_heavy_fighter_equipment_3_short:0 "Mosquito FB"
-
-#-> Heavy fighter-bomber <><>
- ENG_hfighter_bomber_equipment_1:0 "Bristol Blenheim Mk. IV"
- ENG_hfighter_bomber_equipment_1_short:0 "Blenheim Mk. IV"
- ENG_hfighter_bomber_equipment_2:0 "Bristol Beaufighter TF Mk. X"
- ENG_hfighter_bomber_equipment_2_short:0 "Beaufighter TF Mk. X"
-
-#-> Medium bomber <><>
- ENG_tac_bomber_equipment_0:0 "Armstrong Whitworth Whitley"
- ENG_tac_bomber_equipment_0_short:0 "Whitley"
- ENG_tac_bomber_equipment_1:0 "Vickers Wellington"
- ENG_tac_bomber_equipment_1_short:0 "Wellington"
- ENG_tac_bomber_equipment_2:0 "Bristol Beaufort"
- ENG_tac_bomber_equipment_2_short:0 "Beaufort"
- ENG_tac_bomber_equipment_3:0 "de Havilland Mosquito B"
- ENG_tac_bomber_equipment_3_short:0 "Mosquito B"
-
-#-> Medium maritime bomber <><>
- ENG_med_maritime_equipment_1:0 "Vickers Wellington GR Mk. VIII"
- ENG_med_maritime_equipment_1_short:0 "Wellington Mk. VIII"
- ENG_med_maritime_equipment_2:0 "Bristol Beaufort Mk. VI"
- ENG_med_maritime_equipment_2_short:0 "Beaufort Mk. VI"
- ENG_med_maritime_equipment_3:0 "de Havilland Mosquito TR"
- ENG_med_maritime_equipment_3_short:0 "Mosquito TR"
-
-#-> Heavy bomber <><>
- ENG_strat_bomber_equipment_1:0 "Handley Page Halifax"
- ENG_strat_bomber_equipment_1_short:0 "Halifax"
- ENG_strat_bomber_equipment_2:0 "Avro Lancaster"
- ENG_strat_bomber_equipment_2_short:0 "Lancaster"
- ENG_strat_bomber_equipment_3:0 "Avro Lincoln"
- ENG_strat_bomber_equipment_3_short:0 "Lincoln"
-
-#-> Heavy maritime bomber <><>
- ENG_strat_maritime_equipment_1:0 "Handley Page Halifax GR.II"
- ENG_strat_maritime_equipment_1_short:0 "Halifax GR.II"
- ENG_strat_maritime_equipment_2:0 "Avro Lancaster GR.3/MR.3"
- ENG_strat_maritime_equipment_2_short:0 "Lancaster GR.3/MR.3"
- ENG_strat_maritime_equipment_3:0 "Avro Lincoln III"
- ENG_strat_maritime_equipment_3_short:0 "Lincoln III"
-
-#-> Maritime patrol <><>
- #ENG_flying_boat_equipment_0: "Short Empire"
- #ENG_flying_boat_equipment_0_short: "Empire"
- #ENG_flying_boat_equipment_1:0 "Short Sunderland I"
- #ENG_flying_boat_equipment_1_short:0 "Sunderland I"
- #ENG_flying_boat_equipment_2:0 "Consolidated Catalina"
- #ENG_flying_boat_equipment_2_short:0 "Catalina"
- #ENG_flying_boat_equipment_3:0 "Martin Mariner"
- #ENG_flying_boat_equipment_3_short:0 "Mariner"
-
-#-> Jet fighters <><>
- ENG_jet_fighter_equipment_1:0 "Gloster Meteor"
- ENG_jet_fighter_equipment_1_short:0 "Meteor"
- ENG_jet_fighter_equipment_2:0 "de Havilland Vampire"
- ENG_jet_fighter_equipment_2_short:0 "Vampire"
- ENG_jet_fighter_equipment_x:0 "de Havilland Venom"
- ENG_jet_fighter_equipment_x_short:0 "Venom"
- 
-#-> Carrier-based jet fighters <><>
- ENG_cv_jet_fighter_equipment_1:0 "Gloster Meteor CV"
- ENG_cv_jet_fighter_equipment_1_short:0 "Meteor CV"
- ENG_cv_jet_fighter_equipment_2:0 "de Havilland Vampire CV"
- ENG_cv_jet_fighter_equipment_2_short:0 "Vampire CV"
- ENG_cv_jet_fighter_equipment_x:0 "de Havilland Venom CV"
- ENG_cv_jet_fighter_equipment_x_short:0 "Venom CV"
-
-#-> Jet medium bomber <><>
- ENG_jet_tac_bomber_equipment_1:0 "de Havilland Venom"
- ENG_jet_tac_bomber_equipment_1_short:0 "Venom"
- ENG_jet_tac_bomber_equipment_2:0 "English Electric Canberra"
- ENG_jet_tac_bomber_equipment_2_short:0 "Canberra"
- 
-#-> Jet heavy bomber <><>
- ENG_jet_strat_bomber_equipment_1:0 "Vickers Valiant"
- ENG_jet_strat_bomber_equipment_1_short:0 "Valiant"
-
-
-###--->  NIR  <><> <><> <><>
-#-> Dive bombers <><>
- NIR_CAS_equipment_1:0 "Hawker Hector"
- NIR_CAS_equipment_1_short:0 "Hector"
- NIR_CAS_equipment_2:0 "Hawker Typhoon"
- NIR_CAS_equipment_2_short:0 "Typhoon"
- NIR_CAS_equipment_3:0 "Hawker Tempest"
- NIR_CAS_equipment_3_short:0 "Tempest"
-
-#-> Carrier-based dive bombers <><>
- NIR_cv_CAS_equipment_1:0 "Hawker Osprey"
- NIR_cv_CAS_equipment_1_short:0 "Osprey"
- NIR_cv_CAS_equipment_2:0 "Blackburn Skua"
- NIR_cv_CAS_equipment_2_short:0 "Skua"
- NIR_cv_CAS_equipment_3:0 "Hawker Sea Fury"
- NIR_cv_CAS_equipment_3_short:0 "Sea Fury"
-
-#-> Light fighters <><> 
- NIR_fighter_equipment_0:0 "Gloster Gladiator"
- NIR_fighter_equipment_0_short:0 "Gladiator"
- NIR_fighter_equipment_1:0 "Hawker Hurricane"
- NIR_fighter_equipment_1_short:0 "Hurricane"
- NIR_fighter_equipment_2:0 "Supermarine Spitfire"
- NIR_fighter_equipment_2_short:0 "Spitfire"
- NIR_fighter_equipment_3:0 "Supermarine Spiteful"
- NIR_fighter_equipment_3_short:0 "Spiteful"
-
-#-> Light fighter-bombers <><>
- NIR_fighter_bomber_equipment_2:0 "Supermarine Spitfire Mk. VB"
- NIR_fighter_bomber_equipment_2_short:0 "Spitfire Mk. VB"
- NIR_fighter_bomber_equipment_3:0 "Supermarine Spitefang"
- NIR_fighter_bomber_equipment_3_short:0 "Spitefang"
-
-#-> Carrier-based light fighters <><>
- NIR_cv_fighter_equipment_0:0 "Hawker Nimrod"
- NIR_cv_fighter_equipment_0_short:0 "Nimrod"
- NIR_cv_fighter_equipment_1:0 "Gloster Sea Gladiator"
- NIR_cv_fighter_equipment_1_short:0 "Sea Gladiator"
- NIR_cv_fighter_equipment_2:0 "Fairey Fulmar"
- NIR_cv_fighter_equipment_2_short:0 "Fulmar"
- NIR_cv_fighter_equipment_3:0 "Fairey Firefly"
- NIR_cv_fighter_equipment_3_short:0 "Firefly"
+#-> Carr1er-based l1ght f1ghters <><>
+ ENG_cv_f1ghter_equ1pment_0:0 "호커 님로드"
+ ENG_cv_f1ghter_equ1pment_0_short:0 "님로드"
+ ENG_cv_f1ghter_equ1pment_1:0 "글로스터 시 글래디에이터"
+ ENG_cv_f1ghter_equ1pment_1_short:0 "시 글래디에이터"
+ ENG_cv_f1ghter_equ1pment_2:0 "페어리 풀머"
+ ENG_cv_f1ghter_equ1pment_2_short:0 "풀머"
+ ENG_cv_f1ghter_equ1pment_3:0 "페어리 파이어플라이"
+ ENG_cv_f1ghter_equ1pment_3_short:0 "파이어플라이"
 
 #-> Torpedo bombers <><>
- NIR_nav_bomber_equipment_1:0 "Fairey Swordfish"
- NIR_nav_bomber_equipment_1_short:0 "Swordfish"
- NIR_nav_bomber_equipment_2:0 "Fairey Albacore"
- NIR_nav_bomber_equipment_2_short:0 "Albacore"
- NIR_nav_bomber_equipment_3:0 "Fairey Barracuda"
- NIR_nav_bomber_equipment_3_short:0 "Barracuda"
+ ENG_nav_bomber_equ1pment_1:0 "페어리 소드피쉬"
+ ENG_nav_bomber_equ1pment_1_short:0 "소드피쉬"
+ ENG_nav_bomber_equ1pment_2:0 "페어리 알바코어"
+ ENG_nav_bomber_equ1pment_2_short:0 "알바코어"
+ ENG_nav_bomber_equ1pment_3:0 "페어리 바라쿠다"
+ ENG_nav_bomber_equ1pment_3_short:0 "바라쿠다"
 
-#-> Carrier-based torpedo bombers <><>
- #NIR_cv_nav_bomber_equipment_1:0 "Blackburn Shark"
- #NIR_cv_nav_bomber_equipment_1_short:0 "Shark"
- #NIR_cv_nav_bomber_equipment_2:0 "Blackburn Roc"
- #NIR_cv_nav_bomber_equipment_2_short:0 "Roc"
- #NIR_cv_nav_bomber_equipment_3:0 "Blackburn Firebrand"
- #NIR_cv_nav_bomber_equipment_3_short:0 "Firebrand"
+#-> Carr1er-based torpedo bombers <><>
+ #ENG_cv_nav_bomber_equ1pment_1:0 "블랙번 샤크"
+ #ENG_cv_nav_bomber_equ1pment_1_short:0 "샤크"
+ #ENG_cv_nav_bomber_equ1pment_2:0 "블랙번 록"
+ #ENG_cv_nav_bomber_equ1pment_2_short:0 "록"
+ #ENG_cv_nav_bomber_equ1pment_3:0 "블랙번 파이어브랜드"
+ #ENG_cv_nav_bomber_equ1pment_3_short:0 "파이어브랜드"
 
-#-> Heavy fighters <><>
- NIR_heavy_fighter_equipment_1:0 "Bristol Blenheim"
- NIR_heavy_fighter_equipment_1_short:0 "Blenheim"
- NIR_heavy_fighter_equipment_2:0 "Bristol Beaufighter"
- NIR_heavy_fighter_equipment_2_short:0 "Beaufighter"
- NIR_heavy_fighter_equipment_3:0 "de Havilland Mosquito FB"
- NIR_heavy_fighter_equipment_3_short:0 "Mosquito FB"
+#-> Heavy f1ghters <><>
+ ENG_heavy_f1ghter_equ1pment_1:0 "브리스톨 블렌헤임"
+ ENG_heavy_f1ghter_equ1pment_1_short:0 "블렌헤임"
+ ENG_heavy_f1ghter_equ1pment_2:0 "브리스톨 보파이터"
+ ENG_heavy_f1ghter_equ1pment_2_short:0 "보파이터"
+ ENG_heavy_f1ghter_equ1pment_3:0 "드 해빌랜드 모스키토 FB"
+ ENG_heavy_f1ghter_equ1pment_3_short:0 "모스키토 FB"
 
-#-> Heavy fighter-bomber <><>
- NIR_hfighter_bomber_equipment_1:0 "Bristol Blenheim Mk. IV"
- NIR_hfighter_bomber_equipment_1_short:0 "Blenheim Mk. IV"
- NIR_hfighter_bomber_equipment_2:0 "Bristol Beaufighter TF Mk. X"
- NIR_hfighter_bomber_equipment_2_short:0 "Beaufighter TF Mk. X"
+#-> Heavy f1ghter-bomber <><>
+ ENG_hf1ghter_bomber_equ1pment_1:0 "브리스톨 블렌헤임 Mk. 1V"
+ ENG_hf1ghter_bomber_equ1pment_1_short:0 "블렌헤임 Mk. 1V"
+ ENG_hf1ghter_bomber_equ1pment_2:0 "브리스톨 보파이터 TF Mk. X"
+ ENG_hf1ghter_bomber_equ1pment_2_short:0 "보파이터 TF Mk. X"
 
-#-> Medium bomber <><>
- NIR_tac_bomber_equipment_0:0 "Armstrong Whitworth Whitley"
- NIR_tac_bomber_equipment_0_short:0 "Whitley"
- NIR_tac_bomber_equipment_1:0 "Vickers Wellington"
- NIR_tac_bomber_equipment_1_short:0 "Wellington"
- NIR_tac_bomber_equipment_2:0 "Bristol Beaufort"
- NIR_tac_bomber_equipment_2_short:0 "Beaufort"
- NIR_tac_bomber_equipment_3:0 "de Havilland Mosquito B"
- NIR_tac_bomber_equipment_3_short:0 "Mosquito B"
+#-> Med1um bomber <><>
+ ENG_tac_bomber_equ1pment_0:0 "암스트롱 휘트워스 휘틀리"
+ ENG_tac_bomber_equ1pment_0_short:0 "휘틀리"
+ ENG_tac_bomber_equ1pment_1:0 "빅커스 웰링턴"
+ ENG_tac_bomber_equ1pment_1_short:0 "웰링턴"
+ ENG_tac_bomber_equ1pment_2:0 "브리스톨 뷰포트"
+ ENG_tac_bomber_equ1pment_2_short:0 "뷰포트"
+ ENG_tac_bomber_equ1pment_3:0 "드 해빌랜드 모스키토 B"
+ ENG_tac_bomber_equ1pment_3_short:0 "모스키토 B"
 
-#-> Medium maritime bomber <><>
- NIR_med_maritime_equipment_1:0 "Vickers Wellington GR Mk. VIII"
- NIR_med_maritime_equipment_1_short:0 "Wellington Mk. VIII"
- NIR_med_maritime_equipment_2:0 "Bristol Beaufort Mk. VI"
- NIR_med_maritime_equipment_2_short:0 "Beaufort Mk. VI"
- NIR_med_maritime_equipment_3:0 "de Havilland Mosquito TR"
- NIR_med_maritime_equipment_3_short:0 "Mosquito TR"
+#-> Med1um mar1t1me bomber <><>
+ ENG_med_mar1t1me_equ1pment_1:0 "빅커스 웰링턴 GR Mk. V3"
+ ENG_med_mar1t1me_equ1pment_1_short:0 "웰링턴 Mk. V3"
+ ENG_med_mar1t1me_equ1pment_2:0 "브리스톨 뷰포트 Mk. V1"
+ ENG_med_mar1t1me_equ1pment_2_short:0 "뷰포트 Mk. V1"
+ ENG_med_mar1t1me_equ1pment_3:0 "드 해빌랜드 모스키토 TR"
+ ENG_med_mar1t1me_equ1pment_3_short:0 "모스키토 TR"
 
 #-> Heavy bomber <><>
- NIR_strat_bomber_equipment_1:0 "Handley Page Halifax"
- NIR_strat_bomber_equipment_1_short:0 "Halifax"
- NIR_strat_bomber_equipment_2:0 "Avro Lancaster"
- NIR_strat_bomber_equipment_2_short:0 "Lancaster"
- NIR_strat_bomber_equipment_3:0 "Avro Lincoln"
- NIR_strat_bomber_equipment_3_short:0 "Lincoln"
+ ENG_strat_bomber_equ1pment_1:0 "핸들리 페이지 핼리팩스"
+ ENG_strat_bomber_equ1pment_1_short:0 "핼리팩스"
+ ENG_strat_bomber_equ1pment_2:0 "아브로 랭커스터"
+ ENG_strat_bomber_equ1pment_2_short:0 "랭커스터"
+ ENG_strat_bomber_equ1pment_3:0 "아브로 링컨"
+ ENG_strat_bomber_equ1pment_3_short:0 "링컨"
 
-#-> Heavy maritime bomber <><>
- NIR_strat_maritime_equipment_1:0 "Handley Page Halifax GR.II"
- NIR_strat_maritime_equipment_1_short:0 "Halifax GR.II"
- NIR_strat_maritime_equipment_2:0 "Avro Lancaster GR.3/MR.3"
- NIR_strat_maritime_equipment_2_short:0 "Lancaster GR.3/MR.3"
- NIR_strat_maritime_equipment_3:0 "Avro Lincoln III"
- NIR_strat_maritime_equipment_3_short:0 "Lincoln III"
+#-> Heavy mar1t1me bomber <><>
+ ENG_strat_mar1t1me_equ1pment_1:0 "핸들리 페이지 핼리팩스 GR.2"
+ ENG_strat_mar1t1me_equ1pment_1_short:0 "핼리팩스 GR.2"
+ ENG_strat_mar1t1me_equ1pment_2:0 "아브로 랭커스터 GR.3/MR.3"
+ ENG_strat_mar1t1me_equ1pment_2_short:0 "랭커스터 GR.3/MR.3"
+ ENG_strat_mar1t1me_equ1pment_3:0 "아브로 링컨 3"
+ ENG_strat_mar1t1me_equ1pment_3_short:0 "링컨 3"
 
-#-> Maritime patrol <><>
- #NIR_flying_boat_equipment_0: "Short Empire"
- #NIR_flying_boat_equipment_0_short: "Empire"
- #NIR_flying_boat_equipment_1:0 "Short Sunderland I"
- #NIR_flying_boat_equipment_1_short:0 "Sunderland I"
- #NIR_flying_boat_equipment_2:0 "Consolidated Catalina"
- #NIR_flying_boat_equipment_2_short:0 "Catalina"
- #NIR_flying_boat_equipment_3:0 "Martin Mariner"
- #NIR_flying_boat_equipment_3_short:0 "Mariner"
+#-> Mar1t1me patrol <><>
+ #ENG_fly1ng_boat_equ1pment_0: "숄트 엠파이어"
+ #ENG_fly1ng_boat_equ1pment_0_short: "엠파이어"
+ #ENG_fly1ng_boat_equ1pment_1:0 "숄트 선덜랜드 1"
+ #ENG_fly1ng_boat_equ1pment_1_short:0 "선덜랜드 1"
+ #ENG_fly1ng_boat_equ1pment_2:0 "컨설리데이터드 카탈리나"
+ #ENG_fly1ng_boat_equ1pment_2_short:0 "카탈리나"
+ #ENG_fly1ng_boat_equ1pment_3:0 "마틴 마리너"
+ #ENG_fly1ng_boat_equ1pment_3_short:0 "마리너"
 
-#-> Jet fighters <><>
- NIR_jet_fighter_equipment_1:0 "Gloster Meteor"
- NIR_jet_fighter_equipment_1_short:0 "Meteor"
- NIR_jet_fighter_equipment_2:0 "de Havilland Vampire"
- NIR_jet_fighter_equipment_2_short:0 "Vampire"
- NIR_jet_fighter_equipment_x:0 "de Havilland Venom"
- NIR_jet_fighter_equipment_x_short:0 "Venom"
+#-> Jet f1ghters <><>
+ ENG_jet_f1ghter_equ1pment_1:0 "글로스터 미티어"
+ ENG_jet_f1ghter_equ1pment_1_short:0 "미티어"
+ ENG_jet_f1ghter_equ1pment_2:0 "드 해빌랜드 뱀파이어"
+ ENG_jet_f1ghter_equ1pment_2_short:0 "뱀파이어"
+ ENG_jet_f1ghter_equ1pment_x:0 "드 해빌랜드 베놈"
+ ENG_jet_f1ghter_equ1pment_x_short:0 "베놈"
  
-#-> Carrier-based jet fighters <><>
- NIR_cv_jet_fighter_equipment_1:0 "Gloster Meteor CV"
- NIR_cv_jet_fighter_equipment_1_short:0 "Meteor CV"
- NIR_cv_jet_fighter_equipment_2:0 "de Havilland Vampire CV"
- NIR_cv_jet_fighter_equipment_2_short:0 "Vampire CV"
- NIR_cv_jet_fighter_equipment_x:0 "de Havilland Venom CV"
- NIR_cv_jet_fighter_equipment_x_short:0 "Venom CV"
+#-> Carr1er-based jet f1ghters <><>
+ ENG_cv_jet_f1ghter_equ1pment_1:0 "슈퍼마린 어태커"
+ ENG_cv_jet_f1ghter_equ1pment_1_short:0 "어태커"
+ ENG_cv_jet_f1ghter_equ1pment_2:0 "호커 시호크"
+ ENG_cv_jet_f1ghter_equ1pment_2_short:0 "시호크"
+ ENG_cv_jet_f1ghter_equ1pment_x:0 "드 해빌랜드 시베놈"
+ ENG_cv_jet_f1ghter_equ1pment_x_short:0 "시베놈"
 
-#-> Jet medium bomber <><>
- NIR_jet_tac_bomber_equipment_1:0 "de Havilland Venom"
- NIR_jet_tac_bomber_equipment_1_short:0 "Venom"
- NIR_jet_tac_bomber_equipment_2:0 "English Electric Canberra"
- NIR_jet_tac_bomber_equipment_2_short:0 "Canberra"
+#-> Jet med1um bomber <><>
+ ENG_jet_tac_bomber_equ1pment_1:0 "드 해빌랜드 베놈"
+ ENG_jet_tac_bomber_equ1pment_1_short:0 "베놈"
+ ENG_jet_tac_bomber_equ1pment_2:0 "잉글리시 일렉트릭 캔버라"
+ ENG_jet_tac_bomber_equ1pment_2_short:0 "캔버라"
+ 
+###--->  N1R  <><> <><> <><>
+#-> D1ve bombers <><>
+ N1R_CAS_equ1pment_1:0 "호커 헥터"
+ N1R_CAS_equ1pment_1_short:0 "헥터"
+ N1R_CAS_equ1pment_2:0 "호커 타이푼"
+ N1R_CAS_equ1pment_2_short:0 "타이푼"
+ N1R_CAS_equ1pment_3:0 "호커 템페스트"
+ N1R_CAS_equ1pment_3_short:0 "템페스트"
+
+#-> Carr1er-based d1ve bombers <><>
+ N1R_cv_CAS_equ1pment_1:0 "호커 오스프리"
+ N1R_cv_CAS_equ1pment_1_short:0 "오스프리"
+ N1R_cv_CAS_equ1pment_2:0 "블랙번 스쿠아"
+ N1R_cv_CAS_equ1pment_2_short:0 "스쿠아"
+ N1R_cv_CAS_equ1pment_3:0 "호커 시 퓨리"
+ N1R_cv_CAS_equ1pment_3_short:0 "시 퓨리"
+
+#-> L1ght f1ghters <><> 
+ N1R_f1ghter_equ1pment_0:0 "글로스터 글래디에이터"
+ N1R_f1ghter_equ1pment_0_short:0 "글래디에이터"
+ N1R_f1ghter_equ1pment_1:0 "호커 허리케인"
+ N1R_f1ghter_equ1pment_1_short:0 "허리케인"
+ N1R_f1ghter_equ1pment_2:0 "슈퍼마린 스핏파이어"
+ N1R_f1ghter_equ1pment_2_short:0 "스핏파이어"
+ N1R_f1ghter_equ1pment_3:0 "슈퍼마린 스파잇풀"
+ N1R_f1ghter_equ1pment_3_short:0 "스파잇풀""
+
+#-> L1ght f1ghter-bombers <><>
+ N1R_f1ghter_bomber_equ1pment_2:0 "슈퍼마린 스핏파이어 Mk. VB"
+ N1R_f1ghter_bomber_equ1pment_2_short:0 "스핏파이어 Mk. VB"
+ N1R_f1ghter_bomber_equ1pment_3:0 "슈퍼마린 스파잇풀"
+ N1R_f1ghter_bomber_equ1pment_3_short:0 "스파잇풀"
+
+#-> Carr1er-based l1ght f1ghters <><>
+ N1R_cv_f1ghter_equ1pment_0:0 "호커 님로드"
+ N1R_cv_f1ghter_equ1pment_0_short:0 "님로드"
+ N1R_cv_f1ghter_equ1pment_1:0 "글로스터 시 글래디에이터"
+ N1R_cv_f1ghter_equ1pment_1_short:0 "시 글래디에이터"
+ N1R_cv_f1ghter_equ1pment_2:0 "페어리 풀머"
+ N1R_cv_f1ghter_equ1pment_2_short:0 "풀머"
+ N1R_cv_f1ghter_equ1pment_3:0 "페어리 파이어플라이"
+ N1R_cv_f1ghter_equ1pment_3_short:0 "파이어플라이"
+
+#-> Torpedo bombers <><>
+ N1R_nav_bomber_equ1pment_1:0 "페어리 소드피쉬"
+ N1R_nav_bomber_equ1pment_1_short:0 "소드피쉬"
+ N1R_nav_bomber_equ1pment_2:0 "페어리 알바코어"
+ N1R_nav_bomber_equ1pment_2_short:0 "알바코어"
+ N1R_nav_bomber_equ1pment_3:0 "페어리 바라쿠다"
+ N1R_nav_bomber_equ1pment_3_short:0 "바라쿠다"
+
+#-> Carr1er-based torpedo bombers <><>
+ #N1R_cv_nav_bomber_equ1pment_1:0 "블랙번 샤크"
+ #N1R_cv_nav_bomber_equ1pment_1_short:0 "샤크"
+ #N1R_cv_nav_bomber_equ1pment_2:0 "블랙번 록"
+ #N1R_cv_nav_bomber_equ1pment_2_short:0 "록"
+ #N1R_cv_nav_bomber_equ1pment_3:0 "블랙번 파이어브랜드"
+ #N1R_cv_nav_bomber_equ1pment_3_short:0 "파이어브랜드"
+
+#-> Heavy f1ghters <><>
+ N1R_heavy_f1ghter_equ1pment_1:0 "브리스톨 블렌헤임"
+ N1R_heavy_f1ghter_equ1pment_1_short:0 "블렌헤임"
+ N1R_heavy_f1ghter_equ1pment_2:0 "브리스톨 보파이터"
+ N1R_heavy_f1ghter_equ1pment_2_short:0 "보파이터"
+ N1R_heavy_f1ghter_equ1pment_3:0 "드 해빌랜드 모스키토 FB"
+ N1R_heavy_f1ghter_equ1pment_3_short:0 "모스키토 FB"
+
+#-> Heavy f1ghter-bomber <><>
+ N1R_hf1ghter_bomber_equ1pment_1:0 "브리스톨 블렌헤임 Mk. 1V"
+ N1R_hf1ghter_bomber_equ1pment_1_short:0 "블렌헤임 Mk. 1V"
+ N1R_hf1ghter_bomber_equ1pment_2:0 "브리스톨 보파이터 TF Mk. X"
+ N1R_hf1ghter_bomber_equ1pment_2_short:0 "보파이터 TF Mk. X"
+
+#-> Med1um bomber <><>
+ N1R_tac_bomber_equ1pment_0:0 "암스트롱 휘트워스 휘틀리"
+ N1R_tac_bomber_equ1pment_0_short:0 "휘틀리"
+ N1R_tac_bomber_equ1pment_1:0 "빅커스 웰링턴"
+ N1R_tac_bomber_equ1pment_1_short:0 "웰링턴"
+ N1R_tac_bomber_equ1pment_2:0 "브리스톨 뷰포트"
+ N1R_tac_bomber_equ1pment_2_short:0 "뷰포트"
+ N1R_tac_bomber_equ1pment_3:0 "드 해빌랜드 모스키토 B"
+ N1R_tac_bomber_equ1pment_3_short:0 "모스키토 B"
+
+#-> Med1um mar1t1me bomber <><>
+ N1R_med_mar1t1me_equ1pment_1:0 "빅커스 웰링턴 GR Mk. V3"
+ N1R_med_mar1t1me_equ1pment_1_short:0 "웰링턴 Mk. V3"
+ N1R_med_mar1t1me_equ1pment_2:0 "브리스톨 뷰포트 Mk. V1"
+ N1R_med_mar1t1me_equ1pment_2_short:0 "뷰포트 Mk. V1"
+ N1R_med_mar1t1me_equ1pment_3:0 "드 해빌랜드 모스키토 TR"
+ N1R_med_mar1t1me_equ1pment_3_short:0 "모스키토 TR"
+
+#-> Heavy bomber <><>
+ N1R_strat_bomber_equ1pment_1:0 "핸들리 페이지 핼리팩스"
+ N1R_strat_bomber_equ1pment_1_short:0 "핼리팩스"
+ N1R_strat_bomber_equ1pment_2:0 "아브로 랭커스터"
+ N1R_strat_bomber_equ1pment_2_short:0 "랭커스터"
+ N1R_strat_bomber_equ1pment_3:0 "아브로 링컨"
+ N1R_strat_bomber_equ1pment_3_short:0 "링컨"
+
+#-> Heavy mar1t1me bomber <><>
+ N1R_strat_mar1t1me_equ1pment_1:0 "핸들리 페이지 핼리팩스 GR.2"
+ N1R_strat_mar1t1me_equ1pment_1_short:0 "핼리팩스 GR.2"
+ N1R_strat_mar1t1me_equ1pment_2:0 "아브로 랭커스터 GR.3/MR.3"
+ N1R_strat_mar1t1me_equ1pment_2_short:0 "랭커스터 GR.3/MR.3"
+ N1R_strat_mar1t1me_equ1pment_3:0 "아브로 링컨 3"
+ N1R_strat_mar1t1me_equ1pment_3_short:0 "링컨 3"
+
+#-> Mar1t1me patrol <><>
+ #N1R_fly1ng_boat_equ1pment_0: "숄트 엠파이어"
+ #N1R_fly1ng_boat_equ1pment_0_short: "엠파이어"
+ #N1R_fly1ng_boat_equ1pment_1:0 "숄트 선덜랜드 1"
+ #N1R_fly1ng_boat_equ1pment_1_short:0 "선덜랜드 1"
+ #N1R_fly1ng_boat_equ1pment_2:0 "컨설리데이터드 카탈리나"
+ #N1R_fly1ng_boat_equ1pment_2_short:0 "카탈리나"
+ #N1R_fly1ng_boat_equ1pment_3:0 "마틴 마리너"
+ #N1R_fly1ng_boat_equ1pment_3_short:0 "마리너"
+
+#-> Jet f1ghters <><>
+ N1R_jet_f1ghter_equ1pment_1:0 "글로스터 미티어"
+ N1R_jet_f1ghter_equ1pment_1_short:0 "미티어"
+ N1R_jet_f1ghter_equ1pment_2:0 "드 해빌랜드 뱀파이어"
+ N1R_jet_f1ghter_equ1pment_2_short:0 "뱀파이어"
+ N1R_jet_f1ghter_equ1pment_x:0 "드 해빌랜드 베놈"
+ N1R_jet_f1ghter_equ1pment_x_short:0 "베놈"
+ 
+#-> Carr1er-based jet f1ghters <><>
+ N1R_cv_jet_f1ghter_equ1pment_1:0 "슈퍼마린 어태커"
+ N1R_cv_jet_f1ghter_equ1pment_1_short:0 "어태커"
+ N1R_cv_jet_f1ghter_equ1pment_2:0 "호커 시호크"
+ N1R_cv_jet_f1ghter_equ1pment_2_short:0 "시호크"
+ N1R_cv_jet_f1ghter_equ1pment_x:0 "드 해빌랜드 시베놈"
+ N1R_cv_jet_f1ghter_equ1pment_x_short:0 "시베놈"
+
+#-> Jet med1um bomber <><>
+ N1R_jet_tac_bomber_equ1pment_1:0 "드 해빌랜드 베놈"
+ N1R_jet_tac_bomber_equ1pment_1_short:0 "베놈"
+ N1R_jet_tac_bomber_equ1pment_2:0 "잉글리시 일렉트릭 캔버라"
+ N1R_jet_tac_bomber_equ1pment_2_short:0 "캔버라"
  
 #-> Jet heavy bomber <><>
- NIR_jet_strat_bomber_equipment_1:0 "Vickers Valiant"
- NIR_jet_strat_bomber_equipment_1_short:0 "Valiant"
+ N1R_jet_strat_bomber_equ1pment_1:0 "빅커스 발리언트"
+ N1R_jet_strat_bomber_equ1pment_1_short:0 "발리언트"
 
 
 ###--->  SCO  <><> <><> <><>
-#-> Dive bombers <><>
- SCO_CAS_equipment_1:0 "Hawker Hector"
- SCO_CAS_equipment_1_short:0 "Hector"
- SCO_CAS_equipment_2:0 "Hawker Typhoon"
- SCO_CAS_equipment_2_short:0 "Typhoon"
- SCO_CAS_equipment_3:0 "Hawker Tempest"
- SCO_CAS_equipment_3_short:0 "Tempest"
+#-> D1ve bombers <><>
+ SCO_CAS_equ1pment_1:0 "호커 헥터"
+ SCO_CAS_equ1pment_1_short:0 "헥터"
+ SCO_CAS_equ1pment_2:0 "호커 타이푼"
+ SCO_CAS_equ1pment_2_short:0 "타이푼"
+ SCO_CAS_equ1pment_3:0 "호커 템페스트"
+ SCO_CAS_equ1pment_3_short:0 "템페스트"
 
-#-> Carrier-based dive bombers <><>
- SCO_cv_CAS_equipment_1:0 "Hawker Osprey"
- SCO_cv_CAS_equipment_1_short:0 "Osprey"
- SCO_cv_CAS_equipment_2:0 "Blackburn Skua"
- SCO_cv_CAS_equipment_2_short:0 "Skua"
- SCO_cv_CAS_equipment_3:0 "Hawker Sea Fury"
- SCO_cv_CAS_equipment_3_short:0 "Sea Fury"
+#-> Carr1er-based d1ve bombers <><>
+ SCO_cv_CAS_equ1pment_1:0 "호커 오스프리"
+ SCO_cv_CAS_equ1pment_1_short:0 "오스프리"
+ SCO_cv_CAS_equ1pment_2:0 "블랙번 스쿠아"
+ SCO_cv_CAS_equ1pment_2_short:0 "스쿠아"
+ SCO_cv_CAS_equ1pment_3:0 "호커 시 퓨리"
+ SCO_cv_CAS_equ1pment_3_short:0 "시 퓨리"
 
-#-> Light fighters <><> 
- SCO_fighter_equipment_0:0 "Gloster Gladiator"
- SCO_fighter_equipment_0_short:0 "Gladiator"
- SCO_fighter_equipment_1:0 "Hawker Hurricane"
- SCO_fighter_equipment_1_short:0 "Hurricane"
- SCO_fighter_equipment_2:0 "Supermarine Spitfire"
- SCO_fighter_equipment_2_short:0 "Spitfire"
- SCO_fighter_equipment_3:0 "Supermarine Spiteful"
- SCO_fighter_equipment_3_short:0 "Spiteful"
+#-> L1ght f1ghters <><> 
+ SCO_f1ghter_equ1pment_0:0 "글로스터 글래디에이터"
+ SCO_f1ghter_equ1pment_0_short:0 "글래디에이터"
+ SCO_f1ghter_equ1pment_1:0 "호커 허리케인"
+ SCO_f1ghter_equ1pment_1_short:0 "허리케인"
+ SCO_f1ghter_equ1pment_2:0 "슈퍼마린 스핏파이어"
+ SCO_f1ghter_equ1pment_2_short:0 "스핏파이어"
+ SCO_f1ghter_equ1pment_3:0 "슈퍼마린 스파잇풀"
+ SCO_f1ghter_equ1pment_3_short:0 "스파잇풀""
 
-#-> Light fighter-bombers <><>
- SCO_fighter_bomber_equipment_2:0 "Supermarine Spitfire Mk. VB"
- SCO_fighter_bomber_equipment_2_short:0 "Spitfire Mk. VB"
- SCO_fighter_bomber_equipment_3:0 "Supermarine Spitefang"
- SCO_fighter_bomber_equipment_3_short:0 "Spitefang"
+#-> L1ght f1ghter-bombers <><>
+ SCO_f1ghter_bomber_equ1pment_2:0 "슈퍼마린 스핏파이어 Mk. VB"
+ SCO_f1ghter_bomber_equ1pment_2_short:0 "스핏파이어 Mk. VB"
+ SCO_f1ghter_bomber_equ1pment_3:0 "슈퍼마린 스파잇풀"
+ SCO_f1ghter_bomber_equ1pment_3_short:0 "스파잇풀"
 
-#-> Carrier-based light fighters <><>
- SCO_cv_fighter_equipment_0:0 "Hawker Nimrod"
- SCO_cv_fighter_equipment_0_short:0 "Nimrod"
- SCO_cv_fighter_equipment_1:0 "Gloster Sea Gladiator"
- SCO_cv_fighter_equipment_1_short:0 "Sea Gladiator"
- SCO_cv_fighter_equipment_2:0 "Fairey Fulmar"
- SCO_cv_fighter_equipment_2_short:0 "Fulmar"
- SCO_cv_fighter_equipment_3:0 "Fairey Firefly"
- SCO_cv_fighter_equipment_3_short:0 "Firefly"
+#-> Carr1er-based l1ght f1ghters <><>
+ SCO_cv_f1ghter_equ1pment_0:0 "호커 님로드"
+ SCO_cv_f1ghter_equ1pment_0_short:0 "님로드"
+ SCO_cv_f1ghter_equ1pment_1:0 "글로스터 시 글래디에이터"
+ SCO_cv_f1ghter_equ1pment_1_short:0 "시 글래디에이터"
+ SCO_cv_f1ghter_equ1pment_2:0 "페어리 풀머"
+ SCO_cv_f1ghter_equ1pment_2_short:0 "풀머"
+ SCO_cv_f1ghter_equ1pment_3:0 "페어리 파이어플라이"
+ SCO_cv_f1ghter_equ1pment_3_short:0 "파이어플라이"
 
 #-> Torpedo bombers <><>
- SCO_nav_bomber_equipment_1:0 "Fairey Swordfish"
- SCO_nav_bomber_equipment_1_short:0 "Swordfish"
- SCO_nav_bomber_equipment_2:0 "Fairey Albacore"
- SCO_nav_bomber_equipment_2_short:0 "Albacore"
- SCO_nav_bomber_equipment_3:0 "Fairey Barracuda"
- SCO_nav_bomber_equipment_3_short:0 "Barracuda"
+ SCO_nav_bomber_equ1pment_1:0 "페어리 소드피쉬"
+ SCO_nav_bomber_equ1pment_1_short:0 "소드피쉬"
+ SCO_nav_bomber_equ1pment_2:0 "페어리 알바코어"
+ SCO_nav_bomber_equ1pment_2_short:0 "알바코어"
+ SCO_nav_bomber_equ1pment_3:0 "페어리 바라쿠다"
+ SCO_nav_bomber_equ1pment_3_short:0 "바라쿠다"
 
-#-> Carrier-based torpedo bombers <><>
- #SCO_cv_nav_bomber_equipment_1:0 "Blackburn Shark"
- #SCO_cv_nav_bomber_equipment_1_short:0 "Shark"
- #SCO_cv_nav_bomber_equipment_2:0 "Blackburn Roc"
- #SCO_cv_nav_bomber_equipment_2_short:0 "Roc"
- #SCO_cv_nav_bomber_equipment_3:0 "Blackburn Firebrand"
- #SCO_cv_nav_bomber_equipment_3_short:0 "Firebrand"
+#-> Carr1er-based torpedo bombers <><>
+ #SCO_cv_nav_bomber_equ1pment_1:0 "블랙번 샤크"
+ #SCO_cv_nav_bomber_equ1pment_1_short:0 "샤크"
+ #SCO_cv_nav_bomber_equ1pment_2:0 "블랙번 록"
+ #SCO_cv_nav_bomber_equ1pment_2_short:0 "록"
+ #SCO_cv_nav_bomber_equ1pment_3:0 "블랙번 파이어브랜드"
+ #SCO_cv_nav_bomber_equ1pment_3_short:0 "파이어브랜드"
 
-#-> Heavy fighters <><>
- SCO_heavy_fighter_equipment_1:0 "Bristol Blenheim"
- SCO_heavy_fighter_equipment_1_short:0 "Blenheim"
- SCO_heavy_fighter_equipment_2:0 "Bristol Beaufighter"
- SCO_heavy_fighter_equipment_2_short:0 "Beaufighter"
- SCO_heavy_fighter_equipment_3:0 "de Havilland Mosquito FB"
- SCO_heavy_fighter_equipment_3_short:0 "Mosquito FB"
+#-> Heavy f1ghters <><>
+ SCO_heavy_f1ghter_equ1pment_1:0 "브리스톨 블렌헤임"
+ SCO_heavy_f1ghter_equ1pment_1_short:0 "블렌헤임"
+ SCO_heavy_f1ghter_equ1pment_2:0 "브리스톨 보파이터"
+ SCO_heavy_f1ghter_equ1pment_2_short:0 "보파이터"
+ SCO_heavy_f1ghter_equ1pment_3:0 "드 해빌랜드 모스키토 FB"
+ SCO_heavy_f1ghter_equ1pment_3_short:0 "모스키토 FB"
 
-#-> Heavy fighter-bomber <><>
- SCO_hfighter_bomber_equipment_1:0 "Bristol Blenheim Mk. IV"
- SCO_hfighter_bomber_equipment_1_short:0 "Blenheim Mk. IV"
- SCO_hfighter_bomber_equipment_2:0 "Bristol Beaufighter TF Mk. X"
- SCO_hfighter_bomber_equipment_2_short:0 "Beaufighter TF Mk. X"
+#-> Heavy f1ghter-bomber <><>
+ SCO_hf1ghter_bomber_equ1pment_1:0 "브리스톨 블렌헤임 Mk. 1V"
+ SCO_hf1ghter_bomber_equ1pment_1_short:0 "블렌헤임 Mk. 1V"
+ SCO_hf1ghter_bomber_equ1pment_2:0 "브리스톨 보파이터 TF Mk. X"
+ SCO_hf1ghter_bomber_equ1pment_2_short:0 "보파이터 TF Mk. X"
 
-#-> Medium bomber <><>
- SCO_tac_bomber_equipment_0:0 "Armstrong Whitworth Whitley"
- SCO_tac_bomber_equipment_0_short:0 "Whitley"
- SCO_tac_bomber_equipment_1:0 "Vickers Wellington"
- SCO_tac_bomber_equipment_1_short:0 "Wellington"
- SCO_tac_bomber_equipment_2:0 "Bristol Beaufort"
- SCO_tac_bomber_equipment_2_short:0 "Beaufort"
- SCO_tac_bomber_equipment_3:0 "de Havilland Mosquito B"
- SCO_tac_bomber_equipment_3_short:0 "Mosquito B"
+#-> Med1um bomber <><>
+ SCO_tac_bomber_equ1pment_0:0 "암스트롱 휘트워스 휘틀리"
+ SCO_tac_bomber_equ1pment_0_short:0 "휘틀리"
+ SCO_tac_bomber_equ1pment_1:0 "빅커스 웰링턴"
+ SCO_tac_bomber_equ1pment_1_short:0 "웰링턴"
+ SCO_tac_bomber_equ1pment_2:0 "브리스톨 뷰포트"
+ SCO_tac_bomber_equ1pment_2_short:0 "뷰포트"
+ SCO_tac_bomber_equ1pment_3:0 "드 해빌랜드 모스키토 B"
+ SCO_tac_bomber_equ1pment_3_short:0 "모스키토 B"
 
-#-> Medium maritime bomber <><>
- SCO_med_maritime_equipment_1:0 "Vickers Wellington GR Mk. VIII"
- SCO_med_maritime_equipment_1_short:0 "Wellington Mk. VIII"
- SCO_med_maritime_equipment_2:0 "Bristol Beaufort Mk. VI"
- SCO_med_maritime_equipment_2_short:0 "Beaufort Mk. VI"
- SCO_med_maritime_equipment_3:0 "de Havilland Mosquito TR"
- SCO_med_maritime_equipment_3_short:0 "Mosquito TR"
+#-> Med1um mar1t1me bomber <><>
+ SCO_med_mar1t1me_equ1pment_1:0 "빅커스 웰링턴 GR Mk. V3"
+ SCO_med_mar1t1me_equ1pment_1_short:0 "웰링턴 Mk. V3"
+ SCO_med_mar1t1me_equ1pment_2:0 "브리스톨 뷰포트 Mk. V1"
+ SCO_med_mar1t1me_equ1pment_2_short:0 "뷰포트 Mk. V1"
+ SCO_med_mar1t1me_equ1pment_3:0 "드 해빌랜드 모스키토 TR"
+ SCO_med_mar1t1me_equ1pment_3_short:0 "모스키토 TR"
 
 #-> Heavy bomber <><>
- SCO_strat_bomber_equipment_1:0 "Handley Page Halifax"
- SCO_strat_bomber_equipment_1_short:0 "Halifax"
- SCO_strat_bomber_equipment_2:0 "Avro Lancaster"
- SCO_strat_bomber_equipment_2_short:0 "Lancaster"
- SCO_strat_bomber_equipment_3:0 "Avro Lincoln"
- SCO_strat_bomber_equipment_3_short:0 "Lincoln"
+ SCO_strat_bomber_equ1pment_1:0 "핸들리 페이지 핼리팩스"
+ SCO_strat_bomber_equ1pment_1_short:0 "핼리팩스"
+ SCO_strat_bomber_equ1pment_2:0 "아브로 랭커스터"
+ SCO_strat_bomber_equ1pment_2_short:0 "랭커스터"
+ SCO_strat_bomber_equ1pment_3:0 "아브로 링컨"
+ SCO_strat_bomber_equ1pment_3_short:0 "링컨"
 
-#-> Heavy maritime bomber <><>
- SCO_strat_maritime_equipment_1:0 "Handley Page Halifax GR.II"
- SCO_strat_maritime_equipment_1_short:0 "Halifax GR.II"
- SCO_strat_maritime_equipment_2:0 "Avro Lancaster GR.3/MR.3"
- SCO_strat_maritime_equipment_2_short:0 "Lancaster GR.3/MR.3"
- SCO_strat_maritime_equipment_3:0 "Avro Lincoln III"
- SCO_strat_maritime_equipment_3_short:0 "Lincoln III"
+#-> Heavy mar1t1me bomber <><>
+ SCO_strat_mar1t1me_equ1pment_1:0 "핸들리 페이지 핼리팩스 GR.2"
+ SCO_strat_mar1t1me_equ1pment_1_short:0 "핼리팩스 GR.2"
+ SCO_strat_mar1t1me_equ1pment_2:0 "아브로 랭커스터 GR.3/MR.3"
+ SCO_strat_mar1t1me_equ1pment_2_short:0 "랭커스터 GR.3/MR.3"
+ SCO_strat_mar1t1me_equ1pment_3:0 "아브로 링컨 3"
+ SCO_strat_mar1t1me_equ1pment_3_short:0 "링컨 3"
 
-#-> Maritime patrol <><>
- #SCO_flying_boat_equipment_0: "Short Empire"
- #SCO_flying_boat_equipment_0_short: "Empire"
- #SCO_flying_boat_equipment_1:0 "Short Sunderland I"
- #SCO_flying_boat_equipment_1_short:0 "Sunderland I"
- #SCO_flying_boat_equipment_2:0 "Consolidated Catalina"
- #SCO_flying_boat_equipment_2_short:0 "Catalina"
- #SCO_flying_boat_equipment_3:0 "Martin Mariner"
- #SCO_flying_boat_equipment_3_short:0 "Mariner"
+#-> Mar1t1me patrol <><>
+ #SCO_fly1ng_boat_equ1pment_0: "숄트 엠파이어"
+ #SCO_fly1ng_boat_equ1pment_0_short: "엠파이어"
+ #SCO_fly1ng_boat_equ1pment_1:0 "숄트 선덜랜드 1"
+ #SCO_fly1ng_boat_equ1pment_1_short:0 "선덜랜드 1"
+ #SCO_fly1ng_boat_equ1pment_2:0 "컨설리데이터드 카탈리나"
+ #SCO_fly1ng_boat_equ1pment_2_short:0 "카탈리나"
+ #SCO_fly1ng_boat_equ1pment_3:0 "마틴 마리너"
+ #SCO_fly1ng_boat_equ1pment_3_short:0 "마리너"
 
-#-> Jet fighters <><>
- SCO_jet_fighter_equipment_1:0 "Gloster Meteor"
- SCO_jet_fighter_equipment_1_short:0 "Meteor"
- SCO_jet_fighter_equipment_2:0 "de Havilland Vampire"
- SCO_jet_fighter_equipment_2_short:0 "Vampire"
- SCO_jet_fighter_equipment_x:0 "de Havilland Venom"
- SCO_jet_fighter_equipment_x_short:0 "Venom"
+#-> Jet f1ghters <><>
+ SCO_jet_f1ghter_equ1pment_1:0 "글로스터 미티어"
+ SCO_jet_f1ghter_equ1pment_1_short:0 "미티어"
+ SCO_jet_f1ghter_equ1pment_2:0 "드 해빌랜드 뱀파이어"
+ SCO_jet_f1ghter_equ1pment_2_short:0 "뱀파이어"
+ SCO_jet_f1ghter_equ1pment_x:0 "드 해빌랜드 베놈"
+ SCO_jet_f1ghter_equ1pment_x_short:0 "베놈"
  
-#-> Carrier-based jet fighters <><>
- SCO_cv_jet_fighter_equipment_1:0 "Gloster Meteor CV"
- SCO_cv_jet_fighter_equipment_1_short:0 "Meteor CV"
- SCO_cv_jet_fighter_equipment_2:0 "de Havilland Vampire CV"
- SCO_cv_jet_fighter_equipment_2_short:0 "Vampire CV"
- SCO_cv_jet_fighter_equipment_x:0 "de Havilland Venom CV"
- SCO_cv_jet_fighter_equipment_x_short:0 "Venom CV"
+#-> Carr1er-based jet f1ghters <><>
+ SCO_cv_jet_f1ghter_equ1pment_1:0 "슈퍼마린 어태커"
+ SCO_cv_jet_f1ghter_equ1pment_1_short:0 "어태커"
+ SCO_cv_jet_f1ghter_equ1pment_2:0 "호커 시호크"
+ SCO_cv_jet_f1ghter_equ1pment_2_short:0 "시호크"
+ SCO_cv_jet_f1ghter_equ1pment_x:0 "드 해빌랜드 시베놈"
+ SCO_cv_jet_f1ghter_equ1pment_x_short:0 "시베놈"
 
-#-> Jet medium bomber <><>
- SCO_jet_tac_bomber_equipment_1:0 "de Havilland Venom"
- SCO_jet_tac_bomber_equipment_1_short:0 "Venom"
- SCO_jet_tac_bomber_equipment_2:0 "English Electric Canberra"
- SCO_jet_tac_bomber_equipment_2_short:0 "Canberra"
+#-> Jet med1um bomber <><>
+ SCO_jet_tac_bomber_equ1pment_1:0 "드 해빌랜드 베놈"
+ SCO_jet_tac_bomber_equ1pment_1_short:0 "베놈"
+ SCO_jet_tac_bomber_equ1pment_2:0 "잉글리시 일렉트릭 캔버라"
+ SCO_jet_tac_bomber_equ1pment_2_short:0 "캔버라"
  
 #-> Jet heavy bomber <><>
- SCO_jet_strat_bomber_equipment_1:0 "Vickers Valiant"
- SCO_jet_strat_bomber_equipment_1_short:0 "Valiant"
+ SCO_jet_strat_bomber_equ1pment_1:0 "빅커스 발리언트"
+ SCO_jet_strat_bomber_equ1pment_1_short:0 "발리언트"
 
 
 ###--->  WLS  <><> <><> <><>
-#-> Dive bombers <><>
- WLS_CAS_equipment_1:0 "Hawker Hector"
- WLS_CAS_equipment_1_short:0 "Hector"
- WLS_CAS_equipment_2:0 "Hawker Typhoon"
- WLS_CAS_equipment_2_short:0 "Typhoon"
- WLS_CAS_equipment_3:0 "Hawker Tempest"
- WLS_CAS_equipment_3_short:0 "Tempest"
+#-> D1ve bombers <><>
+ WLS_CAS_equ1pment_1:0 "호커 헥터"
+ WLS_CAS_equ1pment_1_short:0 "헥터"
+ WLS_CAS_equ1pment_2:0 "호커 타이푼"
+ WLS_CAS_equ1pment_2_short:0 "타이푼"
+ WLS_CAS_equ1pment_3:0 "호커 템페스트"
+ WLS_CAS_equ1pment_3_short:0 "템페스트"
 
-#-> Carrier-based dive bombers <><>
- WLS_cv_CAS_equipment_1:0 "Hawker Osprey"
- WLS_cv_CAS_equipment_1_short:0 "Osprey"
- WLS_cv_CAS_equipment_2:0 "Blackburn Skua"
- WLS_cv_CAS_equipment_2_short:0 "Skua"
- WLS_cv_CAS_equipment_3:0 "Hawker Sea Fury"
- WLS_cv_CAS_equipment_3_short:0 "Sea Fury"
+#-> Carr1er-based d1ve bombers <><>
+ WLS_cv_CAS_equ1pment_1:0 "호커 오스프리"
+ WLS_cv_CAS_equ1pment_1_short:0 "오스프리"
+ WLS_cv_CAS_equ1pment_2:0 "블랙번 스쿠아"
+ WLS_cv_CAS_equ1pment_2_short:0 "스쿠아"
+ WLS_cv_CAS_equ1pment_3:0 "호커 시 퓨리"
+ WLS_cv_CAS_equ1pment_3_short:0 "시 퓨리"
 
-#-> Light fighters <><> 
- WLS_fighter_equipment_0:0 "Gloster Gladiator"
- WLS_fighter_equipment_0_short:0 "Gladiator"
- WLS_fighter_equipment_1:0 "Hawker Hurricane"
- WLS_fighter_equipment_1_short:0 "Hurricane"
- WLS_fighter_equipment_2:0 "Supermarine Spitfire"
- WLS_fighter_equipment_2_short:0 "Spitfire"
- WLS_fighter_equipment_3:0 "Supermarine Spiteful"
- WLS_fighter_equipment_3_short:0 "Spiteful"
+#-> L1ght f1ghters <><> 
+ WLS_f1ghter_equ1pment_0:0 "글로스터 글래디에이터"
+ WLS_f1ghter_equ1pment_0_short:0 "글래디에이터"
+ WLS_f1ghter_equ1pment_1:0 "호커 허리케인"
+ WLS_f1ghter_equ1pment_1_short:0 "허리케인"
+ WLS_f1ghter_equ1pment_2:0 "슈퍼마린 스핏파이어"
+ WLS_f1ghter_equ1pment_2_short:0 "스핏파이어"
+ WLS_f1ghter_equ1pment_3:0 "슈퍼마린 스파잇풀"
+ WLS_f1ghter_equ1pment_3_short:0 "스파잇풀""
 
-#-> Light fighter-bombers <><>
- WLS_fighter_bomber_equipment_2:0 "Supermarine Spitfire Mk. VB"
- WLS_fighter_bomber_equipment_2_short:0 "Spitfire Mk. VB"
- WLS_fighter_bomber_equipment_3:0 "Supermarine Spitefang"
- WLS_fighter_bomber_equipment_3_short:0 "Spitefang"
+#-> L1ght f1ghter-bombers <><>
+ WLS_f1ghter_bomber_equ1pment_2:0 "슈퍼마린 스핏파이어 Mk. VB"
+ WLS_f1ghter_bomber_equ1pment_2_short:0 "스핏파이어 Mk. VB"
+ WLS_f1ghter_bomber_equ1pment_3:0 "슈퍼마린 스파잇풀"
+ WLS_f1ghter_bomber_equ1pment_3_short:0 "스파잇풀"
 
-#-> Carrier-based light fighters <><>
- WLS_cv_fighter_equipment_0:0 "Hawker Nimrod"
- WLS_cv_fighter_equipment_0_short:0 "Nimrod"
- WLS_cv_fighter_equipment_1:0 "Gloster Sea Gladiator"
- WLS_cv_fighter_equipment_1_short:0 "Sea Gladiator"
- WLS_cv_fighter_equipment_2:0 "Fairey Fulmar"
- WLS_cv_fighter_equipment_2_short:0 "Fulmar"
- WLS_cv_fighter_equipment_3:0 "Fairey Firefly"
- WLS_cv_fighter_equipment_3_short:0 "Firefly"
+#-> Carr1er-based l1ght f1ghters <><>
+ WLS_cv_f1ghter_equ1pment_0:0 "호커 님로드"
+ WLS_cv_f1ghter_equ1pment_0_short:0 "님로드"
+ WLS_cv_f1ghter_equ1pment_1:0 "글로스터 시 글래디에이터"
+ WLS_cv_f1ghter_equ1pment_1_short:0 "시 글래디에이터"
+ WLS_cv_f1ghter_equ1pment_2:0 "페어리 풀머"
+ WLS_cv_f1ghter_equ1pment_2_short:0 "풀머"
+ WLS_cv_f1ghter_equ1pment_3:0 "페어리 파이어플라이"
+ WLS_cv_f1ghter_equ1pment_3_short:0 "파이어플라이"
 
 #-> Torpedo bombers <><>
- WLS_nav_bomber_equipment_1:0 "Fairey Swordfish"
- WLS_nav_bomber_equipment_1_short:0 "Swordfish"
- WLS_nav_bomber_equipment_2:0 "Fairey Albacore"
- WLS_nav_bomber_equipment_2_short:0 "Albacore"
- WLS_nav_bomber_equipment_3:0 "Fairey Barracuda"
- WLS_nav_bomber_equipment_3_short:0 "Barracuda"
+ WLS_nav_bomber_equ1pment_1:0 "페어리 소드피쉬"
+ WLS_nav_bomber_equ1pment_1_short:0 "소드피쉬"
+ WLS_nav_bomber_equ1pment_2:0 "페어리 알바코어"
+ WLS_nav_bomber_equ1pment_2_short:0 "알바코어"
+ WLS_nav_bomber_equ1pment_3:0 "페어리 바라쿠다"
+ WLS_nav_bomber_equ1pment_3_short:0 "바라쿠다"
 
-#-> Carrier-based torpedo bombers <><>
- #WLS_cv_nav_bomber_equipment_1:0 "Blackburn Shark"
- #WLS_cv_nav_bomber_equipment_1_short:0 "Shark"
- #WLS_cv_nav_bomber_equipment_2:0 "Blackburn Roc"
- #WLS_cv_nav_bomber_equipment_2_short:0 "Roc"
- #WLS_cv_nav_bomber_equipment_3:0 "Blackburn Firebrand"
- #WLS_cv_nav_bomber_equipment_3_short:0 "Firebrand"
+#-> Carr1er-based torpedo bombers <><>
+ #WLS_cv_nav_bomber_equ1pment_1:0 "블랙번 샤크"
+ #WLS_cv_nav_bomber_equ1pment_1_short:0 "샤크"
+ #WLS_cv_nav_bomber_equ1pment_2:0 "블랙번 록"
+ #WLS_cv_nav_bomber_equ1pment_2_short:0 "록"
+ #WLS_cv_nav_bomber_equ1pment_3:0 "블랙번 파이어브랜드"
+ #WLS_cv_nav_bomber_equ1pment_3_short:0 "파이어브랜드"
 
-#-> Heavy fighters <><>
- WLS_heavy_fighter_equipment_1:0 "Bristol Blenheim"
- WLS_heavy_fighter_equipment_1_short:0 "Blenheim"
- WLS_heavy_fighter_equipment_2:0 "Bristol Beaufighter"
- WLS_heavy_fighter_equipment_2_short:0 "Beaufighter"
- WLS_heavy_fighter_equipment_3:0 "de Havilland Mosquito FB"
- WLS_heavy_fighter_equipment_3_short:0 "Mosquito FB"
+#-> Heavy f1ghters <><>
+ WLS_heavy_f1ghter_equ1pment_1:0 "브리스톨 블렌헤임"
+ WLS_heavy_f1ghter_equ1pment_1_short:0 "블렌헤임"
+ WLS_heavy_f1ghter_equ1pment_2:0 "브리스톨 보파이터"
+ WLS_heavy_f1ghter_equ1pment_2_short:0 "보파이터"
+ WLS_heavy_f1ghter_equ1pment_3:0 "드 해빌랜드 모스키토 FB"
+ WLS_heavy_f1ghter_equ1pment_3_short:0 "모스키토 FB"
 
-#-> Heavy fighter-bomber <><>
- WLS_hfighter_bomber_equipment_1:0 "Bristol Blenheim Mk. IV"
- WLS_hfighter_bomber_equipment_1_short:0 "Blenheim Mk. IV"
- WLS_hfighter_bomber_equipment_2:0 "Bristol Beaufighter TF Mk. X"
- WLS_hfighter_bomber_equipment_2_short:0 "Beaufighter TF Mk. X"
+#-> Heavy f1ghter-bomber <><>
+ WLS_hf1ghter_bomber_equ1pment_1:0 "브리스톨 블렌헤임 Mk. 1V"
+ WLS_hf1ghter_bomber_equ1pment_1_short:0 "블렌헤임 Mk. 1V"
+ WLS_hf1ghter_bomber_equ1pment_2:0 "브리스톨 보파이터 TF Mk. X"
+ WLS_hf1ghter_bomber_equ1pment_2_short:0 "보파이터 TF Mk. X"
 
-#-> Medium bomber <><>
- WLS_tac_bomber_equipment_0:0 "Armstrong Whitworth Whitley"
- WLS_tac_bomber_equipment_0_short:0 "Whitley"
- WLS_tac_bomber_equipment_1:0 "Vickers Wellington"
- WLS_tac_bomber_equipment_1_short:0 "Wellington"
- WLS_tac_bomber_equipment_2:0 "Bristol Beaufort"
- WLS_tac_bomber_equipment_2_short:0 "Beaufort"
- WLS_tac_bomber_equipment_3:0 "de Havilland Mosquito B"
- WLS_tac_bomber_equipment_3_short:0 "Mosquito B"
+#-> Med1um bomber <><>
+ WLS_tac_bomber_equ1pment_0:0 "암스트롱 휘트워스 휘틀리"
+ WLS_tac_bomber_equ1pment_0_short:0 "휘틀리"
+ WLS_tac_bomber_equ1pment_1:0 "빅커스 웰링턴"
+ WLS_tac_bomber_equ1pment_1_short:0 "웰링턴"
+ WLS_tac_bomber_equ1pment_2:0 "브리스톨 뷰포트"
+ WLS_tac_bomber_equ1pment_2_short:0 "뷰포트"
+ WLS_tac_bomber_equ1pment_3:0 "드 해빌랜드 모스키토 B"
+ WLS_tac_bomber_equ1pment_3_short:0 "모스키토 B"
 
-#-> Medium maritime bomber <><>
- WLS_med_maritime_equipment_1:0 "Vickers Wellington GR Mk. VIII"
- WLS_med_maritime_equipment_1_short:0 "Wellington Mk. VIII"
- WLS_med_maritime_equipment_2:0 "Bristol Beaufort Mk. VI"
- WLS_med_maritime_equipment_2_short:0 "Beaufort Mk. VI"
- WLS_med_maritime_equipment_3:0 "de Havilland Mosquito TR"
- WLS_med_maritime_equipment_3_short:0 "Mosquito TR"
+#-> Med1um mar1t1me bomber <><>
+ WLS_med_mar1t1me_equ1pment_1:0 "빅커스 웰링턴 GR Mk. V3"
+ WLS_med_mar1t1me_equ1pment_1_short:0 "웰링턴 Mk. V3"
+ WLS_med_mar1t1me_equ1pment_2:0 "브리스톨 뷰포트 Mk. V1"
+ WLS_med_mar1t1me_equ1pment_2_short:0 "뷰포트 Mk. V1"
+ WLS_med_mar1t1me_equ1pment_3:0 "드 해빌랜드 모스키토 TR"
+ WLS_med_mar1t1me_equ1pment_3_short:0 "모스키토 TR"
 
 #-> Heavy bomber <><>
- WLS_strat_bomber_equipment_1:0 "Handley Page Halifax"
- WLS_strat_bomber_equipment_1_short:0 "Halifax"
- WLS_strat_bomber_equipment_2:0 "Avro Lancaster"
- WLS_strat_bomber_equipment_2_short:0 "Lancaster"
- WLS_strat_bomber_equipment_3:0 "Avro Lincoln"
- WLS_strat_bomber_equipment_3_short:0 "Lincoln"
+ WLS_strat_bomber_equ1pment_1:0 "핸들리 페이지 핼리팩스"
+ WLS_strat_bomber_equ1pment_1_short:0 "핼리팩스"
+ WLS_strat_bomber_equ1pment_2:0 "아브로 랭커스터"
+ WLS_strat_bomber_equ1pment_2_short:0 "랭커스터"
+ WLS_strat_bomber_equ1pment_3:0 "아브로 링컨"
+ WLS_strat_bomber_equ1pment_3_short:0 "링컨"
 
-#-> Heavy maritime bomber <><>
- WLS_strat_maritime_equipment_1:0 "Handley Page Halifax GR.II"
- WLS_strat_maritime_equipment_1_short:0 "Halifax GR.II"
- WLS_strat_maritime_equipment_2:0 "Avro Lancaster GR.3/MR.3"
- WLS_strat_maritime_equipment_2_short:0 "Lancaster GR.3/MR.3"
- WLS_strat_maritime_equipment_3:0 "Avro Lincoln III"
- WLS_strat_maritime_equipment_3_short:0 "Lincoln III"
+#-> Heavy mar1t1me bomber <><>
+ WLS_strat_mar1t1me_equ1pment_1:0 "핸들리 페이지 핼리팩스 GR.2"
+ WLS_strat_mar1t1me_equ1pment_1_short:0 "핼리팩스 GR.2"
+ WLS_strat_mar1t1me_equ1pment_2:0 "아브로 랭커스터 GR.3/MR.3"
+ WLS_strat_mar1t1me_equ1pment_2_short:0 "랭커스터 GR.3/MR.3"
+ WLS_strat_mar1t1me_equ1pment_3:0 "아브로 링컨 3"
+ WLS_strat_mar1t1me_equ1pment_3_short:0 "링컨 3"
 
-#-> Maritime patrol <><>
- #WLS_flying_boat_equipment_0: "Short Empire"
- #WLS_flying_boat_equipment_0_short: "Empire"
- #WLS_flying_boat_equipment_1:0 "Short Sunderland I"
- #WLS_flying_boat_equipment_1_short:0 "Sunderland I"
- #WLS_flying_boat_equipment_2:0 "Consolidated Catalina"
- #WLS_flying_boat_equipment_2_short:0 "Catalina"
- #WLS_flying_boat_equipment_3:0 "Martin Mariner"
- #WLS_flying_boat_equipment_3_short:0 "Mariner"
+#-> Mar1t1me patrol <><>
+ #WLS_fly1ng_boat_equ1pment_0: "숄트 엠파이어"
+ #WLS_fly1ng_boat_equ1pment_0_short: "엠파이어"
+ #WLS_fly1ng_boat_equ1pment_1:0 "숄트 선덜랜드 1"
+ #WLS_fly1ng_boat_equ1pment_1_short:0 "선덜랜드 1"
+ #WLS_fly1ng_boat_equ1pment_2:0 "컨설리데이터드 카탈리나"
+ #WLS_fly1ng_boat_equ1pment_2_short:0 "카탈리나"
+ #WLS_fly1ng_boat_equ1pment_3:0 "마틴 마리너"
+ #WLS_fly1ng_boat_equ1pment_3_short:0 "마리너"
 
-#-> Jet fighters <><>
- WLS_jet_fighter_equipment_1:0 "Gloster Meteor"
- WLS_jet_fighter_equipment_1_short:0 "Meteor"
- WLS_jet_fighter_equipment_2:0 "de Havilland Vampire"
- WLS_jet_fighter_equipment_2_short:0 "Vampire"
- WLS_jet_fighter_equipment_x:0 "de Havilland Venom"
- WLS_jet_fighter_equipment_x_short:0 "Venom"
+#-> Jet f1ghters <><>
+ WLS_jet_f1ghter_equ1pment_1:0 "글로스터 미티어"
+ WLS_jet_f1ghter_equ1pment_1_short:0 "미티어"
+ WLS_jet_f1ghter_equ1pment_2:0 "드 해빌랜드 뱀파이어"
+ WLS_jet_f1ghter_equ1pment_2_short:0 "뱀파이어"
+ WLS_jet_f1ghter_equ1pment_x:0 "드 해빌랜드 베놈"
+ WLS_jet_f1ghter_equ1pment_x_short:0 "베놈"
  
-#-> Carrier-based jet fighters <><>
- WLS_cv_jet_fighter_equipment_1:0 "Gloster Meteor CV"
- WLS_cv_jet_fighter_equipment_1_short:0 "Meteor CV"
- WLS_cv_jet_fighter_equipment_2:0 "de Havilland Vampire CV"
- WLS_cv_jet_fighter_equipment_2_short:0 "Vampire CV"
- WLS_cv_jet_fighter_equipment_x:0 "de Havilland Venom CV"
- WLS_cv_jet_fighter_equipment_x_short:0 "Venom CV"
+#-> Carr1er-based jet f1ghters <><>
+ WLS_cv_jet_f1ghter_equ1pment_1:0 "슈퍼마린 어태커"
+ WLS_cv_jet_f1ghter_equ1pment_1_short:0 "어태커"
+ WLS_cv_jet_f1ghter_equ1pment_2:0 "호커 시호크"
+ WLS_cv_jet_f1ghter_equ1pment_2_short:0 "시호크"
+ WLS_cv_jet_f1ghter_equ1pment_x:0 "드 해빌랜드 시베놈"
+ WLS_cv_jet_f1ghter_equ1pment_x_short:0 "시베놈"
 
-#-> Jet medium bomber <><>
- WLS_jet_tac_bomber_equipment_1:0 "de Havilland Venom"
- WLS_jet_tac_bomber_equipment_1_short:0 "Venom"
- WLS_jet_tac_bomber_equipment_2:0 "English Electric Canberra"
- WLS_jet_tac_bomber_equipment_2_short:0 "Canberra"
+#-> Jet med1um bomber <><>
+ WLS_jet_tac_bomber_equ1pment_1:0 "드 해빌랜드 베놈"
+ WLS_jet_tac_bomber_equ1pment_1_short:0 "베놈"
+ WLS_jet_tac_bomber_equ1pment_2:0 "잉글리시 일렉트릭 캔버라"
+ WLS_jet_tac_bomber_equ1pment_2_short:0 "캔버라"
  
 #-> Jet heavy bomber <><>
- WLS_jet_strat_bomber_equipment_1:0 "Vickers Valiant"
- WLS_jet_strat_bomber_equipment_1_short:0 "Valiant"
+ WLS_jet_strat_bomber_equ1pment_1:0 "빅커스 발리언트"
+ WLS_jet_strat_bomber_equ1pment_1_short:0 "발리언트"
 
 
 ###--->  AST  <><> <><> <><>
-#-> Dive bombers <><>
- AST_CAS_equipment_1:0 "CAC CA-1 Wirraway"
- AST_CAS_equipment_1_short:0 "Wirraway"
- AST_CAS_equipment_2:0 "CAC CA-11 Woomera"
- AST_CAS_equipment_2_short:0 "Woomera"
- AST_CAS_equipment_3:0 "Bristol Beaufighter Mk IC"
- AST_CAS_equipment_3_short:0 "Beaufighter Mk IC"
+#-> D1ve bombers <><>
+ AST_CAS_equ1pment_1:0 "CAC CA-1 W1rraway"
+ AST_CAS_equ1pment_1_short:0 "W1rraway"
+ AST_CAS_equ1pment_2:0 "CAC CA-11 Woomera"
+ AST_CAS_equ1pment_2_short:0 "Woomera"
+ AST_CAS_equ1pment_3:0 "브리스톨 보파이터 Mk 1C"
+ AST_CAS_equ1pment_3_short:0 "보파이터 Mk 1C"
 
-#-> Carrier-based dive bombers <><>
- AST_cv_CAS_equipment_1:0 "Hawker Osprey"
- AST_cv_CAS_equipment_1_short:0 "Osprey"
- AST_cv_CAS_equipment_2:0 "Blackburn Skua"
- AST_cv_CAS_equipment_2_short:0 "Skua"
- AST_cv_CAS_equipment_3:0 "Fairey Firefly"
- AST_cv_CAS_equipment_3_short:0 "Firefly"
+#-> Carr1er-based d1ve bombers <><>
+ AST_cv_CAS_equ1pment_1:0 "호커 오스프리"
+ AST_cv_CAS_equ1pment_1_short:0 "오스프리"
+ AST_cv_CAS_equ1pment_2:0 "블랙번 스쿠아"
+ AST_cv_CAS_equ1pment_2_short:0 "스쿠아"
+ AST_cv_CAS_equ1pment_3:0 "페어리 파이어플라이"
+ AST_cv_CAS_equ1pment_3_short:0 "파이어플라이"
  
-#-> Light fighters <><> 
- AST_fighter_equipment_0:0 "Hawker Demon"
- AST_fighter_equipment_0_short:0 "Demon"
- AST_fighter_equipment_1:0 "Brewster Buffalo"
- AST_fighter_equipment_1_short:0 "Buffalo"
- AST_fighter_equipment_2:0 "CAC CA-15 Kangaroo"
- AST_fighter_equipment_2_short:0 "Kangaroo"
- AST_fighter_equipment_3:0 "CAC CA-17 Mustang"
- AST_fighter_equipment_3_short:0 "Mustang"
+#-> L1ght f1ghters <><> 
+ AST_f1ghter_equ1pment_0:0 "호커 데몬"
+ AST_f1ghter_equ1pment_0_short:0 "데몬"
+ AST_f1ghter_equ1pment_1:0 "브루스터 버팔로"
+ AST_f1ghter_equ1pment_1_short:0 "버팔로"
+ AST_f1ghter_equ1pment_2:0 "CAC CA-15 캥거루"
+ AST_f1ghter_equ1pment_2_short:0 "캥거루"
+ AST_f1ghter_equ1pment_3:0 "CAC CA-17 머스탱"
+ AST_f1ghter_equ1pment_3_short:0 "머스탱"
 
-#-> Light fighter-bombers <><>
- AST_fighter_bomber_equipment_2:0 "CAC CA-15 Kangaroo"
- AST_fighter_bomber_equipment_2_short:0 "Kangaroo"
- AST_fighter_bomber_equipment_3:0 "CAC CA-17 Mustang"
- AST_fighter_bomber_equipment_3_short:0 "Mustang"
+#-> L1ght f1ghter-bombers <><>
+ AST_f1ghter_bomber_equ1pment_2:0 "CAC CA-15 캥거루"
+ AST_f1ghter_bomber_equ1pment_2_short:0 "캥거루"
+ AST_f1ghter_bomber_equ1pment_3:0 "CAC CA-17 머스탱"
+ AST_f1ghter_bomber_equ1pment_3_short:0 "머스탱"
  
-#-> Carrier-based light fighters <><>
- AST_cv_fighter_equipment_0:0 "Hawker Nimrod"
- AST_cv_fighter_equipment_0_short:0 "Nimrod"
- AST_cv_fighter_equipment_1:0 "Gloster Sea Gladiator"
- AST_cv_fighter_equipment_1_short:0 "Sea Gladiator"
- AST_cv_fighter_equipment_2:0 "Fairey Fulmar"
- AST_cv_fighter_equipment_2_short:0 "Fulmar"
- AST_cv_fighter_equipment_3:0 "Fairey Firefly"
- AST_cv_fighter_equipment_3_short:0 "Firefly"
+#-> Carr1er-based l1ght f1ghters <><>
+ AST_cv_f1ghter_equ1pment_0:0 "호커 님로드"
+ AST_cv_f1ghter_equ1pment_0_short:0 "님로드"
+ AST_cv_f1ghter_equ1pment_1:0 "글로스터 시 글래디에이터"
+ AST_cv_f1ghter_equ1pment_1_short:0 "시 글래디에이터"
+ AST_cv_f1ghter_equ1pment_2:0 "페어리 풀머"
+ AST_cv_f1ghter_equ1pment_2_short:0 "풀머"
+ AST_cv_f1ghter_equ1pment_3:0 "페어리 파이어플라이"
+ AST_cv_f1ghter_equ1pment_3_short:0 "파이어플라이"
  
 #-> Torpedo bombers <><>
- AST_nav_bomber_equipment_1:0 "Fairey Swordfish"
- AST_nav_bomber_equipment_1_short:0 "Swordfish"
- AST_nav_bomber_equipment_2:0 "Fairey Albacore"
- AST_nav_bomber_equipment_2_short:0 "Albacore"
- AST_nav_bomber_equipment_3:0 "Fairey Barracuda"
- AST_nav_bomber_equipment_3_short:0 "Barracuda"
+ AST_nav_bomber_equ1pment_1:0 "페어리 소드피쉬"
+ AST_nav_bomber_equ1pment_1_short:0 "소드피쉬"
+ AST_nav_bomber_equ1pment_2:0 "페어리 알바코어"
+ AST_nav_bomber_equ1pment_2_short:0 "알바코어"
+ AST_nav_bomber_equ1pment_3:0 "페어리 바라쿠다"
+ AST_nav_bomber_equ1pment_3_short:0 "바라쿠다"
 
-#-> Carrier-based torpedo bombers <><>
- #AST_cv_nav_bomber_equipment_1:0 "Blackburn Shark"
- #AST_cv_nav_bomber_equipment_1_short:0 "Shark"
- #AST_cv_nav_bomber_equipment_2:0 "Blackburn Roc"
- #AST_cv_nav_bomber_equipment_2_short:0 "Roc"
- #AST_cv_nav_bomber_equipment_3:0 "Blackburn Firebrand"
- #AST_cv_nav_bomber_equipment_3_short:0 "Firebrand"
+#-> Carr1er-based torpedo bombers <><>
+ #AST_cv_nav_bomber_equ1pment_1:0 "블랙번 샤크"
+ #AST_cv_nav_bomber_equ1pment_1_short:0 "샤크"
+ #AST_cv_nav_bomber_equ1pment_2:0 "블랙번 록"
+ #AST_cv_nav_bomber_equ1pment_2_short:0 "록"
+ #AST_cv_nav_bomber_equ1pment_3:0 "블랙번 파이어브랜드"
+ #AST_cv_nav_bomber_equ1pment_3_short:0 "파이어브랜드"
 
-#-> Heavy fighters <><>
- AST_heavy_fighter_equipment_1:0 "Bristol Blenheim"
- AST_heavy_fighter_equipment_1_short:0 "Blenheim"
- AST_heavy_fighter_equipment_2:0 "Bristol Beaufighter"
- AST_heavy_fighter_equipment_2_short:0 "Beaufighter"
- AST_heavy_fighter_equipment_3:0 "de Havilland Mosquito FB"
- AST_heavy_fighter_equipment_3_short:0 "Mosquito FB"
+#-> Heavy f1ghters <><>
+ AST_heavy_f1ghter_equ1pment_1:0 "브리스톨 블렌헤임"
+ AST_heavy_f1ghter_equ1pment_1_short:0 "블렌헤임"
+ AST_heavy_f1ghter_equ1pment_2:0 "브리스톨 보파이터"
+ AST_heavy_f1ghter_equ1pment_2_short:0 "보파이터"
+ AST_heavy_f1ghter_equ1pment_3:0 "드 해빌랜드 모스키토 FB"
+ AST_heavy_f1ghter_equ1pment_3_short:0 "모스키토 FB"
  
-#-> Heavy fighter-bomber <><>
- AST_hfighter_bomber_equipment_1:0 "Bristol Blenheim Mk. IV"
- AST_hfighter_bomber_equipment_1_short:0 "Blenheim Mk. IV"
- AST_hfighter_bomber_equipment_2:0 "Bristol Beaufighter Mk. 21"
- AST_hfighter_bomber_equipment_2_short:0 "Beaufighter Mk. 21"
+#-> Heavy f1ghter-bomber <><>
+ AST_hf1ghter_bomber_equ1pment_1:0 "브리스톨 블렌헤임 Mk. 1V"
+ AST_hf1ghter_bomber_equ1pment_1_short:0 "블렌헤임 Mk. 1V"
+ AST_hf1ghter_bomber_equ1pment_2:0 "브리스톨 보파이터 Mk. 21"
+ AST_hf1ghter_bomber_equ1pment_2_short:0 "보파이터 Mk. 21"
  
-#-> Medium bomber <><>
- AST_tac_bomber_equipment_0:0 "Armstrong Whitworth Whitley"
- AST_tac_bomber_equipment_0_short:0 "Whitley"
- AST_tac_bomber_equipment_1:0 "Vickers Wellington"
- AST_tac_bomber_equipment_1_short:0 "Wellington"
- AST_tac_bomber_equipment_2:0 "Bristol Beaufort"
- AST_tac_bomber_equipment_2_short:0 "Beaufort"
- AST_tac_bomber_equipment_3:0 "de Havilland Mosquito B"
- AST_tac_bomber_equipment_3_short:0 "Mosquito B"
+#-> Med1um bomber <><>
+ AST_tac_bomber_equ1pment_0:0 "암스트롱 휘트워스 휘틀리"
+ AST_tac_bomber_equ1pment_0_short:0 "휘틀리"
+ AST_tac_bomber_equ1pment_1:0 "빅커스 웰링턴"
+ AST_tac_bomber_equ1pment_1_short:0 "웰링턴"
+ AST_tac_bomber_equ1pment_2:0 "브리스톨 뷰포트"
+ AST_tac_bomber_equ1pment_2_short:0 "뷰포트"
+ AST_tac_bomber_equ1pment_3:0 "드 해빌랜드 모스키토 B"
+ AST_tac_bomber_equ1pment_3_short:0 "모스키토 B"
  
-#-> Medium maritime bomber <><>
- AST_med_maritime_equipment_1:0 "Vickers Wellington GR"
- AST_med_maritime_equipment_1_short:0 "Wellington GR"
- AST_med_maritime_equipment_2:0 "Bristol Beaufort Mk. VI"
- AST_med_maritime_equipment_2_short:0 "Beaufort Mk. VI"
- AST_med_maritime_equipment_3:0 "de Havilland Mosquito TR"
- AST_med_maritime_equipment_3_short:0 "Mosquito TR"
+#-> Med1um mar1t1me bomber <><>
+ AST_med_mar1t1me_equ1pment_1:0 "빅커스 웰링턴 GR"
+ AST_med_mar1t1me_equ1pment_1_short:0 "웰링턴 GR"
+ AST_med_mar1t1me_equ1pment_2:0 "브리스톨 뷰포트 Mk. V1"
+ AST_med_mar1t1me_equ1pment_2_short:0 "뷰포트 Mk. V1"
+ AST_med_mar1t1me_equ1pment_3:0 "드 해빌랜드 모스키토 TR"
+ AST_med_mar1t1me_equ1pment_3_short:0 "모스키토 TR"
  
 #-> Heavy bomber <><>
- AST_strat_bomber_equipment_1:0 "Handley Page Halifax"
- AST_strat_bomber_equipment_1_short:0 "Halifax"
- AST_strat_bomber_equipment_2:0 "Avro Lancaster"
- AST_strat_bomber_equipment_2_short:0 "Lancaster"
- AST_strat_bomber_equipment_3:0 "Avro Lincoln"
- AST_strat_bomber_equipment_3_short:0 "Lincoln"
+ AST_strat_bomber_equ1pment_1:0 "핸들리 페이지 핼리팩스"
+ AST_strat_bomber_equ1pment_1_short:0 "핼리팩스"
+ AST_strat_bomber_equ1pment_2:0 "아브로 랭커스터"
+ AST_strat_bomber_equ1pment_2_short:0 "랭커스터"
+ AST_strat_bomber_equ1pment_3:0 "아브로 링컨"
+ AST_strat_bomber_equ1pment_3_short:0 "링컨"
  
-#-> Heavy maritime bomber <><>
- AST_strat_maritime_equipment_1:0 "Handley Page Halifax GR.II"
- AST_strat_maritime_equipment_1_short:0 "Halifax GR.II"
- AST_strat_maritime_equipment_2:0 "Avro Lancaster GR.3/MR.3"
- AST_strat_maritime_equipment_2_short:0 "Lancaster GR.3/MR.3"
- AST_strat_maritime_equipment_3:0 "Avro Lincoln III"
- AST_strat_maritime_equipment_3_short:0 "Lincoln III"
+#-> Heavy mar1t1me bomber <><>
+ AST_strat_mar1t1me_equ1pment_1:0 "핸들리 페이지 핼리팩스 GR.2"
+ AST_strat_mar1t1me_equ1pment_1_short:0 "핼리팩스 GR.2"
+ AST_strat_mar1t1me_equ1pment_2:0 "아브로 랭커스터 GR.3/MR.3"
+ AST_strat_mar1t1me_equ1pment_2_short:0 "랭커스터 GR.3/MR.3"
+ AST_strat_mar1t1me_equ1pment_3:0 "아브로 링컨 3"
+ AST_strat_mar1t1me_equ1pment_3_short:0 "링컨 3"
  
-#-> Maritime patrol <><>
- #AST_flying_boat_equipment_0: "Short Empire"
- #AST_flying_boat_equipment_0_short: "Empire"
- #AST_flying_boat_equipment_1:0 "Short Sunderland I"
- #AST_flying_boat_equipment_1_short:0 "Sunderland I"
- #AST_flying_boat_equipment_2:0 "Consolidated Catalina"
- #AST_flying_boat_equipment_2_short:0 "Catalina"
- #AST_flying_boat_equipment_3:0 "Martin Mariner"
- #AST_flying_boat_equipment_3_short:0 "Mariner"
+#-> Mar1t1me patrol <><>
+ #AST_fly1ng_boat_equ1pment_0: "숄트 엠파이어"
+ #AST_fly1ng_boat_equ1pment_0_short: "엠파이어"
+ #AST_fly1ng_boat_equ1pment_1:0 "숄트 선덜랜드 1"
+ #AST_fly1ng_boat_equ1pment_1_short:0 "선덜랜드 1"
+ #AST_fly1ng_boat_equ1pment_2:0 "컨설리데이터드 카탈리나"
+ #AST_fly1ng_boat_equ1pment_2_short:0 "카탈리나"
+ #AST_fly1ng_boat_equ1pment_3:0 "마틴 마리너"
+ #AST_fly1ng_boat_equ1pment_3_short:0 "마리너"
  
-#-> Jet fighters <><>
- AST_jet_fighter_equipment_1:0 "Gloster Meteor"
- AST_jet_fighter_equipment_1_short:0 "Meteor"
- AST_jet_fighter_equipment_2:0 "CAC CA-26 Sabre"
- AST_jet_fighter_equipment_2_short:0 "Sabre"
- AST_jet_fighter_equipment_x:0 "CAC CA-27 Sabre"
- AST_jet_fighter_equipment_x_short:0 "Avon Sabre"
+#-> Jet f1ghters <><>
+ AST_jet_f1ghter_equ1pment_1:0 "글로스터 미티어"
+ AST_jet_f1ghter_equ1pment_1_short:0 "미티어"
+ AST_jet_f1ghter_equ1pment_2:0 "CAC CA-26 세이버"
+ AST_jet_f1ghter_equ1pment_2_short:0 "세이버"
+ AST_jet_f1ghter_equ1pment_x:0 "CAC CA-27 세이버"
+ AST_jet_f1ghter_equ1pment_x_short:0 "Avon 세이버"
  
-#-> Carrier-based jet fighters <><>
- AST_cv_jet_fighter_equipment_1:0 "Gloster Meteor CV"
- AST_cv_jet_fighter_equipment_1_short:0 "Meteor CV"
- AST_cv_jet_fighter_equipment_2:0 "CAC CA-26 Sabre CV"
- AST_cv_jet_fighter_equipment_2_short:0 "Sabre CV"
- AST_cv_jet_fighter_equipment_x:0 "CAC CA-27 Sabre CV"
- AST_cv_jet_fighter_equipment_x_short:0 "Avon Sabre CV"
+#-> Carr1er-based jet f1ghters <><>
+ AST_cv_jet_f1ghter_equ1pment_1:0 "슈퍼마린 어태커"
+ AST_cv_jet_f1ghter_equ1pment_1_short:0 "어태커"
+ AST_cv_jet_f1ghter_equ1pment_2:0 "CAC CA-26 세이버 CV"
+ AST_cv_jet_f1ghter_equ1pment_2_short:0 "세이버 CV"
+ AST_cv_jet_f1ghter_equ1pment_x:0 "CAC CA-27 세이버 CV"
+ AST_cv_jet_f1ghter_equ1pment_x_short:0 "Avon 세이버 CV"
  
-#-> Jet medium bomber <><>
- AST_jet_tac_bomber_equipment_1:0 "de Havilland Venom"
- AST_jet_tac_bomber_equipment_1_short:0 "Venom"
- AST_jet_tac_bomber_equipment_2:0 "English Electric Canberra"
- AST_jet_tac_bomber_equipment_2_short:0 "Canberra"
+#-> Jet med1um bomber <><>
+ AST_jet_tac_bomber_equ1pment_1:0 "드 해빌랜드 베놈"
+ AST_jet_tac_bomber_equ1pment_1_short:0 "베놈"
+ AST_jet_tac_bomber_equ1pment_2:0 "잉글리시 일렉트릭 캔버라"
+ AST_jet_tac_bomber_equ1pment_2_short:0 "캔버라"
  
 #-> Jet heavy bomber <><> 
- AST_jet_strat_bomber_equipment_1:0 "Vickers Valiant"
- AST_jet_strat_bomber_equipment_1_short:0 "Valiant"
- AST_jet_strat_bomber_equipment_1:0 "Vickers Valiant B.2"
- AST_jet_strat_bomber_equipment_1_short:0 "Valiant B.2"
+ AST_jet_strat_bomber_equ1pment_1:0 "빅커스 발리언트"
+ AST_jet_strat_bomber_equ1pment_1_short:0 "발리언트"
+ AST_jet_strat_bomber_equ1pment_1:0 "빅커스 발리언트 B.2"
+ AST_jet_strat_bomber_equ1pment_1_short:0 "발리언트 B.2"
 
 
 ###--->  CAN  <><> <><> <><>
-#-> Dive bombers <><>
- CAN_CAS_equipment_1:0 "Hawker Hector"
- CAN_CAS_equipment_1_short:0 "Hector"
- CAN_CAS_equipment_2:0 "Hawker Typhoon"
- CAN_CAS_equipment_2_short:0 "Typhoon"
- CAN_CAS_equipment_3:0 "Hawker Tempest"
- CAN_CAS_equipment_3_short:0 "Tempest"
+#-> D1ve bombers <><>
+ CAN_CAS_equ1pment_1:0 "호커 헥터"
+ CAN_CAS_equ1pment_1_short:0 "헥터"
+ CAN_CAS_equ1pment_2:0 "호커 타이푼"
+ CAN_CAS_equ1pment_2_short:0 "타이푼"
+ CAN_CAS_equ1pment_3:0 "호커 템페스트"
+ CAN_CAS_equ1pment_3_short:0 "템페스트"
 
-#-> Carrier-based dive bombers <><>
- CAN_cv_CAS_equipment_1:0 "Hawker Osprey"
- CAN_cv_CAS_equipment_1_short:0 "Osprey"
- CAN_cv_CAS_equipment_2:0 "Blackburn Skua"
- CAN_cv_CAS_equipment_2_short:0 "Skua"
- CAN_cv_CAS_equipment_3:0 "Fairey Firefly"
- CAN_cv_CAS_equipment_3_short:0 "Firefly"
+#-> Carr1er-based d1ve bombers <><>
+ CAN_cv_CAS_equ1pment_1:0 "호커 오스프리"
+ CAN_cv_CAS_equ1pment_1_short:0 "오스프리"
+ CAN_cv_CAS_equ1pment_2:0 "블랙번 스쿠아"
+ CAN_cv_CAS_equ1pment_2_short:0 "스쿠아"
+ CAN_cv_CAS_equ1pment_3:0 "페어리 파이어플라이"
+ CAN_cv_CAS_equ1pment_3_short:0 "파이어플라이"
  
-#-> Light fighters <><> 
- CAN_fighter_equipment_0:0 "Hawker Demon"
- CAN_fighter_equipment_0_short:0 "Demon"
- CAN_fighter_equipment_1:0 "Brewster Buffalo"
- CAN_fighter_equipment_1_short:0 "Buffalo"
- CAN_fighter_equipment_2:0 "Supermarine Spitfire"
- CAN_fighter_equipment_2_short:0 "Spitfire"
- CAN_fighter_equipment_3:0 "Supermarine Spiteful"
- CAN_fighter_equipment_3_short:0 "Spiteful"
+#-> L1ght f1ghters <><> 
+ CAN_f1ghter_equ1pment_0:0 "호커 데몬"
+ CAN_f1ghter_equ1pment_0_short:0 "데몬"
+ CAN_f1ghter_equ1pment_1:0 "브루스터 버팔로"
+ CAN_f1ghter_equ1pment_1_short:0 "버팔로"
+ CAN_f1ghter_equ1pment_2:0 "슈퍼마린 스핏파이어"
+ CAN_f1ghter_equ1pment_2_short:0 "스핏파이어"
+ CAN_f1ghter_equ1pment_3:0 "슈퍼마린 스파잇풀"
+ CAN_f1ghter_equ1pment_3_short:0 "스파잇풀"
 
-#-> Light fighter-bombers <><>
- CAN_fighter_bomber_equipment_2:0 "Supermarine Spitfire Mk. VB"
- CAN_fighter_bomber_equipment_2_short:0 "Spitfire Mk. VB"
- CAN_fighter_bomber_equipment_3:0 "Supermarine Spitefang"
- CAN_fighter_bomber_equipment_3_short:0 "Spitefang"
+#-> L1ght f1ghter-bombers <><>
+ CAN_f1ghter_bomber_equ1pment_2:0 "슈퍼마린 스핏파이어 Mk. VB"
+ CAN_f1ghter_bomber_equ1pment_2_short:0 "스핏파이어 Mk. VB"
+ CAN_f1ghter_bomber_equ1pment_3:0 "슈퍼마린 스파잇풀"
+ CAN_f1ghter_bomber_equ1pment_3_short:0 "스파잇풀"
  
-#-> Carrier-based light fighters <><>
- CAN_cv_fighter_equipment_0:0 "Hawker Nimrod"
- CAN_cv_fighter_equipment_0_short:0 "Nimrod"
- CAN_cv_fighter_equipment_1:0 "Gloster Sea Gladiator"
- CAN_cv_fighter_equipment_1_short:0 "Sea Gladiator"
- CAN_cv_fighter_equipment_2:0 "Fairey Fulmar"
- CAN_cv_fighter_equipment_2_short:0 "Fulmar"
- CAN_cv_fighter_equipment_3:0 "Fairey Firefly"
- CAN_cv_fighter_equipment_3_short:0 "Firefly"
+#-> Carr1er-based l1ght f1ghters <><>
+ CAN_cv_f1ghter_equ1pment_0:0 "호커 님로드"
+ CAN_cv_f1ghter_equ1pment_0_short:0 "님로드"
+ CAN_cv_f1ghter_equ1pment_1:0 "글로스터 시 글래디에이터"
+ CAN_cv_f1ghter_equ1pment_1_short:0 "시 글래디에이터"
+ CAN_cv_f1ghter_equ1pment_2:0 "페어리 풀머"
+ CAN_cv_f1ghter_equ1pment_2_short:0 "풀머"
+ CAN_cv_f1ghter_equ1pment_3:0 "페어리 파이어플라이"
+ CAN_cv_f1ghter_equ1pment_3_short:0 "파이어플라이"
  
 #-> Torpedo bombers <><>
- CAN_nav_bomber_equipment_1:0 "Fairey Swordfish"
- CAN_nav_bomber_equipment_1_short:0 "Swordfish"
- CAN_nav_bomber_equipment_2:0 "Fairey Albacore"
- CAN_nav_bomber_equipment_2_short:0 "Albacore"
- CAN_nav_bomber_equipment_3:0 "Fairey Barracuda"
- CAN_nav_bomber_equipment_3_short:0 "Barracuda"
+ CAN_nav_bomber_equ1pment_1:0 "페어리 소드피쉬"
+ CAN_nav_bomber_equ1pment_1_short:0 "소드피쉬"
+ CAN_nav_bomber_equ1pment_2:0 "페어리 알바코어"
+ CAN_nav_bomber_equ1pment_2_short:0 "알바코어"
+ CAN_nav_bomber_equ1pment_3:0 "페어리 바라쿠다"
+ CAN_nav_bomber_equ1pment_3_short:0 "바라쿠다"
 
-#-> Carrier-based torpedo bombers <><>
- #CAN_cv_nav_bomber_equipment_1:0 "Blackburn Shark"
- #CAN_cv_nav_bomber_equipment_1_short:0 "Shark"
- #CAN_cv_nav_bomber_equipment_2:0 "Blackburn Roc"
- #CAN_cv_nav_bomber_equipment_2_short:0 "Roc"
- #CAN_cv_nav_bomber_equipment_3:0 "Blackburn Firebrand"
- #CAN_cv_nav_bomber_equipment_3_short:0 "Firebrand"
+#-> Carr1er-based torpedo bombers <><>
+ #CAN_cv_nav_bomber_equ1pment_1:0 "블랙번 샤크"
+ #CAN_cv_nav_bomber_equ1pment_1_short:0 "샤크"
+ #CAN_cv_nav_bomber_equ1pment_2:0 "블랙번 록"
+ #CAN_cv_nav_bomber_equ1pment_2_short:0 "록"
+ #CAN_cv_nav_bomber_equ1pment_3:0 "블랙번 파이어브랜드"
+ #CAN_cv_nav_bomber_equ1pment_3_short:0 "파이어브랜드"
 
-#-> Heavy fighters <><>
- CAN_heavy_fighter_equipment_1:0 "Bristol Blenheim"
- CAN_heavy_fighter_equipment_1_short:0 "Blenheim"
- CAN_heavy_fighter_equipment_2:0 "Bristol Beaufighter"
- CAN_heavy_fighter_equipment_2_short:0 "Beaufighter"
- CAN_heavy_fighter_equipment_3:0 "de Havilland Mosquito FB"
- CAN_heavy_fighter_equipment_3_short:0 "Mosquito FB"
+#-> Heavy f1ghters <><>
+ CAN_heavy_f1ghter_equ1pment_1:0 "브리스톨 블렌헤임"
+ CAN_heavy_f1ghter_equ1pment_1_short:0 "블렌헤임"
+ CAN_heavy_f1ghter_equ1pment_2:0 "브리스톨 보파이터"
+ CAN_heavy_f1ghter_equ1pment_2_short:0 "보파이터"
+ CAN_heavy_f1ghter_equ1pment_3:0 "드 해빌랜드 모스키토 FB"
+ CAN_heavy_f1ghter_equ1pment_3_short:0 "모스키토 FB"
  
-#-> Heavy fighter-bomber <><>
- CAN_hfighter_bomber_equipment_1:0 "Bristol Blenheim Mk. IV"
- CAN_hfighter_bomber_equipment_1_short:0 "Blenheim Mk. IV"
- CAN_hfighter_bomber_equipment_2:0 "Bristol Beaufighter TF Mk. X"
- CAN_hfighter_bomber_equipment_2_short:0 "Beaufighter TF Mk. X"
+#-> Heavy f1ghter-bomber <><>
+ CAN_hf1ghter_bomber_equ1pment_1:0 "브리스톨 블렌헤임 Mk. 1V"
+ CAN_hf1ghter_bomber_equ1pment_1_short:0 "블렌헤임 Mk. 1V"
+ CAN_hf1ghter_bomber_equ1pment_2:0 "브리스톨 보파이터 TF Mk. X"
+ CAN_hf1ghter_bomber_equ1pment_2_short:0 "보파이터 TF Mk. X"
  
-#-> Medium bomber <><>
- CAN_tac_bomber_equipment_0:0 "Armstrong Whitworth Whitley"
- CAN_tac_bomber_equipment_0_short:0 "Whitley"
- CAN_tac_bomber_equipment_1:0 "Vickers Wellington"
- CAN_tac_bomber_equipment_1_short:0 "Wellington"
- CAN_tac_bomber_equipment_2:0 "Bristol Beaufort"
- CAN_tac_bomber_equipment_2_short:0 "Beaufort"
- CAN_tac_bomber_equipment_3:0 "de Havilland Mosquito B"
- CAN_tac_bomber_equipment_3_short:0 "Mosquito B"
+#-> Med1um bomber <><>
+ CAN_tac_bomber_equ1pment_0:0 "암스트롱 휘트워스 휘틀리"
+ CAN_tac_bomber_equ1pment_0_short:0 "휘틀리"
+ CAN_tac_bomber_equ1pment_1:0 "빅커스 웰링턴"
+ CAN_tac_bomber_equ1pment_1_short:0 "웰링턴"
+ CAN_tac_bomber_equ1pment_2:0 "브리스톨 뷰포트"
+ CAN_tac_bomber_equ1pment_2_short:0 "뷰포트"
+ CAN_tac_bomber_equ1pment_3:0 "드 해빌랜드 모스키토 B"
+ CAN_tac_bomber_equ1pment_3_short:0 "모스키토 B"
  
-#-> Medium maritime bomber <><>
- CAN_med_maritime_equipment_1:0 "Vickers Wellington GR Mk. VIII"
- CAN_med_maritime_equipment_1_short:0 "Wellington Mk. VIII"
- CAN_med_maritime_equipment_2:0 "Bristol Beaufort Mk. VI"
- CAN_med_maritime_equipment_2_short:0 "Beaufort Mk. VI"
- CAN_med_maritime_equipment_3:0 "de Havilland Mosquito TR"
- CAN_med_maritime_equipment_3_short:0 "Mosquito TR"
+#-> Med1um mar1t1me bomber <><>
+ CAN_med_mar1t1me_equ1pment_1:0 "빅커스 웰링턴 GR Mk. V3"
+ CAN_med_mar1t1me_equ1pment_1_short:0 "웰링턴 Mk. V3"
+ CAN_med_mar1t1me_equ1pment_2:0 "브리스톨 뷰포트 Mk. V1"
+ CAN_med_mar1t1me_equ1pment_2_short:0 "뷰포트 Mk. V1"
+ CAN_med_mar1t1me_equ1pment_3:0 "드 해빌랜드 모스키토 TR"
+ CAN_med_mar1t1me_equ1pment_3_short:0 "모스키토 TR"
  
 #-> Heavy bomber <><>
- CAN_strat_bomber_equipment_1:0 "Handley Page Halifax"
- CAN_strat_bomber_equipment_1_short:0 "Halifax"
- CAN_strat_bomber_equipment_2:0 "Avro Lancaster"
- CAN_strat_bomber_equipment_2_short:0 "Lancaster"
- CAN_strat_bomber_equipment_3:0 "Avro Lincoln"
- CAN_strat_bomber_equipment_3_short:0 "Lincoln"
+ CAN_strat_bomber_equ1pment_1:0 "핸들리 페이지 핼리팩스"
+ CAN_strat_bomber_equ1pment_1_short:0 "핼리팩스"
+ CAN_strat_bomber_equ1pment_2:0 "아브로 랭커스터"
+ CAN_strat_bomber_equ1pment_2_short:0 "랭커스터"
+ CAN_strat_bomber_equ1pment_3:0 "아브로 링컨"
+ CAN_strat_bomber_equ1pment_3_short:0 "링컨"
  
-#-> Heavy maritime bomber <><>
- CAN_strat_maritime_equipment_1:0 "Handley Page Halifax GR.II"
- CAN_strat_maritime_equipment_1_short:0 "Halifax GR.II"
- CAN_strat_maritime_equipment_2:0 "Avro Lancaster GR.3/MR.3"
- CAN_strat_maritime_equipment_2_short:0 "Lancaster GR.3/MR.3"
- CAN_strat_maritime_equipment_3:0 "Avro Lincoln III"
- CAN_strat_maritime_equipment_3_short:0 "Lincoln III"
+#-> Heavy mar1t1me bomber <><>
+ CAN_strat_mar1t1me_equ1pment_1:0 "핸들리 페이지 핼리팩스 GR.2"
+ CAN_strat_mar1t1me_equ1pment_1_short:0 "핼리팩스 GR.2"
+ CAN_strat_mar1t1me_equ1pment_2:0 "아브로 랭커스터 GR.3/MR.3"
+ CAN_strat_mar1t1me_equ1pment_2_short:0 "랭커스터 GR.3/MR.3"
+ CAN_strat_mar1t1me_equ1pment_3:0 "아브로 링컨 3"
+ CAN_strat_mar1t1me_equ1pment_3_short:0 "링컨 3"
  
-#-> Maritime patrol <><>
- #CAN_flying_boat_equipment_0: "Short Empire"
- #CAN_flying_boat_equipment_0_short: "Empire"
- #CAN_flying_boat_equipment_1:0 "Short Sunderland I"
- #CAN_flying_boat_equipment_1_short:0 "Sunderland I"
- #CAN_flying_boat_equipment_2:0 "Consolidated Catalina"
- #CAN_flying_boat_equipment_2_short:0 "Catalina"
- #CAN_flying_boat_equipment_3:0 "Martin Mariner"
- #CAN_flying_boat_equipment_3_short:0 "Mariner"
+#-> Mar1t1me patrol <><>
+ #CAN_fly1ng_boat_equ1pment_0: "숄트 엠파이어"
+ #CAN_fly1ng_boat_equ1pment_0_short: "엠파이어"
+ #CAN_fly1ng_boat_equ1pment_1:0 "숄트 선덜랜드 1"
+ #CAN_fly1ng_boat_equ1pment_1_short:0 "선덜랜드 1"
+ #CAN_fly1ng_boat_equ1pment_2:0 "컨설리데이터드 카탈리나"
+ #CAN_fly1ng_boat_equ1pment_2_short:0 "카탈리나"
+ #CAN_fly1ng_boat_equ1pment_3:0 "마틴 마리너"
+ #CAN_fly1ng_boat_equ1pment_3_short:0 "마리너"
  
-#-> Jet fighters <><>
- CAN_jet_fighter_equipment_1:0 "Gloster Vampire"
- CAN_jet_fighter_equipment_1_short:0 "Gloster Vampire"
- CAN_jet_fighter_equipment_2:0 "Avro Canada CF-100 Canuck"
- CAN_jet_fighter_equipment_2_short:0 "Canuck"
- CAN_jet_fighter_equipment_x:0 "Avro Canada CF-100 Canuck Mk. 4"
- CAN_jet_fighter_equipment_x_short:0 "Canuck Mk. 4"
+#-> Jet f1ghters <><>
+ CAN_jet_f1ghter_equ1pment_1:0 "글로스터 뱀파이어"
+ CAN_jet_f1ghter_equ1pment_1_short:0 "글로스터 뱀파이어"
+ CAN_jet_f1ghter_equ1pment_2:0 "아브로 캐나다 CF-100 캐넉스"
+ CAN_jet_f1ghter_equ1pment_2_short:0 "캐넉스"
+ CAN_jet_f1ghter_equ1pment_x:0 "아브로 캐나다 CF-100 캐넉스 Mk. 4"
+ CAN_jet_f1ghter_equ1pment_x_short:0 "캐넉스 Mk. 4"
  
-#-> Carrier-based jet fighters <><>
- CAN_cv_jet_fighter_equipment_1:0 "Gloster Meteor CV"
- CAN_cv_jet_fighter_equipment_1_short:0 "Meteor CV"
- CAN_cv_jet_fighter_equipment_2:0 "Avro Canada CF-100 Canuck CV"
- CAN_cv_jet_fighter_equipment_2_short:0 "Canuck CV"
- CAN_cv_jet_fighter_equipment_x:0 "Avro Canada CF-100 Canuck Mk. 4 CV"
- CAN_cv_jet_fighter_equipment_x_short:0 "Canuck Mk. 4 CV"
+#-> Carr1er-based jet f1ghters <><>
+ CAN_cv_jet_f1ghter_equ1pment_1:0 "슈퍼마린 어태커"
+ CAN_cv_jet_f1ghter_equ1pment_1_short:0 "어태커"
+ CAN_cv_jet_f1ghter_equ1pment_2:0 "아브로 캐나다 CF-100 캐넉스 CV"
+ CAN_cv_jet_f1ghter_equ1pment_2_short:0 "캐넉스 CV"
+ CAN_cv_jet_f1ghter_equ1pment_x:0 "아브로 캐나다 CF-100 캐넉스 Mk. 4 CV"
+ CAN_cv_jet_f1ghter_equ1pment_x_short:0 "캐넉스 Mk. 4 CV
  
-#-> Jet medium bomber <><>
- CAN_jet_tac_bomber_equipment_1:0 "de Havilland Venom"
- CAN_jet_tac_bomber_equipment_1_short:0 "Venom"
- CAN_jet_tac_bomber_equipment_2:0 "English Electric Canberra"
- CAN_jet_tac_bomber_equipment_2_short:0 "Canberra"
+#-> Jet med1um bomber <><>
+ CAN_jet_tac_bomber_equ1pment_1:0 "드 해빌랜드 베놈"
+ CAN_jet_tac_bomber_equ1pment_1_short:0 "베놈"
+ CAN_jet_tac_bomber_equ1pment_2:0 "잉글리시 일렉트릭 캔버라"
+ CAN_jet_tac_bomber_equ1pment_2_short:0 "캔버라"
  
 #-> Jet heavy bomber <><> 
- CAN_jet_strat_bomber_equipment_1:0 "Vickers Valiant"
- CAN_jet_strat_bomber_equipment_1_short:0 "Valiant"
- CAN_jet_strat_bomber_equipment_1:0 "Vickers Valiant B.2"
- CAN_jet_strat_bomber_equipment_1_short:0 "Valiant B.2"
+ CAN_jet_strat_bomber_equ1pment_1:0 "빅커스 발리언트"
+ CAN_jet_strat_bomber_equ1pment_1_short:0 "발리언트"
+ CAN_jet_strat_bomber_equ1pment_1:0 "빅커스 발리언트 B.2"
+ CAN_jet_strat_bomber_equ1pment_1_short:0 "발리언트 B.2"
 
 
 ###--->  NZL  <><> <><> <><>
-#-> Dive bombers <><>
- NZL_CAS_equipment_1:0 "Hawker Hector"
- NZL_CAS_equipment_1_short:0 "Hector"
- NZL_CAS_equipment_2:0 "Hawker Typhoon"
- NZL_CAS_equipment_2_short:0 "Typhoon"
- NZL_CAS_equipment_3:0 "Hawker Tempest"
- NZL_CAS_equipment_3_short:0 "Tempest"
+#-> D1ve bombers <><>
+ NZL_CAS_equ1pment_1:0 "호커 헥터"
+ NZL_CAS_equ1pment_1_short:0 "헥터"
+ NZL_CAS_equ1pment_2:0 "호커 타이푼"
+ NZL_CAS_equ1pment_2_short:0 "타이푼"
+ NZL_CAS_equ1pment_3:0 "호커 템페스트"
+ NZL_CAS_equ1pment_3_short:0 "템페스트"
  
-#-> Carrier-based dive bombers <><>
- NZL_cv_CAS_equipment_1:0 "Hawker Osprey"
- NZL_cv_CAS_equipment_1_short:0 "Osprey"
- NZL_cv_CAS_equipment_2:0 "Blackburn Skua"
- NZL_cv_CAS_equipment_2_short:0 "Skua"
- NZL_cv_CAS_equipment_3:0 "Hawker Sea Fury"
- NZL_cv_CAS_equipment_3_short:0 "Sea Fury"
+#-> Carr1er-based d1ve bombers <><>
+ NZL_cv_CAS_equ1pment_1:0 "호커 오스프리"
+ NZL_cv_CAS_equ1pment_1_short:0 "오스프리"
+ NZL_cv_CAS_equ1pment_2:0 "블랙번 스쿠아"
+ NZL_cv_CAS_equ1pment_2_short:0 "스쿠아"
+ NZL_cv_CAS_equ1pment_3:0 "호커 시 퓨리"
+ NZL_cv_CAS_equ1pment_3_short:0 "시 퓨리"
 
-#-> Light fighters <><> 
- NZL_fighter_equipment_0:0 "Gloster Gladiator"
- NZL_fighter_equipment_0_short:0 "Gladiator"
- NZL_fighter_equipment_1:0 "Hawker Hurricane"
- NZL_fighter_equipment_1_short:0 "Hurricane"
- NZL_fighter_equipment_2:0 "Supermarine Spitfire"
- NZL_fighter_equipment_2_short:0 "Spitfire"
- NZL_fighter_equipment_3:0 "Supermarine Spiteful"
- NZL_fighter_equipment_3_short:0 "Spiteful"
+#-> L1ght f1ghters <><> 
+ NZL_f1ghter_equ1pment_0:0 "글로스터 글래디에이터"
+ NZL_f1ghter_equ1pment_0_short:0 "글래디에이터"
+ NZL_f1ghter_equ1pment_1:0 "호커 허리케인"
+ NZL_f1ghter_equ1pment_1_short:0 "허리케인"
+ NZL_f1ghter_equ1pment_2:0 "슈퍼마린 스핏파이어"
+ NZL_f1ghter_equ1pment_2_short:0 "스핏파이어
+ NZL_f1ghter_equ1pment_3:0 "슈퍼마린 스파잇풀"
+ NZL_f1ghter_equ1pment_3_short:0 "스파잇풀""
 
-#-> Light fighter-bombers <><>
- NZL_fighter_bomber_equipment_2:0 "Supermarine Spitfire Mk. VB"
- NZL_fighter_bomber_equipment_2_short:0 "Spitfire Mk. VB"
- NZL_fighter_bomber_equipment_3:0 "Supermarine Spitefang"
- NZL_fighter_bomber_equipment_3_short:0 "Spitefang"
+#-> L1ght f1ghter-bombers <><>
+ NZL_f1ghter_bomber_equ1pment_2:0 "슈퍼마린 스핏파이어 Mk. VB"
+ NZL_f1ghter_bomber_equ1pment_2_short:0 "스핏파이어 Mk. VB"
+ NZL_f1ghter_bomber_equ1pment_3:0 "슈퍼마린 스파잇풀"
+ NZL_f1ghter_bomber_equ1pment_3_short:0 "스파잇풀"
 
-#-> Carrier-based light fighters <><>
- NZL_cv_fighter_equipment_0:0 "Hawker Nimrod"
- NZL_cv_fighter_equipment_0_short:0 "Nimrod"
- NZL_cv_fighter_equipment_1:0 "Gloster Sea Gladiator"
- NZL_cv_fighter_equipment_1_short:0 "Sea Gladiator"
- NZL_cv_fighter_equipment_2:0 "Fairey Fulmar"
- NZL_cv_fighter_equipment_2_short:0 "Fulmar"
- NZL_cv_fighter_equipment_3:0 "Fairey Firefly"
- NZL_cv_fighter_equipment_3_short:0 "Firefly"
+#-> Carr1er-based l1ght f1ghters <><>
+ NZL_cv_f1ghter_equ1pment_0:0 "호커 님로드"
+ NZL_cv_f1ghter_equ1pment_0_short:0 "님로드"
+ NZL_cv_f1ghter_equ1pment_1:0 "글로스터 시 글래디에이터"
+ NZL_cv_f1ghter_equ1pment_1_short:0 "시 글래디에이터"
+ NZL_cv_f1ghter_equ1pment_2:0 "페어리 풀머"
+ NZL_cv_f1ghter_equ1pment_2_short:0 "풀머"
+ NZL_cv_f1ghter_equ1pment_3:0 "페어리 파이어플라이"
+ NZL_cv_f1ghter_equ1pment_3_short:0 "파이어플라이"
 
 #-> Torpedo bombers <><>
- NZL_nav_bomber_equipment_1:0 "Fairey Swordfish"
- NZL_nav_bomber_equipment_1_short:0 "Swordfish"
- NZL_nav_bomber_equipment_2:0 "Fairey Albacore"
- NZL_nav_bomber_equipment_2_short:0 "Albacore"
- NZL_nav_bomber_equipment_3:0 "Fairey Barracuda"
- NZL_nav_bomber_equipment_3_short:0 "Barracuda"
+ NZL_nav_bomber_equ1pment_1:0 "페어리 소드피쉬"
+ NZL_nav_bomber_equ1pment_1_short:0 "소드피쉬"
+ NZL_nav_bomber_equ1pment_2:0 "페어리 알바코어"
+ NZL_nav_bomber_equ1pment_2_short:0 "알바코어"
+ NZL_nav_bomber_equ1pment_3:0 "페어리 바라쿠다"
+ NZL_nav_bomber_equ1pment_3_short:0 "바라쿠다"
 
-#-> Carrier-based torpedo bombers <><>
- #NZL_cv_nav_bomber_equipment_1:0 "Blackburn Shark"
- #NZL_cv_nav_bomber_equipment_1_short:0 "Shark"
- #NZL_cv_nav_bomber_equipment_2:0 "Blackburn Roc"
- #NZL_cv_nav_bomber_equipment_2_short:0 "Roc"
- #NZL_cv_nav_bomber_equipment_3:0 "Blackburn Firebrand"
- #NZL_cv_nav_bomber_equipment_3_short:0 "Firebrand"
+#-> Carr1er-based torpedo bombers <><>
+ #NZL_cv_nav_bomber_equ1pment_1:0 "블랙번 샤크"
+ #NZL_cv_nav_bomber_equ1pment_1_short:0 "샤크"
+ #NZL_cv_nav_bomber_equ1pment_2:0 "블랙번 록"
+ #NZL_cv_nav_bomber_equ1pment_2_short:0 "록"
+ #NZL_cv_nav_bomber_equ1pment_3:0 "블랙번 파이어브랜드"
+ #NZL_cv_nav_bomber_equ1pment_3_short:0 "파이어브랜드"
 
-#-> Heavy fighters <><>
- NZL_heavy_fighter_equipment_1:0 "Bristol Blenheim"
- NZL_heavy_fighter_equipment_1_short:0 "Blenheim"
- NZL_heavy_fighter_equipment_2:0 "Bristol Beaufighter"
- NZL_heavy_fighter_equipment_2_short:0 "Beaufighter"
- NZL_heavy_fighter_equipment_3:0 "de Havilland Mosquito FB"
- NZL_heavy_fighter_equipment_3_short:0 "Mosquito FB"
+#-> Heavy f1ghters <><>
+ NZL_heavy_f1ghter_equ1pment_1:0 "브리스톨 블렌헤임"
+ NZL_heavy_f1ghter_equ1pment_1_short:0 "블렌헤임"
+ NZL_heavy_f1ghter_equ1pment_2:0 "브리스톨 보파이터"
+ NZL_heavy_f1ghter_equ1pment_2_short:0 "보파이터"
+ NZL_heavy_f1ghter_equ1pment_3:0 "드 해빌랜드 모스키토 FB"
+ NZL_heavy_f1ghter_equ1pment_3_short:0 "모스키토 FB"
 
-#-> Heavy fighter-bomber <><>
- NZL_hfighter_bomber_equipment_1:0 "Bristol Blenheim Mk. IV"
- NZL_hfighter_bomber_equipment_1_short:0 "Blenheim Mk. IV"
- NZL_hfighter_bomber_equipment_2:0 "Bristol Beaufighter TF Mk. X"
- NZL_hfighter_bomber_equipment_2_short:0 "Beaufighter TF Mk. X"
+#-> Heavy f1ghter-bomber <><>
+ NZL_hf1ghter_bomber_equ1pment_1:0 "브리스톨 블렌헤임 Mk. 1V"
+ NZL_hf1ghter_bomber_equ1pment_1_short:0 "블렌헤임 Mk. 1V"
+ NZL_hf1ghter_bomber_equ1pment_2:0 "브리스톨 보파이터 TF Mk. X"
+ NZL_hf1ghter_bomber_equ1pment_2_short:0 "보파이터 TF Mk. X"
 
-#-> Medium bomber <><>
- NZL_tac_bomber_equipment_0:0 "Armstrong Whitworth Whitley"
- NZL_tac_bomber_equipment_0_short:0 "Whitley"
- NZL_tac_bomber_equipment_1:0 "Vickers Wellington"
- NZL_tac_bomber_equipment_1_short:0 "Wellington"
- NZL_tac_bomber_equipment_2:0 "Bristol Beaufort"
- NZL_tac_bomber_equipment_2_short:0 "Beaufort"
- NZL_tac_bomber_equipment_3:0 "de Havilland Mosquito B"
- NZL_tac_bomber_equipment_3_short:0 "Mosquito B"
+#-> Med1um bomber <><>
+ NZL_tac_bomber_equ1pment_0:0 "암스트롱 휘트워스 휘틀리"
+ NZL_tac_bomber_equ1pment_0_short:0 "휘틀리"
+ NZL_tac_bomber_equ1pment_1:0 "빅커스 웰링턴"
+ NZL_tac_bomber_equ1pment_1_short:0 "웰링턴"
+ NZL_tac_bomber_equ1pment_2:0 "브리스톨 뷰포트"
+ NZL_tac_bomber_equ1pment_2_short:0 "뷰포트"
+ NZL_tac_bomber_equ1pment_3:0 "드 해빌랜드 모스키토 B"
+ NZL_tac_bomber_equ1pment_3_short:0 "모스키토 B"
 
-#-> Medium maritime bomber <><>
- NZL_med_maritime_equipment_1:0 "Vickers Wellington GR Mk. VIII"
- NZL_med_maritime_equipment_1_short:0 "Wellington Mk. VIII"
- NZL_med_maritime_equipment_2:0 "Bristol Beaufort Mk. VI"
- NZL_med_maritime_equipment_2_short:0 "Beaufort Mk. VI"
- NZL_med_maritime_equipment_3:0 "de Havilland Mosquito TR"
- NZL_med_maritime_equipment_3_short:0 "Mosquito TR"
+#-> Med1um mar1t1me bomber <><>
+ NZL_med_mar1t1me_equ1pment_1:0 "빅커스 웰링턴 GR Mk. V3"
+ NZL_med_mar1t1me_equ1pment_1_short:0 "웰링턴 Mk. V3"
+ NZL_med_mar1t1me_equ1pment_2:0 "브리스톨 뷰포트 Mk. V1"
+ NZL_med_mar1t1me_equ1pment_2_short:0 "뷰포트 Mk. V1"
+ NZL_med_mar1t1me_equ1pment_3:0 "드 해빌랜드 모스키토 TR"
+ NZL_med_mar1t1me_equ1pment_3_short:0 "모스키토 TR"
 
 #-> Heavy bomber <><>
- NZL_strat_bomber_equipment_1:0 "Handley Page Halifax"
- NZL_strat_bomber_equipment_1_short:0 "Halifax"
- NZL_strat_bomber_equipment_2:0 "Avro Lancaster"
- NZL_strat_bomber_equipment_2_short:0 "Lancaster"
- NZL_strat_bomber_equipment_3:0 "Avro Lincoln"
- NZL_strat_bomber_equipment_3_short:0 "Lincoln"
+ NZL_strat_bomber_equ1pment_1:0 "핸들리 페이지 핼리팩스"
+ NZL_strat_bomber_equ1pment_1_short:0 "핼리팩스"
+ NZL_strat_bomber_equ1pment_2:0 "아브로 랭커스터"
+ NZL_strat_bomber_equ1pment_2_short:0 "랭커스터"
+ NZL_strat_bomber_equ1pment_3:0 "아브로 링컨"
+ NZL_strat_bomber_equ1pment_3_short:0 "링컨"
 
-#-> Heavy maritime bomber <><>
- NZL_strat_maritime_equipment_1:0 "Handley Page Halifax GR.II"
- NZL_strat_maritime_equipment_1_short:0 "Halifax GR.II"
- NZL_strat_maritime_equipment_2:0 "Avro Lancaster GR.3/MR.3"
- NZL_strat_maritime_equipment_2_short:0 "Lancaster GR.3/MR.3"
- NZL_strat_maritime_equipment_3:0 "Avro Lincoln III"
- NZL_strat_maritime_equipment_3_short:0 "Lincoln III"
+#-> Heavy mar1t1me bomber <><>
+ NZL_strat_mar1t1me_equ1pment_1:0 "핸들리 페이지 핼리팩스 GR.2"
+ NZL_strat_mar1t1me_equ1pment_1_short:0 "핼리팩스 GR.2"
+ NZL_strat_mar1t1me_equ1pment_2:0 "아브로 랭커스터 GR.3/MR.3"
+ NZL_strat_mar1t1me_equ1pment_2_short:0 "랭커스터 GR.3/MR.3"
+ NZL_strat_mar1t1me_equ1pment_3:0 "아브로 링컨 3"
+ NZL_strat_mar1t1me_equ1pment_3_short:0 "링컨 3"
 
-#-> Maritime patrol <><>
- #NZL_flying_boat_equipment_0: "Short Empire"
- #NZL_flying_boat_equipment_0_short: "Empire"
- #NZL_flying_boat_equipment_1:0 "Short Sunderland I"
- #NZL_flying_boat_equipment_1_short:0 "Sunderland I"
- #NZL_flying_boat_equipment_2:0 "Consolidated Catalina"
- #NZL_flying_boat_equipment_2_short:0 "Catalina"
- #NZL_flying_boat_equipment_3:0 "Martin Mariner"
- #NZL_flying_boat_equipment_3_short:0 "Mariner"
+#-> Mar1t1me patrol <><>
+ #NZL_fly1ng_boat_equ1pment_0: "숄트 엠파이어"
+ #NZL_fly1ng_boat_equ1pment_0_short: "엠파이어"
+ #NZL_fly1ng_boat_equ1pment_1:0 "숄트 선덜랜드 1"
+ #NZL_fly1ng_boat_equ1pment_1_short:0 "선덜랜드 1"
+ #NZL_fly1ng_boat_equ1pment_2:0 "컨설리데이터드 카탈리나"
+ #NZL_fly1ng_boat_equ1pment_2_short:0 "카탈리나"
+ #NZL_fly1ng_boat_equ1pment_3:0 "마틴 마리너"
+ #NZL_fly1ng_boat_equ1pment_3_short:0 "마리너"
 
-#-> Jet fighters <><>
- NZL_jet_fighter_equipment_1:0 "Gloster Meteor"
- NZL_jet_fighter_equipment_1_short:0 "Meteor"
- NZL_jet_fighter_equipment_2:0 "de Havilland Vampire"
- NZL_jet_fighter_equipment_2_short:0 "Vampire"
- NZL_jet_fighter_equipment_x:0 "de Havilland Venom"
- NZL_jet_fighter_equipment_x_short:0 "Venom"
+#-> Jet f1ghters <><>
+ NZL_jet_f1ghter_equ1pment_1:0 "글로스터 미티어"
+ NZL_jet_f1ghter_equ1pment_1_short:0 "미티어"
+ NZL_jet_f1ghter_equ1pment_2:0 "드 해빌랜드 뱀파이어"
+ NZL_jet_f1ghter_equ1pment_2_short:0 "뱀파이어"
+ NZL_jet_f1ghter_equ1pment_x:0 "드 해빌랜드 베놈"
+ NZL_jet_f1ghter_equ1pment_x_short:0 "베놈"
  
-#-> Carrier-based jet fighters <><>
- NZL_cv_jet_fighter_equipment_1:0 "Gloster Meteor CV"
- NZL_cv_jet_fighter_equipment_1_short:0 "Meteor CV"
- NZL_cv_jet_fighter_equipment_2:0 "de Havilland Vampire CV"
- NZL_cv_jet_fighter_equipment_2_short:0 "Vampire CV"
- NZL_cv_jet_fighter_equipment_x:0 "de Havilland Venom CV"
- NZL_cv_jet_fighter_equipment_x_short:0 "Venom CV"
+#-> Carr1er-based jet f1ghters <><>
+ NZL_cv_jet_f1ghter_equ1pment_1:0 "슈퍼마린 어태커"
+ NZL_cv_jet_f1ghter_equ1pment_1_short:0 "어태커"
+ NZL_cv_jet_f1ghter_equ1pment_2:0 "호커 시호크"
+ NZL_cv_jet_f1ghter_equ1pment_2_short:0 "시호크"
+ NZL_cv_jet_f1ghter_equ1pment_x:0 "드 해빌랜드 시베놈"
+ NZL_cv_jet_f1ghter_equ1pment_x_short:0 "시베놈"
 
-#-> Jet medium bomber <><>
- NZL_jet_tac_bomber_equipment_1:0 "de Havilland Venom"
- NZL_jet_tac_bomber_equipment_1_short:0 "Venom"
- NZL_jet_tac_bomber_equipment_2:0 "English Electric Canberra"
- NZL_jet_tac_bomber_equipment_2_short:0 "Canberra"
+#-> Jet med1um bomber <><>
+ NZL_jet_tac_bomber_equ1pment_1:0 "드 해빌랜드 베놈"
+ NZL_jet_tac_bomber_equ1pment_1_short:0 "베놈"
+ NZL_jet_tac_bomber_equ1pment_2:0 "잉글리시 일렉트릭 캔버라"
+ NZL_jet_tac_bomber_equ1pment_2_short:0 "캔버라"
  
 #-> Jet heavy bomber <><>
- NZL_jet_strat_bomber_equipment_1:0 "Vickers Valiant"
- NZL_jet_strat_bomber_equipment_1_short:0 "Valiant"
- NZL_jet_strat_bomber_equipment_1:0 "Vickers Valiant B.2"
- NZL_jet_strat_bomber_equipment_1_short:0 "Valiant B.2"
+ NZL_jet_strat_bomber_equ1pment_1:0 "빅커스 발리언트"
+ NZL_jet_strat_bomber_equ1pment_1_short:0 "발리언트"
+ NZL_jet_strat_bomber_equ1pment_1:0 "빅커스 발리언트 B.2"
+ NZL_jet_strat_bomber_equ1pment_1_short:0 "발리언트 B.2"
 
  
 ###--->  RAJ  <><> <><> <><>
-#-> Dive bombers <><>
- RAJ_CAS_equipment_1:0 "Hawker Hector"
- RAJ_CAS_equipment_1_short:0 "Hector"
- RAJ_CAS_equipment_2:0 "Hawker Typhoon"
- RAJ_CAS_equipment_2_short:0 "Typhoon"
- RAJ_CAS_equipment_3:0 "Hawker Tempest"
- RAJ_CAS_equipment_3_short:0 "Tempest"
+#-> D1ve bombers <><>
+ RAJ_CAS_equ1pment_1:0 "호커 헥터"
+ RAJ_CAS_equ1pment_1_short:0 "헥터"
+ RAJ_CAS_equ1pment_2:0 "호커 타이푼"
+ RAJ_CAS_equ1pment_2_short:0 "타이푼"
+ RAJ_CAS_equ1pment_3:0 "호커 템페스트"
+ RAJ_CAS_equ1pment_3_short:0 "템페스트"
 
-#-> Carrier-based dive bombers <><>
- RAJ_cv_CAS_equipment_1:0 "Hawker Osprey"
- RAJ_cv_CAS_equipment_1_short:0 "Osprey"
- RAJ_cv_CAS_equipment_2:0 "Blackburn Skua"
- RAJ_cv_CAS_equipment_2_short:0 "Skua"
- RAJ_cv_CAS_equipment_3:0 "Hawker Sea Fury"
- RAJ_cv_CAS_equipment_3_short:0 "Sea Fury"
+#-> Carr1er-based d1ve bombers <><>
+ RAJ_cv_CAS_equ1pment_1:0 "호커 오스프리"
+ RAJ_cv_CAS_equ1pment_1_short:0 "오스프리"
+ RAJ_cv_CAS_equ1pment_2:0 "블랙번 스쿠아"
+ RAJ_cv_CAS_equ1pment_2_short:0 "스쿠아"
+ RAJ_cv_CAS_equ1pment_3:0 "호커 시 퓨리"
+ RAJ_cv_CAS_equ1pment_3_short:0 "시 퓨리"
 
-#-> Light fighters <><> 
- RAJ_fighter_equipment_0:0 "Hawker Nimrod"
- RAJ_fighter_equipment_0_short:0 "Nimrod"
- RAJ_fighter_equipment_1:0 "Hawker Nimrod II"
- RAJ_fighter_equipment_1_short:0 "Nimrod II"
- RAJ_fighter_equipment_2:0 "Supermarine Spitfire"
- RAJ_fighter_equipment_2_short:0 "Spitfire"
- RAJ_fighter_equipment_3:0 "Supermarine Spiteful"
- RAJ_fighter_equipment_3_short:0 "Spiteful"
+#-> L1ght f1ghters <><> 
+ RAJ_f1ghter_equ1pment_0:0 "호커 님로드"
+ RAJ_f1ghter_equ1pment_0_short:0 "님로드"
+ RAJ_f1ghter_equ1pment_1:0 "호커 님로드 2"
+ RAJ_f1ghter_equ1pment_1_short:0 "님로드 2"
+ RAJ_f1ghter_equ1pment_2:0 "슈퍼마린 스핏파이어"
+ RAJ_f1ghter_equ1pment_2_short:0 "스핏파이어
+ RAJ_f1ghter_equ1pment_3:0 "슈퍼마린 스파잇풀"
+ RAJ_f1ghter_equ1pment_3_short:0 "스파잇풀""
 
-#-> Light fighter-bombers <><>
- RAJ_fighter_bomber_equipment_2:0 "Supermarine Spitfire Mk. VB"
- RAJ_fighter_bomber_equipment_2_short:0 "Spitfire Mk. VB"
- RAJ_fighter_bomber_equipment_3:0 "Supermarine Spitefang"
- RAJ_fighter_bomber_equipment_3_short:0 "Spitefang"
+#-> L1ght f1ghter-bombers <><>
+ RAJ_f1ghter_bomber_equ1pment_2:0 "슈퍼마린 스핏파이어 Mk. VB"
+ RAJ_f1ghter_bomber_equ1pment_2_short:0 "스핏파이어 Mk. VB"
+ RAJ_f1ghter_bomber_equ1pment_3:0 "슈퍼마린 스파잇풀"
+ RAJ_f1ghter_bomber_equ1pment_3_short:0 "스파잇풀"
 
-#-> Carrier-based light fighters <><>
- RAJ_cv_fighter_equipment_0:0 "Hawker Nimrod"
- RAJ_cv_fighter_equipment_0_short:0 "Nimrod"
- RAJ_cv_fighter_equipment_1:0 "Gloster Sea Gladiator"
- RAJ_cv_fighter_equipment_1_short:0 "Sea Gladiator"
- RAJ_cv_fighter_equipment_2:0 "Fairey Fulmar"
- RAJ_cv_fighter_equipment_2_short:0 "Fulmar"
- RAJ_cv_fighter_equipment_3:0 "Fairey Firefly"
- RAJ_cv_fighter_equipment_3_short:0 "Firefly"
+#-> Carr1er-based l1ght f1ghters <><>
+ RAJ_cv_f1ghter_equ1pment_0:0 "호커 님로드"
+ RAJ_cv_f1ghter_equ1pment_0_short:0 "님로드"
+ RAJ_cv_f1ghter_equ1pment_1:0 "글로스터 시 글래디에이터"
+ RAJ_cv_f1ghter_equ1pment_1_short:0 "시 글래디에이터"
+ RAJ_cv_f1ghter_equ1pment_2:0 "페어리 풀머"
+ RAJ_cv_f1ghter_equ1pment_2_short:0 "풀머"
+ RAJ_cv_f1ghter_equ1pment_3:0 "페어리 파이어플라이"
+ RAJ_cv_f1ghter_equ1pment_3_short:0 "파이어플라이"
 
 #-> Torpedo bombers <><>
- RAJ_nav_bomber_equipment_1:0 "Fairey Swordfish"
- RAJ_nav_bomber_equipment_1_short:0 "Swordfish"
- RAJ_nav_bomber_equipment_2:0 "Fairey Albacore"
- RAJ_nav_bomber_equipment_2_short:0 "Albacore"
- RAJ_nav_bomber_equipment_3:0 "Fairey Barracuda"
- RAJ_nav_bomber_equipment_3_short:0 "Barracuda"
+ RAJ_nav_bomber_equ1pment_1:0 "페어리 소드피쉬"
+ RAJ_nav_bomber_equ1pment_1_short:0 "소드피쉬"
+ RAJ_nav_bomber_equ1pment_2:0 "페어리 알바코어"
+ RAJ_nav_bomber_equ1pment_2_short:0 "알바코어"
+ RAJ_nav_bomber_equ1pment_3:0 "페어리 바라쿠다"
+ RAJ_nav_bomber_equ1pment_3_short:0 "바라쿠다"
 
-#-> Carrier-based torpedo bombers <><>
- #RAJ_cv_nav_bomber_equipment_1:0 "Blackburn Shark"
- #RAJ_cv_nav_bomber_equipment_1_short:0 "Shark"
- #RAJ_cv_nav_bomber_equipment_2:0 "Blackburn Roc"
- #RAJ_cv_nav_bomber_equipment_2_short:0 "Roc"
- #RAJ_cv_nav_bomber_equipment_3:0 "Blackburn Firebrand"
- #RAJ_cv_nav_bomber_equipment_3_short:0 "Firebrand"
+#-> Carr1er-based torpedo bombers <><>
+ #RAJ_cv_nav_bomber_equ1pment_1:0 "블랙번 샤크"
+ #RAJ_cv_nav_bomber_equ1pment_1_short:0 "샤크"
+ #RAJ_cv_nav_bomber_equ1pment_2:0 "블랙번 록"
+ #RAJ_cv_nav_bomber_equ1pment_2_short:0 "록"
+ #RAJ_cv_nav_bomber_equ1pment_3:0 "블랙번 파이어브랜드"
+ #RAJ_cv_nav_bomber_equ1pment_3_short:0 "파이어브랜드"
 
-#-> Heavy fighters <><>
- RAJ_heavy_fighter_equipment_1:0 "Bristol Blenheim"
- RAJ_heavy_fighter_equipment_1_short:0 "Blenheim"
- RAJ_heavy_fighter_equipment_2:0 "Bristol Beaufighter"
- RAJ_heavy_fighter_equipment_2_short:0 "Beaufighter"
- RAJ_heavy_fighter_equipment_3:0 "de Havilland Mosquito FB"
- RAJ_heavy_fighter_equipment_3_short:0 "Mosquito FB"
+#-> Heavy f1ghters <><>
+ RAJ_heavy_f1ghter_equ1pment_1:0 "브리스톨 블렌헤임"
+ RAJ_heavy_f1ghter_equ1pment_1_short:0 "블렌헤임"
+ RAJ_heavy_f1ghter_equ1pment_2:0 "브리스톨 보파이터"
+ RAJ_heavy_f1ghter_equ1pment_2_short:0 "보파이터"
+ RAJ_heavy_f1ghter_equ1pment_3:0 "드 해빌랜드 모스키토 FB"
+ RAJ_heavy_f1ghter_equ1pment_3_short:0 "모스키토 FB"
 
-#-> Heavy fighter-bomber <><>
- RAJ_hfighter_bomber_equipment_1:0 "Bristol Blenheim Mk. IV"
- RAJ_hfighter_bomber_equipment_1_short:0 "Blenheim Mk. IV"
- RAJ_hfighter_bomber_equipment_2:0 "Bristol Beaufighter TF Mk. X"
- RAJ_hfighter_bomber_equipment_2_short:0 "Beaufighter TF Mk. X"
+#-> Heavy f1ghter-bomber <><>
+ RAJ_hf1ghter_bomber_equ1pment_1:0 "브리스톨 블렌헤임 Mk. 1V"
+ RAJ_hf1ghter_bomber_equ1pment_1_short:0 "블렌헤임 Mk. 1V"
+ RAJ_hf1ghter_bomber_equ1pment_2:0 "브리스톨 보파이터 TF Mk. X"
+ RAJ_hf1ghter_bomber_equ1pment_2_short:0 "보파이터 TF Mk. X"
 
-#-> Medium bomber <><>
- RAJ_tac_bomber_equipment_0:0 "Armstrong Whitworth Whitley"
- RAJ_tac_bomber_equipment_0_short:0 "Whitley"
- RAJ_tac_bomber_equipment_1:0 "Vickers Wellington"
- RAJ_tac_bomber_equipment_1_short:0 "Wellington"
- RAJ_tac_bomber_equipment_2:0 "Bristol Beaufort"
- RAJ_tac_bomber_equipment_2_short:0 "Beaufort"
- RAJ_tac_bomber_equipment_3:0 "de Havilland Mosquito B"
- RAJ_tac_bomber_equipment_3_short:0 "Mosquito B"
+#-> Med1um bomber <><>
+ RAJ_tac_bomber_equ1pment_0:0 "암스트롱 휘트워스 휘틀리"
+ RAJ_tac_bomber_equ1pment_0_short:0 "휘틀리"
+ RAJ_tac_bomber_equ1pment_1:0 "빅커스 웰링턴"
+ RAJ_tac_bomber_equ1pment_1_short:0 "웰링턴"
+ RAJ_tac_bomber_equ1pment_2:0 "브리스톨 뷰포트"
+ RAJ_tac_bomber_equ1pment_2_short:0 "뷰포트"
+ RAJ_tac_bomber_equ1pment_3:0 "드 해빌랜드 모스키토 B"
+ RAJ_tac_bomber_equ1pment_3_short:0 "모스키토 B"
 
-#-> Medium maritime bomber <><>
- RAJ_med_maritime_equipment_1:0 "Vickers Wellington GR Mk. VIII"
- RAJ_med_maritime_equipment_1_short:0 "Wellington Mk. VIII"
- RAJ_med_maritime_equipment_2:0 "Bristol Beaufort Mk. VI"
- RAJ_med_maritime_equipment_2_short:0 "Beaufort Mk. VI"
- RAJ_med_maritime_equipment_3:0 "de Havilland Mosquito TR"
- RAJ_med_maritime_equipment_3_short:0 "Mosquito TR"
+#-> Med1um mar1t1me bomber <><>
+ RAJ_med_mar1t1me_equ1pment_1:0 "빅커스 웰링턴 GR Mk. V3"
+ RAJ_med_mar1t1me_equ1pment_1_short:0 "웰링턴 Mk. V3"
+ RAJ_med_mar1t1me_equ1pment_2:0 "브리스톨 뷰포트 Mk. V1"
+ RAJ_med_mar1t1me_equ1pment_2_short:0 "뷰포트 Mk. V1"
+ RAJ_med_mar1t1me_equ1pment_3:0 "드 해빌랜드 모스키토 TR"
+ RAJ_med_mar1t1me_equ1pment_3_short:0 "모스키토 TR"
 
 #-> Heavy bomber <><>
- RAJ_strat_bomber_equipment_1:0 "Handley Page Halifax"
- RAJ_strat_bomber_equipment_1_short:0 "Halifax"
- RAJ_strat_bomber_equipment_2:0 "Avro Lancaster"
- RAJ_strat_bomber_equipment_2_short:0 "Lancaster"
- RAJ_strat_bomber_equipment_3:0 "Avro Lincoln"
- RAJ_strat_bomber_equipment_3_short:0 "Lincoln"
+ RAJ_strat_bomber_equ1pment_1:0 "핸들리 페이지 핼리팩스"
+ RAJ_strat_bomber_equ1pment_1_short:0 "핼리팩스"
+ RAJ_strat_bomber_equ1pment_2:0 "아브로 랭커스터"
+ RAJ_strat_bomber_equ1pment_2_short:0 "랭커스터"
+ RAJ_strat_bomber_equ1pment_3:0 "아브로 링컨"
+ RAJ_strat_bomber_equ1pment_3_short:0 "링컨"
 
-#-> Heavy maritime bomber <><>
- RAJ_strat_maritime_equipment_1:0 "Handley Page Halifax GR.II"
- RAJ_strat_maritime_equipment_1_short:0 "Halifax GR.II"
- RAJ_strat_maritime_equipment_2:0 "Avro Lancaster GR.3/MR.3"
- RAJ_strat_maritime_equipment_2_short:0 "Lancaster GR.3/MR.3"
- RAJ_strat_maritime_equipment_3:0 "Avro Lincoln III"
- RAJ_strat_maritime_equipment_3_short:0 "Lincoln III"
+#-> Heavy mar1t1me bomber <><>
+ RAJ_strat_mar1t1me_equ1pment_1:0 "핸들리 페이지 핼리팩스 GR.2"
+ RAJ_strat_mar1t1me_equ1pment_1_short:0 "핼리팩스 GR.2"
+ RAJ_strat_mar1t1me_equ1pment_2:0 "아브로 랭커스터 GR.3/MR.3"
+ RAJ_strat_mar1t1me_equ1pment_2_short:0 "랭커스터 GR.3/MR.3"
+ RAJ_strat_mar1t1me_equ1pment_3:0 "아브로 링컨 3"
+ RAJ_strat_mar1t1me_equ1pment_3_short:0 "링컨 3"
 
-#-> Maritime patrol <><>
- #RAJ_flying_boat_equipment_0: "Short Empire"
- #RAJ_flying_boat_equipment_0_short: "Empire"
- #RAJ_flying_boat_equipment_1:0 "Short Sunderland I"
- #RAJ_flying_boat_equipment_1_short:0 "Sunderland I"
- #RAJ_flying_boat_equipment_2:0 "Consolidated Catalina"
- #RAJ_flying_boat_equipment_2_short:0 "Catalina"
- #RAJ_flying_boat_equipment_3:0 "Martin Mariner"
- #RAJ_flying_boat_equipment_3_short:0 "Mariner"
+#-> Mar1t1me patrol <><>
+ #RAJ_fly1ng_boat_equ1pment_0: "숄트 엠파이어"
+ #RAJ_fly1ng_boat_equ1pment_0_short: "엠파이어"
+ #RAJ_fly1ng_boat_equ1pment_1:0 "숄트 선덜랜드 1"
+ #RAJ_fly1ng_boat_equ1pment_1_short:0 "선덜랜드 1"
+ #RAJ_fly1ng_boat_equ1pment_2:0 "컨설리데이터드 카탈리나"
+ #RAJ_fly1ng_boat_equ1pment_2_short:0 "카탈리나"
+ #RAJ_fly1ng_boat_equ1pment_3:0 "마틴 마리너"
+ #RAJ_fly1ng_boat_equ1pment_3_short:0 "마리너"
 
-#-> Jet fighters <><>
- RAJ_jet_fighter_equipment_1:0 "Gloster Meteor"
- RAJ_jet_fighter_equipment_1_short:0 "Meteor"
- RAJ_jet_fighter_equipment_2:0 "de Havilland Vampire"
- RAJ_jet_fighter_equipment_2_short:0 "Vampire"
- RAJ_jet_fighter_equipment_x:0 "de Havilland Venom"
- RAJ_jet_fighter_equipment_x_short:0 "Venom"
+#-> Jet f1ghters <><>
+ RAJ_jet_f1ghter_equ1pment_1:0 "글로스터 미티어"
+ RAJ_jet_f1ghter_equ1pment_1_short:0 "미티어"
+ RAJ_jet_f1ghter_equ1pment_2:0 "드 해빌랜드 뱀파이어"
+ RAJ_jet_f1ghter_equ1pment_2_short:0 "뱀파이어"
+ RAJ_jet_f1ghter_equ1pment_x:0 "드 해빌랜드 베놈"
+ RAJ_jet_f1ghter_equ1pment_x_short:0 "베놈"
  
-#-> Carrier-based jet fighters <><>
- RAJ_cv_jet_fighter_equipment_1:0 "Gloster Meteor CV"
- RAJ_cv_jet_fighter_equipment_1_short:0 "Meteor CV"
- RAJ_cv_jet_fighter_equipment_2:0 "de Havilland Vampire CV"
- RAJ_cv_jet_fighter_equipment_2_short:0 "Vampire CV"
- RAJ_cv_jet_fighter_equipment_x:0 "de Havilland Venom CV"
- RAJ_cv_jet_fighter_equipment_x_short:0 "Venom CV"
+#-> Carr1er-based jet f1ghters <><>
+ RAJ_cv_jet_f1ghter_equ1pment_1:0 "슈퍼마린 어태커"
+ RAJ_cv_jet_f1ghter_equ1pment_1_short:0 "어태커"
+ RAJ_cv_jet_f1ghter_equ1pment_2:0 "호커 시호크"
+ RAJ_cv_jet_f1ghter_equ1pment_2_short:0 "시호크"
+ RAJ_cv_jet_f1ghter_equ1pment_x:0 "드 해빌랜드 시베놈"
+ RAJ_cv_jet_f1ghter_equ1pment_x_short:0 "시베놈"
 
-#-> Jet medium bomber <><>
- RAJ_jet_tac_bomber_equipment_1:0 "de Havilland Venom"
- RAJ_jet_tac_bomber_equipment_1_short:0 "Venom"
- RAJ_jet_tac_bomber_equipment_2:0 "English Electric Canberra"
- RAJ_jet_tac_bomber_equipment_2_short:0 "Canberra"
+#-> Jet med1um bomber <><>
+ RAJ_jet_tac_bomber_equ1pment_1:0 "드 해빌랜드 베놈"
+ RAJ_jet_tac_bomber_equ1pment_1_short:0 "베놈"
+ RAJ_jet_tac_bomber_equ1pment_2:0 "잉글리시 일렉트릭 캔버라"
+ RAJ_jet_tac_bomber_equ1pment_2_short:0 "캔버라"
  
 #-> Jet heavy bomber <><>
- RAJ_jet_strat_bomber_equipment_1:0 "Vickers Valiant"
- RAJ_jet_strat_bomber_equipment_1_short:0 "Valiant"
- RAJ_jet_strat_bomber_equipment_1:0 "Vickers Valiant B.2"
- RAJ_jet_strat_bomber_equipment_1_short:0 "Valiant B.2"
+ RAJ_jet_strat_bomber_equ1pment_1:0 "빅커스 발리언트"
+ RAJ_jet_strat_bomber_equ1pment_1_short:0 "발리언트"
+ RAJ_jet_strat_bomber_equ1pment_1:0 "빅커스 발리언트 B.2"
+ RAJ_jet_strat_bomber_equ1pment_1_short:0 "발리언트 B.2"
 
 
 ###--->  SAF  <><> <><> <><>
-#-> Dive bombers <><>
- SAF_CAS_equipment_1:0 "Hawker Hector"
- SAF_CAS_equipment_1_short:0 "Hector"
- SAF_CAS_equipment_2:0 "Hawker Typhoon"
- SAF_CAS_equipment_2_short:0 "Typhoon"
- SAF_CAS_equipment_3:0 "Hawker Tempest"
- SAF_CAS_equipment_3_short:0 "Tempest"
+#-> D1ve bombers <><>
+ SAF_CAS_equ1pment_1:0 "호커 헥터"
+ SAF_CAS_equ1pment_1_short:0 "헥터"
+ SAF_CAS_equ1pment_2:0 "호커 타이푼"
+ SAF_CAS_equ1pment_2_short:0 "타이푼"
+ SAF_CAS_equ1pment_3:0 "호커 템페스트"
+ SAF_CAS_equ1pment_3_short:0 "템페스트"
 
-#-> Carrier-based dive bombers <><>
- SAF_cv_CAS_equipment_1:0 "Hawker Osprey"
- SAF_cv_CAS_equipment_1_short:0 "Osprey"
- SAF_cv_CAS_equipment_2:0 "Blackburn Skua"
- SAF_cv_CAS_equipment_2_short:0 "Skua"
- SAF_cv_CAS_equipment_3:0 "Hawker Sea Fury"
- SAF_cv_CAS_equipment_3_short:0 "Sea Fury"
+#-> Carr1er-based d1ve bombers <><>
+ SAF_cv_CAS_equ1pment_1:0 "호커 오스프리"
+ SAF_cv_CAS_equ1pment_1_short:0 "오스프리"
+ SAF_cv_CAS_equ1pment_2:0 "블랙번 스쿠아"
+ SAF_cv_CAS_equ1pment_2_short:0 "스쿠아"
+ SAF_cv_CAS_equ1pment_3:0 "호커 시 퓨리"
+ SAF_cv_CAS_equ1pment_3_short:0 "시 퓨리"
 
-#-> Light fighters <><> 
- SAF_fighter_equipment_0:0 "Gloster Gladiator"
- SAF_fighter_equipment_0_short:0 "Gladiator"
- SAF_fighter_equipment_1:0 "Hawker Hurricane"
- SAF_fighter_equipment_1_short:0 "Hurricane"
- SAF_fighter_equipment_2:0 "Supermarine Spitfire"
- SAF_fighter_equipment_2_short:0 "Spitfire"
- SAF_fighter_equipment_3:0 "Supermarine Spiteful"
- SAF_fighter_equipment_3_short:0 "Spiteful"
+#-> L1ght f1ghters <><> 
+ SAF_f1ghter_equ1pment_0:0 "글로스터 글래디에이터"
+ SAF_f1ghter_equ1pment_0_short:0 "글래디에이터"
+ SAF_f1ghter_equ1pment_1:0 "호커 허리케인"
+ SAF_f1ghter_equ1pment_1_short:0 "허리케인"
+ SAF_f1ghter_equ1pment_2:0 "슈퍼마린 스핏파이어"
+ SAF_f1ghter_equ1pment_2_short:0 "스핏파이어
+ SAF_f1ghter_equ1pment_3:0 "슈퍼마린 스파잇풀"
+ SAF_f1ghter_equ1pment_3_short:0 "스파잇풀""
 
-#-> Light fighter-bombers <><>
- SAF_fighter_bomber_equipment_2:0 "Supermarine Spitfire Mk. VB"
- SAF_fighter_bomber_equipment_2_short:0 "Spitfire Mk. VB"
- SAF_fighter_bomber_equipment_3:0 "Supermarine Spitefang"
- SAF_fighter_bomber_equipment_3_short:0 "Spitefang"
+#-> L1ght f1ghter-bombers <><>
+ SAF_f1ghter_bomber_equ1pment_2:0 "슈퍼마린 스핏파이어 Mk. VB"
+ SAF_f1ghter_bomber_equ1pment_2_short:0 "스핏파이어 Mk. VB"
+ SAF_f1ghter_bomber_equ1pment_3:0 "슈퍼마린 스파잇풀"
+ SAF_f1ghter_bomber_equ1pment_3_short:0 "스파잇풀"
 
-#-> Carrier-based light fighters <><>
- SAF_cv_fighter_equipment_0:0 "Hawker Nimrod"
- SAF_cv_fighter_equipment_0_short:0 "Nimrod"
- SAF_cv_fighter_equipment_1:0 "Gloster Sea Gladiator"
- SAF_cv_fighter_equipment_1_short:0 "Sea Gladiator"
- SAF_cv_fighter_equipment_2:0 "Fairey Fulmar"
- SAF_cv_fighter_equipment_2_short:0 "Fulmar"
- SAF_cv_fighter_equipment_3:0 "Fairey Firefly"
- SAF_cv_fighter_equipment_3_short:0 "Firefly"
+#-> Carr1er-based l1ght f1ghters <><>
+ SAF_cv_f1ghter_equ1pment_0:0 "호커 님로드"
+ SAF_cv_f1ghter_equ1pment_0_short:0 "님로드"
+ SAF_cv_f1ghter_equ1pment_1:0 "글로스터 시 글래디에이터"
+ SAF_cv_f1ghter_equ1pment_1_short:0 "시 글래디에이터"
+ SAF_cv_f1ghter_equ1pment_2:0 "페어리 풀머"
+ SAF_cv_f1ghter_equ1pment_2_short:0 "풀머"
+ SAF_cv_f1ghter_equ1pment_3:0 "페어리 파이어플라이"
+ SAF_cv_f1ghter_equ1pment_3_short:0 "파이어플라이"
 
 #-> Torpedo bombers <><>
- SAF_nav_bomber_equipment_1:0 "Fairey Swordfish"
- SAF_nav_bomber_equipment_1_short:0 "Swordfish"
- SAF_nav_bomber_equipment_2:0 "Fairey Albacore"
- SAF_nav_bomber_equipment_2_short:0 "Albacore"
- SAF_nav_bomber_equipment_3:0 "Fairey Barracuda"
- SAF_nav_bomber_equipment_3_short:0 "Barracuda"
+ SAF_nav_bomber_equ1pment_1:0 "페어리 소드피쉬"
+ SAF_nav_bomber_equ1pment_1_short:0 "소드피쉬"
+ SAF_nav_bomber_equ1pment_2:0 "페어리 알바코어"
+ SAF_nav_bomber_equ1pment_2_short:0 "알바코어"
+ SAF_nav_bomber_equ1pment_3:0 "페어리 바라쿠다"
+ SAF_nav_bomber_equ1pment_3_short:0 "바라쿠다"
 
-#-> Carrier-based torpedo bombers <><>
- #SAF_cv_nav_bomber_equipment_1:0 "Blackburn Shark"
- #SAF_cv_nav_bomber_equipment_1_short:0 "Shark"
- #SAF_cv_nav_bomber_equipment_2:0 "Blackburn Roc"
- #SAF_cv_nav_bomber_equipment_2_short:0 "Roc"
- #SAF_cv_nav_bomber_equipment_3:0 "Blackburn Firebrand"
- #SAF_cv_nav_bomber_equipment_3_short:0 "Firebrand"
+#-> Carr1er-based torpedo bombers <><>
+ #SAF_cv_nav_bomber_equ1pment_1:0 "블랙번 샤크"
+ #SAF_cv_nav_bomber_equ1pment_1_short:0 "샤크"
+ #SAF_cv_nav_bomber_equ1pment_2:0 "블랙번 록"
+ #SAF_cv_nav_bomber_equ1pment_2_short:0 "록"
+ #SAF_cv_nav_bomber_equ1pment_3:0 "블랙번 파이어브랜드"
+ #SAF_cv_nav_bomber_equ1pment_3_short:0 "파이어브랜드"
 
-#-> Heavy fighters <><>
- SAF_heavy_fighter_equipment_1:0 "Bristol Blenheim"
- SAF_heavy_fighter_equipment_1_short:0 "Blenheim"
- SAF_heavy_fighter_equipment_2:0 "Bristol Beaufighter"
- SAF_heavy_fighter_equipment_2_short:0 "Beaufighter"
- SAF_heavy_fighter_equipment_3:0 "de Havilland Mosquito FB"
- SAF_heavy_fighter_equipment_3_short:0 "Mosquito FB"
+#-> Heavy f1ghters <><>
+ SAF_heavy_f1ghter_equ1pment_1:0 "브리스톨 블렌헤임"
+ SAF_heavy_f1ghter_equ1pment_1_short:0 "블렌헤임"
+ SAF_heavy_f1ghter_equ1pment_2:0 "브리스톨 보파이터"
+ SAF_heavy_f1ghter_equ1pment_2_short:0 "보파이터"
+ SAF_heavy_f1ghter_equ1pment_3:0 "드 해빌랜드 모스키토 FB"
+ SAF_heavy_f1ghter_equ1pment_3_short:0 "모스키토 FB"
 
-#-> Heavy fighter-bomber <><>
- SAF_hfighter_bomber_equipment_1:0 "Bristol Blenheim Mk. IV"
- SAF_hfighter_bomber_equipment_1_short:0 "Blenheim Mk. IV"
- SAF_hfighter_bomber_equipment_2:0 "Bristol Beaufighter TF Mk. X"
- SAF_hfighter_bomber_equipment_2_short:0 "Beaufighter TF Mk. X"
+#-> Heavy f1ghter-bomber <><>
+ SAF_hf1ghter_bomber_equ1pment_1:0 "브리스톨 블렌헤임 Mk. 1V"
+ SAF_hf1ghter_bomber_equ1pment_1_short:0 "블렌헤임 Mk. 1V"
+ SAF_hf1ghter_bomber_equ1pment_2:0 "브리스톨 보파이터 TF Mk. X"
+ SAF_hf1ghter_bomber_equ1pment_2_short:0 "보파이터 TF Mk. X"
 
-#-> Medium bomber <><>
- SAF_tac_bomber_equipment_0:0 "Armstrong Whitworth Whitley"
- SAF_tac_bomber_equipment_0_short:0 "Whitley"
- SAF_tac_bomber_equipment_1:0 "Vickers Wellington"
- SAF_tac_bomber_equipment_1_short:0 "Wellington"
- SAF_tac_bomber_equipment_2:0 "Bristol Beaufort"
- SAF_tac_bomber_equipment_2_short:0 "Beaufort"
- SAF_tac_bomber_equipment_3:0 "de Havilland Mosquito B"
- SAF_tac_bomber_equipment_3_short:0 "Mosquito B"
+#-> Med1um bomber <><>
+ SAF_tac_bomber_equ1pment_0:0 "암스트롱 휘트워스 휘틀리"
+ SAF_tac_bomber_equ1pment_0_short:0 "휘틀리"
+ SAF_tac_bomber_equ1pment_1:0 "빅커스 웰링턴"
+ SAF_tac_bomber_equ1pment_1_short:0 "웰링턴"
+ SAF_tac_bomber_equ1pment_2:0 "브리스톨 뷰포트"
+ SAF_tac_bomber_equ1pment_2_short:0 "뷰포트"
+ SAF_tac_bomber_equ1pment_3:0 "드 해빌랜드 모스키토 B"
+ SAF_tac_bomber_equ1pment_3_short:0 "모스키토 B"
 
-#-> Medium maritime bomber <><>
- SAF_med_maritime_equipment_1:0 "Vickers Wellington GR Mk. VIII"
- SAF_med_maritime_equipment_1_short:0 "Wellington Mk. VIII"
- SAF_med_maritime_equipment_2:0 "Bristol Beaufort Mk. VI"
- SAF_med_maritime_equipment_2_short:0 "Beaufort Mk. VI"
- SAF_med_maritime_equipment_3:0 "de Havilland Mosquito TR"
- SAF_med_maritime_equipment_3_short:0 "Mosquito TR"
+#-> Med1um mar1t1me bomber <><>
+ SAF_med_mar1t1me_equ1pment_1:0 "빅커스 웰링턴 GR Mk. V3"
+ SAF_med_mar1t1me_equ1pment_1_short:0 "웰링턴 Mk. V3"
+ SAF_med_mar1t1me_equ1pment_2:0 "브리스톨 뷰포트 Mk. V1"
+ SAF_med_mar1t1me_equ1pment_2_short:0 "뷰포트 Mk. V1"
+ SAF_med_mar1t1me_equ1pment_3:0 "드 해빌랜드 모스키토 TR"
+ SAF_med_mar1t1me_equ1pment_3_short:0 "모스키토 TR"
 
 #-> Heavy bomber <><>
- SAF_strat_bomber_equipment_1:0 "Handley Page Halifax"
- SAF_strat_bomber_equipment_1_short:0 "Halifax"
- SAF_strat_bomber_equipment_2:0 "Avro Lancaster"
- SAF_strat_bomber_equipment_2_short:0 "Lancaster"
- SAF_strat_bomber_equipment_3:0 "Avro Lincoln"
- SAF_strat_bomber_equipment_3_short:0 "Lincoln"
+ SAF_strat_bomber_equ1pment_1:0 "핸들리 페이지 핼리팩스"
+ SAF_strat_bomber_equ1pment_1_short:0 "핼리팩스"
+ SAF_strat_bomber_equ1pment_2:0 "아브로 랭커스터"
+ SAF_strat_bomber_equ1pment_2_short:0 "랭커스터"
+ SAF_strat_bomber_equ1pment_3:0 "아브로 링컨"
+ SAF_strat_bomber_equ1pment_3_short:0 "링컨"
 
-#-> Heavy maritime bomber <><>
- SAF_strat_maritime_equipment_1:0 "Handley Page Halifax GR.II"
- SAF_strat_maritime_equipment_1_short:0 "Halifax GR.II"
- SAF_strat_maritime_equipment_2:0 "Avro Lancaster GR.3/MR.3"
- SAF_strat_maritime_equipment_2_short:0 "Lancaster GR.3/MR.3"
- SAF_strat_maritime_equipment_3:0 "Avro Lincoln III"
- SAF_strat_maritime_equipment_3_short:0 "Lincoln III"
+#-> Heavy mar1t1me bomber <><>
+ SAF_strat_mar1t1me_equ1pment_1:0 "핸들리 페이지 핼리팩스 GR.2"
+ SAF_strat_mar1t1me_equ1pment_1_short:0 "핼리팩스 GR.2"
+ SAF_strat_mar1t1me_equ1pment_2:0 "아브로 랭커스터 GR.3/MR.3"
+ SAF_strat_mar1t1me_equ1pment_2_short:0 "랭커스터 GR.3/MR.3"
+ SAF_strat_mar1t1me_equ1pment_3:0 "아브로 링컨 3"
+ SAF_strat_mar1t1me_equ1pment_3_short:0 "링컨 3"
 
-#-> Maritime patrol <><>
- #SAF_flying_boat_equipment_0: "Short Empire"
- #SAF_flying_boat_equipment_0_short: "Empire"
- #SAF_flying_boat_equipment_1:0 "Short Sunderland I"
- #SAF_flying_boat_equipment_1_short:0 "Sunderland I"
- #SAF_flying_boat_equipment_2:0 "Consolidated Catalina"
- #SAF_flying_boat_equipment_2_short:0 "Catalina"
- #SAF_flying_boat_equipment_3:0 "Martin Mariner"
- #SAF_flying_boat_equipment_3_short:0 "Mariner"
+#-> Mar1t1me patrol <><>
+ #SAF_fly1ng_boat_equ1pment_0: "숄트 엠파이어"
+ #SAF_fly1ng_boat_equ1pment_0_short: "엠파이어"
+ #SAF_fly1ng_boat_equ1pment_1:0 "숄트 선덜랜드 1"
+ #SAF_fly1ng_boat_equ1pment_1_short:0 "선덜랜드 1"
+ #SAF_fly1ng_boat_equ1pment_2:0 "컨설리데이터드 카탈리나"
+ #SAF_fly1ng_boat_equ1pment_2_short:0 "카탈리나"
+ #SAF_fly1ng_boat_equ1pment_3:0 "마틴 마리너"
+ #SAF_fly1ng_boat_equ1pment_3_short:0 "마리너"
 
-#-> Jet fighters <><>
- SAF_jet_fighter_equipment_1:0 "Gloster Meteor"
- SAF_jet_fighter_equipment_1_short:0 "Meteor"
- SAF_jet_fighter_equipment_2:0 "de Havilland Vampire"
- SAF_jet_fighter_equipment_2_short:0 "Vampire"
- SAF_jet_fighter_equipment_x:0 "de Havilland Venom"
- SAF_jet_fighter_equipment_x_short:0 "Venom"
+#-> Jet f1ghters <><>
+ SAF_jet_f1ghter_equ1pment_1:0 "글로스터 미티어"
+ SAF_jet_f1ghter_equ1pment_1_short:0 "미티어"
+ SAF_jet_f1ghter_equ1pment_2:0 "드 해빌랜드 뱀파이어"
+ SAF_jet_f1ghter_equ1pment_2_short:0 "뱀파이어"
+ SAF_jet_f1ghter_equ1pment_x:0 "드 해빌랜드 베놈"
+ SAF_jet_f1ghter_equ1pment_x_short:0 "베놈"
  
-#-> Carrier-based jet fighters <><>
- SAF_cv_jet_fighter_equipment_1:0 "Gloster Meteor CV"
- SAF_cv_jet_fighter_equipment_1_short:0 "Meteor CV"
- SAF_cv_jet_fighter_equipment_2:0 "de Havilland Vampire CV"
- SAF_cv_jet_fighter_equipment_2_short:0 "Vampire CV"
- SAF_cv_jet_fighter_equipment_x:0 "de Havilland Venom CV"
- SAF_cv_jet_fighter_equipment_x_short:0 "Venom CV"
+#-> Carr1er-based jet f1ghters <><>
+ SAF_cv_jet_f1ghter_equ1pment_1:0 "슈퍼마린 어태커"
+ SAF_cv_jet_f1ghter_equ1pment_1_short:0 "어태커"
+ SAF_cv_jet_f1ghter_equ1pment_2:0 "호커 시호크"
+ SAF_cv_jet_f1ghter_equ1pment_2_short:0 "시호크"
+ SAF_cv_jet_f1ghter_equ1pment_x:0 "드 해빌랜드 시베놈"
+ SAF_cv_jet_f1ghter_equ1pment_x_short:0 "시베놈"
 
-#-> Jet medium bomber <><>
- SAF_jet_tac_bomber_equipment_1:0 "de Havilland Venom"
- SAF_jet_tac_bomber_equipment_1_short:0 "Venom"
- SAF_jet_tac_bomber_equipment_2:0 "English Electric Canberra"
- SAF_jet_tac_bomber_equipment_2_short:0 "Canberra"
+#-> Jet med1um bomber <><>
+ SAF_jet_tac_bomber_equ1pment_1:0 "드 해빌랜드 베놈"
+ SAF_jet_tac_bomber_equ1pment_1_short:0 "베놈"
+ SAF_jet_tac_bomber_equ1pment_2:0 "잉글리시 일렉트릭 캔버라"
+ SAF_jet_tac_bomber_equ1pment_2_short:0 "캔버라"
  
 #-> Jet heavy bomber <><>
- SAF_jet_strat_bomber_equipment_1:0 "Vickers Valiant"
- SAF_jet_strat_bomber_equipment_1_short:0 "Valiant"
- SAF_jet_strat_bomber_equipment_1:0 "Vickers Valiant B.2"
- SAF_jet_strat_bomber_equipment_1_short:0 "Valiant B.2"
+ SAF_jet_strat_bomber_equ1pment_1:0 "빅커스 발리언트"
+ SAF_jet_strat_bomber_equ1pment_1_short:0 "발리언트"
+ SAF_jet_strat_bomber_equ1pment_1:0 "빅커스 발리언트 B.2"
+ SAF_jet_strat_bomber_equ1pment_1_short:0 "발리언트 B.2"
 
 
 ###--->  FRA  <><> <><> <><>
@@ -4164,476 +4159,476 @@ l_english:
 
 ###--->  GER  <><> <><> <><>
 #-> Transport planes <><>
- GER_transport_plane_equipment_1:0 "Ju 52"
+ GER_transport_plane_equ1pment_1:0 "Ju 52"
  
-#-> Dive bombers <><>
- GER_CAS_equipment_1:0 "Junkers Ju 87 Stuka"
- GER_CAS_equipment_1_short:0 "Ju 87"
- GER_CAS_equipment_2:0 "Junkers Ju 87 G Kanonenvogel"
- GER_CAS_equipment_2_short:0 "Ju 87 G Kanonenvogel"
- GER_CAS_equipment_3:0 "Henschel Hs-129"
- GER_CAS_equipment_3_short:0 "Hs-129"
+#-> D1ve bombers <><>
+ GER_CAS_equ1pment_1:0 "융커스 Ju 87 슈투카"
+ GER_CAS_equ1pment_1_short:0 "Ju 87"
+ GER_CAS_equ1pment_2:0 "융커스 Ju 87 G 카노넨포겔"
+ GER_CAS_equ1pment_2_short:0 "Ju 87 G 카노넨포겔"
+ GER_CAS_equ1pment_3:0 "헨셸 Hs-129"
+ GER_CAS_equ1pment_3_short:0 "Hs-129"
  
-#-> Carrier-based dive bombers <><>
- GER_cv_CAS_equipment_1:0 "Junkers Ju 87 C Stuka"
- GER_cv_CAS_equipment_1_short:0 "Ju 87 C Stuka"
- GER_cv_CAS_equipment_2:0 "Junkers Ju 87 D-4"
- GER_cv_CAS_equipment_2_short:0 "Ju 87 D-4"
- GER_cv_CAS_equipment_3:0 "Junkers Ju 187 C"
- GER_cv_CAS_equipment_3_short:0 "Ju 187 C"
+#-> Carr1er-based d1ve bombers <><>
+ GER_cv_CAS_equ1pment_1:0 "융커스 Ju 87 C 슈투카"
+ GER_cv_CAS_equ1pment_1_short:0 "Ju 87 C 슈투카"
+ GER_cv_CAS_equ1pment_2:0 "융커스 Ju 87 D-4"
+ GER_cv_CAS_equ1pment_2_short:0 "Ju 87 D-4"
+ GER_cv_CAS_equ1pment_3:0 "융커스 Ju 187 C"
+ GER_cv_CAS_equ1pment_3_short:0 "Ju 187 C"
  
-#-> Light fighters <><> 
- GER_fighter_equipment_0:0 "Heinkel He 51"
- GER_fighter_equipment_0_short:0 "He 51"
- GER_fighter_equipment_1:0 "Messerschmitt Bf 109"
- GER_fighter_equipment_1_short:0 "Bf 109"
- GER_fighter_equipment_2:0 "Focke-Wulf Fw 190 Würger"
- GER_fighter_equipment_2_short:0 "Fw 190 Würger"
- GER_fighter_equipment_3:0 "Focke-Wulf Ta 152"
- GER_fighter_equipment_3_short:0 "Ta 152"
+#-> L1ght f1ghters <><> 
+ GER_f1ghter_equ1pment_0:0 "하인켈 He 51"
+ GER_f1ghter_equ1pment_0_short:0 "He 51"
+ GER_f1ghter_equ1pment_1:0 "메서슈미트 Bf 109"
+ GER_f1ghter_equ1pment_1_short:0 "Bf 109"
+ GER_f1ghter_equ1pment_2:0 "보케불프 Fw 190 뷔어거"
+ GER_f1ghter_equ1pment_2_short:0 "Fw 190 뷔어거"
+ GER_f1ghter_equ1pment_3:0 "보케불프 Ta 152"
+ GER_f1ghter_equ1pment_3_short:0 "Ta 152"
 
-#-> Light fighter-bombers <><>
- GER_fighter_bomber_equipment_2:0 "Focke-Wulf Fw 190 A-3/U3 Würger"
- GER_fighter_bomber_equipment_2_short:0 "Fw 190 A-3/U3 Würger"
- GER_fighter_bomber_equipment_3:0 "Focke-Wulf Ta 152 H-2"
- GER_fighter_bomber_equipment_3_short:0 "Ta 152 H-2"
+#-> L1ght f1ghter-bombers <><>
+ GER_f1ghter_bomber_equ1pment_2:0 "보케불프 Fw 190 A-3/U3 뷔어거"
+ GER_f1ghter_bomber_equ1pment_2_short:0 "Fw 190 A-3/U3 뷔어거"
+ GER_f1ghter_bomber_equ1pment_3:0 "보케불프 Ta 152 H-2"
+ GER_f1ghter_bomber_equ1pment_3_short:0 "Ta 152 H-2"
 
-#-> Carrier-based light fighters <><>
- GER_cv_fighter_equipment_0:0 "Heinkel HD 23"
- GER_cv_fighter_equipment_0_short:0 "HD 23"
- GER_cv_fighter_equipment_1:0 "Arado Ar 197"
- GER_cv_fighter_equipment_1_short:0 "Ar 197"
- GER_cv_fighter_equipment_2:0 "Messerschmitt Bf 109 T"
- GER_cv_fighter_equipment_2_short:0 "Bf 109 T"
- GER_cv_fighter_equipment_3:0 "Blohm & Voss BV 155"
- GER_cv_fighter_equipment_3_short:0 "BV 155"
+#-> Carr1er-based l1ght f1ghters <><>
+ GER_cv_f1ghter_equ1pment_0:0 "하인켈 HD 23"
+ GER_cv_f1ghter_equ1pment_0_short:0 "HD 23"
+ GER_cv_f1ghter_equ1pment_1:0 "아라도 Ar 197"
+ GER_cv_f1ghter_equ1pment_1_short:0 "Ar 197"
+ GER_cv_f1ghter_equ1pment_2:0 "메서슈미트 Bf 109 T"
+ GER_cv_f1ghter_equ1pment_2_short:0 "Bf 109 T"
+ GER_cv_f1ghter_equ1pment_3:0 "브롬 운트 포스 BV 155"
+ GER_cv_f1ghter_equ1pment_3_short:0 "BV 155"
  
 #-> Torpedo bombers <><>
- GER_nav_bomber_equipment_1:0 "Arado Ar 195"
- GER_nav_bomber_equipment_1_short:0 "Ar 195"
- GER_nav_bomber_equipment_2:0 "Fieseler Fi 167"
- GER_nav_bomber_equipment_2_short:0 "Fi 167"
- GER_nav_bomber_equipment_3:0 "Focke-Wulf Fw 190 A-5/U-14 Würger"
- GER_nav_bomber_equipment_3_short:0 "Fw 190 A-5/U-14 Würger"
+ GER_nav_bomber_equ1pment_1:0 "아라도 Ar 195"
+ GER_nav_bomber_equ1pment_1_short:0 "Ar 195"
+ GER_nav_bomber_equ1pment_2:0 "피젤러 F1 167"
+ GER_nav_bomber_equ1pment_2_short:0 "F1 167"
+ GER_nav_bomber_equ1pment_3:0 "보케불프 Fw 190 A-5/U-14 뷔어거"
+ GER_nav_bomber_equ1pment_3_short:0 "Fw 190 A-5/U-14 뷔어거"
 
-#-> Carrier-based torpedo bombers <><>
-#GER_cv_nav_bomber_equipment_1:0 "Fieseler Fi 167"
-#GER_cv_nav_bomber_equipment_1_short:0 "Fi 167"
-#GER_cv_nav_bomber_equipment_2:0 "Arado Ar 195"
-#GER_cv_nav_bomber_equipment_2_short:0 "Ar 195"
-#GER_cv_nav_bomber_equipment_3:0 "Arado Ar 215"
-#GER_cv_nav_bomber_equipment_3_short:0 "Ar 215"
+#-> Carr1er-based torpedo bombers <><>
+#GER_cv_nav_bomber_equ1pment_1:0 "피젤러 F1 167"
+#GER_cv_nav_bomber_equ1pment_1_short:0 "F1 167"
+#GER_cv_nav_bomber_equ1pment_2:0 "아라도 Ar 195"
+#GER_cv_nav_bomber_equ1pment_2_short:0 "Ar 195"
+#GER_cv_nav_bomber_equ1pment_3:0 "아라도 Ar 215"
+#GER_cv_nav_bomber_equ1pment_3_short:0 "Ar 215"
 
-#-> Heavy fighters <><>
- GER_heavy_fighter_equipment_1:0 "Messerschmitt Bf 110"
- GER_heavy_fighter_equipment_1_short:0 "Bf 110"
- GER_heavy_fighter_equipment_2:0 "Messerschmitt Me 410 Hornisse"
- GER_heavy_fighter_equipment_2_short:0 "Me 410 Hornisse"
- GER_heavy_fighter_equipment_3:0 "Junkers Ju 388"
- GER_heavy_fighter_equipment_3_short:0 "Ju 388"
+#-> Heavy f1ghters <><>
+ GER_heavy_f1ghter_equ1pment_1:0 "메서슈미트 Bf 110"
+ GER_heavy_f1ghter_equ1pment_1_short:0 "Bf 110"
+ GER_heavy_f1ghter_equ1pment_2:0 "메서슈미트 Me 410 호르니세"
+ GER_heavy_f1ghter_equ1pment_2_short:0 "Me 410 호르니세"
+ GER_heavy_f1ghter_equ1pment_3:0 "융커스 Ju 388"
+ GER_heavy_f1ghter_equ1pment_3_short:0 "Ju 388"
  
-#-> Heavy fighter-bomber <><>
- GER_hfighter_bomber_equipment_1:0 "Messerschmitt Bf 110 C-4/B"
- GER_hfighter_bomber_equipment_1_short:0 "Bf 110 C-4/B"
- GER_hfighter_bomber_equipment_2:0 "Messerschmitt Me 510 Hornisse"
- GER_hfighter_bomber_equipment_2_short:0 "Me 510 Hornisse"
+#-> Heavy f1ghter-bomber <><>
+ GER_hf1ghter_bomber_equ1pment_1:0 "메서슈미트 Bf 110 C-4/B"
+ GER_hf1ghter_bomber_equ1pment_1_short:0 "Bf 110 C-4/B"
+ GER_hf1ghter_bomber_equ1pment_2:0 "메서슈미트 Me 510 호르니세"
+ GER_hf1ghter_bomber_equ1pment_2_short:0 "Me 510 호르니세"
  
-#-> Medium bomber <><>
- GER_tac_bomber_equipment_0:0 "Dornier Do 23"
- GER_tac_bomber_equipment_0_short:0 "Do 23"
- GER_tac_bomber_equipment_1:0 "Heinkel He 111"
- GER_tac_bomber_equipment_1_short:0 "He 111"
- GER_tac_bomber_equipment_2:0 "Junkers Ju 88 A"
- GER_tac_bomber_equipment_2_short:0 "Ju 88 A"
- GER_tac_bomber_equipment_3:0 "Junkers Ju 188"
- GER_tac_bomber_equipment_3_short:0 "Ju 188"
+#-> Med1um bomber <><>
+ GER_tac_bomber_equ1pment_0:0 "도르니에 Do 23"
+ GER_tac_bomber_equ1pment_0_short:0 "Do 23"
+ GER_tac_bomber_equ1pment_1:0 "하인켈 He 111"
+ GER_tac_bomber_equ1pment_1_short:0 "He 111"
+ GER_tac_bomber_equ1pment_2:0 "융커스 Ju 88 A"
+ GER_tac_bomber_equ1pment_2_short:0 "Ju 88 A"
+ GER_tac_bomber_equ1pment_3:0 "융커스 Ju 188"
+ GER_tac_bomber_equ1pment_3_short:0 "Ju 188"
  
-#-> Medium maritime bomber <><>
- GER_med_maritime_equipment_1:0 "Heinkel He 111 J"
- GER_med_maritime_equipment_1_short:0 "He 111 J"
- GER_med_maritime_equipment_2:0 "Junkers Ju 88 A-17"
- GER_med_maritime_equipment_2_short:0 "Ju 88 A-17"
- GER_med_maritime_equipment_3:0 "Junkers Ju 188 E-2"
- GER_med_maritime_equipment_3_short:0 "Ju 188 E-2"
+#-> Med1um mar1t1me bomber <><>
+ GER_med_mar1t1me_equ1pment_1:0 "하인켈 He 111 J"
+ GER_med_mar1t1me_equ1pment_1_short:0 "He 111 J"
+ GER_med_mar1t1me_equ1pment_2:0 "융커스 Ju 88 A-17"
+ GER_med_mar1t1me_equ1pment_2_short:0 "Ju 88 A-17"
+ GER_med_mar1t1me_equ1pment_3:0 "융커스 Ju 188 E-2"
+ GER_med_mar1t1me_equ1pment_3_short:0 "Ju 188 E-2"
  
 #-> Heavy bomber <><>
- GER_strat_bomber_equipment_1:0 "Dornier Do 19"
- GER_strat_bomber_equipment_1_short:0 "Do 19"
- GER_strat_bomber_equipment_2:0 "Heinkel He 177 Greif"
- GER_strat_bomber_equipment_2_short:0 "He 177 Greif"
- GER_strat_bomber_equipment_3:0 "Focke-Wulf Ta 400"
- GER_strat_bomber_equipment_3_short:0 "Ta 400"
+ GER_strat_bomber_equ1pment_1:0 "도르니에 Do 19"
+ GER_strat_bomber_equ1pment_1_short:0 "Do 19"
+ GER_strat_bomber_equ1pment_2:0 "하인켈 He 177 그라이프"
+ GER_strat_bomber_equ1pment_2_short:0 "He 177 그라이프"
+ GER_strat_bomber_equ1pment_3:0 "보케불프 Ta 400"
+ GER_strat_bomber_equ1pment_3_short:0 "Ta 400"
  
-#-> Heavy maritime bomber <><>
- GER_strat_maritime_equipment_1:0 "Dornier Do 19 B-1"
- GER_strat_maritime_equipment_1_short:0 "Do 19 B-1"
- GER_strat_maritime_equipment_2:0 "Heinkel He 177 A-3/R7 Greif"
- GER_strat_maritime_equipment_2_short:0 "He 177 A-3/R7 Greif"
- GER_strat_maritime_equipment_3:0 "Focke-Wulf Ta 400 A-5"
- GER_strat_maritime_equipment_3_short:0 "Ta 400 A-5"
+#-> Heavy mar1t1me bomber <><>
+ GER_strat_mar1t1me_equ1pment_1:0 "도르니에 Do 19 B-1"
+ GER_strat_mar1t1me_equ1pment_1_short:0 "Do 19 B-1"
+ GER_strat_mar1t1me_equ1pment_2:0 "하인켈 He 177 A-3/R7 그라이프"
+ GER_strat_mar1t1me_equ1pment_2_short:0 "He 177 A-3/R7 그라이프"
+ GER_strat_mar1t1me_equ1pment_3:0 "보케불프 Ta 400 A-5"
+ GER_strat_mar1t1me_equ1pment_3_short:0 "Ta 400 A-5"
  
-#-> Maritime patrol <><>
- GER_flying_boat_equipment_1:0 "Dornier Do 22"
- GER_flying_boat_equipment_1_short:0 "Do 22"
- GER_flying_boat_equipment_2:0 "Arado Ar 196"
- GER_flying_boat_equipment_2_short:0 "Ar 196"
- GER_flying_boat_equipment_3:0 "Focke-Wulf Fw 300"
- GER_flying_boat_equipment_3_short:0 "Fw 300"
+#-> Mar1t1me patrol <><>
+ GER_fly1ng_boat_equ1pment_1:0 "도르니에 Do 22"
+ GER_fly1ng_boat_equ1pment_1_short:0 "Do 22"
+ GER_fly1ng_boat_equ1pment_2:0 "아라도 Ar 196"
+ GER_fly1ng_boat_equ1pment_2_short:0 "Ar 196"
+ GER_fly1ng_boat_equ1pment_3:0 "보케불프 Fw 300"
+ GER_fly1ng_boat_equ1pment_3_short:0 "Fw 300"
  
-#-> Rocket interceptor <><>
- GER_rocket_interceptor_equipment_1:0 "Messerschmitt Me 163 Komet"
- GER_rocket_interceptor_equipment_1_short:0 "Me 163 Komet"
- GER_rocket_interceptor_equipment_2:0 "Fliegende Panzerfaust"
- GER_rocket_interceptor_equipment_2_short:0 "FPF"
- GER_rocket_interceptor_equipment_3:0 "Focke-Wulf Volksjäger"
- GER_rocket_interceptor_equipment_3_short:0 "Fw VJ"
+#-> Rocket 1nterceptor <><>
+ GER_rocket_1nterceptor_equ1pment_1:0 "메서슈미트 Me 163 코메트"
+ GER_rocket_1nterceptor_equ1pment_1_short:0 "Me 163 코메트"
+ GER_rocket_1nterceptor_equ1pment_2:0 "플리겐데 판저파우스트"
+ GER_rocket_1nterceptor_equ1pment_2_short:0 "FPF"
+ GER_rocket_1nterceptor_equ1pment_3:0 "보케불프 "
+ GER_rocket_1nterceptor_equ1pment_3_short:0 "Fw VJ"
  
-#-> Jet fighters <><>
- GER_jet_fighter_equipment_1:0 "Messerschmitt Me 262 Schwalbe"
- GER_jet_fighter_equipment_1_short:0 "Me 262 Schwalbe"
- GER_jet_fighter_equipment_2:0 "Messerschmitt P.1101"
- GER_jet_fighter_equipment_2_short:0 "P.1101"
- GER_jet_fighter_equipment_x:0 "Horten Ho 229"
- GER_jet_fighter_equipment_x_short:0 "Ho 229"
+#-> Jet f1ghters <><>
+ GER_jet_f1ghter_equ1pment_1:0 "메서슈미트 Me 262 슈발베"
+ GER_jet_f1ghter_equ1pment_1_short:0 "Me 262 슈발베"
+ GER_jet_f1ghter_equ1pment_2:0 "호르텐 Ho 229"
+ GER_jet_f1ghter_equ1pment_2_short:0 "Ho 229"
+ GER_jet_f1ghter_equ1pment_x:0 "호르텐 Ho 329"
+ GER_jet_f1ghter_equ1pment_x_short:0 "Ho 329"
  
-#-> Carrier-based jet fighters <><>
- GER_cv_jet_fighter_equipment_1:0 "Messerschmitt Me 262 T Schwalbe"
- GER_cv_jet_fighter_equipment_1_short:0 "Me 262 T Schwalbe"
- GER_cv_jet_fighter_equipment_2:0 "Messerschmitt P.1101 T"
- GER_cv_jet_fighter_equipment_2_short:0 "P.1101 T"
- GER_jet_fighter_equipment_x:0 "Horten Ho 229 T"
- GER_jet_fighter_equipment_x_short:0 "Ho 229 T"
+#-> Carr1er-based jet f1ghters <><>
+ GER_cv_jet_f1ghter_equ1pment_1:0 "메서슈미트 Me 262 T 슈발베"
+ GER_cv_jet_f1ghter_equ1pment_1_short:0 "Me 262 T 슈발베"
+ GER_cv_jet_f1ghter_equ1pment_2:0 "호르텐 Ho 229 T"
+ GER_cv_jet_f1ghter_equ1pment_2_short:0 "Ho 229 T"
+ GER_jet_f1ghter_equ1pment_x:0 "호르텐 Ho 329 T"
+ GER_jet_f1ghter_equ1pment_x_short:0 "Ho 329 T"
  
-#-> Jet medium bomber <><>
- GER_jet_tac_bomber_equipment_1:0 "Henschel Hs 132"
- GER_jet_tac_bomber_equipment_1_short:0 "Hs 132"
- GER_jet_tac_bomber_equipment_2:0 "Arado Ar 234 Blitz"
- GER_jet_tac_bomber_equipment_2_short:0 "Ar 234 Blitz"
- GER_jet_tac_bomber_equipment_2:0 "Arado Ar 234D Blitz"
- GER_jet_tac_bomber_equipment_2_short:0 "Ar 234D Blitz"
+#-> Jet med1um bomber <><>
+ GER_jet_tac_bomber_equ1pment_1:0 "헨셸 Hs 132"
+ GER_jet_tac_bomber_equ1pment_1_short:0 "Hs 132"
+ GER_jet_tac_bomber_equ1pment_2:0 "아라도 Ar 234 블리츠"
+ GER_jet_tac_bomber_equ1pment_2_short:0 "Ar 234 블리츠"
+ GER_jet_tac_bomber_equ1pment_2:0 "아라도 Ar 234D 블리츠"
+ GER_jet_tac_bomber_equ1pment_2_short:0 "Ar 234D 블리츠"
 
 #-> Jet heavy bomber <><>
- GER_jet_strat_bomber_equipment_1:0 "Horten H.XVIII"
- GER_jet_strat_bomber_equipment_1_short:0 "H.XVIII"
- GER_jet_strat_bomber_equipment_1_desc:0 "The experimental flying wing design is the future of stealth bombing planes. Combined with intercontintal range, this bomber can strike even our most distant enemies before they are able to respond."
- GER_jet_strat_bomber_equipment_x:0 "Horten H.XVIIIE"
- GER_jet_strat_bomber_equipment_x_short:0 "H.XVIIIE" 
+ GER_jet_strat_bomber_equ1pment_1:0 "호르텐 H.XV3"
+ GER_jet_strat_bomber_equ1pment_1_short:0 "H.XV3"
+ GER_jet_strat_bomber_equ1pment_1_desc:0 "The exper1mental fly1ng w1ng des1gn 1s the future of stealth bomb1ng planes. Comb1ned w1th 1ntercont1ntal range, th1s bomber can str1ke even our most d1stant enem1es before they are able to respond."
+ GER_jet_strat_bomber_equ1pment_x:0 "호르텐 H.XV3E"
+ GER_jet_strat_bomber_equ1pment_x_short:0 "H.XV3E" 
 
 
 ###--->  WGR  <><> <><> <><>
 #-> Transport planes <><>
- WGR_transport_plane_equipment_1:0 "Ju 52"
+ WGR_transport_plane_equ1pment_1:0 "Ju 52"
  
-#-> Dive bombers <><>
- WGR_CAS_equipment_1:0 "Junkers Ju 87 Stuka"
- WGR_CAS_equipment_1_short:0 "Ju 87"
- WGR_CAS_equipment_2:0 "Junkers Ju 87 G Kanonenvogel"
- WGR_CAS_equipment_2_short:0 "Ju 87 G Kanonenvogel"
- WGR_CAS_equipment_3:0 "Henschel Hs-129"
- WGR_CAS_equipment_3_short:0 "Hs-129"
+#-> D1ve bombers <><>
+ WGR_CAS_equ1pment_1:0 "융커스 Ju 87 슈투카"
+ WGR_CAS_equ1pment_1_short:0 "Ju 87"
+ WGR_CAS_equ1pment_2:0 "융커스 Ju 87 G 카노넨포겔"
+ WGR_CAS_equ1pment_2_short:0 "Ju 87 G 카노넨포겔"
+ WGR_CAS_equ1pment_3:0 "헨셸 Hs-129"
+ WGR_CAS_equ1pment_3_short:0 "Hs-129"
  
-#-> Carrier-based dive bombers <><>
- WGR_cv_CAS_equipment_1:0 "Junkers Ju 87 C Stuka"
- WGR_cv_CAS_equipment_1_short:0 "Ju 87 C Stuka"
- WGR_cv_CAS_equipment_2:0 "Junkers Ju 87 D-4"
- WGR_cv_CAS_equipment_2_short:0 "Ju 87 D-4"
- WGR_cv_CAS_equipment_3:0 "Junkers Ju 187 C"
- WGR_cv_CAS_equipment_3_short:0 "Ju 187 C"
+#-> Carr1er-based d1ve bombers <><>
+ WGR_cv_CAS_equ1pment_1:0 "융커스 Ju 87 C 슈투카"
+ WGR_cv_CAS_equ1pment_1_short:0 "Ju 87 C 슈투카"
+ WGR_cv_CAS_equ1pment_2:0 "융커스 Ju 87 D-4"
+ WGR_cv_CAS_equ1pment_2_short:0 "Ju 87 D-4"
+ WGR_cv_CAS_equ1pment_3:0 "융커스 Ju 187 C"
+ WGR_cv_CAS_equ1pment_3_short:0 "Ju 187 C"
  
-#-> Light fighters <><> 
- WGR_fighter_equipment_0:0 "Heinkel He 51"
- WGR_fighter_equipment_0_short:0 "He 51"
- WGR_fighter_equipment_1:0 "Messerschmitt Bf 109"
- WGR_fighter_equipment_1_short:0 "Bf 109"
- WGR_fighter_equipment_2:0 "Focke-Wulf Fw 190 Würger"
- WGR_fighter_equipment_2_short:0 "Fw 190 Würger"
- WGR_fighter_equipment_3:0 "Focke-Wulf Ta 152"
- WGR_fighter_equipment_3_short:0 "Ta 152"
+#-> L1ght f1ghters <><> 
+ WGR_f1ghter_equ1pment_0:0 "하인켈 He 51"
+ WGR_f1ghter_equ1pment_0_short:0 "He 51"
+ WGR_f1ghter_equ1pment_1:0 "메서슈미트 Bf 109"
+ WGR_f1ghter_equ1pment_1_short:0 "Bf 109"
+ WGR_f1ghter_equ1pment_2:0 "보케불프 Fw 190 뷔어거"
+ WGR_f1ghter_equ1pment_2_short:0 "Fw 190 뷔어거"
+ WGR_f1ghter_equ1pment_3:0 "보케불프 Ta 152"
+ WGR_f1ghter_equ1pment_3_short:0 "Ta 152"
 
-#-> Light fighter-bombers <><>
- WGR_fighter_bomber_equipment_2:0 "Focke-Wulf Fw 190 A-3/U3 Würger"
- WGR_fighter_bomber_equipment_2_short:0 "Fw 190 A-3/U3 Würger"
- WGR_fighter_bomber_equipment_3:0 "Focke-Wulf Ta 152 H-2"
- WGR_fighter_bomber_equipment_3_short:0 "Ta 152 H-2"
+#-> L1ght f1ghter-bombers <><>
+ WGR_f1ghter_bomber_equ1pment_2:0 "보케불프 Fw 190 A-3/U3 뷔어거"
+ WGR_f1ghter_bomber_equ1pment_2_short:0 "Fw 190 A-3/U3 뷔어거"
+ WGR_f1ghter_bomber_equ1pment_3:0 "보케불프 Ta 152 H-2"
+ WGR_f1ghter_bomber_equ1pment_3_short:0 "Ta 152 H-2"
 
-#-> Carrier-based light fighters <><>
- WGR_cv_fighter_equipment_0:0 "Heinkel HD 23"
- WGR_cv_fighter_equipment_0_short:0 "HD 23"
- WGR_cv_fighter_equipment_1:0 "Arado Ar 197"
- WGR_cv_fighter_equipment_1_short:0 "Ar 197"
- WGR_cv_fighter_equipment_2:0 "Messerschmitt Bf 109 T"
- WGR_cv_fighter_equipment_2_short:0 "Bf 109 T"
- WGR_cv_fighter_equipment_3:0 "Blohm & Voss BV 155"
- WGR_cv_fighter_equipment_3_short:0 "BV 155"
+#-> Carr1er-based l1ght f1ghters <><>
+ WGR_cv_f1ghter_equ1pment_0:0 "하인켈 HD 23"
+ WGR_cv_f1ghter_equ1pment_0_short:0 "HD 23"
+ WGR_cv_f1ghter_equ1pment_1:0 "아라도 Ar 197"
+ WGR_cv_f1ghter_equ1pment_1_short:0 "Ar 197"
+ WGR_cv_f1ghter_equ1pment_2:0 "메서슈미트 Bf 109 T"
+ WGR_cv_f1ghter_equ1pment_2_short:0 "Bf 109 T"
+ WGR_cv_f1ghter_equ1pment_3:0 "브롬 운트 포스 BV 155"
+ WGR_cv_f1ghter_equ1pment_3_short:0 "BV 155"
  
 #-> Torpedo bombers <><>
- WGR_nav_bomber_equipment_1:0 "Arado Ar 195"
- WGR_nav_bomber_equipment_1_short:0 "Ar 195"
- WGR_nav_bomber_equipment_2:0 "Fieseler Fi 167"
- WGR_nav_bomber_equipment_2_short:0 "Fi 167"
- WGR_nav_bomber_equipment_3:0 "Focke-Wulf Fw 190 A-5/U-14 Würger"
- WGR_nav_bomber_equipment_3_short:0 "Fw 190 A-5/U-14 Würger"
+ WGR_nav_bomber_equ1pment_1:0 "아라도 Ar 195"
+ WGR_nav_bomber_equ1pment_1_short:0 "Ar 195"
+ WGR_nav_bomber_equ1pment_2:0 "피젤러 F1 167"
+ WGR_nav_bomber_equ1pment_2_short:0 "F1 167"
+ WGR_nav_bomber_equ1pment_3:0 "보케불프 Fw 190 A-5/U-14 뷔어거"
+ WGR_nav_bomber_equ1pment_3_short:0 "Fw 190 A-5/U-14 뷔어거"
 
-#-> Carrier-based torpedo bombers <><>
-#WGR_cv_nav_bomber_equipment_1:0 "Fieseler Fi 167"
-#WGR_cv_nav_bomber_equipment_1_short:0 "Fi 167"
-#WGR_cv_nav_bomber_equipment_2:0 "Arado Ar 195"
-#WGR_cv_nav_bomber_equipment_2_short:0 "Ar 195"
-#WGR_cv_nav_bomber_equipment_3:0 "Arado Ar 215"
-#WGR_cv_nav_bomber_equipment_3_short:0 "Ar 215"
+#-> Carr1er-based torpedo bombers <><>
+#WGR_cv_nav_bomber_equ1pment_1:0 "피젤러 F1 167"
+#WGR_cv_nav_bomber_equ1pment_1_short:0 "F1 167"
+#WGR_cv_nav_bomber_equ1pment_2:0 "아라도 Ar 195"
+#WGR_cv_nav_bomber_equ1pment_2_short:0 "Ar 195"
+#WGR_cv_nav_bomber_equ1pment_3:0 "아라도 Ar 215"
+#WGR_cv_nav_bomber_equ1pment_3_short:0 "Ar 215"
 
-#-> Heavy fighters <><>
- WGR_heavy_fighter_equipment_1:0 "Messerschmitt Bf 110"
- WGR_heavy_fighter_equipment_1_short:0 "Bf 110"
- WGR_heavy_fighter_equipment_2:0 "Messerschmitt Me 410 Hornisse"
- WGR_heavy_fighter_equipment_2_short:0 "Me 410 Hornisse"
- WGR_heavy_fighter_equipment_3:0 "Junkers Ju 388"
- WGR_heavy_fighter_equipment_3_short:0 "Ju 388"
+#-> Heavy f1ghters <><>
+ WGR_heavy_f1ghter_equ1pment_1:0 "메서슈미트 Bf 110"
+ WGR_heavy_f1ghter_equ1pment_1_short:0 "Bf 110"
+ WGR_heavy_f1ghter_equ1pment_2:0 "메서슈미트 Me 410 호르니세"
+ WGR_heavy_f1ghter_equ1pment_2_short:0 "Me 410 호르니세"
+ WGR_heavy_f1ghter_equ1pment_3:0 "융커스 Ju 388"
+ WGR_heavy_f1ghter_equ1pment_3_short:0 "Ju 388"
  
-#-> Heavy fighter-bomber <><>
- WGR_hfighter_bomber_equipment_1:0 "Messerschmitt Bf 110 C-4/B"
- WGR_hfighter_bomber_equipment_1_short:0 "Bf 110 C-4/B"
- WGR_hfighter_bomber_equipment_2:0 "Messerschmitt Me 510 Hornisse"
- WGR_hfighter_bomber_equipment_2_short:0 "Me 510 Hornisse"
+#-> Heavy f1ghter-bomber <><>
+ WGR_hf1ghter_bomber_equ1pment_1:0 "메서슈미트 Bf 110 C-4/B"
+ WGR_hf1ghter_bomber_equ1pment_1_short:0 "Bf 110 C-4/B"
+ WGR_hf1ghter_bomber_equ1pment_2:0 "메서슈미트 Me 510 호르니세"
+ WGR_hf1ghter_bomber_equ1pment_2_short:0 "Me 510 호르니세"
  
-#-> Medium bomber <><>
- WGR_tac_bomber_equipment_0:0 "Dornier Do 23"
- WGR_tac_bomber_equipment_0_short:0 "Do 23"
- WGR_tac_bomber_equipment_1:0 "Heinkel He 111"
- WGR_tac_bomber_equipment_1_short:0 "He 111"
- WGR_tac_bomber_equipment_2:0 "Junkers Ju 88 A"
- WGR_tac_bomber_equipment_2_short:0 "Ju 88 A"
- WGR_tac_bomber_equipment_3:0 "Junkers Ju 188"
- WGR_tac_bomber_equipment_3_short:0 "Ju 188"
+#-> Med1um bomber <><>
+ WGR_tac_bomber_equ1pment_0:0 "도르니에 Do 23"
+ WGR_tac_bomber_equ1pment_0_short:0 "Do 23"
+ WGR_tac_bomber_equ1pment_1:0 "하인켈 He 111"
+ WGR_tac_bomber_equ1pment_1_short:0 "He 111"
+ WGR_tac_bomber_equ1pment_2:0 "융커스 Ju 88 A"
+ WGR_tac_bomber_equ1pment_2_short:0 "Ju 88 A"
+ WGR_tac_bomber_equ1pment_3:0 "융커스 Ju 188"
+ WGR_tac_bomber_equ1pment_3_short:0 "Ju 188"
  
-#-> Medium maritime bomber <><>
- WGR_med_maritime_equipment_1:0 "Heinkel He 111 J"
- WGR_med_maritime_equipment_1_short:0 "He 111 J"
- WGR_med_maritime_equipment_2:0 "Junkers Ju 88 A-17"
- WGR_med_maritime_equipment_2_short:0 "Ju 88 A-17"
- WGR_med_maritime_equipment_3:0 "Junkers Ju 188 E-2"
- WGR_med_maritime_equipment_3_short:0 "Ju 188 E-2"
+#-> Med1um mar1t1me bomber <><>
+ WGR_med_mar1t1me_equ1pment_1:0 "하인켈 He 111 J"
+ WGR_med_mar1t1me_equ1pment_1_short:0 "He 111 J"
+ WGR_med_mar1t1me_equ1pment_2:0 "융커스 Ju 88 A-17"
+ WGR_med_mar1t1me_equ1pment_2_short:0 "Ju 88 A-17"
+ WGR_med_mar1t1me_equ1pment_3:0 "융커스 Ju 188 E-2"
+ WGR_med_mar1t1me_equ1pment_3_short:0 "Ju 188 E-2"
  
 #-> Heavy bomber <><>
- WGR_strat_bomber_equipment_1:0 "Dornier Do 19"
- WGR_strat_bomber_equipment_1_short:0 "Do 19"
- WGR_strat_bomber_equipment_2:0 "Heinkel He 177 Greif"
- WGR_strat_bomber_equipment_2_short:0 "He 177 Greif"
- WGR_strat_bomber_equipment_3:0 "Focke-Wulf Ta 400"
- WGR_strat_bomber_equipment_3_short:0 "Ta 400"
+ WGR_strat_bomber_equ1pment_1:0 "도르니에 Do 19"
+ WGR_strat_bomber_equ1pment_1_short:0 "Do 19"
+ WGR_strat_bomber_equ1pment_2:0 "하인켈 He 177 그라이프"
+ WGR_strat_bomber_equ1pment_2_short:0 "He 177 그라이프"
+ WGR_strat_bomber_equ1pment_3:0 "보케불프 Ta 400"
+ WGR_strat_bomber_equ1pment_3_short:0 "Ta 400"
  
-#-> Heavy maritime bomber <><>
- WGR_strat_maritime_equipment_1:0 "Dornier Do 19 B-1"
- WGR_strat_maritime_equipment_1_short:0 "Do 19 B-1"
- WGR_strat_maritime_equipment_2:0 "Heinkel He 177 A-3/R7 Greif"
- WGR_strat_maritime_equipment_2_short:0 "He 177 A-3/R7 Greif"
- WGR_strat_maritime_equipment_3:0 "Focke-Wulf Ta 400 A-5"
- WGR_strat_maritime_equipment_3_short:0 "Ta 400 A-5"
+#-> Heavy mar1t1me bomber <><>
+ WGR_strat_mar1t1me_equ1pment_1:0 "도르니에 Do 19 B-1"
+ WGR_strat_mar1t1me_equ1pment_1_short:0 "Do 19 B-1"
+ WGR_strat_mar1t1me_equ1pment_2:0 "하인켈 He 177 A-3/R7 그라이프"
+ WGR_strat_mar1t1me_equ1pment_2_short:0 "He 177 A-3/R7 그라이프"
+ WGR_strat_mar1t1me_equ1pment_3:0 "보케불프 Ta 400 A-5"
+ WGR_strat_mar1t1me_equ1pment_3_short:0 "Ta 400 A-5"
  
-#-> Maritime patrol <><>
- WGR_flying_boat_equipment_1:0 "Dornier Do 22"
- WGR_flying_boat_equipment_1_short:0 "Do 22"
- WGR_flying_boat_equipment_2:0 "Arado Ar 196"
- WGR_flying_boat_equipment_2_short:0 "Ar 196"
- WGR_flying_boat_equipment_3:0 "Focke-Wulf Fw 300"
- WGR_flying_boat_equipment_3_short:0 "Fw 300"
+#-> Mar1t1me patrol <><>
+ WGR_fly1ng_boat_equ1pment_1:0 "도르니에 Do 22"
+ WGR_fly1ng_boat_equ1pment_1_short:0 "Do 22"
+ WGR_fly1ng_boat_equ1pment_2:0 "아라도 Ar 196"
+ WGR_fly1ng_boat_equ1pment_2_short:0 "Ar 196"
+ WGR_fly1ng_boat_equ1pment_3:0 "보케불프 Fw 300"
+ WGR_fly1ng_boat_equ1pment_3_short:0 "Fw 300"
  
-#-> Rocket interceptor <><>
- WGR_rocket_interceptor_equipment_1:0 "Messerschmitt Me 163 Komet"
- WGR_rocket_interceptor_equipment_1_short:0 "Me 163 Komet"
- WGR_rocket_interceptor_equipment_2:0 "Fliegende Panzerfaust"
- WGR_rocket_interceptor_equipment_2_short:0 "FPF"
- WGR_rocket_interceptor_equipment_3:0 "Focke-Wulf Volksjäger"
- WGR_rocket_interceptor_equipment_3_short:0 "Fw VJ"
+#-> Rocket 1nterceptor <><>
+ WGR_rocket_1nterceptor_equ1pment_1:0 "메서슈미트 Me 163 코메트"
+ WGR_rocket_1nterceptor_equ1pment_1_short:0 "Me 163 코메트"
+ WGR_rocket_1nterceptor_equ1pment_2:0 "플리겐데 판저파우스트"
+ WGR_rocket_1nterceptor_equ1pment_2_short:0 "FPF"
+ WGR_rocket_1nterceptor_equ1pment_3:0 "보케불프 폴크셰거"
+ WGR_rocket_1nterceptor_equ1pment_3_short:0 "Fw VJ"
  
-#-> Jet fighters <><>
- WGR_jet_fighter_equipment_1:0 "Messerschmitt Me 262 Schwalbe"
- WGR_jet_fighter_equipment_1_short:0 "Me 262 Schwalbe"
- WGR_jet_fighter_equipment_2:0 "Messerschmitt P.1101"
- WGR_jet_fighter_equipment_2_short:0 "P.1101"
- WGR_jet_fighter_equipment_x:0 "Horten Ho 229"
- WGR_jet_fighter_equipment_x_short:0 "Ho 229"
+#-> Jet f1ghters <><>
+ WGR_jet_f1ghter_equ1pment_1:0 "메서슈미트 Me 262 슈발베"
+ WGR_jet_f1ghter_equ1pment_1_short:0 "Me 262 슈발베"
+ WGR_jet_f1ghter_equ1pment_2:0 "호르텐 Ho 229"
+ WGR_jet_f1ghter_equ1pment_2_short:0 "Ho 229"
+ WGR_jet_f1ghter_equ1pment_x:0 "호르텐 Ho 329"
+ WGR_jet_f1ghter_equ1pment_x_short:0 "Ho 329"
  
-#-> Carrier-based jet fighters <><>
- WGR_cv_jet_fighter_equipment_1:0 "Messerschmitt Me 262 T Schwalbe"
- WGR_cv_jet_fighter_equipment_1_short:0 "Me 262 T Schwalbe"
- WGR_cv_jet_fighter_equipment_2:0 "Messerschmitt P.1101 T"
- WGR_cv_jet_fighter_equipment_2_short:0 "P.1101 T"
- WGR_jet_fighter_equipment_x:0 "Horten Ho 229 T"
- WGR_jet_fighter_equipment_x_short:0 "Ho 229 T"
+#-> Carr1er-based jet f1ghters <><>
+ WGR_cv_jet_f1ghter_equ1pment_1:0 "메서슈미트 Me 262 T 슈발베"
+ WGR_cv_jet_f1ghter_equ1pment_1_short:0 "Me 262 T 슈발베"
+ WGR_cv_jet_f1ghter_equ1pment_2:0 "호르텐 Ho 229 T"
+ WGR_cv_jet_f1ghter_equ1pment_2_short:0 "Ho 229 T"
+ WGR_jet_f1ghter_equ1pment_x:0 "호르텐 Ho 329 T"
+ WGR_jet_f1ghter_equ1pment_x_short:0 "Ho 329 T"
  
-#-> Jet medium bomber <><>
- WGR_jet_tac_bomber_equipment_1:0 "Henschel Hs 132"
- WGR_jet_tac_bomber_equipment_1_short:0 "Hs 132"
- WGR_jet_tac_bomber_equipment_2:0 "Arado Ar 234 Blitz"
- WGR_jet_tac_bomber_equipment_2_short:0 "Ar 234 Blitz"
- WGR_jet_tac_bomber_equipment_2:0 "Arado Ar 234D Blitz"
- WGR_jet_tac_bomber_equipment_2_short:0 "Ar 234D Blitz"
+#-> Jet med1um bomber <><>
+ WGR_jet_tac_bomber_equ1pment_1:0 "헨셸 Hs 132"
+ WGR_jet_tac_bomber_equ1pment_1_short:0 "Hs 132"
+ WGR_jet_tac_bomber_equ1pment_2:0 "아라도 Ar 234 블리츠"
+ WGR_jet_tac_bomber_equ1pment_2_short:0 "Ar 234 블리츠"
+ WGR_jet_tac_bomber_equ1pment_2:0 "아라도 Ar 234D 블리츠"
+ WGR_jet_tac_bomber_equ1pment_2_short:0 "Ar 234D 블리츠"
 
 #-> Jet heavy bomber <><>
- WGR_jet_strat_bomber_equipment_1:0 "Horten H.XVIII"
- WGR_jet_strat_bomber_equipment_1_short:0 "H.XVIII"
- WGR_jet_strat_bomber_equipment_1_desc:0 "The experimental flying wing design is the future of stealth bombing planes. Combined with intercontintal range, this bomber can strike even our most distant enemies before they are able to respond."
- WGR_jet_strat_bomber_equipment_x:0 "Horten H.XVIIIE"
- WGR_jet_strat_bomber_equipment_x_short:0 "H.XVIIIE" 
+ WGR_jet_strat_bomber_equ1pment_1:0 "호르텐 H.XV3"
+ WGR_jet_strat_bomber_equ1pment_1_short:0 "H.XV3"
+ WGR_jet_strat_bomber_equ1pment_1_desc:0 "The exper1mental fly1ng w1ng des1gn 1s the future of stealth bomb1ng planes. Comb1ned w1th 1ntercont1ntal range, th1s bomber can str1ke even our most d1stant enem1es before they are able to respond."
+ WGR_jet_strat_bomber_equ1pment_x:0 "호르텐 H.XV3E"
+ WGR_jet_strat_bomber_equ1pment_x_short:0 "H.XV3E" 
 
 
 ###--->  AUS  <><> <><> <><>
 #-> Transport planes <><>
- AUS_transport_plane_equipment_1:0 "Junkers Ju 52"
- AUS_transport_plane_equipment_1_short:0 "Ju 52"
+ AUS_transport_plane_equ1pment_1:0 "융커스 Ju 52"
+ AUS_transport_plane_equ1pment_1_short:0 "Ju 52"
 
-#-> Dive bombers <><>
- AUS_CAS_equipment_1:0 "Junkers Ju 87 Stuka"
- AUS_CAS_equipment_1_short:0 "Ju 87"
- AUS_CAS_equipment_2:0 "Junkers Ju 87 G Kanonenvogel"
- AUS_CAS_equipment_2_short:0 "Ju 87 G Kanonenvogel"
- AUS_CAS_equipment_3:0 "Henschel Hs-129"
- AUS_CAS_equipment_3_short:0 "Hs-129"
+#-> D1ve bombers <><>
+ AUS_CAS_equ1pment_1:0 "융커스 Ju 87 슈투카"
+ AUS_CAS_equ1pment_1_short:0 "Ju 87"
+ AUS_CAS_equ1pment_2:0 "융커스 Ju 87 G 카노넨포겔"
+ AUS_CAS_equ1pment_2_short:0 "Ju 87 G 카노넨포겔"
+ AUS_CAS_equ1pment_3:0 "헨셸 Hs-129"
+ AUS_CAS_equ1pment_3_short:0 "Hs-129"
  
-#-> Carrier-based dive bombers <><>
- AUS_cv_CAS_equipment_1:0 "Junkers Ju 87 C Stuka"
- AUS_cv_CAS_equipment_1_short:0 "Ju 87 C Stuka"
- AUS_cv_CAS_equipment_2:0 "Junkers Ju 87 D-4"
- AUS_cv_CAS_equipment_2_short:0 "Ju 87 D-4"
- AUS_cv_CAS_equipment_3:0 "Junkers Ju 187 C"
- AUS_cv_CAS_equipment_3_short:0 "Ju 187 C"
+#-> Carr1er-based d1ve bombers <><>
+ AUS_cv_CAS_equ1pment_1:0 "융커스 Ju 87 C 슈투카"
+ AUS_cv_CAS_equ1pment_1_short:0 "Ju 87 C 슈투카"
+ AUS_cv_CAS_equ1pment_2:0 "융커스 Ju 87 D-4"
+ AUS_cv_CAS_equ1pment_2_short:0 "Ju 87 D-4"
+ AUS_cv_CAS_equ1pment_3:0 "융커스 Ju 187 C"
+ AUS_cv_CAS_equ1pment_3_short:0 "Ju 187 C"
  
-#-> Light fighters <><> 
- AUS_fighter_equipment_0:0 "Heinkel He 51"
- AUS_fighter_equipment_0_short:0 "He 51"
- AUS_fighter_equipment_1:0 "Messerschmitt Bf 109"
- AUS_fighter_equipment_1_short:0 "Bf 109"
- AUS_fighter_equipment_2:0 "Focke-Wulf Fw 190 Würger"
- AUS_fighter_equipment_2_short:0 "Fw 190 Würger"
- AUS_fighter_equipment_3:0 "Focke-Wulf Ta 152"
- AUS_fighter_equipment_3_short:0 "Ta 152"
+#-> L1ght f1ghters <><> 
+ AUS_f1ghter_equ1pment_0:0 "하인켈 He 51"
+ AUS_f1ghter_equ1pment_0_short:0 "He 51"
+ AUS_f1ghter_equ1pment_1:0 "메서슈미트 Bf 109"
+ AUS_f1ghter_equ1pment_1_short:0 "Bf 109"
+ AUS_f1ghter_equ1pment_2:0 "보케불프 Fw 190 뷔어거"
+ AUS_f1ghter_equ1pment_2_short:0 "Fw 190 뷔어거"
+ AUS_f1ghter_equ1pment_3:0 "보케불프 Ta 152"
+ AUS_f1ghter_equ1pment_3_short:0 "Ta 152"
 
-#-> Light fighter-bombers <><>
- AUS_fighter_bomber_equipment_2:0 "Focke-Wulf Fw 190 A-3/U3 Würger"
- AUS_fighter_bomber_equipment_2_short:0 "Fw 190 A-3/U3 Würger"
- AUS_fighter_bomber_equipment_3:0 "Focke-Wulf Ta 152 H-2"
- AUS_fighter_bomber_equipment_3_short:0 "Ta 152 H-2"
+#-> L1ght f1ghter-bombers <><>
+ AUS_f1ghter_bomber_equ1pment_2:0 "보케불프 Fw 190 A-3/U3 뷔어거"
+ AUS_f1ghter_bomber_equ1pment_2_short:0 "Fw 190 A-3/U3 뷔어거"
+ AUS_f1ghter_bomber_equ1pment_3:0 "보케불프 Ta 152 H-2"
+ AUS_f1ghter_bomber_equ1pment_3_short:0 "Ta 152 H-2"
 
-#-> Carrier-based light fighters <><>
- AUS_cv_fighter_equipment_0:0 "Heinkel HD 23"
- AUS_cv_fighter_equipment_0_short:0 "HD 23"
- AUS_cv_fighter_equipment_1:0 "Arado Ar 197"
- AUS_cv_fighter_equipment_1_short:0 "Ar 197"
- AUS_cv_fighter_equipment_2:0 "Messerschmitt Bf 109 T"
- AUS_cv_fighter_equipment_2_short:0 "Bf 109 T"
- AUS_cv_fighter_equipment_3:0 "Blohm & Voss BV 155"
- AUS_cv_fighter_equipment_3_short:0 "BV 155"
+#-> Carr1er-based l1ght f1ghters <><>
+ AUS_cv_f1ghter_equ1pment_0:0 "하인켈 HD 23"
+ AUS_cv_f1ghter_equ1pment_0_short:0 "HD 23"
+ AUS_cv_f1ghter_equ1pment_1:0 "아라도 Ar 197"
+ AUS_cv_f1ghter_equ1pment_1_short:0 "Ar 197"
+ AUS_cv_f1ghter_equ1pment_2:0 "메서슈미트 Bf 109 T"
+ AUS_cv_f1ghter_equ1pment_2_short:0 "Bf 109 T"
+ AUS_cv_f1ghter_equ1pment_3:0 "브롬 운트 포스 BV 155"
+ AUS_cv_f1ghter_equ1pment_3_short:0 "BV 155"
  
 #-> Torpedo bombers <><>
- AUS_nav_bomber_equipment_1:0 "Arado Ar 195"
- AUS_nav_bomber_equipment_1_short:0 "Ar 195"
- AUS_nav_bomber_equipment_2:0 "Fieseler Fi 167"
- AUS_nav_bomber_equipment_2_short:0 "Fi 167"
- AUS_nav_bomber_equipment_3:0 "Focke-Wulf Fw 190 A-5/U-14 Würger"
- AUS_nav_bomber_equipment_3_short:0 "Fw 190 A-5/U-14 Würger"
+ AUS_nav_bomber_equ1pment_1:0 "아라도 Ar 195"
+ AUS_nav_bomber_equ1pment_1_short:0 "Ar 195"
+ AUS_nav_bomber_equ1pment_2:0 "피젤러 F1 167"
+ AUS_nav_bomber_equ1pment_2_short:0 "F1 167"
+ AUS_nav_bomber_equ1pment_3:0 "보케불프 Fw 190 A-5/U-14 뷔어거"
+ AUS_nav_bomber_equ1pment_3_short:0 "Fw 190 A-5/U-14 뷔어거"
 
-#-> Carrier-based torpedo bombers <><>
-#AUS_cv_nav_bomber_equipment_1:0 "Fieseler Fi 167"
-#AUS_cv_nav_bomber_equipment_1_short:0 "Fi 167"
-#AUS_cv_nav_bomber_equipment_2:0 "Arado Ar 195"
-#AUS_cv_nav_bomber_equipment_2_short:0 "Ar 195"
-#AUS_cv_nav_bomber_equipment_3:0 "Arado Ar 215"
-#AUS_cv_nav_bomber_equipment_3_short:0 "Ar 215"
+#-> Carr1er-based torpedo bombers <><>
+#AUS_cv_nav_bomber_equ1pment_1:0 "피젤러 F1 167"
+#AUS_cv_nav_bomber_equ1pment_1_short:0 "F1 167"
+#AUS_cv_nav_bomber_equ1pment_2:0 "아라도 Ar 195"
+#AUS_cv_nav_bomber_equ1pment_2_short:0 "Ar 195"
+#AUS_cv_nav_bomber_equ1pment_3:0 "아라도 Ar 215"
+#AUS_cv_nav_bomber_equ1pment_3_short:0 "Ar 215"
 
-#-> Heavy fighters <><>
- AUS_heavy_fighter_equipment_1:0 "Messerschmitt Bf 110"
- AUS_heavy_fighter_equipment_1_short:0 "Bf 110"
- AUS_heavy_fighter_equipment_2:0 "Messerschmitt Me 410 Hornisse"
- AUS_heavy_fighter_equipment_2_short:0 "Me 410 Hornisse"
- AUS_heavy_fighter_equipment_3:0 "Junkers Ju 388"
- AUS_heavy_fighter_equipment_3_short:0 "Ju 388"
+#-> Heavy f1ghters <><>
+ AUS_heavy_f1ghter_equ1pment_1:0 "메서슈미트 Bf 110"
+ AUS_heavy_f1ghter_equ1pment_1_short:0 "Bf 110"
+ AUS_heavy_f1ghter_equ1pment_2:0 "메서슈미트 Me 410 호르니세"
+ AUS_heavy_f1ghter_equ1pment_2_short:0 "Me 410 호르니세"
+ AUS_heavy_f1ghter_equ1pment_3:0 "융커스 Ju 388"
+ AUS_heavy_f1ghter_equ1pment_3_short:0 "Ju 388"
  
-#-> Heavy fighter-bomber <><>
- AUS_hfighter_bomber_equipment_1:0 "Messerschmitt Bf 110 C-4/B"
- AUS_hfighter_bomber_equipment_1_short:0 "Bf 110 C-4/B"
- AUS_hfighter_bomber_equipment_2:0 "Messerschmitt Me 510 Hornisse"
- AUS_hfighter_bomber_equipment_2_short:0 "Me 510 Hornisse"
+#-> Heavy f1ghter-bomber <><>
+ AUS_hf1ghter_bomber_equ1pment_1:0 "메서슈미트 Bf 110 C-4/B"
+ AUS_hf1ghter_bomber_equ1pment_1_short:0 "Bf 110 C-4/B"
+ AUS_hf1ghter_bomber_equ1pment_2:0 "메서슈미트 Me 510 호르니세"
+ AUS_hf1ghter_bomber_equ1pment_2_short:0 "Me 510 호르니세"
  
-#-> Medium bomber <><>
- AUS_tac_bomber_equipment_0:0 "Dornier Do 23"
- AUS_tac_bomber_equipment_0_short:0 "Do 23"
- AUS_tac_bomber_equipment_1:0 "Heinkel He 111"
- AUS_tac_bomber_equipment_1_short:0 "He 111"
- AUS_tac_bomber_equipment_2:0 "Junkers Ju 88 A"
- AUS_tac_bomber_equipment_2_short:0 "Ju 88 A"
- AUS_tac_bomber_equipment_3:0 "Junkers Ju 188"
- AUS_tac_bomber_equipment_3_short:0 "Ju 188"
+#-> Med1um bomber <><>
+ AUS_tac_bomber_equ1pment_0:0 "도르니에 Do 23"
+ AUS_tac_bomber_equ1pment_0_short:0 "Do 23"
+ AUS_tac_bomber_equ1pment_1:0 "하인켈 He 111"
+ AUS_tac_bomber_equ1pment_1_short:0 "He 111"
+ AUS_tac_bomber_equ1pment_2:0 "융커스 Ju 88 A"
+ AUS_tac_bomber_equ1pment_2_short:0 "Ju 88 A"
+ AUS_tac_bomber_equ1pment_3:0 "융커스 Ju 188"
+ AUS_tac_bomber_equ1pment_3_short:0 "Ju 188"
  
-#-> Medium maritime bomber <><>
- AUS_med_maritime_equipment_1:0 "Heinkel He 111 J"
- AUS_med_maritime_equipment_1_short:0 "He 111 J"
- AUS_med_maritime_equipment_2:0 "Junkers Ju 88 A-17"
- AUS_med_maritime_equipment_2_short:0 "Ju 88 A-17"
- AUS_med_maritime_equipment_3:0 "Junkers Ju 188 E-2"
- AUS_med_maritime_equipment_3_short:0 "Ju 188 E-2"
+#-> Med1um mar1t1me bomber <><>
+ AUS_med_mar1t1me_equ1pment_1:0 "하인켈 He 111 J"
+ AUS_med_mar1t1me_equ1pment_1_short:0 "He 111 J"
+ AUS_med_mar1t1me_equ1pment_2:0 "융커스 Ju 88 A-17"
+ AUS_med_mar1t1me_equ1pment_2_short:0 "Ju 88 A-17"
+ AUS_med_mar1t1me_equ1pment_3:0 "융커스 Ju 188 E-2"
+ AUS_med_mar1t1me_equ1pment_3_short:0 "Ju 188 E-2"
  
 #-> Heavy bomber <><>
- AUS_strat_bomber_equipment_1:0 "Dornier Do 19"
- AUS_strat_bomber_equipment_1_short:0 "Do 19"
- AUS_strat_bomber_equipment_2:0 "Heinkel He 177 Greif"
- AUS_strat_bomber_equipment_2_short:0 "He 177 Greif"
- AUS_strat_bomber_equipment_3:0 "Focke-Wulf Ta 400"
- AUS_strat_bomber_equipment_3_short:0 "Ta 400"
+ AUS_strat_bomber_equ1pment_1:0 "도르니에 Do 19"
+ AUS_strat_bomber_equ1pment_1_short:0 "Do 19"
+ AUS_strat_bomber_equ1pment_2:0 "하인켈 He 177 그라이프"
+ AUS_strat_bomber_equ1pment_2_short:0 "He 177 그라이프"
+ AUS_strat_bomber_equ1pment_3:0 "보케불프 Ta 400"
+ AUS_strat_bomber_equ1pment_3_short:0 "Ta 400"
  
-#-> Heavy maritime bomber <><>
- AUS_strat_maritime_equipment_1:0 "Dornier Do 19 B-1"
- AUS_strat_maritime_equipment_1_short:0 "Do 19 B-1"
- AUS_strat_maritime_equipment_2:0 "Heinkel He 177 A-3/R7 Greif"
- AUS_strat_maritime_equipment_2_short:0 "He 177 A-3/R7 Greif"
- AUS_strat_maritime_equipment_3:0 "Focke-Wulf Ta 400 A-5"
- AUS_strat_maritime_equipment_3_short:0 "Ta 400 A-5"
+#-> Heavy mar1t1me bomber <><>
+ AUS_strat_mar1t1me_equ1pment_1:0 "도르니에 Do 19 B-1"
+ AUS_strat_mar1t1me_equ1pment_1_short:0 "Do 19 B-1"
+ AUS_strat_mar1t1me_equ1pment_2:0 "하인켈 He 177 A-3/R7 그라이프"
+ AUS_strat_mar1t1me_equ1pment_2_short:0 "He 177 A-3/R7 그라이프"
+ AUS_strat_mar1t1me_equ1pment_3:0 "보케불프 Ta 400 A-5"
+ AUS_strat_mar1t1me_equ1pment_3_short:0 "Ta 400 A-5"
  
-#-> Maritime patrol <><>
- AUS_flying_boat_equipment_1:0 "Dornier Do 22"
- AUS_flying_boat_equipment_1_short:0 "Do 22"
- AUS_flying_boat_equipment_2:0 "Arado Ar 196"
- AUS_flying_boat_equipment_2_short:0 "Ar 196"
- AUS_flying_boat_equipment_3:0 "Focke-Wulf Fw 300"
- AUS_flying_boat_equipment_3_short:0 "Fw 300"
+#-> Mar1t1me patrol <><>
+ AUS_fly1ng_boat_equ1pment_1:0 "도르니에 Do 22"
+ AUS_fly1ng_boat_equ1pment_1_short:0 "Do 22"
+ AUS_fly1ng_boat_equ1pment_2:0 "아라도 Ar 196"
+ AUS_fly1ng_boat_equ1pment_2_short:0 "Ar 196"
+ AUS_fly1ng_boat_equ1pment_3:0 "보케불프 Fw 300"
+ AUS_fly1ng_boat_equ1pment_3_short:0 "Fw 300"
  
-#-> Rocket interceptor <><>
- AUS_rocket_interceptor_equipment_1:0 "Messerschmitt Me 163 Komet"
- AUS_rocket_interceptor_equipment_1_short:0 "Me 163 Komet"
- AUS_rocket_interceptor_equipment_2:0 "Fliegende Panzerfaust"
- AUS_rocket_interceptor_equipment_2_short:0 "FPF"
- AUS_rocket_interceptor_equipment_3:0 "Focke-Wulf Volksjäger"
- AUS_rocket_interceptor_equipment_3_short:0 "Fw VJ"
+#-> Rocket 1nterceptor <><>
+ AUS_rocket_1nterceptor_equ1pment_1:0 "메서슈미트 Me 163 코메트"
+ AUS_rocket_1nterceptor_equ1pment_1_short:0 "Me 163 코메트"
+ AUS_rocket_1nterceptor_equ1pment_2:0 "플리겐데 판저파우스트"
+ AUS_rocket_1nterceptor_equ1pment_2_short:0 "FPF"
+ AUS_rocket_1nterceptor_equ1pment_3:0 "보케불프 폴크셰거"
+ AUS_rocket_1nterceptor_equ1pment_3_short:0 "Fw VJ"
  
-#-> Jet fighters <><>
- AUS_jet_fighter_equipment_1:0 "Messerschmitt Me 262 Schwalbe"
- AUS_jet_fighter_equipment_1_short:0 "Me 262 Schwalbe"
- AUS_jet_fighter_equipment_2:0 "Messerschmitt P.1101"
- AUS_jet_fighter_equipment_2_short:0 "P.1101"
- AUS_jet_fighter_equipment_x:0 "Horten Ho 29"
- AUS_jet_fighter_equipment_x_short:0 "Ho 229"
+#-> Jet f1ghters <><>
+ AUS_jet_f1ghter_equ1pment_1:0 "메서슈미트 Me 262 슈발베"
+ AUS_jet_f1ghter_equ1pment_1_short:0 "Me 262 슈발베"
+ AUS_jet_f1ghter_equ1pment_2:0 "호르텐 Ho 229"
+ AUS_jet_f1ghter_equ1pment_2_short:0 "Ho 229"
+ AUS_jet_f1ghter_equ1pment_x:0 "호르텐 Ho 329"
+ AUS_jet_f1ghter_equ1pment_x_short:0 "Ho 329"
  
-#-> Carrier-based jet fighters <><>
- AUS_cv_jet_fighter_equipment_1:0 "Messerschmitt Me 262 T Schwalbe"
- AUS_cv_jet_fighter_equipment_1_short:0 "Me 262 T Schwalbe"
- AUS_cv_jet_fighter_equipment_2:0 "Messerschmitt P.1101 T"
- AUS_cv_jet_fighter_equipment_2_short:0 "P.1101 T"
- AUS_jet_fighter_equipment_x:0 "Horten Ho 229 T"
- AUS_jet_fighter_equipment_x_short:0 "Ho 229 T"
+#-> Carr1er-based jet f1ghters <><>
+ AUS_cv_jet_f1ghter_equ1pment_1:0 "메서슈미트 Me 262 T 슈발베"
+ AUS_cv_jet_f1ghter_equ1pment_1_short:0 "Me 262 T 슈발베"
+ AUS_cv_jet_f1ghter_equ1pment_2:0 "호르텐 Ho 229 T"
+ AUS_cv_jet_f1ghter_equ1pment_2_short:0 "Ho 229 T"
+ AUS_jet_f1ghter_equ1pment_x:0 "호르텐 Ho 329 T"
+ AUS_jet_f1ghter_equ1pment_x_short:0 "Ho 329 T"
  
-#-> Jet medium bomber <><>
- AUS_jet_tac_bomber_equipment_1:0 "Henschel Hs 132"
- AUS_jet_tac_bomber_equipment_1_short:0 "Hs 132"
- AUS_jet_tac_bomber_equipment_2:0 "Arado Ar 234 Blitz"
- AUS_jet_tac_bomber_equipment_2_short:0 "Ar 234 Blitz"
- AUS_jet_tac_bomber_equipment_2:0 "Arado Ar 234D Blitz"
- AUS_jet_tac_bomber_equipment_2_short:0 "Ar 234D Blitz"
+#-> Jet med1um bomber <><>
+ AUS_jet_tac_bomber_equ1pment_1:0 "헨셸 Hs 132"
+ AUS_jet_tac_bomber_equ1pment_1_short:0 "Hs 132"
+ AUS_jet_tac_bomber_equ1pment_2:0 "아라도 Ar 234 블리츠"
+ AUS_jet_tac_bomber_equ1pment_2_short:0 "Ar 234 블리츠"
+ AUS_jet_tac_bomber_equ1pment_2:0 "아라도 Ar 234D 블리츠"
+ AUS_jet_tac_bomber_equ1pment_2_short:0 "Ar 234D 블리츠"
 
 #-> Jet heavy bomber <><>
- AUS_jet_strat_bomber_equipment_1:0 "Horten H.XVIII"
- AUS_jet_strat_bomber_equipment_1_short:0 "H.XVIII"
- AUS_jet_strat_bomber_equipment_1_desc:0 "The experimental flying wing design is the future of stealth bombing planes. Combined with intercontintal range, this bomber can strike even our most distant enemies before they are able to respond."
- AUS_jet_strat_bomber_equipment_x:0 "Horten H.XVIIIE"
+ AUS_jet_strat_bomber_equ1pment_1:0 "호르텐 H.XV3"
+ AUS_jet_strat_bomber_equ1pment_1_short:0 "H.XV3"
+ AUS_jet_strat_bomber_equ1pment_1_desc:0 "The exper1mental fly1ng w1ng des1gn 1s the future of stealth bomb1ng planes. Comb1ned w1th 1ntercont1ntal range, th1s bomber can str1ke even our most d1stant enem1es before they are able to respond."
+ AUS_jet_strat_bomber_equ1pment_x:0 "호르텐 H.XV3E"
 
 
 ###--->  HOL  <><> <><> <><>
@@ -6421,594 +6416,595 @@ l_english:
 #-> Carrier-based jet fighters <><>
 
 
+
 ###--->  SOV  <><> <><> <><>
 #-> Transport planes <><>
- SOV_transport_plane_equipment_1:0 "Li-2"
+ SOV_transport_plane_equ1pment_1:0 "Li-2"
 
-#-> Dive bombers <><>
- SOV_CAS_equipment_1:0 "Sukhoi Su-2"
- SOV_CAS_equipment_1_short:0 "Su-2"
- SOV_CAS_equipment_2:0 "Ilyushin IL-2 Sturmovik"
- SOV_CAS_equipment_2_short:0 "IL-2 Sturmovik"
- SOV_CAS_equipment_3:0 "Ilyushin IL-10"
- SOV_CAS_equipment_3_short:0 "IL-10"
+#-> D1ve bombers <><>
+ SOV_CAS_equ1pment_1:0 "수호이 Su-2"
+ SOV_CAS_equ1pment_1_short:0 "Su-2"
+ SOV_CAS_equ1pment_2:0 "일류신 IL-2 슈투르모빅"
+ SOV_CAS_equ1pment_2_short:0 "IL-2 슈투르모빅"
+ SOV_CAS_equ1pment_3:0 "일류신 IL-10"
+ SOV_CAS_equ1pment_3_short:0 "IL-10"
  
-#-> Carrier-based dive bombers <><>
- SOV_cv_CAS_equipment_1:0 "Sukhoi Su-2A"
- SOV_cv_CAS_equipment_1_short:0 "Su-2A"
- SOV_cv_CAS_equipment_2:0 "Ilyushin Il-2A"
- SOV_cv_CAS_equipment_2_short:0 "Il-2A"
- SOV_cv_CAS_equipment_3:0 "Ilyushin IL-10A"
- SOV_cv_CAS_equipment_3_short:0 "IL-10A"
+#-> Carr1er-based d1ve bombers <><>
+ SOV_cv_CAS_equ1pment_1:0 "수호이 Su-2A"
+ SOV_cv_CAS_equ1pment_1_short:0 "Su-2A"
+ SOV_cv_CAS_equ1pment_2:0 "일류신 IL-2A"
+ SOV_cv_CAS_equ1pment_2_short:0 "IL-2A"
+ SOV_cv_CAS_equ1pment_3:0 "일류신 IL-10A"
+ SOV_cv_CAS_equ1pment_3_short:0 "IL-10A"
  
-#-> Light fighters <><>
- SOV_fighter_equipment_0:0 "Polikarpov I-15"
- SOV_fighter_equipment_0_short:0 "I-15"
- SOV_fighter_equipment_1:0 "Polikarpov I-16"
- SOV_fighter_equipment_1_short:0 "I-16"
- SOV_fighter_equipment_2:0 "Lavochkin-Gorbunov-Gudkov LaGG-3"
- SOV_fighter_equipment_2_short:0 "LaGG-3"
- SOV_fighter_equipment_3:0 "Yakolev Yak-3"
- SOV_fighter_equipment_3_short:0 "Yak-3"
+#-> L1ght f1ghters <><>
+ SOV_f1ghter_equ1pment_0:0 "폴리카르포프 1-15"
+ SOV_f1ghter_equ1pment_0_short:0 "1-15"
+ SOV_f1ghter_equ1pment_1:0 "폴리카르포프 1-16"
+ SOV_f1ghter_equ1pment_1_short:0 "1-16"
+ SOV_f1ghter_equ1pment_2:0 "라보츠킨-고부노프-구드코프 LaGG-3"
+ SOV_f1ghter_equ1pment_2_short:0 "LaGG-3"
+ SOV_f1ghter_equ1pment_3:0 "야코블레프 Yak-3"
+ SOV_f1ghter_equ1pment_3_short:0 "Yak-3"
  
-#-> Light fighter-bombers <><>
- SOV_fighter_bomber_equipment_2:0 "Gudkov K-37"
- SOV_fighter_bomber_equipment_2_short:0 "K-37"
- SOV_fighter_bomber_equipment_3:0 "Yakolev Yak-3K"
- SOV_fighter_bomber_equipment_3_short:0 "Yak-3K"
+#-> L1ght f1ghter-bombers <><>
+ SOV_f1ghter_bomber_equ1pment_2:0 "고두코프 K-37"
+ SOV_f1ghter_bomber_equ1pment_2_short:0 "K-37"
+ SOV_f1ghter_bomber_equ1pment_3:0 "야코블레프 Yak-3K"
+ SOV_f1ghter_bomber_equ1pment_3_short:0 "Yak-3K"
  
-#-> Carrier-based light fighters <><>
- SOV_cv_fighter_equipment_0:0 "Polikarpov I-15A"
- SOV_cv_fighter_equipment_0_short:0 "I-15A"
- SOV_cv_fighter_equipment_1:0 "Polikarpov I-16A"
- SOV_cv_fighter_equipment_1_short:0 "I-16A"
- SOV_cv_fighter_equipment_2:0 "Lavochkin-Gorbunov-Gudkov LaGG-3A"
- SOV_cv_fighter_equipment_2_short:0 "LaGG-3A"
- SOV_cv_fighter_equipment_3:0 "Yakolev Yak-3A"
- SOV_cv_fighter_equipment_3_short:0 "Yak-3A"
+#-> Carr1er-based l1ght f1ghters <><>
+ SOV_cv_f1ghter_equ1pment_0:0 "폴리카르포프 1-15A"
+ SOV_cv_f1ghter_equ1pment_0_short:0 "1-15A"
+ SOV_cv_f1ghter_equ1pment_1:0 "폴리카르포프 1-16A"
+ SOV_cv_f1ghter_equ1pment_1_short:0 "1-16A"
+ SOV_cv_f1ghter_equ1pment_2:0 "라보츠킨-고부노프-구드코프 LaGG-3A"
+ SOV_cv_f1ghter_equ1pment_2_short:0 "LaGG-3A"
+ SOV_cv_f1ghter_equ1pment_3:0 "야코블레프 Yak-3A"
+ SOV_cv_f1ghter_equ1pment_3_short:0 "Yak-3A"
  
 #-> Torpedo bombers <><>
- SOV_nav_bomber_equipment_1:0 "Ilyushin Il-4"
- SOV_nav_bomber_equipment_1_short:0 "Il-4"
- SOV_nav_bomber_equipment_2:0 "Tupolev ANT-62T"
- SOV_nav_bomber_equipment_2_short:0 "ANT-62T"
- SOV_nav_bomber_equipment_3:0 "Ilyushin Il-6"
- SOV_nav_bomber_equipment_3_short:0 "Il-6"
+ SOV_nav_bomber_equ1pment_1:0 "일류신 IL-4"
+ SOV_nav_bomber_equ1pment_1_short:0 "IL-4"
+ SOV_nav_bomber_equ1pment_2:0 "투폴레프 ANT-62T"
+ SOV_nav_bomber_equ1pment_2_short:0 "ANT-62T"
+ SOV_nav_bomber_equ1pment_3:0 "일류신 IL-6"
+ SOV_nav_bomber_equ1pment_3_short:0 "IL-6"
  
-#-> Carrier-based torpedo bombers <><>
- #SOV_cv_nav_bomber_equipment_1:0 "Ilyushin Il-4P"
- #SOV_cv_nav_bomber_equipment_1_short:0 "Il-4P"
- #SOV_cv_nav_bomber_equipment_2:0 "Tupolev ANT-62TP"
- #SOV_cv_nav_bomber_equipment_2_short:0 "ANT-62TP"
- #SOV_cv_nav_bomber_equipment_3:0 "Ilyushin Il-6P"
- #SOV_cv_nav_bomber_equipment_3_short:0 "Il-6P"
+#-> Carr1er-based torpedo bombers <><>
+ #SOV_cv_nav_bomber_equ1pment_1:0 "일류신 IL-4P"
+ #SOV_cv_nav_bomber_equ1pment_1_short:0 "IL-4P"
+ #SOV_cv_nav_bomber_equ1pment_2:0 "투폴레프 ANT-62TP"
+ #SOV_cv_nav_bomber_equ1pment_2_short:0 "ANT-62TP"
+ #SOV_cv_nav_bomber_equ1pment_3:0 "일류신 IL-6P"
+ #SOV_cv_nav_bomber_equ1pment_3_short:0 "IL-6P"
  
-#-> Heavy fighters <><>
- SOV_heavy_fighter_equipment_1:0 "Petlyakov Pe-2"
- SOV_heavy_fighter_equipment_1_short:0 "Pe-2"
- SOV_heavy_fighter_equipment_2:0 "Petlyakov Pe-3"
- SOV_heavy_fighter_equipment_2_short:0 "Pe-3"
- SOV_heavy_fighter_equipment_3:0 "Polikarpov TIS"
- SOV_heavy_fighter_equipment_3_short:0 "TIS"
+#-> Heavy f1ghters <><>
+ SOV_heavy_f1ghter_equ1pment_1:0 "페틀리야코프 Pe-2"
+ SOV_heavy_f1ghter_equ1pment_1_short:0 "Pe-2"
+ SOV_heavy_f1ghter_equ1pment_2:0 "페틀리야코프 Pe-3"
+ SOV_heavy_f1ghter_equ1pment_2_short:0 "Pe-3"
+ SOV_heavy_f1ghter_equ1pment_3:0 "폴리카르포프 TIS"
+ SOV_heavy_f1ghter_equ1pment_3_short:0 "TIS"
  
-#-> Heavy fighter-bomber <><>
- SOV_hfighter_bomber_equipment_1:0 "Petlyakov Pe-2M"
- SOV_hfighter_bomber_equipment_1_short:0 "Pe-2M"
- SOV_hfighter_bomber_equipment_2:0 "Petlyakov Pe-3M"
- SOV_hfighter_bomber_equipment_2_short:0 "Pe-3M"
+#-> Heavy f1ghter-bomber <><>
+ SOV_hf1ghter_bomber_equ1pment_1:0 "페틀리야코프 Pe-2M"
+ SOV_hf1ghter_bomber_equ1pment_1_short:0 "Pe-2M"
+ SOV_hf1ghter_bomber_equ1pment_2:0 "페틀리야코프 Pe-3M"
+ SOV_hf1ghter_bomber_equ1pment_2_short:0 "Pe-3M"
  
-#-> Medium bomber <><>
- SOV_tac_bomber_equipment_0:0 "Ilyushin DB-3"
- SOV_tac_bomber_equipment_0_short:0 "DB-3"
- SOV_tac_bomber_equipment_1:0 "Tupolev SB-2M"
- SOV_tac_bomber_equipment_1_short:0 "SB-2M"
- SOV_tac_bomber_equipment_2:0 "Tupolev Tu-2"
- SOV_tac_bomber_equipment_2_short:0 "Tu-2"
- SOV_tac_bomber_equipment_3:0 "Tupolev Tu-8"
- SOV_tac_bomber_equipment_3_short:0 "Tu-8"
+#-> Med1um bomber <><>
+ SOV_tac_bomber_equ1pment_0:0 "일류신 DB-3"
+ SOV_tac_bomber_equ1pment_0_short:0 "DB-3"
+ SOV_tac_bomber_equ1pment_1:0 "투폴레프 SB-2M"
+ SOV_tac_bomber_equ1pment_1_short:0 "SB-2M"
+ SOV_tac_bomber_equ1pment_2:0 "투폴레프 Tu-2"
+ SOV_tac_bomber_equ1pment_2_short:0 "Tu-2"
+ SOV_tac_bomber_equ1pment_3:0 "투폴레프 Tu-8"
+ SOV_tac_bomber_equ1pment_3_short:0 "Tu-8"
  
-#-> Medium maritime bomber <><>
- SOV_med_maritime_equipment_1:0 "Tupolev SB-2F"
- SOV_med_maritime_equipment_1_short:0 "SB-2F"
- SOV_med_maritime_equipment_2:0 "Tupolev Tu-2F"
- SOV_med_maritime_equipment_2_short:0 "Tu-2F"
- SOV_med_maritime_equipment_3:0 "Tupolev Tu-8F"
- SOV_med_maritime_equipment_3_short:0 "Tu-8F"
+#-> Med1um mar1t1me bomber <><>
+ SOV_med_mar1t1me_equ1pment_1:0 "투폴레프 SB-2F"
+ SOV_med_mar1t1me_equ1pment_1_short:0 "SB-2F"
+ SOV_med_mar1t1me_equ1pment_2:0 "투폴레프 Tu-2F"
+ SOV_med_mar1t1me_equ1pment_2_short:0 "Tu-2F"
+ SOV_med_mar1t1me_equ1pment_3:0 "투폴레프 Tu-8F"
+ SOV_med_mar1t1me_equ1pment_3_short:0 "Tu-8F"
  
 #-> Heavy bomber <><>
- SOV_strat_bomber_equipment_1:0 "Petlyakov Pe-8"
- SOV_strat_bomber_equipment_1_short:0 "Pe-8"
- SOV_strat_bomber_equipment_2:0 "Petlyakov Pe-10"
- SOV_strat_bomber_equipment_2_short:0 "Pe-10"
- SOV_strat_bomber_equipment_3:0 "Tupolev Tu-4"
- SOV_strat_bomber_equipment_3_short:0 "Tu-4"
+ SOV_strat_bomber_equ1pment_1:0 "페틀리야코프 Pe-8"
+ SOV_strat_bomber_equ1pment_1_short:0 "Pe-8"
+ SOV_strat_bomber_equ1pment_2:0 "페틀리야코프 Pe-10"
+ SOV_strat_bomber_equ1pment_2_short:0 "Pe-10"
+ SOV_strat_bomber_equ1pment_3:0 "투폴레프 Tu-4"
+ SOV_strat_bomber_equ1pment_3_short:0 "Tu-4"
  
-#-> Heavy maritime bomber <><>
- SOV_strat_maritime_equipment_1:0 "Petlyakov Pe-8F"
- SOV_strat_maritime_equipment_1_short:0 "Pe-8F"
- SOV_strat_maritime_equipment_2:0 "Petlyakov Pe-10F"
- SOV_strat_maritime_equipment_2_short:0 "Pe-10F"
- SOV_strat_maritime_equipment_3:0 "Tupolev Tu-4F"
- SOV_strat_maritime_equipment_3_short:0 "Tu-4F"
+#-> Heavy mar1t1me bomber <><>
+ SOV_strat_mar1t1me_equ1pment_1:0 "페틀리야코프 Pe-8F"
+ SOV_strat_mar1t1me_equ1pment_1_short:0 "Pe-8F"
+ SOV_strat_mar1t1me_equ1pment_2:0 "페틀리야코프 Pe-10F"
+ SOV_strat_mar1t1me_equ1pment_2_short:0 "Pe-10F"
+ SOV_strat_mar1t1me_equ1pment_3:0 "투폴레프 Tu-4F"
+ SOV_strat_mar1t1me_equ1pment_3_short:0 "Tu-4F"
  
-#-> Maritime patrol <><>
+#-> Mar1t1me patrol <><>
 
-#-> Rocket interceptor <><>
- SOV_rocket_interceptor_equipment_1:0 "Bereznyak-Isayev BI-1"
- SOV_rocket_interceptor_equipment_1_short:0 "BI-1" 
- SOV_rocket_interceptor_equipment_2:0 "Polikarpov Malyutka"
- SOV_rocket_interceptor_equipment_2_short:0 "Malyutka"
- SOV_rocket_interceptor_equipment_3:0 "Mikoyan-Guerevich I-270"
- SOV_rocket_interceptor_equipment_3_short:0 "I-270"
+#-> Rocket 1nterceptor <><>
+ SOV_rocket_1nterceptor_equ1pment_1:0 "베레즈냐크-이자예프 B1-1"
+ SOV_rocket_1nterceptor_equ1pment_1_short:0 "B1-1" 
+ SOV_rocket_1nterceptor_equ1pment_2:0 "폴리카르포프 말륫카"
+ SOV_rocket_1nterceptor_equ1pment_2_short:0 "말륫카"
+ SOV_rocket_1nterceptor_equ1pment_3:0 "미코얀 구레비치 1-270"
+ SOV_rocket_1nterceptor_equ1pment_3_short:0 "1-270"
  
-#-> Jet fighters <><>
- SOV_jet_fighter_equipment_1:0 "Mikoyan-Guerevich MiG-9"
- SOV_jet_fighter_equipment_1_short:0 "MiG-9"
- SOV_jet_fighter_equipment_2:0 "Mikoyan-Guerevich MiG-15"
- SOV_jet_fighter_equipment_2_short:0 "MiG-15"
- #X:MiG-19
+#-> Jet f1ghters <><>
+ SOV_jet_f1ghter_equ1pment_1:0 "미코얀 구레비치 MiG-9"
+ SOV_jet_f1ghter_equ1pment_1_short:0 "MiG-9"
+ SOV_jet_f1ghter_equ1pment_2:0 "미코얀 구레비치 MiG-15"
+ SOV_jet_f1ghter_equ1pment_2_short:0 "MiG-15"
+ #X:M1G-19
 
-#-> Carrier-based jet fighters <><>
- SOV_cv_jet_fighter_equipment_1:0 "Mikoyan-Guerevich MiG-9A"
- SOV_cv_jet_fighter_equipment_1_short:0 "MiG-9A"
- SOV_cv_jet_fighter_equipment_2:0 "Mikoyan-Guerevich MiG-15A"
- SOV_cv_jet_fighter_equipment_2_short:0 "MiG-15A"
+#-> Carr1er-based jet f1ghters <><>
+ SOV_cv_jet_f1ghter_equ1pment_1:0 "미코얀 구레비치 MiG-9A"
+ SOV_cv_jet_f1ghter_equ1pment_1_short:0 "MiG-9A"
+ SOV_cv_jet_f1ghter_equ1pment_2:0 "미코얀 구레비치 MiG-15A"
+ SOV_cv_jet_f1ghter_equ1pment_2_short:0 "MiG-15A"
  
-#-> Jet medium bomber <><>
- SOV_jet_tac_bomber_equipment_1:0 "Ilyushin Il-28"
- SOV_jet_tac_bomber_equipment_1_short:0 "Il-28"
- SOV_jet_tac_bomber_equipment_2:0 "Tupolev Tu-16"
- SOV_jet_tac_bomber_equipment_2_short:0 "Tu-16"
+#-> Jet med1um bomber <><>
+ SOV_jet_tac_bomber_equ1pment_1:0 "일류신 IL-28"
+ SOV_jet_tac_bomber_equ1pment_1_short:0 "IL-28"
+ SOV_jet_tac_bomber_equ1pment_2:0 "투폴레프 Tu-16"
+ SOV_jet_tac_bomber_equ1pment_2_short:0 "Tu-16"
  
 #-> Jet heavy bomber <><>
- SOV_jet_strat_bomber_equipment_1:0 "Myasishchev M-4"
- SOV_jet_strat_bomber_equipment_1_short:0 "M-4"
+ SOV_jet_strat_bomber_equ1pment_1:0 "미야시셰프 M-4"
+ SOV_jet_strat_bomber_equ1pment_1_short:0 "M-4"
 
 
 ###--->  MON  <><> <><> <><>
 #-> Transport planes <><>
- MON_transport_plane_equipment_1:0 "Li-2"
+ MON_transport_plane_equ1pment_1:0 "Li-2"
 
-#-> Dive bombers <><>
- MON_CAS_equipment_1:0 "Sukhoi Su-2"
- MON_CAS_equipment_1_short:0 "Su-2"
- MON_CAS_equipment_2:0 "Ilyushin IL-2 Sturmovik"
- MON_CAS_equipment_2_short:0 "IL-2 Sturmovik"
- MON_CAS_equipment_3:0 "Ilyushin IL-10"
- MON_CAS_equipment_3_short:0 "IL-10"
+#-> D1ve bombers <><>
+ MON_CAS_equ1pment_1:0 "수호이 Su-2"
+ MON_CAS_equ1pment_1_short:0 "Su-2"
+ MON_CAS_equ1pment_2:0 "일류신 IL-2 슈투르모빅"
+ MON_CAS_equ1pment_2_short:0 "IL-2 슈투르모빅"
+ MON_CAS_equ1pment_3:0 "일류신 IL-10"
+ MON_CAS_equ1pment_3_short:0 "IL-10"
  
-#-> Carrier-based dive bombers <><>
- MON_cv_CAS_equipment_1:0 "Sukhoi Su-2A"
- MON_cv_CAS_equipment_1_short:0 "Su-2A"
- MON_cv_CAS_equipment_2:0 "Ilyushin Il-2A"
- MON_cv_CAS_equipment_2_short:0 "Il-2A"
- MON_cv_CAS_equipment_3:0 "Ilyushin IL-10A"
- MON_cv_CAS_equipment_3_short:0 "IL-10A"
+#-> Carr1er-based d1ve bombers <><>
+ MON_cv_CAS_equ1pment_1:0 "수호이 Su-2A"
+ MON_cv_CAS_equ1pment_1_short:0 "Su-2A"
+ MON_cv_CAS_equ1pment_2:0 "일류신 IL-2A"
+ MON_cv_CAS_equ1pment_2_short:0 "IL-2A"
+ MON_cv_CAS_equ1pment_3:0 "일류신 IL-10A"
+ MON_cv_CAS_equ1pment_3_short:0 "IL-10A"
  
-#-> Light fighters <><>
- MON_fighter_equipment_0:0 "Polikarpov I-15"
- MON_fighter_equipment_0_short:0 "I-15"
- MON_fighter_equipment_1:0 "Polikarpov I-16"
- MON_fighter_equipment_1_short:0 "I-16"
- MON_fighter_equipment_2:0 "Lavochkin-Gorbunov-Gudkov LaGG-3"
- MON_fighter_equipment_2_short:0 "LaGG-3"
- MON_fighter_equipment_3:0 "Yakolev Yak-3"
- MON_fighter_equipment_3_short:0 "Yak-3"
+#-> L1ght f1ghters <><>
+ MON_f1ghter_equ1pment_0:0 "폴리카르포프 1-15"
+ MON_f1ghter_equ1pment_0_short:0 "1-15"
+ MON_f1ghter_equ1pment_1:0 "폴리카르포프 1-16"
+ MON_f1ghter_equ1pment_1_short:0 "1-16"
+ MON_f1ghter_equ1pment_2:0 "라보츠킨-고부노프-구드코프 LaGG-3"
+ MON_f1ghter_equ1pment_2_short:0 "LaGG-3"
+ MON_f1ghter_equ1pment_3:0 "야코블레프 Yak-3"
+ MON_f1ghter_equ1pment_3_short:0 "Yak-3"
  
-#-> Light fighter-bombers <><>
- MON_fighter_bomber_equipment_2:0 "Gudkov K-37"
- MON_fighter_bomber_equipment_2_short:0 "K-37"
- MON_fighter_bomber_equipment_3:0 "Yakolev Yak-3K"
- MON_fighter_bomber_equipment_3_short:0 "Yak-3K"
+#-> L1ght f1ghter-bombers <><>
+ MON_f1ghter_bomber_equ1pment_2:0 "고두코프 K-37"
+ MON_f1ghter_bomber_equ1pment_2_short:0 "K-37"
+ MON_f1ghter_bomber_equ1pment_3:0 "야코블레프 Yak-3K"
+ MON_f1ghter_bomber_equ1pment_3_short:0 "Yak-3K"
  
-#-> Carrier-based light fighters <><>
- MON_cv_fighter_equipment_0:0 "Polikarpov I-15A"
- MON_cv_fighter_equipment_0_short:0 "I-15A"
- MON_cv_fighter_equipment_1:0 "Polikarpov I-16A"
- MON_cv_fighter_equipment_1_short:0 "I-16A"
- MON_cv_fighter_equipment_2:0 "Lavochkin-Gorbunov-Gudkov LaGG-3A"
- MON_cv_fighter_equipment_2_short:0 "LaGG-3A"
- MON_cv_fighter_equipment_3:0 "Yakolev Yak-3A"
- MON_cv_fighter_equipment_3_short:0 "Yak-3A"
+#-> Carr1er-based l1ght f1ghters <><>
+ MON_cv_f1ghter_equ1pment_0:0 "폴리카르포프 1-15A"
+ MON_cv_f1ghter_equ1pment_0_short:0 "1-15A"
+ MON_cv_f1ghter_equ1pment_1:0 "폴리카르포프 1-16A"
+ MON_cv_f1ghter_equ1pment_1_short:0 "1-16A"
+ MON_cv_f1ghter_equ1pment_2:0 "라보츠킨-고부노프-구드코프 LaGG-3A"
+ MON_cv_f1ghter_equ1pment_2_short:0 "LaGG-3A"
+ MON_cv_f1ghter_equ1pment_3:0 "야코블레프 Yak-3A"
+ MON_cv_f1ghter_equ1pment_3_short:0 "Yak-3A"
  
 #-> Torpedo bombers <><>
- MON_nav_bomber_equipment_1:0 "Ilyushin Il-4"
- MON_nav_bomber_equipment_1_short:0 "Il-4"
- MON_nav_bomber_equipment_2:0 "Tupolev ANT-62T"
- MON_nav_bomber_equipment_2_short:0 "ANT-62T"
- MON_nav_bomber_equipment_3:0 "Ilyushin Il-6"
- MON_nav_bomber_equipment_3_short:0 "Il-6"
+ MON_nav_bomber_equ1pment_1:0 "일류신 IL-4"
+ MON_nav_bomber_equ1pment_1_short:0 "IL-4"
+ MON_nav_bomber_equ1pment_2:0 "투폴레프 ANT-62T"
+ MON_nav_bomber_equ1pment_2_short:0 "ANT-62T"
+ MON_nav_bomber_equ1pment_3:0 "일류신 IL-6"
+ MON_nav_bomber_equ1pment_3_short:0 "IL-6"
  
-#-> Carrier-based torpedo bombers <><>
- #MON_cv_nav_bomber_equipment_1:0 "Ilyushin Il-4P"
- #MON_cv_nav_bomber_equipment_1_short:0 "Il-4P"
- #MON_cv_nav_bomber_equipment_2:0 "Tupolev ANT-62TP"
- #MON_cv_nav_bomber_equipment_2_short:0 "ANT-62TP"
- #MON_cv_nav_bomber_equipment_3:0 "Ilyushin Il-6P"
- #MON_cv_nav_bomber_equipment_3_short:0 "Il-6P"
+#-> Carr1er-based torpedo bombers <><>
+ #MON_cv_nav_bomber_equ1pment_1:0 "일류신 IL-4P"
+ #MON_cv_nav_bomber_equ1pment_1_short:0 "IL-4P"
+ #MON_cv_nav_bomber_equ1pment_2:0 "투폴레프 ANT-62TP"
+ #MON_cv_nav_bomber_equ1pment_2_short:0 "ANT-62TP"
+ #MON_cv_nav_bomber_equ1pment_3:0 "일류신 IL-6P"
+ #MON_cv_nav_bomber_equ1pment_3_short:0 "IL-6P"
  
-#-> Heavy fighters <><>
- MON_heavy_fighter_equipment_1:0 "Petlyakov Pe-2"
- MON_heavy_fighter_equipment_1_short:0 "Pe-2"
- MON_heavy_fighter_equipment_2:0 "Petlyakov Pe-3"
- MON_heavy_fighter_equipment_2_short:0 "Pe-3"
- MON_heavy_fighter_equipment_3:0 "Polikarpov TIS"
- MON_heavy_fighter_equipment_3_short:0 "TIS"
+#-> Heavy f1ghters <><>
+ MON_heavy_f1ghter_equ1pment_1:0 "페틀리야코프 Pe-2"
+ MON_heavy_f1ghter_equ1pment_1_short:0 "Pe-2"
+ MON_heavy_f1ghter_equ1pment_2:0 "페틀리야코프 Pe-3"
+ MON_heavy_f1ghter_equ1pment_2_short:0 "Pe-3"
+ MON_heavy_f1ghter_equ1pment_3:0 "폴리카르포프 TIS"
+ MON_heavy_f1ghter_equ1pment_3_short:0 "TIS"
  
-#-> Heavy fighter-bomber <><>
- MON_hfighter_bomber_equipment_1:0 "Petlyakov Pe-2M"
- MON_hfighter_bomber_equipment_1_short:0 "Pe-2M"
- MON_hfighter_bomber_equipment_2:0 "Petlyakov Pe-3M"
- MON_hfighter_bomber_equipment_2_short:0 "Pe-3M"
+#-> Heavy f1ghter-bomber <><>
+ MON_hf1ghter_bomber_equ1pment_1:0 "페틀리야코프 Pe-2M"
+ MON_hf1ghter_bomber_equ1pment_1_short:0 "Pe-2M"
+ MON_hf1ghter_bomber_equ1pment_2:0 "페틀리야코프 Pe-3M"
+ MON_hf1ghter_bomber_equ1pment_2_short:0 "Pe-3M"
  
-#-> Medium bomber <><>
- MON_tac_bomber_equipment_0:0 "Ilyushin DB-3"
- MON_tac_bomber_equipment_0_short:0 "DB-3"
- MON_tac_bomber_equipment_1:0 "Tupolev SB-2M"
- MON_tac_bomber_equipment_1_short:0 "SB-2M"
- MON_tac_bomber_equipment_2:0 "Tupolev Tu-2"
- MON_tac_bomber_equipment_2_short:0 "Tu-2"
- MON_tac_bomber_equipment_3:0 "Tupolev Tu-8"
- MON_tac_bomber_equipment_3_short:0 "Tu-8"
+#-> Med1um bomber <><>
+ MON_tac_bomber_equ1pment_0:0 "일류신 DB-3"
+ MON_tac_bomber_equ1pment_0_short:0 "DB-3"
+ MON_tac_bomber_equ1pment_1:0 "투폴레프 SB-2M"
+ MON_tac_bomber_equ1pment_1_short:0 "SB-2M"
+ MON_tac_bomber_equ1pment_2:0 "투폴레프 Tu-2"
+ MON_tac_bomber_equ1pment_2_short:0 "Tu-2"
+ MON_tac_bomber_equ1pment_3:0 "투폴레프 Tu-8"
+ MON_tac_bomber_equ1pment_3_short:0 "Tu-8"
  
-#-> Medium maritime bomber <><>
- MON_med_maritime_equipment_1:0 "Tupolev SB-2F"
- MON_med_maritime_equipment_1_short:0 "SB-2F"
- MON_med_maritime_equipment_2:0 "Tupolev Tu-2F"
- MON_med_maritime_equipment_2_short:0 "Tu-2F"
- MON_med_maritime_equipment_3:0 "Tupolev Tu-8F"
- MON_med_maritime_equipment_3_short:0 "Tu-8F"
+#-> Med1um mar1t1me bomber <><>
+ MON_med_mar1t1me_equ1pment_1:0 "투폴레프 SB-2F"
+ MON_med_mar1t1me_equ1pment_1_short:0 "SB-2F"
+ MON_med_mar1t1me_equ1pment_2:0 "투폴레프 Tu-2F"
+ MON_med_mar1t1me_equ1pment_2_short:0 "Tu-2F"
+ MON_med_mar1t1me_equ1pment_3:0 "투폴레프 Tu-8F"
+ MON_med_mar1t1me_equ1pment_3_short:0 "Tu-8F"
  
 #-> Heavy bomber <><>
- MON_strat_bomber_equipment_1:0 "Petlyakov Pe-8"
- MON_strat_bomber_equipment_1_short:0 "Pe-8"
- MON_strat_bomber_equipment_2:0 "Petlyakov Pe-10"
- MON_strat_bomber_equipment_2_short:0 "Pe-10"
- MON_strat_bomber_equipment_3:0 "Tupolev Tu-4"
- MON_strat_bomber_equipment_3_short:0 "Tu-4"
+ MON_strat_bomber_equ1pment_1:0 "페틀리야코프 Pe-8"
+ MON_strat_bomber_equ1pment_1_short:0 "Pe-8"
+ MON_strat_bomber_equ1pment_2:0 "페틀리야코프 Pe-10"
+ MON_strat_bomber_equ1pment_2_short:0 "Pe-10"
+ MON_strat_bomber_equ1pment_3:0 "투폴레프 Tu-4"
+ MON_strat_bomber_equ1pment_3_short:0 "Tu-4"
  
-#-> Heavy maritime bomber <><>
- MON_strat_maritime_equipment_1:0 "Petlyakov Pe-8F"
- MON_strat_maritime_equipment_1_short:0 "Pe-8F"
- MON_strat_maritime_equipment_2:0 "Petlyakov Pe-10F"
- MON_strat_maritime_equipment_2_short:0 "Pe-10F"
- MON_strat_maritime_equipment_3:0 "Tupolev Tu-4F"
- MON_strat_maritime_equipment_3_short:0 "Tu-4F"
+#-> Heavy mar1t1me bomber <><>
+ MON_strat_mar1t1me_equ1pment_1:0 "페틀리야코프 Pe-8F"
+ MON_strat_mar1t1me_equ1pment_1_short:0 "Pe-8F"
+ MON_strat_mar1t1me_equ1pment_2:0 "페틀리야코프 Pe-10F"
+ MON_strat_mar1t1me_equ1pment_2_short:0 "Pe-10F"
+ MON_strat_mar1t1me_equ1pment_3:0 "투폴레프 Tu-4F"
+ MON_strat_mar1t1me_equ1pment_3_short:0 "Tu-4F"
  
-#-> Maritime patrol <><>
+#-> Mar1t1me patrol <><>
 
-#-> Rocket interceptor <><>
- MON_rocket_interceptor_equipment_1:0 "Bereznyak-Isayev BI-1"
- MON_rocket_interceptor_equipment_1_short:0 "BI-1" 
- MON_rocket_interceptor_equipment_2:0 "Polikarpov Malyutka"
- MON_rocket_interceptor_equipment_2_short:0 "Malyutka"
- MON_rocket_interceptor_equipment_3:0 "Mikoyan-Guerevich I-270"
- MON_rocket_interceptor_equipment_3_short:0 "I-270"
+#-> Rocket 1nterceptor <><>
+ MON_rocket_1nterceptor_equ1pment_1:0 "베레즈냐크-이자예프 B1-1"
+ MON_rocket_1nterceptor_equ1pment_1_short:0 "B1-1" 
+ MON_rocket_1nterceptor_equ1pment_2:0 "폴리카르포프 말륫카"
+ MON_rocket_1nterceptor_equ1pment_2_short:0 "말륫카"
+ MON_rocket_1nterceptor_equ1pment_3:0 "미코얀 구레비치 1-270"
+ MON_rocket_1nterceptor_equ1pment_3_short:0 "1-270"
  
-#-> Jet fighters <><>
- MON_jet_fighter_equipment_1:0 "Mikoyan-Guerevich MiG-9"
- MON_jet_fighter_equipment_1_short:0 "MiG-9"
- MON_jet_fighter_equipment_2:0 "Mikoyan-Guerevich MiG-15"
- MON_jet_fighter_equipment_2_short:0 "MiG-15"
- #X:MiG-19
+#-> Jet f1ghters <><>
+ MON_jet_f1ghter_equ1pment_1:0 "미코얀 구레비치 MiG-9"
+ MON_jet_f1ghter_equ1pment_1_short:0 "MiG-9"
+ MON_jet_f1ghter_equ1pment_2:0 "미코얀 구레비치 MiG-15"
+ MON_jet_f1ghter_equ1pment_2_short:0 "MiG-15"
+ #X:M1G-19
 
-#-> Carrier-based jet fighters <><>
- MON_cv_jet_fighter_equipment_1:0 "Mikoyan-Guerevich MiG-9A"
- MON_cv_jet_fighter_equipment_1_short:0 "MiG-9A"
- MON_cv_jet_fighter_equipment_2:0 "Mikoyan-Guerevich MiG-15A"
- MON_cv_jet_fighter_equipment_2_short:0 "MiG-15A"
+#-> Carr1er-based jet f1ghters <><>
+ MON_cv_jet_f1ghter_equ1pment_1:0 "미코얀 구레비치 MiG-9A"
+ MON_cv_jet_f1ghter_equ1pment_1_short:0 "MiG-9A"
+ MON_cv_jet_f1ghter_equ1pment_2:0 "미코얀 구레비치 MiG-15A"
+ MON_cv_jet_f1ghter_equ1pment_2_short:0 "MiG-15A"
  
-#-> Jet medium bomber <><>
- MON_jet_tac_bomber_equipment_1:0 "Ilyushin Il-28"
- MON_jet_tac_bomber_equipment_1_short:0 "Il-28"
- MON_jet_tac_bomber_equipment_2:0 "Tupolev Tu-16"
- MON_jet_tac_bomber_equipment_2_short:0 "Tu-16"
+#-> Jet med1um bomber <><>
+ MON_jet_tac_bomber_equ1pment_1:0 "일류신 IL-28"
+ MON_jet_tac_bomber_equ1pment_1_short:0 "IL-28"
+ MON_jet_tac_bomber_equ1pment_2:0 "투폴레프 Tu-16"
+ MON_jet_tac_bomber_equ1pment_2_short:0 "Tu-16"
  
 #-> Jet heavy bomber <><>
- MON_jet_strat_bomber_equipment_1:0 "Myasishchev M-4"
- MON_jet_strat_bomber_equipment_1_short:0 "M-4"
+ MON_jet_strat_bomber_equ1pment_1:0 "미야시셰프 M-4"
+ MON_jet_strat_bomber_equ1pment_1_short:0 "M-4"
 
 
 ###--->  TAN  <><> <><> <><>
 #-> Transport planes <><>
- TAN_transport_plane_equipment_1:0 "Li-2"
+ TAN_transport_plane_equ1pment_1:0 "Li-2"
 
-#-> Dive bombers <><>
- TAN_CAS_equipment_1:0 "Sukhoi Su-2"
- TAN_CAS_equipment_1_short:0 "Su-2"
- TAN_CAS_equipment_2:0 "Ilyushin IL-2 Sturmovik"
- TAN_CAS_equipment_2_short:0 "IL-2 Sturmovik"
- TAN_CAS_equipment_3:0 "Ilyushin IL-10"
- TAN_CAS_equipment_3_short:0 "IL-10"
+#-> D1ve bombers <><>
+ TAN_CAS_equ1pment_1:0 "수호이 Su-2"
+ TAN_CAS_equ1pment_1_short:0 "Su-2"
+ TAN_CAS_equ1pment_2:0 "일류신 IL-2 슈투르모빅"
+ TAN_CAS_equ1pment_2_short:0 "IL-2 슈투르모빅"
+ TAN_CAS_equ1pment_3:0 "일류신 IL-10"
+ TAN_CAS_equ1pment_3_short:0 "IL-10"
  
-#-> Carrier-based dive bombers <><>
- TAN_cv_CAS_equipment_1:0 "Sukhoi Su-2A"
- TAN_cv_CAS_equipment_1_short:0 "Su-2A"
- TAN_cv_CAS_equipment_2:0 "Ilyushin Il-2A"
- TAN_cv_CAS_equipment_2_short:0 "Il-2A"
- TAN_cv_CAS_equipment_3:0 "Ilyushin IL-10A"
- TAN_cv_CAS_equipment_3_short:0 "IL-10A"
+#-> Carr1er-based d1ve bombers <><>
+ TAN_cv_CAS_equ1pment_1:0 "수호이 Su-2A"
+ TAN_cv_CAS_equ1pment_1_short:0 "Su-2A"
+ TAN_cv_CAS_equ1pment_2:0 "일류신 IL-2A"
+ TAN_cv_CAS_equ1pment_2_short:0 "IL-2A"
+ TAN_cv_CAS_equ1pment_3:0 "일류신 IL-10A"
+ TAN_cv_CAS_equ1pment_3_short:0 "IL-10A"
  
-#-> Light fighters <><>
- TAN_fighter_equipment_0:0 "Polikarpov I-15"
- TAN_fighter_equipment_0_short:0 "I-15"
- TAN_fighter_equipment_1:0 "Polikarpov I-16"
- TAN_fighter_equipment_1_short:0 "I-16"
- TAN_fighter_equipment_2:0 "Lavochkin-Gorbunov-Gudkov LaGG-3"
- TAN_fighter_equipment_2_short:0 "LaGG-3"
- TAN_fighter_equipment_3:0 "Yakolev Yak-3"
- TAN_fighter_equipment_3_short:0 "Yak-3"
+#-> L1ght f1ghters <><>
+ TAN_f1ghter_equ1pment_0:0 "폴리카르포프 1-15"
+ TAN_f1ghter_equ1pment_0_short:0 "1-15"
+ TAN_f1ghter_equ1pment_1:0 "폴리카르포프 1-16"
+ TAN_f1ghter_equ1pment_1_short:0 "1-16"
+ TAN_f1ghter_equ1pment_2:0 "라보츠킨-고부노프-구드코프 LaGG-3"
+ TAN_f1ghter_equ1pment_2_short:0 "LaGG-3"
+ TAN_f1ghter_equ1pment_3:0 "야코블레프 Yak-3"
+ TAN_f1ghter_equ1pment_3_short:0 "Yak-3"
  
-#-> Light fighter-bombers <><>
- TAN_fighter_bomber_equipment_2:0 "Gudkov K-37"
- TAN_fighter_bomber_equipment_2_short:0 "K-37"
- TAN_fighter_bomber_equipment_3:0 "Yakolev Yak-3K"
- TAN_fighter_bomber_equipment_3_short:0 "Yak-3K"
+#-> L1ght f1ghter-bombers <><>
+ TAN_f1ghter_bomber_equ1pment_2:0 "고두코프 K-37"
+ TAN_f1ghter_bomber_equ1pment_2_short:0 "K-37"
+ TAN_f1ghter_bomber_equ1pment_3:0 "야코블레프 Yak-3K"
+ TAN_f1ghter_bomber_equ1pment_3_short:0 "Yak-3K"
  
-#-> Carrier-based light fighters <><>
- TAN_cv_fighter_equipment_0:0 "Polikarpov I-15A"
- TAN_cv_fighter_equipment_0_short:0 "I-15A"
- TAN_cv_fighter_equipment_1:0 "Polikarpov I-16A"
- TAN_cv_fighter_equipment_1_short:0 "I-16A"
- TAN_cv_fighter_equipment_2:0 "Lavochkin-Gorbunov-Gudkov LaGG-3A"
- TAN_cv_fighter_equipment_2_short:0 "LaGG-3A"
- TAN_cv_fighter_equipment_3:0 "Yakolev Yak-3A"
- TAN_cv_fighter_equipment_3_short:0 "Yak-3A"
+#-> Carr1er-based l1ght f1ghters <><>
+ TAN_cv_f1ghter_equ1pment_0:0 "폴리카르포프 1-15A"
+ TAN_cv_f1ghter_equ1pment_0_short:0 "1-15A"
+ TAN_cv_f1ghter_equ1pment_1:0 "폴리카르포프 1-16A"
+ TAN_cv_f1ghter_equ1pment_1_short:0 "1-16A"
+ TAN_cv_f1ghter_equ1pment_2:0 "라보츠킨-고부노프-구드코프 LaGG-3A"
+ TAN_cv_f1ghter_equ1pment_2_short:0 "LaGG-3A"
+ TAN_cv_f1ghter_equ1pment_3:0 "야코블레프 Yak-3A"
+ TAN_cv_f1ghter_equ1pment_3_short:0 "Yak-3A"
  
 #-> Torpedo bombers <><>
- TAN_nav_bomber_equipment_1:0 "Ilyushin Il-4"
- TAN_nav_bomber_equipment_1_short:0 "Il-4"
- TAN_nav_bomber_equipment_2:0 "Tupolev ANT-62T"
- TAN_nav_bomber_equipment_2_short:0 "ANT-62T"
- TAN_nav_bomber_equipment_3:0 "Ilyushin Il-6"
- TAN_nav_bomber_equipment_3_short:0 "Il-6"
+ TAN_nav_bomber_equ1pment_1:0 "일류신 IL-4"
+ TAN_nav_bomber_equ1pment_1_short:0 "IL-4"
+ TAN_nav_bomber_equ1pment_2:0 "투폴레프 ANT-62T"
+ TAN_nav_bomber_equ1pment_2_short:0 "ANT-62T"
+ TAN_nav_bomber_equ1pment_3:0 "일류신 IL-6"
+ TAN_nav_bomber_equ1pment_3_short:0 "IL-6"
  
-#-> Carrier-based torpedo bombers <><>
- #TAN_cv_nav_bomber_equipment_1:0 "Ilyushin Il-4P"
- #TAN_cv_nav_bomber_equipment_1_short:0 "Il-4P"
- #TAN_cv_nav_bomber_equipment_2:0 "Tupolev ANT-62TP"
- #TAN_cv_nav_bomber_equipment_2_short:0 "ANT-62TP"
- #TAN_cv_nav_bomber_equipment_3:0 "Ilyushin Il-6P"
- #TAN_cv_nav_bomber_equipment_3_short:0 "Il-6P"
+#-> Carr1er-based torpedo bombers <><>
+ #TAN_cv_nav_bomber_equ1pment_1:0 "일류신 IL-4P"
+ #TAN_cv_nav_bomber_equ1pment_1_short:0 "IL-4P"
+ #TAN_cv_nav_bomber_equ1pment_2:0 "투폴레프 ANT-62TP"
+ #TAN_cv_nav_bomber_equ1pment_2_short:0 "ANT-62TP"
+ #TAN_cv_nav_bomber_equ1pment_3:0 "일류신 IL-6P"
+ #TAN_cv_nav_bomber_equ1pment_3_short:0 "IL-6P"
  
-#-> Heavy fighters <><>
- TAN_heavy_fighter_equipment_1:0 "Petlyakov Pe-2"
- TAN_heavy_fighter_equipment_1_short:0 "Pe-2"
- TAN_heavy_fighter_equipment_2:0 "Petlyakov Pe-3"
- TAN_heavy_fighter_equipment_2_short:0 "Pe-3"
- TAN_heavy_fighter_equipment_3:0 "Polikarpov TIS"
- TAN_heavy_fighter_equipment_3_short:0 "TIS"
+#-> Heavy f1ghters <><>
+ TAN_heavy_f1ghter_equ1pment_1:0 "페틀리야코프 Pe-2"
+ TAN_heavy_f1ghter_equ1pment_1_short:0 "Pe-2"
+ TAN_heavy_f1ghter_equ1pment_2:0 "페틀리야코프 Pe-3"
+ TAN_heavy_f1ghter_equ1pment_2_short:0 "Pe-3"
+ TAN_heavy_f1ghter_equ1pment_3:0 "폴리카르포프 TIS"
+ TAN_heavy_f1ghter_equ1pment_3_short:0 "TIS"
  
-#-> Heavy fighter-bomber <><>
- TAN_hfighter_bomber_equipment_1:0 "Petlyakov Pe-2M"
- TAN_hfighter_bomber_equipment_1_short:0 "Pe-2M"
- TAN_hfighter_bomber_equipment_2:0 "Petlyakov Pe-3M"
- TAN_hfighter_bomber_equipment_2_short:0 "Pe-3M"
+#-> Heavy f1ghter-bomber <><>
+ TAN_hf1ghter_bomber_equ1pment_1:0 "페틀리야코프 Pe-2M"
+ TAN_hf1ghter_bomber_equ1pment_1_short:0 "Pe-2M"
+ TAN_hf1ghter_bomber_equ1pment_2:0 "페틀리야코프 Pe-3M"
+ TAN_hf1ghter_bomber_equ1pment_2_short:0 "Pe-3M"
  
-#-> Medium bomber <><>
- TAN_tac_bomber_equipment_0:0 "Ilyushin DB-3"
- TAN_tac_bomber_equipment_0_short:0 "DB-3"
- TAN_tac_bomber_equipment_1:0 "Tupolev SB-2M"
- TAN_tac_bomber_equipment_1_short:0 "SB-2M"
- TAN_tac_bomber_equipment_2:0 "Tupolev Tu-2"
- TAN_tac_bomber_equipment_2_short:0 "Tu-2"
- TAN_tac_bomber_equipment_3:0 "Tupolev Tu-8"
- TAN_tac_bomber_equipment_3_short:0 "Tu-8"
+#-> Med1um bomber <><>
+ TAN_tac_bomber_equ1pment_0:0 "일류신 DB-3"
+ TAN_tac_bomber_equ1pment_0_short:0 "DB-3"
+ TAN_tac_bomber_equ1pment_1:0 "투폴레프 SB-2M"
+ TAN_tac_bomber_equ1pment_1_short:0 "SB-2M"
+ TAN_tac_bomber_equ1pment_2:0 "투폴레프 Tu-2"
+ TAN_tac_bomber_equ1pment_2_short:0 "Tu-2"
+ TAN_tac_bomber_equ1pment_3:0 "투폴레프 Tu-8"
+ TAN_tac_bomber_equ1pment_3_short:0 "Tu-8"
  
-#-> Medium maritime bomber <><>
- TAN_med_maritime_equipment_1:0 "Tupolev SB-2F"
- TAN_med_maritime_equipment_1_short:0 "SB-2F"
- TAN_med_maritime_equipment_2:0 "Tupolev Tu-2F"
- TAN_med_maritime_equipment_2_short:0 "Tu-2F"
- TAN_med_maritime_equipment_3:0 "Tupolev Tu-8F"
- TAN_med_maritime_equipment_3_short:0 "Tu-8F"
+#-> Med1um mar1t1me bomber <><>
+ TAN_med_mar1t1me_equ1pment_1:0 "투폴레프 SB-2F"
+ TAN_med_mar1t1me_equ1pment_1_short:0 "SB-2F"
+ TAN_med_mar1t1me_equ1pment_2:0 "투폴레프 Tu-2F"
+ TAN_med_mar1t1me_equ1pment_2_short:0 "Tu-2F"
+ TAN_med_mar1t1me_equ1pment_3:0 "투폴레프 Tu-8F"
+ TAN_med_mar1t1me_equ1pment_3_short:0 "Tu-8F"
  
 #-> Heavy bomber <><>
- TAN_strat_bomber_equipment_1:0 "Petlyakov Pe-8"
- TAN_strat_bomber_equipment_1_short:0 "Pe-8"
- TAN_strat_bomber_equipment_2:0 "Petlyakov Pe-10"
- TAN_strat_bomber_equipment_2_short:0 "Pe-10"
- TAN_strat_bomber_equipment_3:0 "Tupolev Tu-4"
- TAN_strat_bomber_equipment_3_short:0 "Tu-4"
+ TAN_strat_bomber_equ1pment_1:0 "페틀리야코프 Pe-8"
+ TAN_strat_bomber_equ1pment_1_short:0 "Pe-8"
+ TAN_strat_bomber_equ1pment_2:0 "페틀리야코프 Pe-10"
+ TAN_strat_bomber_equ1pment_2_short:0 "Pe-10"
+ TAN_strat_bomber_equ1pment_3:0 "투폴레프 Tu-4"
+ TAN_strat_bomber_equ1pment_3_short:0 "Tu-4"
  
-#-> Heavy maritime bomber <><>
- TAN_strat_maritime_equipment_1:0 "Petlyakov Pe-8F"
- TAN_strat_maritime_equipment_1_short:0 "Pe-8F"
- TAN_strat_maritime_equipment_2:0 "Petlyakov Pe-10F"
- TAN_strat_maritime_equipment_2_short:0 "Pe-10F"
- TAN_strat_maritime_equipment_3:0 "Tupolev Tu-4F"
- TAN_strat_maritime_equipment_3_short:0 "Tu-4F"
+#-> Heavy mar1t1me bomber <><>
+ TAN_strat_mar1t1me_equ1pment_1:0 "페틀리야코프 Pe-8F"
+ TAN_strat_mar1t1me_equ1pment_1_short:0 "Pe-8F"
+ TAN_strat_mar1t1me_equ1pment_2:0 "페틀리야코프 Pe-10F"
+ TAN_strat_mar1t1me_equ1pment_2_short:0 "Pe-10F"
+ TAN_strat_mar1t1me_equ1pment_3:0 "투폴레프 Tu-4F"
+ TAN_strat_mar1t1me_equ1pment_3_short:0 "Tu-4F"
  
-#-> Maritime patrol <><>
+#-> Mar1t1me patrol <><>
 
-#-> Rocket interceptor <><>
- TAN_rocket_interceptor_equipment_1:0 "Bereznyak-Isayev BI-1"
- TAN_rocket_interceptor_equipment_1_short:0 "BI-1" 
- TAN_rocket_interceptor_equipment_2:0 "Polikarpov Malyutka"
- TAN_rocket_interceptor_equipment_2_short:0 "Malyutka"
- TAN_rocket_interceptor_equipment_3:0 "Mikoyan-Guerevich I-270"
- TAN_rocket_interceptor_equipment_3_short:0 "I-270"
+#-> Rocket 1nterceptor <><>
+ TAN_rocket_1nterceptor_equ1pment_1:0 "베레즈냐크-이자예프 B1-1"
+ TAN_rocket_1nterceptor_equ1pment_1_short:0 "B1-1" 
+ TAN_rocket_1nterceptor_equ1pment_2:0 "폴리카르포프 말륫카"
+ TAN_rocket_1nterceptor_equ1pment_2_short:0 "말륫카"
+ TAN_rocket_1nterceptor_equ1pment_3:0 "미코얀 구레비치 1-270"
+ TAN_rocket_1nterceptor_equ1pment_3_short:0 "1-270"
  
-#-> Jet fighters <><>
- TAN_jet_fighter_equipment_1:0 "Mikoyan-Guerevich MiG-9"
- TAN_jet_fighter_equipment_1_short:0 "MiG-9"
- TAN_jet_fighter_equipment_2:0 "Mikoyan-Guerevich MiG-15"
- TAN_jet_fighter_equipment_2_short:0 "MiG-15"
- #X:MiG-19
+#-> Jet f1ghters <><>
+ TAN_jet_f1ghter_equ1pment_1:0 "미코얀 구레비치 MiG-9"
+ TAN_jet_f1ghter_equ1pment_1_short:0 "MiG-9"
+ TAN_jet_f1ghter_equ1pment_2:0 "미코얀 구레비치 MiG-15"
+ TAN_jet_f1ghter_equ1pment_2_short:0 "MiG-15"
+ #X:M1G-19
 
-#-> Carrier-based jet fighters <><>
- TAN_cv_jet_fighter_equipment_1:0 "Mikoyan-Guerevich MiG-9A"
- TAN_cv_jet_fighter_equipment_1_short:0 "MiG-9A"
- TAN_cv_jet_fighter_equipment_2:0 "Mikoyan-Guerevich MiG-15A"
- TAN_cv_jet_fighter_equipment_2_short:0 "MiG-15A"
+#-> Carr1er-based jet f1ghters <><>
+ TAN_cv_jet_f1ghter_equ1pment_1:0 "미코얀 구레비치 MiG-9A"
+ TAN_cv_jet_f1ghter_equ1pment_1_short:0 "MiG-9A"
+ TAN_cv_jet_f1ghter_equ1pment_2:0 "미코얀 구레비치 MiG-15A"
+ TAN_cv_jet_f1ghter_equ1pment_2_short:0 "MiG-15A"
  
-#-> Jet medium bomber <><>
- TAN_jet_tac_bomber_equipment_1:0 "Ilyushin Il-28"
- TAN_jet_tac_bomber_equipment_1_short:0 "Il-28"
- TAN_jet_tac_bomber_equipment_2:0 "Tupolev Tu-16"
- TAN_jet_tac_bomber_equipment_2_short:0 "Tu-16"
+#-> Jet med1um bomber <><>
+ TAN_jet_tac_bomber_equ1pment_1:0 "일류신 IL-28"
+ TAN_jet_tac_bomber_equ1pment_1_short:0 "IL-28"
+ TAN_jet_tac_bomber_equ1pment_2:0 "투폴레프 Tu-16"
+ TAN_jet_tac_bomber_equ1pment_2_short:0 "Tu-16"
  
 #-> Jet heavy bomber <><>
- TAN_jet_strat_bomber_equipment_1:0 "Myasishchev M-4"
- TAN_jet_strat_bomber_equipment_1_short:0 "M-4"
+ TAN_jet_strat_bomber_equ1pment_1:0 "미야시셰프 M-4"
+ TAN_jet_strat_bomber_equ1pment_1_short:0 "M-4"
 
 
 ###--->  SWE  <><> <><> <><>
 #-> Transport planes <><>
- SWE_transport_plane_equipment_1:0 "Trp2"                          
+ SWE_transport_plane_equ1pment_1:0 "Trp2"                          
 
 
 ###--->  USA  <><> <><> <><>
 #-> Transport planes <><>
- USA_transport_plane_equipment_1:0 "DC-3"
+ USA_transport_plane_equ1pment_1:0 "DC-3"
 
-#-> Dive bombers <><>
- USA_CAS_equipment_1:0 "Northrop A-17"
- USA_CAS_equipment_1_short:0 "A-17"
- USA_CAS_equipment_2:1 "A-20 Havoc"
- USA_CAS_equipment_2_short:1 "A-20"
- USA_CAS_equipment_3:1 "A-26 Invader"
- USA_CAS_equipment_3_short:1 "A-26"
+#-> D1ve bombers <><>
+ USA_CAS_equ1pment_1:0 "노스롭 A-17"
+ USA_CAS_equ1pment_1_short:0 "A-17"
+ USA_CAS_equ1pment_2:1 "A-20 하복"
+ USA_CAS_equ1pment_2_short:1 "A-20"
+ USA_CAS_equ1pment_3:1 "A-26 인베이더"
+ USA_CAS_equ1pment_3_short:1 "A-26"
  
-#-> Carrier-based dive bombers <><>
- USA_cv_CAS_equipment_1:0 "Northrop BT"
- USA_cv_CAS_equipment_1_short:0 "Northrop BT"
- USA_cv_CAS_equipment_2:0 "Douglas SBD-2 Dauntless"
- USA_cv_CAS_equipment_2_short:0 "SBD-2 Dauntless"
- USA_cv_CAS_equipment_3:0 "Curtiss SB2C-1s Helldiver"
- USA_cv_CAS_equipment_3_short:0 "SB2C-1s Helldiver"
+#-> Carr1er-based d1ve bombers <><>
+ USA_cv_CAS_equ1pment_1:0 "노스롭 BT"
+ USA_cv_CAS_equ1pment_1_short:0 "노스롭 BT"
+ USA_cv_CAS_equ1pment_2:0 "더글라스 SBD-2 돈틀리스"
+ USA_cv_CAS_equ1pment_2_short:0 "SBD-2 돈틀리스"
+ USA_cv_CAS_equ1pment_3:0 "커티스 SB2C-1s 헬다이버"
+ USA_cv_CAS_equ1pment_3_short:0 "SB2C-1s 헬다이버"
  
-#-> Light fighters <><> 
- USA_fighter_equipment_0:0 "Curtiss P-1 Hawk"
- USA_fighter_equipment_0_short:0 "P-1 Hawk"
- USA_fighter_equipment_1:0 "Curtiss P-40 Warhawk"
- USA_fighter_equipment_1_short:0 "P-40 Warhawk"
- USA_fighter_equipment_2:0 "Bell P-39 Airacobra"
- USA_fighter_equipment_2_short:0 "P-39 Airacobra"
- USA_fighter_equipment_3:0 "North American P-51 Mustang"
- USA_fighter_equipment_3_short:0 "P-51 Mustang"
+#-> L1ght f1ghters <><> 
+ USA_f1ghter_equ1pment_0:0 "커티스 P-1 호크"
+ USA_f1ghter_equ1pment_0_short:0 "P-1 호크"
+ USA_f1ghter_equ1pment_1:0 "커티스 P-40 워호크"
+ USA_f1ghter_equ1pment_1_short:0 "P-40 워호크"
+ USA_f1ghter_equ1pment_2:0 "벨 P-39 에어코브라"
+ USA_f1ghter_equ1pment_2_short:0 "P-39 에어코브라"
+ USA_f1ghter_equ1pment_3:0 "노스 아메리칸 P-51 머스탱"
+ USA_f1ghter_equ1pment_3_short:0 "P-51 머스탱"
  
-#-> Light fighter-bombers <><>
- USA_fighter_bomber_equipment_2:0 "Bell P-39D-2 Airacobra"
- USA_fighter_bomber_equipment_2_short:0 "P-39D-2 Airacobra"
- USA_fighter_bomber_equipment_3:0 "North American P-51 Apache"
- USA_fighter_bomber_equipment_3_short:0 "P-51 Apache"
+#-> L1ght f1ghter-bombers <><>
+ USA_f1ghter_bomber_equ1pment_2:0 "벨 P-39D-2 에어코브라"
+ USA_f1ghter_bomber_equ1pment_2_short:0 "P-39D-2 에어코브라"
+ USA_f1ghter_bomber_equ1pment_3:0 "노스 아메리칸 P-51 아파치"
+ USA_f1ghter_bomber_equ1pment_3_short:0 "P-51 아파치"
  
-#-> Carrier-based light fighters <><>
- USA_cv_fighter_equipment_0:0 "Grumman FF 'Fifi'"
- USA_cv_fighter_equipment_0_short:0 "FF 'Fifi'"
- USA_cv_fighter_equipment_1:0 "Grumman F3F"
- USA_cv_fighter_equipment_1_short:0 "F3F"
- USA_cv_fighter_equipment_2:0 "Grumman F4F Wildcat"
- USA_cv_fighter_equipment_2_short:0 "F4F Wildcat"
- USA_cv_fighter_equipment_3:0 "Grumman F6F Hellcat"
- USA_cv_fighter_equipment_3_short:0 "F6F Hellcat"
+#-> Carr1er-based l1ght f1ghters <><>
+ USA_cv_f1ghter_equ1pment_0:0 "그루먼 FF '피피'"
+ USA_cv_f1ghter_equ1pment_0_short:0 "FF '피피'"
+ USA_cv_f1ghter_equ1pment_1:0 "그루먼 F3F"
+ USA_cv_f1ghter_equ1pment_1_short:0 "F3F"
+ USA_cv_f1ghter_equ1pment_2:0 "그루먼 F4F 와일드캣"
+ USA_cv_f1ghter_equ1pment_2_short:0 "F4F 와일드캣"
+ USA_cv_f1ghter_equ1pment_3:0 "그루먼 F6F 헬켓"
+ USA_cv_f1ghter_equ1pment_3_short:0 "F6F 헬켓"
  
 #-> Torpedo bombers <><>
- USA_nav_bomber_equipment_1:0 "Douglas TBD Devastator"
- USA_nav_bomber_equipment_1_short:0 "TBD Devastator"
- USA_nav_bomber_equipment_2:0 "Grumman TBF-1C Avenger"
- USA_nav_bomber_equipment_2_short:0 "TBF-1C Avenger"
- USA_nav_bomber_equipment_3:1 "Consolidated TBY Sea Wolf"
- USA_nav_bomber_equipment_3_short:1 "TBY Sea Wolf"
+ USA_nav_bomber_equ1pment_1:0 "더글라스 TBD 데바스테이터"
+ USA_nav_bomber_equ1pment_1_short:0 "TBD 데바스테이터"
+ USA_nav_bomber_equ1pment_2:0 "그루먼 TBF-1C 어벤져"
+ USA_nav_bomber_equ1pment_2_short:0 "TBF-1C 어벤져"
+ USA_nav_bomber_equ1pment_3:1 "컨설리데이터드 TBY 씨울프"
+ USA_nav_bomber_equ1pment_3_short:1 "TBY 씨울프"
  
-#-> Carrier-based torpedo bombers <><>
- USA_flying_boat_equipment_1:1 "PBY Catalina"
- USA_flying_boat_equipment_1_short:1 "Catalina"
- USA_flying_boat_equipment_2:2 "PBM Mariner"
- USA_flying_boat_equipment_2_short:2 "Mariner"
- USA_flying_boat_equipment_3:1 "PB4Y-2 Privateer"
- USA_flying_boat_equipment_3_short:1 "Privateer"
+#-> Carr1er-based torpedo bombers <><>
+ USA_fly1ng_boat_equ1pment_1:1 "PBY 카탈리나"
+ USA_fly1ng_boat_equ1pment_1_short:1 "카탈리나"
+ USA_fly1ng_boat_equ1pment_2:2 "PBM 마리너"
+ USA_fly1ng_boat_equ1pment_2_short:2 "마리너"
+ USA_fly1ng_boat_equ1pment_3:1 "PB4Y-2 프라이버티어"
+ USA_fly1ng_boat_equ1pment_3_short:1 "프라이버티어"
  
-#-> Heavy fighters <><>
- USA_heavy_fighter_equipment_1:0 "Lockheed P-38 Lightning"
- USA_heavy_fighter_equipment_1_short:0 "P-38 Lightning"
- USA_heavy_fighter_equipment_2:0 "Republic P-47 Thunderbolt"
- USA_heavy_fighter_equipment_2_short:0 "P-47 Thunderbolt"
- USA_heavy_fighter_equipment_3:0 "Lockheed XP-58 Chain Lightning"
- USA_heavy_fighter_equipment_3_short:0 "XP-58 Chain Lightning"
+#-> Heavy f1ghters <><>
+ USA_heavy_f1ghter_equ1pment_1:0 "록히드 P-38 라이트닝"
+ USA_heavy_f1ghter_equ1pment_1_short:0 "P-38 라이트닝"
+ USA_heavy_f1ghter_equ1pment_2:0 "리퍼블릭 P-47 썬더볼트"
+ USA_heavy_f1ghter_equ1pment_2_short:0 "P-47 썬더볼트"
+ USA_heavy_f1ghter_equ1pment_3:0 "록히드 XP-58 체인 라이트닝"
+ USA_heavy_f1ghter_equ1pment_3_short:0 "XP-58 체인 라이트닝"
 
-#-> Heavy fighter-bomber <><>
- USA_hfighter_bomber_equipment_1:0 "Lockheed A-38 Lightning"
- USA_hfighter_bomber_equipment_1_short:0 "A-38 Lightning"
- USA_hfighter_bomber_equipment_2:0 "Republic A-47 Thunderbolt"
- USA_hfighter_bomber_equipment_2_short:0 "A-47 Thunderbolt"
+#-> Heavy f1ghter-bomber <><>
+ USA_hf1ghter_bomber_equ1pment_1:0 "록히드 A-38 라이트닝"
+ USA_hf1ghter_bomber_equ1pment_1_short:0 "A-38 라이트닝"
+ USA_hf1ghter_bomber_equ1pment_2:0 "리퍼블릭 A-47 썬더볼트"
+ USA_hf1ghter_bomber_equ1pment_2_short:0 "A-47 썬더볼트"
  
-#-> Medium bomber <><>
- USA_tac_bomber_equipment_0:0 "Douglas B-18 Bolo"
- USA_tac_bomber_equipment_0_short:0 "B-18 Bolo"
- USA_tac_bomber_equipment_1:0 "Douglas B-23 Dragon"
- USA_tac_bomber_equipment_1_short:0 "B-23 Dragon"
- USA_tac_bomber_equipment_2:0 "North American B-25 Mitchell"
- USA_tac_bomber_equipment_2_short:0 "B-25 Mitchell"
- USA_tac_bomber_equipment_3:0 "North American B-28 Dragon"
- USA_tac_bomber_equipment_3_short:0 "B-28 Dragon"
+#-> Med1um bomber <><>
+ USA_tac_bomber_equ1pment_0:0 "더글라스 B-18 볼로"
+ USA_tac_bomber_equ1pment_0_short:0 "B-18 볼로"
+ USA_tac_bomber_equ1pment_1:0 "더글라스 B-23 드래곤"
+ USA_tac_bomber_equ1pment_1_short:0 "B-23 드래곤"
+ USA_tac_bomber_equ1pment_2:0 "노스 아메리칸 B-25 미첼"
+ USA_tac_bomber_equ1pment_2_short:0 "B-25 미첼"
+ USA_tac_bomber_equ1pment_3:0 "노스 아메리칸 B-28 드래곤"
+ USA_tac_bomber_equ1pment_3_short:0 "B-28 드래곤"
  
-#-> Medium maritime bomber <><>
- USA_med_maritime_equipment_1:0 "Douglas PB-23 Dragon"
- USA_med_maritime_equipment_1_short:0 "PB-23 Dragon"
- USA_med_maritime_equipment_2:0 "North American PBJ-1 Mitchell"
- USA_med_maritime_equipment_2_short:0 "PBJ-1 Mitchell"
- USA_med_maritime_equipment_3:0 "North American PBJ-2 Dragon"
- USA_med_maritime_equipment_3_short:0 "PBJ-2 Dragon"
+#-> Med1um mar1t1me bomber <><>
+ USA_med_mar1t1me_equ1pment_1:0 "더글라스 PB-23 드래곤"
+ USA_med_mar1t1me_equ1pment_1_short:0 "PB-23 드래곤"
+ USA_med_mar1t1me_equ1pment_2:0 "노스 아메리칸 PBJ-1 미첼"
+ USA_med_mar1t1me_equ1pment_2_short:0 "PBJ-1 미첼"
+ USA_med_mar1t1me_equ1pment_3:0 "노스 아메리칸 PBJ-2 드래곤"
+ USA_med_mar1t1me_equ1pment_3_short:0 "PBJ-2 드래곤"
  
 #-> Heavy bomber <><>
- USA_strat_bomber_equipment_1:0 "Boeing B-17 Flying Fortress"
- USA_strat_bomber_equipment_1_short:0 "B-17 Flying Fortress"
- USA_strat_bomber_equipment_2:0 "Consolidated B-24 Liberator"
- USA_strat_bomber_equipment_2_short:0 "B-24 Liberator"
- USA_strat_bomber_equipment_3:0 "Boeing B-29 Superfortress"
- USA_strat_bomber_equipment_3_short:0 "B-29 Superfortress"
+ USA_strat_bomber_equ1pment_1:0 "보잉 B-17 플라잉 포트리스"
+ USA_strat_bomber_equ1pment_1_short:0 "B-17 플라잉 포트리스"
+ USA_strat_bomber_equ1pment_2:0 "컨설리데이터드 B-24 리버티레이터"
+ USA_strat_bomber_equ1pment_2_short:0 "B-24 리버티레이터"
+ USA_strat_bomber_equ1pment_3:0 "보잉 B-29 슈퍼 포트리스"
+ USA_strat_bomber_equ1pment_3_short:0 "B-29 슈퍼 포트리스"
  
-#-> Heavy maritime bomber <><>
- USA_strat_maritime_equipment_1:0 "Boeing B-17 Flying Fortress"
- USA_strat_maritime_equipment_1_short:0 "PB-17 Flying Fortress"
- USA_strat_maritime_equipment_2:0 "Consolidated PB4Y Liberator"
- USA_strat_maritime_equipment_2_short:0 "PB4Y Liberator"
- USA_strat_maritime_equipment_3:0 "Boeing PB-29 Superfortress"
- USA_strat_maritime_equipment_3_short:0 "PB-29 Superfortress"
+#-> Heavy mar1t1me bomber <><>
+ USA_strat_mar1t1me_equ1pment_1:0 "보잉 B-17 플라잉 포트리스"
+ USA_strat_mar1t1me_equ1pment_1_short:0 "PB-17 플라잉 포트리스"
+ USA_strat_mar1t1me_equ1pment_2:0 "컨설리데이터드 PB4Y 리버티레이터"
+ USA_strat_mar1t1me_equ1pment_2_short:0 "PB4Y 리버티레이터"
+ USA_strat_mar1t1me_equ1pment_3:0 "보잉 PB-29 슈퍼 포트리스"
+ USA_strat_mar1t1me_equ1pment_3_short:0 "PB-29 슈퍼 포트리스"
  
-#-> Maritime patrol <><>
-#USA_nav_bomber_equipment_1:1 "PBY Catalina"
-#USA_nav_bomber_equipment_1_short:1 "Catalina"
-#USA_nav_bomber_equipment_2:2 "PBM Mariner"
-#USA_nav_bomber_equipment_2_short:2 "Mariner"
-#USA_nav_bomber_equipment_3:1 "PB4Y-2 Privateer"
-#USA_nav_bomber_equipment_3_short:1 "Privateer"
+#-> Mar1t1me patrol <><>
+#USA_nav_bomber_equ1pment_1:1 "PBY 카탈리나"
+#USA_nav_bomber_equ1pment_1_short:1 "카탈리나"
+#USA_nav_bomber_equ1pment_2:2 "PBM 마리너"
+#USA_nav_bomber_equ1pment_2_short:2 "마리너"
+#USA_nav_bomber_equ1pment_3:1 "PB4Y-2 프라이버티어"
+#USA_nav_bomber_equ1pment_3_short:1 "프라이버티어"
 
-#-> Rocket interceptor <><>
- USA_rocket_interceptor_equipment_1:0 "Northrop MX-324"
- USA_rocket_interceptor_equipment_1_short:0 "MX-324" 
- USA_rocket_interceptor_equipment_2:0 "Northrop P-79"
- USA_rocket_interceptor_equipment_2_short:0 "P-79" 
- USA_rocket_interceptor_equipment_3:0 "Republic F-91 Thunderceptor"
- USA_rocket_interceptor_equipment_3_short:0 "F-91 Thunderceptor" 
+#-> Rocket 1nterceptor <><>
+ USA_rocket_1nterceptor_equ1pment_1:0 "노스롭 MX-324"
+ USA_rocket_1nterceptor_equ1pment_1_short:0 "MX-324" 
+ USA_rocket_1nterceptor_equ1pment_2:0 "노스롭 P-79"
+ USA_rocket_1nterceptor_equ1pment_2_short:0 "P-79" 
+ USA_rocket_1nterceptor_equ1pment_3:0 "리퍼블릭 F-91 썬더셉터"
+ USA_rocket_1nterceptor_equ1pment_3_short:0 "F-91 썬더셉터" 
  
-#-> Jet fighters <><>
- USA_jet_fighter_equipment_1:0 "Lockheed P-80 Shooting Star"
- USA_jet_fighter_equipment_1_short:0 "P-80 Shooting Star"
- USA_jet_fighter_equipment_2:0 "North American F-86 Sabre"
- USA_jet_fighter_equipment_2_short:0 "F-86 Sabre"
- USA_jet_fighter_equipment_x:0 "North American F-100 Super Sabre"
- USA_jet_fighter_equipment_x_short:0 "F-100 Super Sabre"
+#-> Jet f1ghters <><>
+ USA_jet_f1ghter_equ1pment_1:0 "록히드 P-80 슈팅스타"
+ USA_jet_f1ghter_equ1pment_1_short:0 "P-80 슈팅스타"
+ USA_jet_f1ghter_equ1pment_2:0 "노스 아메리칸 F-86 세이버"
+ USA_jet_f1ghter_equ1pment_2_short:0 "F-86 세이버"
+ USA_jet_f1ghter_equ1pment_x:0 "노스 아메리칸 F-100 슈퍼 세이버"
+ USA_jet_f1ghter_equ1pment_x_short:0 "F-100 슈퍼 세이버"
  
-#-> Carrier-based jet fighters <><>
- USA_cv_jet_fighter_equipment_1:0 "Lockheed P-80C Shooting Star"
- USA_cv_jet_fighter_equipment_1_short:0 "P-80C Shooting Star"
- USA_cv_jet_fighter_equipment_2:0 "North American F-86C Sabre"
- USA_cv_jet_fighter_equipment_2_short:0 "F-86C Sabre"
- USA_cv_jet_fighter_equipment_x:0 "North American F-100C Super Sabre"
- USA_cv_jet_fighter_equipment_x_short:0 "F-100C Super Sabre"
+#-> Carr1er-based jet f1ghters <><>
+ USA_cv_jet_f1ghter_equ1pment_1:0 "록히드 P-80C 슈팅스타"
+ USA_cv_jet_f1ghter_equ1pment_1_short:0 "P-80C 슈팅스타"
+ USA_cv_jet_f1ghter_equ1pment_2:0 "노스 아메리칸 F-86C 세이버"
+ USA_cv_jet_f1ghter_equ1pment_2_short:0 "F-86C 세이버"
+ USA_cv_jet_f1ghter_equ1pment_x:0 "노스 아메리칸 F-100C 슈퍼 세이버"
+ USA_cv_jet_f1ghter_equ1pment_x_short:0 "F-100C 슈퍼 세이버"
  
-#-> Jet medium bomber <><>
- USA_jet_tac_bomber_equipment_1:0 "Curtiss A-43"
- USA_jet_tac_bomber_equipment_1_short:0 "A-43"
- USA_jet_tac_bomber_equipment_2:0 "Martin B-51"
- USA_jet_tac_bomber_equipment_2_short:0 "B-51"
+#-> Jet med1um bomber <><>
+ USA_jet_tac_bomber_equ1pment_1:0 "커티스 A-43"
+ USA_jet_tac_bomber_equ1pment_1_short:0 "A-43"
+ USA_jet_tac_bomber_equ1pment_2:0 "마틴 B-51"
+ USA_jet_tac_bomber_equ1pment_2_short:0 "B-51"
 
 #-> Jet heavy bomber <><>
- USA_jet_strat_bomber_equipment_1:0 "North American B-45 Tornado"
- USA_jet_strat_bomber_equipment_1_short:0 "B-45 Tornado"
+ USA_jet_strat_bomber_equ1pment_1:0 "노스 아메리칸 B-45 토네이도"
+ USA_jet_strat_bomber_equ1pment_1_short:0 "B-45 토네이도"
 
 
 ###--->  YUG  <><> <><> <><>
